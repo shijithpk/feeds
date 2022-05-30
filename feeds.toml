@@ -1,13 +1,30 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[magazinelib]
+title = "MagazineLib.com"
+url = "https://magazinelib.com"
+entrySelector = "article[class*=type-post]"
+# titleSelector = "div > header > h3 > a::text"
+titleSelector = "div > header > h3 > a"
+# linkSelector = "div > header > h3 > a::attr(href)"
+linkSelector = "div > header > h3 > a"
+# dateSelector = "div > footer > p > time::attr(datetime)"
+dateSelector = "div > footer > p > time"
+# dateFormat = "yyyy-MM-dd[T]HH:mm:ss"
+# onFail = "stale"
+# waitUntil = "networkidle"
+waitUntil = "load"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[getcomics_packs]
+title = "getcomics.info"
+url = "https://torrentgalaxy.mx/profile/TheComicGuy"
+entrySelector = "div[data-href*=torrent]"
+titleSelector = "a:not([id]).txlight[href*=\/torrent\/]"
+linkSelector = "a:not([id]).txlight[href*=\/torrent\/]"
+waitUntil = "load"
+
+[nem43_on_1337]
+title = "Nem43 on 1337"
+url = "https://1337x.to/Nem43-torrents/1/"
+entrySelector = "td[class*=coll-1]"
+titleSelector = "a[href*=torrent]"
+linkSelector = "a[href*=torrent]"
+waitUntil = "load"
