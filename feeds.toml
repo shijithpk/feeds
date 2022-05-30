@@ -17,8 +17,8 @@ waitUntil = "load"
 title = "getcomics.info"
 url = "https://torrentgalaxy.mx/profile/TheComicGuy"
 entrySelector = "div[data-href*=torrent]"
-titleSelector = "a:not([id]).txlight[href*=\/torrent\/]"
-linkSelector = "a:not([id]).txlight[href*=\/torrent\/]"
+titleSelector = "a:not([id]).txlight[href*=torrent]"
+linkSelector = "a:not([id]).txlight[href*=torrent]"
 waitUntil = "load"
 
 [nem43_on_1337]
