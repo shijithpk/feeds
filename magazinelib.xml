@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-06-14T07:30:16.782Z</updated>
+    <updated>2022-06-14T07:53:43.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Linux Magazine USA – July 2022]]></title>
+        <id>https://magazinelib.com/all/linux-magazine-usa-july-2022/</id>
+        <link href="https://magazinelib.com/all/linux-magazine-usa-july-2022/"/>
+        <updated>2022-06-14T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/linux-magazine-usa-july-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/xbe1Rabb-Uve0JBN1IqqJqnH4xtAsIT-al3szyJ2mqPgCNc55U6H0kppoH-lY4sAWJIkvQ04HwiUhZitKX3JcxAB.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/06/xbe1Rabb-Uve0JBN1IqqJqnH4xtAsIT-al3szyJ2mqPgCNc55U6H0kppoH-lY4sAWJIkvQ04HwiUhZitKX3JcxAB.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/computers/" class="entry-category entry-category-item-7509">Computers</a>, <a href="https://magazinelib.com/category/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/linux-magazine-usa-july-2022/" rel="bookmark">Linux Magazine USA – July 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-06-14T10:20:00">14.06.2022, 10:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cots Journal – May 2022]]></title>
         <id>https://magazinelib.com/all/cots-journal-may-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/info-eduard-june-2022/</id>
         <link href="https://magazinelib.com/all/info-eduard-june-2022/"/>
         <updated>2022-06-14T09:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/info-eduard-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.36986301%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/d3vZ3NeBB_K1MXrChnKaRvVG5CCVEk5Q5U-D2s6JW2V13-YbVrcaPs8fxTMfss7gGGd-qmBM4Plb7UpL1A-YBtH6.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="365" height="516"><noscript><img width="365" height="516" src="https://magazinelib.com/wp-content/uploads/2022/06/d3vZ3NeBB_K1MXrChnKaRvVG5CCVEk5Q5U-D2s6JW2V13-YbVrcaPs8fxTMfss7gGGd-qmBM4Plb7UpL1A-YBtH6.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/info-eduard-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.36986301%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20365%20516'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/d3vZ3NeBB_K1MXrChnKaRvVG5CCVEk5Q5U-D2s6JW2V13-YbVrcaPs8fxTMfss7gGGd-qmBM4Plb7UpL1A-YBtH6.jpg" width="365" height="516"><noscript><img width="365" height="516" src="https://magazinelib.com/wp-content/uploads/2022/06/d3vZ3NeBB_K1MXrChnKaRvVG5CCVEk5Q5U-D2s6JW2V13-YbVrcaPs8fxTMfss7gGGd-qmBM4Plb7UpL1A-YBtH6.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-06-14T01:40:00">14.06.2022, 01:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garden Rail – Issue 331 – March 2022]]></title>
-        <id>https://magazinelib.com/all/garden-rail-issue-331-march-2022/</id>
-        <link href="https://magazinelib.com/all/garden-rail-issue-331-march-2022/"/>
-        <updated>2022-06-14T01:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/garden-rail-issue-331-march-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20424%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/Bx5OYlMslnuxX06iO3skztNK8LT0EbNixu0rDzqKKlhl37VhuPvye3FvWBQ_KbCguXJGGZBYgcfg9Rfh2msl7tkV.jpg" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/06/Bx5OYlMslnuxX06iO3skztNK8LT0EbNixu0rDzqKKlhl37VhuPvye3FvWBQ_KbCguXJGGZBYgcfg9Rfh2msl7tkV.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/house-garden/" class="entry-category entry-category-item-8337">House &amp; Garden</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/garden-rail-issue-331-march-2022/" rel="bookmark">Garden Rail – Issue 331 – March 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-06-14T01:20:00">14.06.2022, 01:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
