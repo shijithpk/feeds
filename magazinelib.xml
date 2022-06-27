@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-06-27T08:40:17.937Z</updated>
+    <updated>2022-06-27T08:55:44.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hackercool – May 2022]]></title>
+        <id>https://magazinelib.com/all/__trashed-1223/</id>
+        <link href="https://magazinelib.com/all/__trashed-1223/"/>
+        <updated>2022-06-27T11:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1223/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/NPdJ0F9p96kTBPaS8h51z5Xu-sd0THt1Hyi6ypAQhrIYrMHWVVkTbM6D1dO-tG6QOqaeY3K8O61SEWfB2ysbXMb2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2022/06/NPdJ0F9p96kTBPaS8h51z5Xu-sd0THt1Hyi6ypAQhrIYrMHWVVkTbM6D1dO-tG6QOqaeY3K8O61SEWfB2ysbXMb2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/computers/" class="entry-category entry-category-item-7509">Computers</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1223/" rel="bookmark">Hackercool – May 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-06-27T11:20:00">27.06.2022, 11:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animals and You – 22 June 2022]]></title>
         <id>https://magazinelib.com/all/animals-and-you-22-june-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/__trashed-1218__trashed/</id>
         <link href="https://magazinelib.com/all/__trashed-1218__trashed/"/>
         <updated>2022-06-27T10:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1218__trashed/"><span class="g1-frame-inner" style="padding-bottom: 134.83146067%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/s7PrOwE7VvPk74vycGFC_WImIjYsy8rdkd1buTPQB-qRo1KQ6DCkmbEnUJRoNJK4Qn85TBFU7yEopi_t3614YaHB.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="445" height="600"><noscript><img width="445" height="600" src="https://magazinelib.com/wp-content/uploads/2022/06/s7PrOwE7VvPk74vycGFC_WImIjYsy8rdkd1buTPQB-qRo1KQ6DCkmbEnUJRoNJK4Qn85TBFU7yEopi_t3614YaHB.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1218__trashed/"><span class="g1-frame-inner" style="padding-bottom: 134.83146067%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20445%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/s7PrOwE7VvPk74vycGFC_WImIjYsy8rdkd1buTPQB-qRo1KQ6DCkmbEnUJRoNJK4Qn85TBFU7yEopi_t3614YaHB.jpg" width="445" height="600"><noscript><img width="445" height="600" src="https://magazinelib.com/wp-content/uploads/2022/06/s7PrOwE7VvPk74vycGFC_WImIjYsy8rdkd1buTPQB-qRo1KQ6DCkmbEnUJRoNJK4Qn85TBFU7yEopi_t3614YaHB.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-06-27T02:40:00">27.06.2022, 02:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record Collector – July 2022]]></title>
-        <id>https://magazinelib.com/all/__trashed-1214__trashed/</id>
-        <link href="https://magazinelib.com/all/__trashed-1214__trashed/"/>
-        <updated>2022-06-27T02:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1214__trashed/"><span class="g1-frame-inner" style="padding-bottom: 144.50980392%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20737'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/DjM6Fi66r37SAlhNJlezxyMtWjQxgEsD62G3KJIPPq3gktof9Etk1_nC1ORouLgm6uwRzvYA9Mdn0d9o2EvbPrgc.jpg" width="510" height="737"><noscript><img width="510" height="737" src="https://magazinelib.com/wp-content/uploads/2022/06/DjM6Fi66r37SAlhNJlezxyMtWjQxgEsD62G3KJIPPq3gktof9Etk1_nC1ORouLgm6uwRzvYA9Mdn0d9o2EvbPrgc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/art/music/" class="entry-category entry-category-item-7877">Music</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1214__trashed/" rel="bookmark">Record Collector – July 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-06-27T02:20:00">27.06.2022, 02:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
