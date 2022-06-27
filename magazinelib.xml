@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-06-27T09:32:43.267Z</updated>
+    <updated>2022-06-27T09:53:03.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Maxim USA – July 2022]]></title>
+        <id>https://magazinelib.com/all/__trashed-1231/</id>
+        <link href="https://magazinelib.com/all/__trashed-1231/"/>
+        <updated>2022-06-27T12:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1231/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/4tAp1nmhmBtyjDKTmwjTB5LB1S3wpPh-HaTqEkx6DsSzPrOd_QrGWnVKmzRHB3Eo3xqfMAGFrs1KVANnF54qoCuR.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2022/06/4tAp1nmhmBtyjDKTmwjTB5LB1S3wpPh-HaTqEkx6DsSzPrOd_QrGWnVKmzRHB3Eo3xqfMAGFrs1KVANnF54qoCuR.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/fashion/" class="entry-category entry-category-item-7890">Fashion</a>, <a href="https://magazinelib.com/category/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1231/" rel="bookmark">Maxim USA – July 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-06-27T12:20:00">27.06.2022, 12:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Computeractive – 22 June 2022]]></title>
         <id>https://magazinelib.com/all/computeractive-22-june-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/bunkered-june-2022/</id>
         <link href="https://magazinelib.com/all/bunkered-june-2022/"/>
         <updated>2022-06-27T11:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bunkered-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/sEep3LZ-xFzz7lOqdIEr93VB7hhPFSMO92kLEDFpPYahYHDyivxyQFqgkrp45Fr-O72F72DLJ5Qv980Mat1eURy9.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/06/sEep3LZ-xFzz7lOqdIEr93VB7hhPFSMO92kLEDFpPYahYHDyivxyQFqgkrp45Fr-O72F72DLJ5Qv980Mat1eURy9.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bunkered-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/sEep3LZ-xFzz7lOqdIEr93VB7hhPFSMO92kLEDFpPYahYHDyivxyQFqgkrp45Fr-O72F72DLJ5Qv980Mat1eURy9.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/06/sEep3LZ-xFzz7lOqdIEr93VB7hhPFSMO92kLEDFpPYahYHDyivxyQFqgkrp45Fr-O72F72DLJ5Qv980Mat1eURy9.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-06-27T03:40:00">27.06.2022, 03:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PuzzleLife Puzzle Annual Special – 16 June 2022]]></title>
-        <id>https://magazinelib.com/all/__trashed-1201__trashed/</id>
-        <link href="https://magazinelib.com/all/__trashed-1201__trashed/"/>
-        <updated>2022-06-27T03:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1201__trashed/"><span class="g1-frame-inner" style="padding-bottom: 146.86274510%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20749'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/bqRbAeGuji1n9DTnNJAR8ivALFWoy6rK8r4Psr-O-QNqT4zl3mLc4Y7VRebKtjMC9EUukZEZxM24Tgt1clESKmHg.jpg" width="510" height="749"><noscript><img width="510" height="749" src="https://magazinelib.com/wp-content/uploads/2022/06/bqRbAeGuji1n9DTnNJAR8ivALFWoy6rK8r4Psr-O-QNqT4zl3mLc4Y7VRebKtjMC9EUukZEZxM24Tgt1clESKmHg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1201__trashed/" rel="bookmark">PuzzleLife Puzzle Annual Special – 16 June 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-06-27T03:20:00">27.06.2022, 03:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
