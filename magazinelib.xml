@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-07-02T20:32:04.600Z</updated>
+    <updated>2022-07-02T20:53:19.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cobblestone – May 2022]]></title>
+        <id>https://magazinelib.com/all/cobblestone-may-2022/</id>
+        <link href="https://magazinelib.com/all/cobblestone-may-2022/"/>
+        <updated>2022-07-02T23:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/cobblestone-may-2022/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/pV1bvA064htf0duV_NbJ-dr-ibDqWJRNUitgkm-YSO8zDLdoD_dcM4-XBZHrArU1C7rzxS0YRntzPxIQv7Nn3Y9G.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2022/06/pV1bvA064htf0duV_NbJ-dr-ibDqWJRNUitgkm-YSO8zDLdoD_dcM4-XBZHrArU1C7rzxS0YRntzPxIQv7Nn3Y9G.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/art/photo/" class="entry-category entry-category-item-7880">Photo</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/cobblestone-may-2022/" rel="bookmark">Cobblestone – May 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-07-02T23:20:00">02.07.2022, 23:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outdoor Asia – June 2022]]></title>
         <id>https://magazinelib.com/all/__trashed-1239__trashed/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/beckett-football-august-2022/</id>
         <link href="https://magazinelib.com/all/beckett-football-august-2022/"/>
         <updated>2022-07-02T22:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/beckett-football-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 135.74660633%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/ZDPFsB6sDH24JjwlNFWj5cQBzhLEXPv6HaDP4UG5wbfXjKk1vzkAbXK1IMY3JHOLdHDAGQ1KvPNJ-eKMLT4oi32J.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="442" height="600"><noscript><img width="442" height="600" src="https://magazinelib.com/wp-content/uploads/2022/06/ZDPFsB6sDH24JjwlNFWj5cQBzhLEXPv6HaDP4UG5wbfXjKk1vzkAbXK1IMY3JHOLdHDAGQ1KvPNJ-eKMLT4oi32J.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/beckett-football-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 135.74660633%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20442%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/ZDPFsB6sDH24JjwlNFWj5cQBzhLEXPv6HaDP4UG5wbfXjKk1vzkAbXK1IMY3JHOLdHDAGQ1KvPNJ-eKMLT4oi32J.jpg" width="442" height="600"><noscript><img width="442" height="600" src="https://magazinelib.com/wp-content/uploads/2022/06/ZDPFsB6sDH24JjwlNFWj5cQBzhLEXPv6HaDP4UG5wbfXjKk1vzkAbXK1IMY3JHOLdHDAGQ1KvPNJ-eKMLT4oi32J.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-07-02T14:40:00">02.07.2022, 14:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billboard – June 25, 2022]]></title>
-        <id>https://magazinelib.com/all/billboard-june-25-2022/</id>
-        <link href="https://magazinelib.com/all/billboard-june-25-2022/"/>
-        <updated>2022-07-02T14:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/billboard-june-25-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.00000000%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20663'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/jsELmOLUbM2IgNjhvp53jUqP59y1DFQA1faoJLl1l5fkq7ZyXYhiWEh8i1w-m0M_Uun1uMB4WjdOrYGan948_ix7.jpg" width="510" height="663"><noscript><img width="510" height="663" src="https://magazinelib.com/wp-content/uploads/2022/06/jsELmOLUbM2IgNjhvp53jUqP59y1DFQA1faoJLl1l5fkq7ZyXYhiWEh8i1w-m0M_Uun1uMB4WjdOrYGan948_ix7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/fashion/" class="entry-category entry-category-item-7890">Fashion</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/billboard-june-25-2022/" rel="bookmark">Billboard – June 25, 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-07-02T14:20:00">02.07.2022, 14:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
