@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-07-08T14:32:59.691Z</updated>
+    <updated>2022-07-08T14:53:24.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Rolling Stone India – June 2022]]></title>
+        <id>https://magazinelib.com/all/__trashed-978__trashed-6/</id>
+        <link href="https://magazinelib.com/all/__trashed-978__trashed-6/"/>
+        <updated>2022-07-08T17:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-978__trashed-6/"><span class="g1-frame-inner" style="padding-bottom: 121.17647059%;"><img src="https://magazinelib.com/wp-content/uploads/2022/07/hMKnIK-oJ9u6jaQdPmQemYDD-hlslXH_7LmnvbZHElSyfdQVA49k1SVRnz17W5NEj-VZvlXBBJis_qZBM7KpTX61.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="618"><noscript><img width="510" height="618" src="https://magazinelib.com/wp-content/uploads/2022/07/hMKnIK-oJ9u6jaQdPmQemYDD-hlslXH_7LmnvbZHElSyfdQVA49k1SVRnz17W5NEj-VZvlXBBJis_qZBM7KpTX61.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/india/" class="entry-category entry-category-item-8005">India</a>, <a href="https://magazinelib.com/category/art/music/" class="entry-category entry-category-item-7877">Music</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-978__trashed-6/" rel="bookmark">Rolling Stone India – June 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-07-08T17:40:00">08.07.2022, 17:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just Parts – 4 July 2022]]></title>
         <id>https://magazinelib.com/all/just-parts-4-july-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/__trashed-1251__trashed/</id>
         <link href="https://magazinelib.com/all/__trashed-1251__trashed/"/>
         <updated>2022-07-08T17:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1251__trashed/"><span class="g1-frame-inner" style="padding-bottom: 130.19607843%;"><img src="https://magazinelib.com/wp-content/uploads/2022/06/GyzU96BJgESl0iArZA_JOcxGqvWVtEBxcEFNP3u-b5fg7tfy3EqqORRkHCTuzH9BerDrxAnjW3311BCt12bG3xh.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="664"><noscript><img width="510" height="664" src="https://magazinelib.com/wp-content/uploads/2022/06/GyzU96BJgESl0iArZA_JOcxGqvWVtEBxcEFNP3u-b5fg7tfy3EqqORRkHCTuzH9BerDrxAnjW3311BCt12bG3xh.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1251__trashed/"><span class="g1-frame-inner" style="padding-bottom: 130.19607843%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20664'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/06/GyzU96BJgESl0iArZA_JOcxGqvWVtEBxcEFNP3u-b5fg7tfy3EqqORRkHCTuzH9BerDrxAnjW3311BCt12bG3xh.jpg" width="510" height="664"><noscript><img width="510" height="664" src="https://magazinelib.com/wp-content/uploads/2022/06/GyzU96BJgESl0iArZA_JOcxGqvWVtEBxcEFNP3u-b5fg7tfy3EqqORRkHCTuzH9BerDrxAnjW3311BCt12bG3xh.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-07-08T09:00:00">08.07.2022, 09:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servo Magazine – Issue 2 2022]]></title>
-        <id>https://magazinelib.com/all/servo-magazine-issue-2-2022/</id>
-        <link href="https://magazinelib.com/all/servo-magazine-issue-2-2022/"/>
-        <updated>2022-07-08T08:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/servo-magazine-issue-2-2022/"><span class="g1-frame-inner" style="padding-bottom: 132.15859031%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20454%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/07/0jRZTnXI38sAjs95Krf3VnmGPdhC7L3McjiDgDhUB5y5cZ_4SNuVK-CDQfw5KvKcDSzVDpYBZubJj5Q3RZ6mCzyl.jpg" width="454" height="600"><noscript><img width="454" height="600" src="https://magazinelib.com/wp-content/uploads/2022/07/0jRZTnXI38sAjs95Krf3VnmGPdhC7L3McjiDgDhUB5y5cZ_4SNuVK-CDQfw5KvKcDSzVDpYBZubJj5Q3RZ6mCzyl.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/technology/" class="entry-category entry-category-item-8413">Technology</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/servo-magazine-issue-2-2022/" rel="bookmark">Servo Magazine – Issue 2 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-07-08T08:40:00">08.07.2022, 08:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
