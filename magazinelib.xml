@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-07-09T04:58:11.266Z</updated>
+    <updated>2022-07-09T05:28:59.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Slam Skateboarding – June 2022]]></title>
+        <id>https://magazinelib.com/all/slam-skateboarding-june-2022/</id>
+        <link href="https://magazinelib.com/all/slam-skateboarding-june-2022/"/>
+        <updated>2022-07-09T08:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/slam-skateboarding-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="https://magazinelib.com/wp-content/uploads/2022/07/3ruxLhO1lhPwrDDNQyPGDe_4NZ_on4N2JsFVV08q2I8HkDVq6Jm60cXImmCFy8D_GpToMix61PmE3XZvMaxZQ6SS.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2022/07/3ruxLhO1lhPwrDDNQyPGDe_4NZ_on4N2JsFVV08q2I8HkDVq6Jm60cXImmCFy8D_GpToMix61PmE3XZvMaxZQ6SS.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/sport/" class="entry-category entry-category-item-7874">Sport</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/slam-skateboarding-june-2022/" rel="bookmark">Slam Skateboarding – June 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-07-09T08:00:00">09.07.2022, 08:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paint & Create – 01 July 2022]]></title>
         <id>https://magazinelib.com/all/paint-create-01-july-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/railways-illustrated-august-2022/</id>
         <link href="https://magazinelib.com/all/railways-illustrated-august-2022/"/>
         <updated>2022-07-09T07:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/railways-illustrated-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="https://magazinelib.com/wp-content/uploads/2022/07/widHr0q-qZOZCmqw7vnZV4IfJyXrMGiuzN25gHB6_eWnDjbmPwWAxroMyPS3HHKxzqBd1YnJVpmCN_bBetLpbv60.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/07/widHr0q-qZOZCmqw7vnZV4IfJyXrMGiuzN25gHB6_eWnDjbmPwWAxroMyPS3HHKxzqBd1YnJVpmCN_bBetLpbv60.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/railways-illustrated-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20424%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/07/widHr0q-qZOZCmqw7vnZV4IfJyXrMGiuzN25gHB6_eWnDjbmPwWAxroMyPS3HHKxzqBd1YnJVpmCN_bBetLpbv60.jpg" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/07/widHr0q-qZOZCmqw7vnZV4IfJyXrMGiuzN25gHB6_eWnDjbmPwWAxroMyPS3HHKxzqBd1YnJVpmCN_bBetLpbv60.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-07-08T23:20:00">08.07.2022, 23:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Southeast Asia Building – July-August 2022]]></title>
-        <id>https://magazinelib.com/all/southeast-asia-building-july-august-2022/</id>
-        <link href="https://magazinelib.com/all/southeast-asia-building-july-august-2022/"/>
-        <updated>2022-07-08T23:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/southeast-asia-building-july-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 131.96078431%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20673'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/07/P4Sb0LO_sPn-cHIoL5PFMGOmTL1xgXItoij21VLSub_Wz3T4eA0b_EsMn1cPQwNVnRLiw0XndnUNP9g9-RLcpBzL.jpg" width="510" height="673"><noscript><img width="510" height="673" src="https://magazinelib.com/wp-content/uploads/2022/07/P4Sb0LO_sPn-cHIoL5PFMGOmTL1xgXItoij21VLSub_Wz3T4eA0b_EsMn1cPQwNVnRLiw0XndnUNP9g9-RLcpBzL.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/asia/" class="entry-category entry-category-item-8404">Asia</a>, <a href="https://magazinelib.com/category/building/" class="entry-category entry-category-item-8340">Building</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/southeast-asia-building-july-august-2022/" rel="bookmark">Southeast Asia Building – July-August 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-07-08T23:00:00">08.07.2022, 23:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
