@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-08-06T23:32:15.694Z</updated>
+    <updated>2022-08-06T23:53:54.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cuddles – 03 August 2022]]></title>
+        <id>https://magazinelib.com/all/cuddles-03-august-2022/</id>
+        <link href="https://magazinelib.com/all/cuddles-03-august-2022/"/>
+        <updated>2022-08-07T02:30:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/cuddles-03-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="https://magazinelib.com/wp-content/uploads/2022/08/957kZHkrnXBs2tIJDXLos38UwQwaSDRbMy82ghNmJdoSeZd9hKLihrsc3vmbv8dZF88wRRpxe5WEl0r_ocmCE2n2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="724"><noscript><img width="510" height="724" src="https://magazinelib.com/wp-content/uploads/2022/08/957kZHkrnXBs2tIJDXLos38UwQwaSDRbMy82ghNmJdoSeZd9hKLihrsc3vmbv8dZF88wRRpxe5WEl0r_ocmCE2n2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/kids/" class="entry-category entry-category-item-8182">Kids</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/cuddles-03-august-2022/" rel="bookmark">Cuddles – 03 August 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-08-07T02:30:00">07.08.2022, 02:30</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bunkered – August 2022]]></title>
         <id>https://magazinelib.com/all/bunkered-august-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/caravan-world-august-2022/</id>
         <link href="https://magazinelib.com/all/caravan-world-august-2022/"/>
         <updated>2022-08-07T02:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/caravan-world-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 131.96078431%;"><img src="https://magazinelib.com/wp-content/uploads/2022/08/7bphJKnBmFHKJUiRN6l4U6bx5YelljNbfPFhL2_CjtuQFwsawhoX6aoXy5k1WtMCfm-a4Y_vKhRqG_lyU-GIrslW.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="673"><noscript><img width="510" height="673" src="https://magazinelib.com/wp-content/uploads/2022/08/7bphJKnBmFHKJUiRN6l4U6bx5YelljNbfPFhL2_CjtuQFwsawhoX6aoXy5k1WtMCfm-a4Y_vKhRqG_lyU-GIrslW.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/caravan-world-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 131.96078431%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20673'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/08/7bphJKnBmFHKJUiRN6l4U6bx5YelljNbfPFhL2_CjtuQFwsawhoX6aoXy5k1WtMCfm-a4Y_vKhRqG_lyU-GIrslW.jpg" width="510" height="673"><noscript><img width="510" height="673" src="https://magazinelib.com/wp-content/uploads/2022/08/7bphJKnBmFHKJUiRN6l4U6bx5YelljNbfPFhL2_CjtuQFwsawhoX6aoXy5k1WtMCfm-a4Y_vKhRqG_lyU-GIrslW.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-08-06T20:00:00">06.08.2022, 20:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kitchens Bedrooms & Bathrooms – 02 August 2022]]></title>
-        <id>https://magazinelib.com/all/kitchens-bedrooms-bathrooms-02-august-2022/</id>
-        <link href="https://magazinelib.com/all/kitchens-bedrooms-bathrooms-02-august-2022/"/>
-        <updated>2022-08-06T19:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/kitchens-bedrooms-bathrooms-02-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 129.01960784%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20658'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/08/mI7zcHGm1TTdqKk90P6KYDaC4gICF5nYbJA_k8zNvoCkqzwHlDOkFAXrCp3lw9Bm2XKv8pRXt5CyWzNb4C4tIJhC.jpg" width="510" height="658"><noscript><img width="510" height="658" src="https://magazinelib.com/wp-content/uploads/2022/08/mI7zcHGm1TTdqKk90P6KYDaC4gICF5nYbJA_k8zNvoCkqzwHlDOkFAXrCp3lw9Bm2XKv8pRXt5CyWzNb4C4tIJhC.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/category/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/category/art/design/" class="entry-category entry-category-item-8104">Design</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/kitchens-bedrooms-bathrooms-02-august-2022/" rel="bookmark">Kitchens Bedrooms &amp; Bathrooms – 02 August 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-08-06T19:45:00">06.08.2022, 19:45</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
