@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-08-14T13:41:03.462Z</updated>
+    <updated>2022-08-14T13:53:51.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Kiwi Trail Runner – August-September 2022]]></title>
+        <id>https://magazinelib.com/all/kiwi-trail-runner-august-september-2022/</id>
+        <link href="https://magazinelib.com/all/kiwi-trail-runner-august-september-2022/"/>
+        <updated>2022-08-14T16:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/kiwi-trail-runner-august-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.98039216%;"><img src="https://magazinelib.com/wp-content/uploads/2022/08/ZVNoFSS5B5zi0riZImcowl5j52C63sqiLa2zK6m7WeMN-fD-ReN4xKv_Ts24h9D-7_73JsolzgUEpbYmceGs7ENo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="668"><noscript><img width="510" height="668" src="https://magazinelib.com/wp-content/uploads/2022/08/ZVNoFSS5B5zi0riZImcowl5j52C63sqiLa2zK6m7WeMN-fD-ReN4xKv_Ts24h9D-7_73JsolzgUEpbYmceGs7ENo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/sport/" class="entry-category entry-category-item-7874">Sport</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/kiwi-trail-runner-august-september-2022/" rel="bookmark">Kiwi Trail Runner – August-September 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-08-14T16:20:00">14.08.2022, 16:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Searcher – September 2022]]></title>
         <id>https://magazinelib.com/all/__trashed-1293__trashed/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/craft-beer-brewing-august-2022/</id>
         <link href="https://magazinelib.com/all/craft-beer-brewing-august-2022/"/>
         <updated>2022-08-14T15:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/craft-beer-brewing-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 128.82352941%;"><img src="https://magazinelib.com/wp-content/uploads/2022/08/wkITOMqQuYrvRKu5hISHMtELubH0RCMO1ipBFX1BjBqT2YzGxci8zRPNdNBv5-8_dtvN2ahDFShedTsL9rtwamhE.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="657"><noscript><img width="510" height="657" src="https://magazinelib.com/wp-content/uploads/2022/08/wkITOMqQuYrvRKu5hISHMtELubH0RCMO1ipBFX1BjBqT2YzGxci8zRPNdNBv5-8_dtvN2ahDFShedTsL9rtwamhE.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/craft-beer-brewing-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 128.82352941%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20657'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/08/wkITOMqQuYrvRKu5hISHMtELubH0RCMO1ipBFX1BjBqT2YzGxci8zRPNdNBv5-8_dtvN2ahDFShedTsL9rtwamhE.jpg" width="510" height="657"><noscript><img width="510" height="657" src="https://magazinelib.com/wp-content/uploads/2022/08/wkITOMqQuYrvRKu5hISHMtELubH0RCMO1ipBFX1BjBqT2YzGxci8zRPNdNBv5-8_dtvN2ahDFShedTsL9rtwamhE.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-08-14T07:40:00">14.08.2022, 07:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elle USA – July 2022]]></title>
-        <id>https://magazinelib.com/all/elle-usa-july-2022/</id>
-        <link href="https://magazinelib.com/all/elle-usa-july-2022/"/>
-        <updated>2022-08-14T07:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/elle-usa-july-2022/"><span class="g1-frame-inner" style="padding-bottom: 135.88235294%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20693'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/08/vJEdE7YZkUY4dA_YkMwFKFKDkE82zPUQa-oI8AvNG7blg-GTx47OZejxDO8xtuOvJXoJD7PzTiFXrPP5OzKfq4J-.jpg" width="510" height="693"><noscript><img width="510" height="693" src="https://magazinelib.com/wp-content/uploads/2022/08/vJEdE7YZkUY4dA_YkMwFKFKDkE82zPUQa-oI8AvNG7blg-GTx47OZejxDO8xtuOvJXoJD7PzTiFXrPP5OzKfq4J-.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/celebrity/" class="entry-category entry-category-item-8335">Celebrity</a>, <a href="https://magazinelib.com/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/elle-usa-july-2022/" rel="bookmark">Elle USA – July 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-08-14T07:20:00">14.08.2022, 07:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
