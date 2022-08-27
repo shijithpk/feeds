@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-08-27T22:32:52.981Z</updated>
+    <updated>2022-08-27T22:53:23.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Caravan Magazine – September 2022]]></title>
+        <id>https://magazinelib.com/all/caravan-magazine-september-2022/</id>
+        <link href="https://magazinelib.com/all/caravan-magazine-september-2022/"/>
+        <updated>2022-08-28T01:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/caravan-magazine-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="https://magazinelib.com/wp-content/uploads/2022/08/l4p-IKnWV8zt9k2RbOkWIqgCp4GHG-Lx2wbRMsFcwpDXVV32w1b_syHXDNiDXtU72kBHKoT1twBENzazEBft-f17.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/08/l4p-IKnWV8zt9k2RbOkWIqgCp4GHG-Lx2wbRMsFcwpDXVV32w1b_syHXDNiDXtU72kBHKoT1twBENzazEBft-f17.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/travel/" class="entry-category entry-category-item-7974">Travel</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/caravan-magazine-september-2022/" rel="bookmark">Caravan Magazine – September 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-08-28T01:20:00">28.08.2022, 01:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Homes & Antiques – October 2022]]></title>
         <id>https://magazinelib.com/all/homes-antiques-october-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/flypast-october-2022/</id>
         <link href="https://magazinelib.com/all/flypast-october-2022/"/>
         <updated>2022-08-28T00:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/flypast-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="https://magazinelib.com/wp-content/uploads/2022/08/ojNPgRhUK9xHqIleMrJsCNYhTkhRLfy5UMHw2enSARTj-CZIEw1WcwM-17ROWo-0X7Fwfug5Qaz_C-2iya0PR2g7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/08/ojNPgRhUK9xHqIleMrJsCNYhTkhRLfy5UMHw2enSARTj-CZIEw1WcwM-17ROWo-0X7Fwfug5Qaz_C-2iya0PR2g7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/flypast-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20424%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/08/ojNPgRhUK9xHqIleMrJsCNYhTkhRLfy5UMHw2enSARTj-CZIEw1WcwM-17ROWo-0X7Fwfug5Qaz_C-2iya0PR2g7.jpg" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/08/ojNPgRhUK9xHqIleMrJsCNYhTkhRLfy5UMHw2enSARTj-CZIEw1WcwM-17ROWo-0X7Fwfug5Qaz_C-2iya0PR2g7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-08-27T16:40:00">27.08.2022, 16:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fusion Magazine – 25 August 2022]]></title>
-        <id>https://magazinelib.com/all/fusion-magazine-25-august-2022/</id>
-        <link href="https://magazinelib.com/all/fusion-magazine-25-august-2022/"/>
-        <updated>2022-08-27T16:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/fusion-magazine-25-august-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20724'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/08/e5p8uDNtQxccmXqTLK-Z1ros25sKgTSj7pZLBLjG5jb_t6ts8W-fAf1HVqk2uQVa7KkIYCitv-k3_v3OkR0ptNji.jpg" width="510" height="724"><noscript><img width="510" height="724" src="https://magazinelib.com/wp-content/uploads/2022/08/e5p8uDNtQxccmXqTLK-Z1ros25sKgTSj7pZLBLjG5jb_t6ts8W-fAf1HVqk2uQVa7KkIYCitv-k3_v3OkR0ptNji.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/games/" class="entry-category entry-category-item-8390">Games</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/fusion-magazine-25-august-2022/" rel="bookmark">Fusion Magazine – 25 August 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-08-27T16:20:00">27.08.2022, 16:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
