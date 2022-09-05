@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-09-05T18:42:39.383Z</updated>
+    <updated>2022-09-05T18:59:03.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BIKE Magazine – September 2022]]></title>
+        <id>https://magazinelib.com/all/bike-magazine-september-2022/</id>
+        <link href="https://magazinelib.com/all/bike-magazine-september-2022/"/>
+        <updated>2022-09-05T21:30:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bike-magazine-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2022/09/7WBGNCJBDMO8vHxAVm4ixF19q7_IrZorNPYk9PFCPQgAP-qbccMmaoyIu1CkLoHXsyI_OOYB05V3oFy3_23E4vAv.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/09/7WBGNCJBDMO8vHxAVm4ixF19q7_IrZorNPYk9PFCPQgAP-qbccMmaoyIu1CkLoHXsyI_OOYB05V3oFy3_23E4vAv.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/bicycle/" class="entry-category entry-category-item-8427">Bicycle</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bike-magazine-september-2022/" rel="bookmark">BIKE Magazine – September 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-09-05T21:30:00">05.09.2022, 21:30</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ladybug – September 2022]]></title>
         <id>https://magazinelib.com/all/ladybug-september-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/red-uk-october-2022/</id>
         <link href="https://magazinelib.com/all/red-uk-october-2022/"/>
         <updated>2022-09-05T21:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/red-uk-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 132.54901961%;"><img src="https://magazinelib.com/wp-content/uploads/2022/09/FcEpogkWly6ANNaWAREO0uWItKAyqK-YSgak9TpFBOhorBfp9AFIEotxmHYC6oVprTxb1plG13S8mTj56_xXFJG7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="676"><noscript><img width="510" height="676" src="https://magazinelib.com/wp-content/uploads/2022/09/FcEpogkWly6ANNaWAREO0uWItKAyqK-YSgak9TpFBOhorBfp9AFIEotxmHYC6oVprTxb1plG13S8mTj56_xXFJG7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/red-uk-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 132.54901961%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20676'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/09/FcEpogkWly6ANNaWAREO0uWItKAyqK-YSgak9TpFBOhorBfp9AFIEotxmHYC6oVprTxb1plG13S8mTj56_xXFJG7.jpg" width="510" height="676"><noscript><img width="510" height="676" src="https://magazinelib.com/wp-content/uploads/2022/09/FcEpogkWly6ANNaWAREO0uWItKAyqK-YSgak9TpFBOhorBfp9AFIEotxmHYC6oVprTxb1plG13S8mTj56_xXFJG7.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-09-05T15:00:00">05.09.2022, 15:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucky Seven Crossword Collection – September 2022]]></title>
-        <id>https://magazinelib.com/all/lucky-seven-crossword-collection-september-2022/</id>
-        <link href="https://magazinelib.com/all/lucky-seven-crossword-collection-september-2022/"/>
-        <updated>2022-09-05T14:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/lucky-seven-crossword-collection-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 146.86274510%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20749'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/09/uIKU_50NrWz3TeIxKEZ8-D2QKxFF-IqkFcy8iHH0-clCEyVNHWj0lnWSWF1fa-ivPfhhYFh3hP-5KUnAExnLtq3L.jpg" width="510" height="749"><noscript><img width="510" height="749" src="https://magazinelib.com/wp-content/uploads/2022/09/uIKU_50NrWz3TeIxKEZ8-D2QKxFF-IqkFcy8iHH0-clCEyVNHWj0lnWSWF1fa-ivPfhhYFh3hP-5KUnAExnLtq3L.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/lucky-seven-crossword-collection-september-2022/" rel="bookmark">Lucky Seven Crossword Collection – September 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-09-05T14:45:00">05.09.2022, 14:45</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
