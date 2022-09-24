@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-09-24T11:32:17.523Z</updated>
+    <updated>2022-09-24T11:53:20.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sunset – September 2022]]></title>
+        <id>https://magazinelib.com/all/sunset-september-2022/</id>
+        <link href="https://magazinelib.com/all/sunset-september-2022/"/>
+        <updated>2022-09-24T14:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/sunset-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 125.49019608%;"><img src="https://magazinelib.com/wp-content/uploads/2022/09/Iqi3S0VFUNeN0mjmiC182Ud7tvh0vazVYvjKTxqMcYBdQ598tQ_Ue8HdGs6aOP9HV7m35zj2B7BshfLwW21BBBjP.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="640"><noscript><img width="510" height="640" src="https://magazinelib.com/wp-content/uploads/2022/09/Iqi3S0VFUNeN0mjmiC182Ud7tvh0vazVYvjKTxqMcYBdQ598tQ_Ue8HdGs6aOP9HV7m35zj2B7BshfLwW21BBBjP.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/travel/" class="entry-category entry-category-item-7974">Travel</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/sunset-september-2022/" rel="bookmark">Sunset – September 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-09-24T14:20:00">24.09.2022, 14:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BBC Good Food Middle East – June-July 2022]]></title>
         <id>https://magazinelib.com/all/bbc-good-food-middle-east-june-july-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/ancient-egypt-issue-131-may-june-2022/</id>
         <link href="https://magazinelib.com/all/ancient-egypt-issue-131-may-june-2022/"/>
         <updated>2022-09-24T13:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/ancient-egypt-issue-131-may-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="https://magazinelib.com/wp-content/uploads/2022/09/GxzEkqIY72wrremEsIdQUiim2UqgSFnNZWbbUqulbeK1y6idYTZ4b2BtxwvrtS7MmqCB_PVR7POH1Tj_bAoGZcJA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/09/GxzEkqIY72wrremEsIdQUiim2UqgSFnNZWbbUqulbeK1y6idYTZ4b2BtxwvrtS7MmqCB_PVR7POH1Tj_bAoGZcJA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/ancient-egypt-issue-131-may-june-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.50943396%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20424%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/09/GxzEkqIY72wrremEsIdQUiim2UqgSFnNZWbbUqulbeK1y6idYTZ4b2BtxwvrtS7MmqCB_PVR7POH1Tj_bAoGZcJA.jpg" width="424" height="600"><noscript><img width="424" height="600" src="https://magazinelib.com/wp-content/uploads/2022/09/GxzEkqIY72wrremEsIdQUiim2UqgSFnNZWbbUqulbeK1y6idYTZ4b2BtxwvrtS7MmqCB_PVR7POH1Tj_bAoGZcJA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-09-24T05:40:00">24.09.2022, 05:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncut UK – November 2022]]></title>
-        <id>https://magazinelib.com/all/uncut-uk-november-2022/</id>
-        <link href="https://magazinelib.com/all/uncut-uk-november-2022/"/>
-        <updated>2022-09-24T05:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/uncut-uk-november-2022/"><span class="g1-frame-inner" style="padding-bottom: 138.43137255%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20706'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/09/dYOwE_Wk1z7Y45jDxN1lCYpqOx73zUdhyhdQ6ygrL2uQJfLpwCv3_K_mPILfx5o988qbd9XWV715OzbcJ7hV8KmP.jpg" width="510" height="706"><noscript><img width="510" height="706" src="https://magazinelib.com/wp-content/uploads/2022/09/dYOwE_Wk1z7Y45jDxN1lCYpqOx73zUdhyhdQ6ygrL2uQJfLpwCv3_K_mPILfx5o988qbd9XWV715OzbcJ7hV8KmP.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/movie/" class="entry-category entry-category-item-7879">Movie</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/uncut-uk-november-2022/" rel="bookmark">Uncut UK – November 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-09-24T05:20:00">24.09.2022, 05:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
