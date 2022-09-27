@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-09-27T09:46:39.976Z</updated>
+    <updated>2022-09-27T10:08:14.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Essex Life – September 2022]]></title>
+        <id>https://magazinelib.com/all/essex-life-september-2022/</id>
+        <link href="https://magazinelib.com/all/essex-life-september-2022/"/>
+        <updated>2022-09-27T12:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/essex-life-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2022/09/6CpPye-2alj_8idIvQd7dy7S8q33gDPiy9sI-ZdHGvagTVuFitog_y-z0Qa4Mg6vFhKm5AMrUv_flBgKxmQ2uzC.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/09/6CpPye-2alj_8idIvQd7dy7S8q33gDPiy9sI-ZdHGvagTVuFitog_y-z0Qa4Mg6vFhKm5AMrUv_flBgKxmQ2uzC.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/travel/" class="entry-category entry-category-item-7974">Travel</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/essex-life-september-2022/" rel="bookmark">Essex Life – September 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-09-27T12:40:00">27.09.2022, 12:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business Spotlight – Nr.10 2022]]></title>
         <id>https://magazinelib.com/all/business-spotlight-nr-10-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/black-widow-january-february-2022-2/</id>
         <link href="https://magazinelib.com/all/black-widow-january-february-2022-2/"/>
         <updated>2022-09-27T12:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/black-widow-january-february-2022-2/"><span class="g1-frame-inner" style="padding-bottom: 130.43478261%;"><img src="https://magazinelib.com/wp-content/uploads/2022/09/BNQJMypijlLfOxxxpkX_GlBGImrcP0daI6hQiIkPWQeCyU4TpJwt3FmSA_szfSJz6Fo0w-tl5uqGnJtPkdxkRh70.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="460" height="600"><noscript><img width="460" height="600" src="https://magazinelib.com/wp-content/uploads/2022/09/BNQJMypijlLfOxxxpkX_GlBGImrcP0daI6hQiIkPWQeCyU4TpJwt3FmSA_szfSJz6Fo0w-tl5uqGnJtPkdxkRh70.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/black-widow-january-february-2022-2/"><span class="g1-frame-inner" style="padding-bottom: 130.43478261%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20460%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/09/BNQJMypijlLfOxxxpkX_GlBGImrcP0daI6hQiIkPWQeCyU4TpJwt3FmSA_szfSJz6Fo0w-tl5uqGnJtPkdxkRh70.jpg" width="460" height="600"><noscript><img width="460" height="600" src="https://magazinelib.com/wp-content/uploads/2022/09/BNQJMypijlLfOxxxpkX_GlBGImrcP0daI6hQiIkPWQeCyU4TpJwt3FmSA_szfSJz6Fo0w-tl5uqGnJtPkdxkRh70.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-09-27T04:00:00">27.09.2022, 04:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Aviator South Africa – May 2022]]></title>
-        <id>https://magazinelib.com/all/global-aviator-south-africa-may-2022/</id>
-        <link href="https://magazinelib.com/all/global-aviator-south-africa-may-2022/"/>
-        <updated>2022-09-27T03:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/global-aviator-south-africa-may-2022/"><span class="g1-frame-inner" style="padding-bottom: 131.00436681%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20458%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/09/a_9t_dpYTNgP1GK6OEfJVfghOC07A1sPMByApF8rBtpH-3StvZjYmWCDWPueUiaaDP9BmDRvUI0Sct4VfW8hqVFM.jpg" width="458" height="600"><noscript><img width="458" height="600" src="https://magazinelib.com/wp-content/uploads/2022/09/a_9t_dpYTNgP1GK6OEfJVfghOC07A1sPMByApF8rBtpH-3StvZjYmWCDWPueUiaaDP9BmDRvUI0Sct4VfW8hqVFM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/aviation/" class="entry-category entry-category-item-8181">Aviation</a>, <a href="https://magazinelib.com/south-africa2/" class="entry-category entry-category-item-8192">South Africa</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/global-aviator-south-africa-may-2022/" rel="bookmark">Global Aviator South Africa – May 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-09-27T03:40:00">27.09.2022, 03:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
