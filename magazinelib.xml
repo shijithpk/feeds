@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-10-08T14:40:35.166Z</updated>
+    <updated>2022-10-08T14:56:53.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mega Magazine – October 2022]]></title>
+        <id>https://magazinelib.com/all/mega-magazine-october-2022/</id>
+        <link href="https://magazinelib.com/all/mega-magazine-october-2022/"/>
+        <updated>2022-10-08T17:45:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/mega-magazine-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2022/10/T5SQK8CP5mU0wUHffd6O4MmFO5qpqM6wsjfK9iVusPc0f7T_xhL4cCMkspKTRxlsdJQzFyVsciVzuMvPk4cT2d4v.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2022/10/T5SQK8CP5mU0wUHffd6O4MmFO5qpqM6wsjfK9iVusPc0f7T_xhL4cCMkspKTRxlsdJQzFyVsciVzuMvPk4cT2d4v.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/fashion/" class="entry-category entry-category-item-7890">Fashion</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/mega-magazine-october-2022/" rel="bookmark">Mega Magazine – October 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-10-08T17:45:00">08.10.2022, 17:45</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exotic – October 2022]]></title>
         <id>https://magazinelib.com/all/exotic-october-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/frankie-magazine-november-december-2022/</id>
         <link href="https://magazinelib.com/all/frankie-magazine-november-december-2022/"/>
         <updated>2022-10-08T17:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/frankie-magazine-november-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.98039216%;"><img src="https://magazinelib.com/wp-content/uploads/2022/10/v2WJRQSrY21z0cPTICPUT_bMZqqzbs3Y2kVzMl40mOkU1FJkqi3t8Cht-CwttfYPZpYj0TaWTJX6vZz6YZmiaMRf.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="668"><noscript><img width="510" height="668" src="https://magazinelib.com/wp-content/uploads/2022/10/v2WJRQSrY21z0cPTICPUT_bMZqqzbs3Y2kVzMl40mOkU1FJkqi3t8Cht-CwttfYPZpYj0TaWTJX6vZz6YZmiaMRf.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/frankie-magazine-november-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.98039216%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20668'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/10/v2WJRQSrY21z0cPTICPUT_bMZqqzbs3Y2kVzMl40mOkU1FJkqi3t8Cht-CwttfYPZpYj0TaWTJX6vZz6YZmiaMRf.jpg" width="510" height="668"><noscript><img width="510" height="668" src="https://magazinelib.com/wp-content/uploads/2022/10/v2WJRQSrY21z0cPTICPUT_bMZqqzbs3Y2kVzMl40mOkU1FJkqi3t8Cht-CwttfYPZpYj0TaWTJX6vZz6YZmiaMRf.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-10-08T11:15:00">08.10.2022, 11:15</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Advisor – November 2022]]></title>
-        <id>https://magazinelib.com/all/tech-advisor-november-2022/</id>
-        <link href="https://magazinelib.com/all/tech-advisor-november-2022/"/>
-        <updated>2022-10-08T11:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/tech-advisor-november-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.78431373%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20667'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/10/UzwRQg00y4ByZyYkPWvFjkZxTbfz6L5X_B8p_bCvv6jEuIoJPdOcztlW9U_fqyimoouW3gbjwwCDvtRqSlhIUwFP.jpg" width="510" height="667"><noscript><img width="510" height="667" src="https://magazinelib.com/wp-content/uploads/2022/10/UzwRQg00y4ByZyYkPWvFjkZxTbfz6L5X_B8p_bCvv6jEuIoJPdOcztlW9U_fqyimoouW3gbjwwCDvtRqSlhIUwFP.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/technology/" class="entry-category entry-category-item-8413">Technology</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/tech-advisor-november-2022/" rel="bookmark">Tech Advisor – November 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-10-08T11:00:00">08.10.2022, 11:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
