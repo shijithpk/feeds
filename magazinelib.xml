@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-10-16T20:40:34.683Z</updated>
+    <updated>2022-10-16T20:58:13.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[My Weekly – 11 October 2022]]></title>
+        <id>https://magazinelib.com/all/my-weekly-11-october-2022/</id>
+        <link href="https://magazinelib.com/all/my-weekly-11-october-2022/"/>
+        <updated>2022-10-16T23:30:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/my-weekly-11-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2022/10/5XQ4Y34r6uf6CsMizsR_YkOlSOCPbkZScDNuJLN1skTvbWOq3F_M38nPkc5sIqceO1BmZFq-OQukn2_bstmpcPU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/10/5XQ4Y34r6uf6CsMizsR_YkOlSOCPbkZScDNuJLN1skTvbWOq3F_M38nPkc5sIqceO1BmZFq-OQukn2_bstmpcPU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/my-weekly-11-october-2022/" rel="bookmark">My Weekly – 11 October 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-10-16T23:30:00">16.10.2022, 23:30</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natural Health – November 2022]]></title>
         <id>https://magazinelib.com/all/natural-health-november-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/booklist-15-october-2022/</id>
         <link href="https://magazinelib.com/all/booklist-15-october-2022/"/>
         <updated>2022-10-16T23:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/booklist-15-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2022/10/Y_QjAwVWBkmwXm7TACG59uPf7BcjFLgk3UdqLYn32uEVHJiVwLVL6L6v549rq9wXVBA5H-SygtL1ROEJZNfOcqX3.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2022/10/Y_QjAwVWBkmwXm7TACG59uPf7BcjFLgk3UdqLYn32uEVHJiVwLVL6L6v549rq9wXVBA5H-SygtL1ROEJZNfOcqX3.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/booklist-15-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20680'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/10/Y_QjAwVWBkmwXm7TACG59uPf7BcjFLgk3UdqLYn32uEVHJiVwLVL6L6v549rq9wXVBA5H-SygtL1ROEJZNfOcqX3.jpg" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2022/10/Y_QjAwVWBkmwXm7TACG59uPf7BcjFLgk3UdqLYn32uEVHJiVwLVL6L6v549rq9wXVBA5H-SygtL1ROEJZNfOcqX3.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-10-16T17:00:00">16.10.2022, 17:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Men’s Fitness South Africa – September-October 2022]]></title>
-        <id>https://magazinelib.com/all/men-s-fitness-south-africa-september-october-2022/</id>
-        <link href="https://magazinelib.com/all/men-s-fitness-south-africa-september-october-2022/"/>
-        <updated>2022-10-16T16:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/men-s-fitness-south-africa-september-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.98039216%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20668'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/10/lPiv7Z53S8-YgU_G1CjLDIxbN57nDjy8jwKwpsvvglAPvol-2iHjQacXNNcRkeFaZLx4aF8nUbPCYK_KC3bMe7QG.jpg" width="510" height="668"><noscript><img width="510" height="668" src="https://magazinelib.com/wp-content/uploads/2022/10/lPiv7Z53S8-YgU_G1CjLDIxbN57nDjy8jwKwpsvvglAPvol-2iHjQacXNNcRkeFaZLx4aF8nUbPCYK_KC3bMe7QG.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/sport/fitness/" class="entry-category entry-category-item-7889">Fitness</a>, <a href="https://magazinelib.com/mens-magazines/" class="entry-category entry-category-item-7170">Men's Magazines</a>, <a href="https://magazinelib.com/south-africa2/" class="entry-category entry-category-item-8192">South Africa</a>, <a href="https://magazinelib.com/sport/" class="entry-category entry-category-item-7874">Sport</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/men-s-fitness-south-africa-september-october-2022/" rel="bookmark">Men’s Fitness South Africa – September-October 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-10-16T16:45:00">16.10.2022, 16:45</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
