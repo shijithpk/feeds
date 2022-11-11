@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-11-11T19:28:33.317Z</updated>
+    <updated>2022-11-11T19:53:33.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Smart Photography – November 2022]]></title>
+        <id>https://magazinelib.com/all/smart-photography-november-2022/</id>
+        <link href="https://magazinelib.com/all/smart-photography-november-2022/"/>
+        <updated>2022-11-11T22:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/smart-photography-november-2022/"><span class="g1-frame-inner" style="padding-bottom: 127.05882353%;"><img src="https://magazinelib.com/wp-content/uploads/2022/11/eUcZjZ7JCU1EG0SyB8bypMu92Hni2P016hBys9gOqIbSjNK1ceZC20FRNUqKP__npKBKCxUY-OmGbEB_P4MePO3f.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="648"><noscript><img width="510" height="648" src="https://magazinelib.com/wp-content/uploads/2022/11/eUcZjZ7JCU1EG0SyB8bypMu92Hni2P016hBys9gOqIbSjNK1ceZC20FRNUqKP__npKBKCxUY-OmGbEB_P4MePO3f.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/photo/" class="entry-category entry-category-item-7880">Photo</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/smart-photography-november-2022/" rel="bookmark">Smart Photography – November 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-11-11T22:20:00">11.11.2022, 22:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best – 15 November 2022]]></title>
         <id>https://magazinelib.com/all/best-15-november-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/soap-opera-digest-november-14-2022/</id>
         <link href="https://magazinelib.com/all/soap-opera-digest-november-14-2022/"/>
         <updated>2022-11-11T21:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/soap-opera-digest-november-14-2022/"><span class="g1-frame-inner" style="padding-bottom: 143.72549020%;"><img src="https://magazinelib.com/wp-content/uploads/2022/11/hAoNgBQ1RS6kTWZJ4ngzkCbX7-BH7j6h-IY-cOkIvPf9WHuZ9cnCEMmte5WfCpmiSfnHWSlSXJT-waVhFaYMehhQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="733"><noscript><img width="510" height="733" src="https://magazinelib.com/wp-content/uploads/2022/11/hAoNgBQ1RS6kTWZJ4ngzkCbX7-BH7j6h-IY-cOkIvPf9WHuZ9cnCEMmte5WfCpmiSfnHWSlSXJT-waVhFaYMehhQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/soap-opera-digest-november-14-2022/"><span class="g1-frame-inner" style="padding-bottom: 143.72549020%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20733'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/11/hAoNgBQ1RS6kTWZJ4ngzkCbX7-BH7j6h-IY-cOkIvPf9WHuZ9cnCEMmte5WfCpmiSfnHWSlSXJT-waVhFaYMehhQ.jpg" width="510" height="733"><noscript><img width="510" height="733" src="https://magazinelib.com/wp-content/uploads/2022/11/hAoNgBQ1RS6kTWZJ4ngzkCbX7-BH7j6h-IY-cOkIvPf9WHuZ9cnCEMmte5WfCpmiSfnHWSlSXJT-waVhFaYMehhQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-11-11T13:40:00">11.11.2022, 13:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CosBeauty Magazine – November 2022]]></title>
-        <id>https://magazinelib.com/all/cosbeauty-magazine-november-2022/</id>
-        <link href="https://magazinelib.com/all/cosbeauty-magazine-november-2022/"/>
-        <updated>2022-11-11T13:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/cosbeauty-magazine-november-2022/"><span class="g1-frame-inner" style="padding-bottom: 134.70588235%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20687'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/11/Yo4vH0THWhfE4sj8jG4T2fpRh4uXcpmmRny4vtAdT2jykr_8HvhucJrGc-L6S96uGoOYUBgnVyMG7KJtMKO6OblD.jpg" width="510" height="687"><noscript><img width="510" height="687" src="https://magazinelib.com/wp-content/uploads/2022/11/Yo4vH0THWhfE4sj8jG4T2fpRh4uXcpmmRny4vtAdT2jykr_8HvhucJrGc-L6S96uGoOYUBgnVyMG7KJtMKO6OblD.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/womens/beauty/" class="entry-category entry-category-item-8202">Beauty</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/cosbeauty-magazine-november-2022/" rel="bookmark">CosBeauty Magazine – November 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-11-11T13:20:00">11.11.2022, 13:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
