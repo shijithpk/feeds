@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-11-11T17:35:44.939Z</updated>
+    <updated>2022-11-11T17:53:52.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Steelers Digest – November 01, 2022]]></title>
+        <id>https://magazinelib.com/all/steelers-digest-november-01-2022/</id>
+        <link href="https://magazinelib.com/all/steelers-digest-november-01-2022/"/>
+        <updated>2022-11-11T20:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/steelers-digest-november-01-2022/"><span class="g1-frame-inner" style="padding-bottom: 113.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2022/11/h_XZJ3ZTlgnS8G5ndWKFKMt85g5m9wZhpHGimPhAoCChjsaq6IzKCVB4Mpf8KT7xmqMqLTSiNlNxgvLlxGq1EAxC.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="578"><noscript><img width="510" height="578" src="https://magazinelib.com/wp-content/uploads/2022/11/h_XZJ3ZTlgnS8G5ndWKFKMt85g5m9wZhpHGimPhAoCChjsaq6IzKCVB4Mpf8KT7xmqMqLTSiNlNxgvLlxGq1EAxC.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/sport/" class="entry-category entry-category-item-7874">Sport</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/steelers-digest-november-01-2022/" rel="bookmark">Steelers Digest – November 01, 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-11-11T20:20:00">11.11.2022, 20:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ELLE Singapore – November 2022]]></title>
         <id>https://magazinelib.com/all/elle-singapore-november-2022/</id>
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-11-11T11:40:00">11.11.2022, 11:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guns Magazine – January 2023]]></title>
-        <id>https://magazinelib.com/all/guns-magazine-january-2023/</id>
-        <link href="https://magazinelib.com/all/guns-magazine-january-2023/"/>
-        <updated>2022-11-11T11:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/guns-magazine-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.31372549%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20685'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/11/1NFtYXtghdhY9TD13VVVgvhacajUT-1CH5J8Dcd_-om8JYjCtCIc08p6MKwmQefvFTO3x_DGO8_pSyTpnWMxO0Ud.jpg" width="510" height="685"><noscript><img width="510" height="685" src="https://magazinelib.com/wp-content/uploads/2022/11/1NFtYXtghdhY9TD13VVVgvhacajUT-1CH5J8Dcd_-om8JYjCtCIc08p6MKwmQefvFTO3x_DGO8_pSyTpnWMxO0Ud.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/mens-magazines/hunting/" class="entry-category entry-category-item-7886">Hunting</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/guns-magazine-january-2023/" rel="bookmark">Guns Magazine – January 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-11-11T11:20:00">11.11.2022, 11:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
