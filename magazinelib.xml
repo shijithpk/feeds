@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-11-15T21:30:02.902Z</updated>
+    <updated>2022-11-15T21:53:31.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[K-Zone – December 2022]]></title>
+        <id>https://magazinelib.com/all/k-zone-december-2022/</id>
+        <link href="https://magazinelib.com/all/k-zone-december-2022/"/>
+        <updated>2022-11-16T00:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/k-zone-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="https://magazinelib.com/wp-content/uploads/2022/11/CPgXHyEx6CFgvv_qp7qwQFwP2_l0O2enqykjAVHtZzgJS4iabdUhHvXFEGIZwrjK03mN86FpmGoGyWyh-kY_Lky1.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="724"><noscript><img width="510" height="724" src="https://magazinelib.com/wp-content/uploads/2022/11/CPgXHyEx6CFgvv_qp7qwQFwP2_l0O2enqykjAVHtZzgJS4iabdUhHvXFEGIZwrjK03mN86FpmGoGyWyh-kY_Lky1.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/games/" class="entry-category entry-category-item-8390">Games</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/k-zone-december-2022/" rel="bookmark">K-Zone – December 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-11-16T00:20:00">16.11.2022, 00:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Observer Magazine – 06 November 2022]]></title>
         <id>https://magazinelib.com/all/the-observer-magazine-06-november-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/making-of-a-black-dancer-october-2022/</id>
         <link href="https://magazinelib.com/all/making-of-a-black-dancer-october-2022/"/>
         <updated>2022-11-15T23:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/making-of-a-black-dancer-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.19607843%;"><img src="https://magazinelib.com/wp-content/uploads/2022/11/T7SJD69dh-C_JedSVu09-e_mG6xEhomBwv62PZgdnQPrgLOgCCWgpJV2-xBgn-LYxpmsosPDIdUS7qWgUyo0stYs.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="664"><noscript><img width="510" height="664" src="https://magazinelib.com/wp-content/uploads/2022/11/T7SJD69dh-C_JedSVu09-e_mG6xEhomBwv62PZgdnQPrgLOgCCWgpJV2-xBgn-LYxpmsosPDIdUS7qWgUyo0stYs.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/making-of-a-black-dancer-october-2022/"><span class="g1-frame-inner" style="padding-bottom: 130.19607843%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20664'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/11/T7SJD69dh-C_JedSVu09-e_mG6xEhomBwv62PZgdnQPrgLOgCCWgpJV2-xBgn-LYxpmsosPDIdUS7qWgUyo0stYs.jpg" width="510" height="664"><noscript><img width="510" height="664" src="https://magazinelib.com/wp-content/uploads/2022/11/T7SJD69dh-C_JedSVu09-e_mG6xEhomBwv62PZgdnQPrgLOgCCWgpJV2-xBgn-LYxpmsosPDIdUS7qWgUyo0stYs.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-11-15T15:40:00">15.11.2022, 15:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fishing World – December 2022]]></title>
-        <id>https://magazinelib.com/all/fishing-world-december-2022/</id>
-        <link href="https://magazinelib.com/all/fishing-world-december-2022/"/>
-        <updated>2022-11-15T15:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/fishing-world-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 135.09803922%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20689'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/11/0hPI48Nb_IiG9-v00x1G5BDbdoY-Hr3JmVy8MYawnA3UqZwWAn2_9ThuDGbDfSxvky3sxDgTcAisklT6n8H9CuNp.jpg" width="510" height="689"><noscript><img width="510" height="689" src="https://magazinelib.com/wp-content/uploads/2022/11/0hPI48Nb_IiG9-v00x1G5BDbdoY-Hr3JmVy8MYawnA3UqZwWAn2_9ThuDGbDfSxvky3sxDgTcAisklT6n8H9CuNp.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/mens-magazines/fishing/" class="entry-category entry-category-item-7885">Fishing</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/fishing-world-december-2022/" rel="bookmark">Fishing World – December 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-11-15T15:20:00">15.11.2022, 15:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
