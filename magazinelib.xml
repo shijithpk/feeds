@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2022-12-30T19:53:44.613Z</updated>
+    <updated>2022-12-30T20:27:43.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Guns & Ammo – February 2023]]></title>
+        <id>https://magazinelib.com/all/guns-ammo-february-2023/</id>
+        <link href="https://magazinelib.com/all/guns-ammo-february-2023/"/>
+        <updated>2022-12-30T23:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/guns-ammo-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.49019608%;"><img src="https://magazinelib.com/wp-content/uploads/2022/12/krOFmdCz8Tk74hZrw_D7ppOlz6AOyln-FtTvo5QQKXGaJdHT4KCuMQjTQPqU8o4BMoEdJ7PIzroc1e9NoMGSPSnT.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="691"><noscript><img width="510" height="691" src="https://magazinelib.com/wp-content/uploads/2022/12/krOFmdCz8Tk74hZrw_D7ppOlz6AOyln-FtTvo5QQKXGaJdHT4KCuMQjTQPqU8o4BMoEdJ7PIzroc1e9NoMGSPSnT.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/military/" class="entry-category entry-category-item-8466">Military</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/guns-ammo-february-2023/" rel="bookmark">Guns &amp; Ammo – February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2022-12-30T23:00:00">30.12.2022, 23:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heat UK – 31 December 2022]]></title>
         <id>https://magazinelib.com/all/heat-uk-31-december-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/your-horse-december-2022/</id>
         <link href="https://magazinelib.com/all/your-horse-december-2022/"/>
         <updated>2022-12-30T22:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-horse-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.76470588%;"><img src="https://magazinelib.com/wp-content/uploads/2022/12/HxuUpvAQDM8-XVpdQYHjMv9rJw0ZIUgTT0RH1lUG_LQejbActIk3SAwJkrSt5bfeLXd9GKZsCq7cFANv8OjDB3vG.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="723"><noscript><img width="510" height="723" src="https://magazinelib.com/wp-content/uploads/2022/12/HxuUpvAQDM8-XVpdQYHjMv9rJw0ZIUgTT0RH1lUG_LQejbActIk3SAwJkrSt5bfeLXd9GKZsCq7cFANv8OjDB3vG.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-horse-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.76470588%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20723'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/12/HxuUpvAQDM8-XVpdQYHjMv9rJw0ZIUgTT0RH1lUG_LQejbActIk3SAwJkrSt5bfeLXd9GKZsCq7cFANv8OjDB3vG.jpg" width="510" height="723"><noscript><img width="510" height="723" src="https://magazinelib.com/wp-content/uploads/2022/12/HxuUpvAQDM8-XVpdQYHjMv9rJw0ZIUgTT0RH1lUG_LQejbActIk3SAwJkrSt5bfeLXd9GKZsCq7cFANv8OjDB3vG.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2022-12-30T14:20:00">30.12.2022, 14:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman’s Weekly New Zealand – January 09, 2023]]></title>
-        <id>https://magazinelib.com/all/woman-s-weekly-new-zealand-january-09-2023/</id>
-        <link href="https://magazinelib.com/all/woman-s-weekly-new-zealand-january-09-2023/"/>
-        <updated>2022-12-30T14:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/woman-s-weekly-new-zealand-january-09-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20701'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/12/GCaChiYLUwWIOxq6kWCAI58oywPgPVxH2bTnburysHE-BGpiaVNEsM8z4cuq7cwcQBv2LA2mwo3fwW95hAeHF1d5.jpg" width="510" height="701"><noscript><img width="510" height="701" src="https://magazinelib.com/wp-content/uploads/2022/12/GCaChiYLUwWIOxq6kWCAI58oywPgPVxH2bTnburysHE-BGpiaVNEsM8z4cuq7cwcQBv2LA2mwo3fwW95hAeHF1d5.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/woman-s-weekly-new-zealand-january-09-2023/" rel="bookmark">Woman’s Weekly New Zealand – January 09, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2022-12-30T14:00:00">30.12.2022, 14:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
