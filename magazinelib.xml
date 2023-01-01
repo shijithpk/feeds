@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-01T14:26:20.284Z</updated>
+    <updated>2023-01-01T14:53:30.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hackercool – November 2022]]></title>
+        <id>https://magazinelib.com/all/hackercool-november-2022/</id>
+        <link href="https://magazinelib.com/all/hackercool-november-2022/"/>
+        <updated>2023-01-01T17:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/hackercool-november-2022/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2022/12/C_ZBhXuvOYij8xrHNxfXeTaQPcALOqkLNrvxpvct_IcMZbomgOKIP_-zw9Cy51QOhnPGwUMD3XEEGvRlRFzxiMlI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2022/12/C_ZBhXuvOYij8xrHNxfXeTaQPcALOqkLNrvxpvct_IcMZbomgOKIP_-zw9Cy51QOhnPGwUMD3XEEGvRlRFzxiMlI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/computers/" class="entry-category entry-category-item-7509">Computers</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/hackercool-november-2022/" rel="bookmark">Hackercool – November 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-01T17:20:00">01.01.2023, 17:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source for You – 28 December 2022]]></title>
         <id>https://magazinelib.com/all/open-source-for-you-28-december-2022/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/your-london-wedding-september-2022/</id>
         <link href="https://magazinelib.com/all/your-london-wedding-september-2022/"/>
         <updated>2023-01-01T16:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-london-wedding-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2022/12/0SyaqMwdrxzK_g7-RVbQqHoFe7jep5mrhGx4dOsqv5D5UHv_NZ1O1VzmgS9RuvZnGsCtTtAIoJp1EwfhVdXLaiP2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/12/0SyaqMwdrxzK_g7-RVbQqHoFe7jep5mrhGx4dOsqv5D5UHv_NZ1O1VzmgS9RuvZnGsCtTtAIoJp1EwfhVdXLaiP2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-london-wedding-september-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/12/0SyaqMwdrxzK_g7-RVbQqHoFe7jep5mrhGx4dOsqv5D5UHv_NZ1O1VzmgS9RuvZnGsCtTtAIoJp1EwfhVdXLaiP2.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2022/12/0SyaqMwdrxzK_g7-RVbQqHoFe7jep5mrhGx4dOsqv5D5UHv_NZ1O1VzmgS9RuvZnGsCtTtAIoJp1EwfhVdXLaiP2.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-01T08:40:00">01.01.2023, 08:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparkle Buds Kids Magazine (Ages 7-10) – January 2023]]></title>
-        <id>https://magazinelib.com/all/sparkle-buds-kids-magazine-ages-7-10-january-2023/</id>
-        <link href="https://magazinelib.com/all/sparkle-buds-kids-magazine-ages-7-10-january-2023/"/>
-        <updated>2023-01-01T08:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/sparkle-buds-kids-magazine-ages-7-10-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20660'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2022/12/om5FF7zw6kpCXj_ZGi1CTGtZMlfIBo7JxWsIecGXXUi1Q5895U1Vx2Z05AcIVQEKPVyWduILHBq7wKF1dIR4RWxj.jpg" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2022/12/om5FF7zw6kpCXj_ZGi1CTGtZMlfIBo7JxWsIecGXXUi1Q5895U1Vx2Z05AcIVQEKPVyWduILHBq7wKF1dIR4RWxj.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/kids/" class="entry-category entry-category-item-8182">Kids</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/sparkle-buds-kids-magazine-ages-7-10-january-2023/" rel="bookmark">Sparkle Buds Kids Magazine (Ages 7-10) – January 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-01T08:20:00">01.01.2023, 08:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
