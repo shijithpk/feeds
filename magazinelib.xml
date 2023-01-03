@@ -2,15 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-03T21:26:05.252Z</updated>
+    <updated>2023-01-03T21:53:46.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Coding & Projects – December 2022]]></title>
+        <id>https://magazinelib.com/all/raspberry-pi-coding-projects-december-2022/</id>
+        <link href="https://magazinelib.com/all/raspberry-pi-coding-projects-december-2022/"/>
+        <updated>2023-01-04T00:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/raspberry-pi-coding-projects-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/jzTsP6IPvndo3bpwqcn08vet-tf3bFSaa2EC3Ze6blhh_iL_Eu0-Qfr1XcYXi5-WtMcZ8r1Zo82g2UhW-6DxneIl.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/jzTsP6IPvndo3bpwqcn08vet-tf3bFSaa2EC3Ze6blhh_iL_Eu0-Qfr1XcYXi5-WtMcZ8r1Zo82g2UhW-6DxneIl.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/programming/" class="entry-category entry-category-item-8333">Programming</a>, <a href="https://magazinelib.com/technology/" class="entry-category entry-category-item-8413">Technology</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/raspberry-pi-coding-projects-december-2022/" rel="bookmark">Raspberry Pi Coding &amp; Projects – December 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-04T00:20:00">04.01.2023, 00:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolver – December 2022]]></title>
+        <id>https://magazinelib.com/all/revolver-december-2022/</id>
+        <link href="https://magazinelib.com/all/revolver-december-2022/"/>
+        <updated>2023-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/revolver-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 120.78431373%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/44JmArHw9JI3UtIB8Sl0TblVCd_yDY0joJJKpM_dQmOj_VjwgplHk0_gKDBTjgVgDmYrFIYwu_2LrKGMafcyy-BR.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="616"><noscript><img width="510" height="616" src="https://magazinelib.com/wp-content/uploads/2023/01/44JmArHw9JI3UtIB8Sl0TblVCd_yDY0joJJKpM_dQmOj_VjwgplHk0_gKDBTjgVgDmYrFIYwu_2LrKGMafcyy-BR.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/revolver-december-2022/" rel="bookmark">Revolver – December 2022</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-04T00:00:00">04.01.2023, 00:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5280 Health – December 2022]]></title>
         <id>https://magazinelib.com/all/5280-health-december-2022/</id>
         <link href="https://magazinelib.com/all/5280-health-december-2022/"/>
         <updated>2023-01-03T23:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/5280-health-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 129.80392157%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/fP6wQrLUeuyX-BOvB1OsXJvbX3t2e3f06D3cpCv8TObPvqlJtGNSc3Y0ZvpWfgTN_YLQ-QovifIzBTWtjuFlBfRu.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="662"><noscript><img width="510" height="662" src="https://magazinelib.com/wp-content/uploads/2023/01/fP6wQrLUeuyX-BOvB1OsXJvbX3t2e3f06D3cpCv8TObPvqlJtGNSc3Y0ZvpWfgTN_YLQ-QovifIzBTWtjuFlBfRu.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/5280-health-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 129.80392157%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20662'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/fP6wQrLUeuyX-BOvB1OsXJvbX3t2e3f06D3cpCv8TObPvqlJtGNSc3Y0ZvpWfgTN_YLQ-QovifIzBTWtjuFlBfRu.jpg" width="510" height="662"><noscript><img width="510" height="662" src="https://magazinelib.com/wp-content/uploads/2023/01/fP6wQrLUeuyX-BOvB1OsXJvbX3t2e3f06D3cpCv8TObPvqlJtGNSc3Y0ZvpWfgTN_YLQ-QovifIzBTWtjuFlBfRu.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -33,7 +79,7 @@
         <id>https://magazinelib.com/all/tkc-totalkitcar-magazine-january-february-2023/</id>
         <link href="https://magazinelib.com/all/tkc-totalkitcar-magazine-january-february-2023/"/>
         <updated>2023-01-03T23:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/tkc-totalkitcar-magazine-january-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.56862745%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/V2it8ulQ-L-R_DS4PqJA0WbZrqCa71MfvHaUfOwtzOus5zN0Xs-Qndg53uvAEwdfeVYmiWd9VXnWk-YMWF5fbsov.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="722"><noscript><img width="510" height="722" src="https://magazinelib.com/wp-content/uploads/2023/01/V2it8ulQ-L-R_DS4PqJA0WbZrqCa71MfvHaUfOwtzOus5zN0Xs-Qndg53uvAEwdfeVYmiWd9VXnWk-YMWF5fbsov.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/tkc-totalkitcar-magazine-january-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.56862745%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20722'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/V2it8ulQ-L-R_DS4PqJA0WbZrqCa71MfvHaUfOwtzOus5zN0Xs-Qndg53uvAEwdfeVYmiWd9VXnWk-YMWF5fbsov.jpg" width="510" height="722"><noscript><img width="510" height="722" src="https://magazinelib.com/wp-content/uploads/2023/01/V2it8ulQ-L-R_DS4PqJA0WbZrqCa71MfvHaUfOwtzOus5zN0Xs-Qndg53uvAEwdfeVYmiWd9VXnWk-YMWF5fbsov.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -577,52 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-03T15:40:00">03.01.2023, 15:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Big Sur The Complete Manual – December 2022]]></title>
-        <id>https://magazinelib.com/all/macos-big-sur-the-complete-manual-december-2022/</id>
-        <link href="https://magazinelib.com/all/macos-big-sur-the-complete-manual-december-2022/"/>
-        <updated>2023-01-03T15:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/macos-big-sur-the-complete-manual-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/IYVj7hZxPBrWWGCIkGtM2S4hyjDOBhiV74KtnKSDSIbOZ1MZDgX2UjsxaSp_Dv-S4MOn72niJdM_2wtTm8cGbpJb.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/IYVj7hZxPBrWWGCIkGtM2S4hyjDOBhiV74KtnKSDSIbOZ1MZDgX2UjsxaSp_Dv-S4MOn72niJdM_2wtTm8cGbpJb.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/apple/" class="entry-category entry-category-item-7525">Apple</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/macos-big-sur-the-complete-manual-december-2022/" rel="bookmark">macOS Big Sur The Complete Manual – December 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-03T15:20:00">03.01.2023, 15:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Times Magazine – 31 December 2022]]></title>
-        <id>https://magazinelib.com/all/the-times-magazine-31-december-2022/</id>
-        <link href="https://magazinelib.com/all/the-times-magazine-31-december-2022/"/>
-        <updated>2023-01-03T15:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-times-magazine-31-december-2022/"><span class="g1-frame-inner" style="padding-bottom: 117.64705882%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/0xYKVJX8bD3PUifl-I80De063lxq-XAFHhxA-CgKWAY2nm73eDT7vIm5UTNDIiFNTbDVVdqJjIuguwOIHJLQcSqF.jpg" width="510" height="600"><noscript><img width="510" height="600" src="https://magazinelib.com/wp-content/uploads/2023/01/0xYKVJX8bD3PUifl-I80De063lxq-XAFHhxA-CgKWAY2nm73eDT7vIm5UTNDIiFNTbDVVdqJjIuguwOIHJLQcSqF.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-times-magazine-31-december-2022/" rel="bookmark">The Times Magazine – 31 December 2022</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-03T15:00:00">03.01.2023, 15:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
