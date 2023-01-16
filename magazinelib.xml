@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-16T20:28:19.305Z</updated>
+    <updated>2023-01-16T20:53:30.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Airfix Model World – February 2023]]></title>
+        <id>https://magazinelib.com/all/airfix-model-world-february-2023/</id>
+        <link href="https://magazinelib.com/all/airfix-model-world-february-2023/"/>
+        <updated>2023-01-16T23:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/airfix-model-world-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.56862745%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/BRT6lklib0HNUOWHwDG2li4Q-P91Xek3lhLUpqCgrGbkc_DqaOOuJ-APXthXL2vkeL2HSaigI80oePS9FTm7O70F.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="722"><noscript><img width="510" height="722" src="https://magazinelib.com/wp-content/uploads/2023/01/BRT6lklib0HNUOWHwDG2li4Q-P91Xek3lhLUpqCgrGbkc_DqaOOuJ-APXthXL2vkeL2HSaigI80oePS9FTm7O70F.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/aviation/" class="entry-category entry-category-item-8181">Aviation</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/airfix-model-world-february-2023/" rel="bookmark">Airfix Model World – February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-16T23:20:00">16.01.2023, 23:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In Touch Weekly – January 23, 2023]]></title>
         <id>https://magazinelib.com/all/in-touch-weekly-january-23-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/artful-living-winter-2023/</id>
         <link href="https://magazinelib.com/all/artful-living-winter-2023/"/>
         <updated>2023-01-16T22:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/artful-living-winter-2023/"><span class="g1-frame-inner" style="padding-bottom: 120.19607843%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/riRBRDkU_QF5KNtaIC7aIky_flo0mn1TayJ3w3IjFWYJpqkNmUUR-DgLpqKItXI1XHARzJ2E5DXzPVlZ55qpeUUn.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="613"><noscript><img width="510" height="613" src="https://magazinelib.com/wp-content/uploads/2023/01/riRBRDkU_QF5KNtaIC7aIky_flo0mn1TayJ3w3IjFWYJpqkNmUUR-DgLpqKItXI1XHARzJ2E5DXzPVlZ55qpeUUn.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/artful-living-winter-2023/"><span class="g1-frame-inner" style="padding-bottom: 120.19607843%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20613'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/riRBRDkU_QF5KNtaIC7aIky_flo0mn1TayJ3w3IjFWYJpqkNmUUR-DgLpqKItXI1XHARzJ2E5DXzPVlZ55qpeUUn.jpg" width="510" height="613"><noscript><img width="510" height="613" src="https://magazinelib.com/wp-content/uploads/2023/01/riRBRDkU_QF5KNtaIC7aIky_flo0mn1TayJ3w3IjFWYJpqkNmUUR-DgLpqKItXI1XHARzJ2E5DXzPVlZ55qpeUUn.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-16T12:30:00">16.01.2023, 12:30</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloomberg Businessweek Europe – January 16, 2023]]></title>
-        <id>https://magazinelib.com/all/bloomberg-businessweek-europe-january-16-2023/</id>
-        <link href="https://magazinelib.com/all/bloomberg-businessweek-europe-january-16-2023/"/>
-        <updated>2023-01-16T12:05:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bloomberg-businessweek-europe-january-16-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20680'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/xHf8aihsxDyPbCP8XXydRziJnSLLze6LyDFeEyMYQ68YDmAaGnpgAfPS5_F3WUJnSyT6m8vR9s8YgulzH1P7RMea.jpg" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/01/xHf8aihsxDyPbCP8XXydRziJnSLLze6LyDFeEyMYQ68YDmAaGnpgAfPS5_F3WUJnSyT6m8vR9s8YgulzH1P7RMea.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/business/" class="entry-category entry-category-item-7973">Business</a>, <a href="https://magazinelib.com/europe/" class="entry-category entry-category-item-8405">Europe</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bloomberg-businessweek-europe-january-16-2023/" rel="bookmark">Bloomberg Businessweek Europe – January 16, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-16T12:05:00">16.01.2023, 12:05</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
