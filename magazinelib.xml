@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-18T18:53:24.741Z</updated>
+    <updated>2023-01-18T19:23:56.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Classic Boat – February 2023]]></title>
+        <id>https://magazinelib.com/all/classic-boat-february-2023/</id>
+        <link href="https://magazinelib.com/all/classic-boat-february-2023/"/>
+        <updated>2023-01-18T22:05:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/classic-boat-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/ZOUWeDytgTuvwHHN3ThThRoipv6rh2RunM91K3ig5pT0kfG8e6ePDRkBz5_3EbGdEWVOjG7FjIY4iiZTSqBBjjFc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2023/01/ZOUWeDytgTuvwHHN3ThThRoipv6rh2RunM91K3ig5pT0kfG8e6ePDRkBz5_3EbGdEWVOjG7FjIY4iiZTSqBBjjFc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/yachting-amp-boats/" class="entry-category entry-category-item-8426">Yachting &amp; Boats</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/classic-boat-february-2023/" rel="bookmark">Classic Boat – February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-18T22:05:00">18.01.2023, 22:05</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Guardian Weekly – 13 January 2023]]></title>
         <id>https://magazinelib.com/all/the-guardian-weekly-13-january-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/ifr-magazine-january-14-2023/</id>
         <link href="https://magazinelib.com/all/ifr-magazine-january-14-2023/"/>
         <updated>2023-01-18T21:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/ifr-magazine-january-14-2023/"><span class="g1-frame-inner" style="padding-bottom: 142.18009479%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/TEuXaAhV_RKpB_Ia8nNQfqD_ohizRsKuCKM-D_FDKvYciSohlIfnYEzzTdYy4y2TkdIDbe52agYyC98xB68NaqHz.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="211" height="300"><noscript><img width="211" height="300" src="https://magazinelib.com/wp-content/uploads/2023/01/TEuXaAhV_RKpB_Ia8nNQfqD_ohizRsKuCKM-D_FDKvYciSohlIfnYEzzTdYy4y2TkdIDbe52agYyC98xB68NaqHz.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/ifr-magazine-january-14-2023/"><span class="g1-frame-inner" style="padding-bottom: 142.18009479%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20211%20300'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/TEuXaAhV_RKpB_Ia8nNQfqD_ohizRsKuCKM-D_FDKvYciSohlIfnYEzzTdYy4y2TkdIDbe52agYyC98xB68NaqHz.jpg" width="211" height="300"><noscript><img width="211" height="300" src="https://magazinelib.com/wp-content/uploads/2023/01/TEuXaAhV_RKpB_Ia8nNQfqD_ohizRsKuCKM-D_FDKvYciSohlIfnYEzzTdYy4y2TkdIDbe52agYyC98xB68NaqHz.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-18T11:15:00">18.01.2023, 11:15</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Living The Photo Artistic Life – January 2023]]></title>
-        <id>https://magazinelib.com/all/living-the-photo-artistic-life-january-2023/</id>
-        <link href="https://magazinelib.com/all/living-the-photo-artistic-life-january-2023/"/>
-        <updated>2023-01-18T10:50:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/living-the-photo-artistic-life-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.84313725%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20703'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/BqYJrYxXiEmWalRMlpZieVnOH7XuU5ezDTpf-51vCZMm6bEJxTFNUX20zqzkCsq86hJSty9XPsII5inWC_ytnQqL.jpg" width="510" height="703"><noscript><img width="510" height="703" src="https://magazinelib.com/wp-content/uploads/2023/01/BqYJrYxXiEmWalRMlpZieVnOH7XuU5ezDTpf-51vCZMm6bEJxTFNUX20zqzkCsq86hJSty9XPsII5inWC_ytnQqL.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/photo/" class="entry-category entry-category-item-7880">Photo</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/living-the-photo-artistic-life-january-2023/" rel="bookmark">Living The Photo Artistic Life – January 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-18T10:50:00">18.01.2023, 10:50</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
