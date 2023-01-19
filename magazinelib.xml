@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-19T16:41:45.260Z</updated>
+    <updated>2023-01-19T16:57:26.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Furniture World – January-February 2023]]></title>
+        <id>https://magazinelib.com/all/furniture-world-january-february-2023/</id>
+        <link href="https://magazinelib.com/all/furniture-world-january-february-2023/"/>
+        <updated>2023-01-19T19:35:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/furniture-world-january-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.76470588%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/Ih7fnAAX0ixQTmGb6KNCkgUAGlql9bKlxj-SWjVCUMAczhDFY-IIBqMWHM35aT8kWpm3NjRJDEl8ey4tnZmHZeDk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="672"><noscript><img width="510" height="672" src="https://magazinelib.com/wp-content/uploads/2023/01/Ih7fnAAX0ixQTmGb6KNCkgUAGlql9bKlxj-SWjVCUMAczhDFY-IIBqMWHM35aT8kWpm3NjRJDEl8ey4tnZmHZeDk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/design/" class="entry-category entry-category-item-8104">Design</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/furniture-world-january-february-2023/" rel="bookmark">Furniture World – January-February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-19T19:35:00">19.01.2023, 19:35</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Idea – January 23, 2023]]></title>
         <id>https://magazinelib.com/all/new-idea-january-23-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/classic-motorcycle-mechanics-january-2023/</id>
         <link href="https://magazinelib.com/all/classic-motorcycle-mechanics-january-2023/"/>
         <updated>2023-01-19T18:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/classic-motorcycle-mechanics-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/n0CY1gpeaW-ICbaZSIb514FY9TW-gKCKF-k9gQDjepEywbRh65zDT7Fkp2OqijXwHPihV2RmrvQ4YUn1uvogOqv.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/n0CY1gpeaW-ICbaZSIb514FY9TW-gKCKF-k9gQDjepEywbRh65zDT7Fkp2OqijXwHPihV2RmrvQ4YUn1uvogOqv.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/classic-motorcycle-mechanics-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/n0CY1gpeaW-ICbaZSIb514FY9TW-gKCKF-k9gQDjepEywbRh65zDT7Fkp2OqijXwHPihV2RmrvQ4YUn1uvogOqv.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/n0CY1gpeaW-ICbaZSIb514FY9TW-gKCKF-k9gQDjepEywbRh65zDT7Fkp2OqijXwHPihV2RmrvQ4YUn1uvogOqv.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-19T08:45:00">19.01.2023, 08:45</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop Elements For Beginners – 16 January 2023]]></title>
-        <id>https://magazinelib.com/all/photoshop-elements-for-beginners-16-january-2023/</id>
-        <link href="https://magazinelib.com/all/photoshop-elements-for-beginners-16-january-2023/"/>
-        <updated>2023-01-19T08:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/photoshop-elements-for-beginners-16-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.01960784%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20658'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/EstSc0366Ne_hMV696SNIak0Hu-vBgv7I9J7qOFCyreizhdhHE-QJU4-LDRk0mIcsT6PxkxytliuM1ZAaDNeUzpU.jpg" width="510" height="658"><noscript><img width="510" height="658" src="https://magazinelib.com/wp-content/uploads/2023/01/EstSc0366Ne_hMV696SNIak0Hu-vBgv7I9J7qOFCyreizhdhHE-QJU4-LDRk0mIcsT6PxkxytliuM1ZAaDNeUzpU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/photo/" class="entry-category entry-category-item-7880">Photo</a>, <a href="https://magazinelib.com/photoshop/" class="entry-category entry-category-item-8336">Photoshop</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/photoshop-elements-for-beginners-16-january-2023/" rel="bookmark">Photoshop Elements For Beginners – 16 January 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-19T08:20:00">19.01.2023, 08:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
