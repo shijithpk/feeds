@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-20T19:53:34.259Z</updated>
+    <updated>2023-01-20T20:29:13.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Computeractive – 18 January 2023]]></title>
+        <id>https://magazinelib.com/all/computeractive-18-january-2023/</id>
+        <link href="https://magazinelib.com/all/computeractive-18-january-2023/"/>
+        <updated>2023-01-20T22:55:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/computeractive-18-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/1RiYWKPvjoamUwaNpTl4NVP1-0b9Xgjryfy_-rxLmQciM_wNOdC1BGBTQrxnmKwdpGlGy4tVPec7Y9G5wUVVW1kh.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/1RiYWKPvjoamUwaNpTl4NVP1-0b9Xgjryfy_-rxLmQciM_wNOdC1BGBTQrxnmKwdpGlGy4tVPec7Y9G5wUVVW1kh.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/computers/" class="entry-category entry-category-item-7509">Computers</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/computeractive-18-january-2023/" rel="bookmark">Computeractive – 18 January 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-20T22:55:00">20.01.2023, 22:55</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Embroidery – 18 January 2023]]></title>
         <id>https://magazinelib.com/all/love-embroidery-18-january-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/metropol-18-january-2023/</id>
         <link href="https://magazinelib.com/all/metropol-18-january-2023/"/>
         <updated>2023-01-20T22:05:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/metropol-18-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/vFPbMNaqQnrEmiHV9YSgvS6shakGaVW4TYzy06ADjpPaMp1eW9jHaD4fIepSPwWwxdkXJikZ3ulmhkAMF2DAGnK9.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/vFPbMNaqQnrEmiHV9YSgvS6shakGaVW4TYzy06ADjpPaMp1eW9jHaD4fIepSPwWwxdkXJikZ3ulmhkAMF2DAGnK9.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/metropol-18-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/vFPbMNaqQnrEmiHV9YSgvS6shakGaVW4TYzy06ADjpPaMp1eW9jHaD4fIepSPwWwxdkXJikZ3ulmhkAMF2DAGnK9.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/vFPbMNaqQnrEmiHV9YSgvS6shakGaVW4TYzy06ADjpPaMp1eW9jHaD4fIepSPwWwxdkXJikZ3ulmhkAMF2DAGnK9.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-20T12:05:00">20.01.2023, 12:05</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone Life Magazine – January 2023]]></title>
-        <id>https://magazinelib.com/all/iphone-life-magazine-january-2023/</id>
-        <link href="https://magazinelib.com/all/iphone-life-magazine-january-2023/"/>
-        <updated>2023-01-20T11:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/iphone-life-magazine-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.80392157%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20662'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/UAAqCLgrFzFqahQQiNFeyQjE6cRALSu-IMZ53f2dDX30rgzegbLJNEN3ysuyIplSyk_v2ZnYXgBwsggNYN5M9el8.jpg" width="510" height="662"><noscript><img width="510" height="662" src="https://magazinelib.com/wp-content/uploads/2023/01/UAAqCLgrFzFqahQQiNFeyQjE6cRALSu-IMZ53f2dDX30rgzegbLJNEN3ysuyIplSyk_v2ZnYXgBwsggNYN5M9el8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/apple/" class="entry-category entry-category-item-7525">Apple</a>, <a href="https://magazinelib.com/apple/iphone/" class="entry-category entry-category-item-7595">Iphone</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/iphone-life-magazine-january-2023/" rel="bookmark">iPhone Life Magazine – January 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-20T11:40:00">20.01.2023, 11:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
