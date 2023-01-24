@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-24T07:25:27.834Z</updated>
+    <updated>2023-01-24T07:54:26.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Essex Life – January 2023]]></title>
+        <id>https://magazinelib.com/all/essex-life-january-2023/</id>
+        <link href="https://magazinelib.com/all/essex-life-january-2023/"/>
+        <updated>2023-01-24T10:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/essex-life-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/uB2dABANWKAVa4kxyubAnnge-q0E4JaD1zI0vygp588SCs_TiWfAw1oA62mp3LU8_crjyQzqawX8Pl1PUPy7UdXo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/01/uB2dABANWKAVa4kxyubAnnge-q0E4JaD1zI0vygp588SCs_TiWfAw1oA62mp3LU8_crjyQzqawX8Pl1PUPy7UdXo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/home-decor/" class="entry-category entry-category-item-8338">Home &amp; Decor</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/essex-life-january-2023/" rel="bookmark">Essex Life – January 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-24T10:20:00">24.01.2023, 10:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soap Opera Digest – January 30, 2023]]></title>
         <id>https://magazinelib.com/all/soap-opera-digest-january-30-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/love-tv-21-january-2023/</id>
         <link href="https://magazinelib.com/all/love-tv-21-january-2023/"/>
         <updated>2023-01-24T09:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/love-tv-21-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 114.50980392%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/wm3t2ZTKIJF7kX3Zl59GWncuXNIjNFq94nQod7DcWoBox24z6NDJBLxtdtmmhaxn8eRWwmAmCXVAfWyqmwRXfgVz.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="584"><noscript><img width="510" height="584" src="https://magazinelib.com/wp-content/uploads/2023/01/wm3t2ZTKIJF7kX3Zl59GWncuXNIjNFq94nQod7DcWoBox24z6NDJBLxtdtmmhaxn8eRWwmAmCXVAfWyqmwRXfgVz.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/love-tv-21-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 114.50980392%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20584'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/wm3t2ZTKIJF7kX3Zl59GWncuXNIjNFq94nQod7DcWoBox24z6NDJBLxtdtmmhaxn8eRWwmAmCXVAfWyqmwRXfgVz.jpg" width="510" height="584"><noscript><img width="510" height="584" src="https://magazinelib.com/wp-content/uploads/2023/01/wm3t2ZTKIJF7kX3Zl59GWncuXNIjNFq94nQod7DcWoBox24z6NDJBLxtdtmmhaxn8eRWwmAmCXVAfWyqmwRXfgVz.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-24T01:40:00">24.01.2023, 01:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newsweek USA – January 27, 2023]]></title>
-        <id>https://magazinelib.com/all/newsweek-usa-january-27-2023/</id>
-        <link href="https://magazinelib.com/all/newsweek-usa-january-27-2023/"/>
-        <updated>2023-01-24T01:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/newsweek-usa-january-27-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.21568627%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20659'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/mGHwCSutcdJqtrzl9dP9JaoAMvMCiec7HlqVdWFz9I-t2ujQNvFICMHUr4M7WdcvJQotTvlWTix3hRk7zz59PuhP.jpg" width="510" height="659"><noscript><img width="510" height="659" src="https://magazinelib.com/wp-content/uploads/2023/01/mGHwCSutcdJqtrzl9dP9JaoAMvMCiec7HlqVdWFz9I-t2ujQNvFICMHUr4M7WdcvJQotTvlWTix3hRk7zz59PuhP.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, <a href="https://magazinelib.com/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/newsweek-usa-january-27-2023/" rel="bookmark">Newsweek USA – January 27, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-24T01:20:00">24.01.2023, 01:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
