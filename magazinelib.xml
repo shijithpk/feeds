@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-01-27T19:53:43.505Z</updated>
+    <updated>2023-01-27T20:28:42.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Build It – March 2023]]></title>
+        <id>https://magazinelib.com/all/build-it-march-2023/</id>
+        <link href="https://magazinelib.com/all/build-it-march-2023/"/>
+        <updated>2023-01-27T22:55:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/build-it-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/s2UyMl32NWn8k2uRmVZCeBhTF8Rko8kO-ETz195UVMIuRdd1oqToO_bHLK0mhetVIar1SBH1oNOSndXn0i5JpDJN.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="724"><noscript><img width="510" height="724" src="https://magazinelib.com/wp-content/uploads/2023/01/s2UyMl32NWn8k2uRmVZCeBhTF8Rko8kO-ETz195UVMIuRdd1oqToO_bHLK0mhetVIar1SBH1oNOSndXn0i5JpDJN.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/building/" class="entry-category entry-category-item-8340">Building</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/build-it-march-2023/" rel="bookmark">Build It – March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-01-27T22:55:00">27.01.2023, 22:55</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OK! Magazine UK – Issue 1375 – 30 January 2023]]></title>
         <id>https://magazinelib.com/all/ok-magazine-uk-issue-1375-30-january-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/puzzler-suguru-january-2023/</id>
         <link href="https://magazinelib.com/all/puzzler-suguru-january-2023/"/>
         <updated>2023-01-27T22:05:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/puzzler-suguru-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.76470588%;"><img src="https://magazinelib.com/wp-content/uploads/2023/01/ZdS4tvSRKupq3pKh_whsCJZQwOII7GmuOjkYURxo_tuiSSe1NgCcSe8dA3YPwM7nyZOZHKoMoN9sfYAw53Ea1pJn.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="723"><noscript><img width="510" height="723" src="https://magazinelib.com/wp-content/uploads/2023/01/ZdS4tvSRKupq3pKh_whsCJZQwOII7GmuOjkYURxo_tuiSSe1NgCcSe8dA3YPwM7nyZOZHKoMoN9sfYAw53Ea1pJn.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/puzzler-suguru-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.76470588%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20723'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/ZdS4tvSRKupq3pKh_whsCJZQwOII7GmuOjkYURxo_tuiSSe1NgCcSe8dA3YPwM7nyZOZHKoMoN9sfYAw53Ea1pJn.jpg" width="510" height="723"><noscript><img width="510" height="723" src="https://magazinelib.com/wp-content/uploads/2023/01/ZdS4tvSRKupq3pKh_whsCJZQwOII7GmuOjkYURxo_tuiSSe1NgCcSe8dA3YPwM7nyZOZHKoMoN9sfYAw53Ea1pJn.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-01-27T12:05:00">27.01.2023, 12:05</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysterious Ways – February 2023]]></title>
-        <id>https://magazinelib.com/all/mysterious-ways-february-2023/</id>
-        <link href="https://magazinelib.com/all/mysterious-ways-february-2023/"/>
-        <updated>2023-01-27T11:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/mysterious-ways-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 155.88235294%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20795'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/01/r1XNkatE67KPK0T1K_m6yqpYqSc2tZYilG7TSqHoUQeTZ8MFEkC_5mCl_ZP0VZizbnpHVT9ePxJkR9Rg_mWASSEg.jpg" width="510" height="795"><noscript><img width="510" height="795" src="https://magazinelib.com/wp-content/uploads/2023/01/r1XNkatE67KPK0T1K_m6yqpYqSc2tZYilG7TSqHoUQeTZ8MFEkC_5mCl_ZP0VZizbnpHVT9ePxJkR9Rg_mWASSEg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/mysterious-ways-february-2023/" rel="bookmark">Mysterious Ways – February 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-01-27T11:40:00">27.01.2023, 11:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
