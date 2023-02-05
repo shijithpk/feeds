@@ -2,8 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shijithpk.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-05T10:53:30.949Z</updated>
+    <updated>2023-02-05T11:23:49.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AppleMagazine – February 03, 2023 (MagazineLib.com)]]></title>
+        <id>https://magazinelib.com/all/applemagazine-february-03-2023/</id>
+        <link href="https://magazinelib.com/all/applemagazine-february-03-2023/"/>
+        <updated>2023-02-05T13:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/applemagazine-february-03-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/Xs0aCcWUS7Mur8ch_NNViXAMfklheg0j6EPiN4ZsO2vLDmwWK90_Xp_mWfACFrkCAj8VV97Qlz8eJLt4jOxUB5_W.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/02/Xs0aCcWUS7Mur8ch_NNViXAMfklheg0j6EPiN4ZsO2vLDmwWK90_Xp_mWfACFrkCAj8VV97Qlz8eJLt4jOxUB5_W.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/apple/" class="entry-category entry-category-item-7525">Apple</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/applemagazine-february-03-2023/" rel="bookmark">AppleMagazine – February 03, 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-02-05T13:40:00">05.02.2023, 13:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nashville Lifestyles – February 2023 (MagazineLib.com)]]></title>
         <id>https://magazinelib.com/all/nashville-lifestyles-february-2023/</id>
@@ -32,7 +55,7 @@
         <id>https://magazinelib.com/all/cricket-february-2023/</id>
         <link href="https://magazinelib.com/all/cricket-february-2023/"/>
         <updated>2023-02-05T13:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/cricket-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.86274510%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/t822CMyyUryHlwTxsls9bUbPBizJT2xxNe0YsZUsoTfr9q97GZMQbzI1jwJNsLrxk9Zh2N6pecR9TZM8BKS3EzPO.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="647"><noscript><img width="510" height="647" src="https://magazinelib.com/wp-content/uploads/2023/02/t822CMyyUryHlwTxsls9bUbPBizJT2xxNe0YsZUsoTfr9q97GZMQbzI1jwJNsLrxk9Zh2N6pecR9TZM8BKS3EzPO.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/cricket-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.86274510%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20647'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/t822CMyyUryHlwTxsls9bUbPBizJT2xxNe0YsZUsoTfr9q97GZMQbzI1jwJNsLrxk9Zh2N6pecR9TZM8BKS3EzPO.jpg" width="510" height="647"><noscript><img width="510" height="647" src="https://magazinelib.com/wp-content/uploads/2023/02/t822CMyyUryHlwTxsls9bUbPBizJT2xxNe0YsZUsoTfr9q97GZMQbzI1jwJNsLrxk9Zh2N6pecR9TZM8BKS3EzPO.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -603,586 +626,563 @@
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motorsport News – February 02, 2023 (MagazineLib.com)]]></title>
-        <id>https://magazinelib.com/all/motorsport-news-february-02-2023/</id>
-        <link href="https://magazinelib.com/all/motorsport-news-february-02-2023/"/>
-        <updated>2023-02-05T04:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/motorsport-news-february-02-2023/"><span class="g1-frame-inner" style="padding-bottom: 119.21568627%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20608'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/HkdxQT_FVUP8dw_Zw1cUFoDS1zUq5JlcVEvVsylKfpPJBKPtJanuCWhE7GjMiVGCaQbgoKhNrVEv3crkOAt13KrQ.jpg" width="510" height="608"><noscript><img width="510" height="608" src="https://magazinelib.com/wp-content/uploads/2023/02/HkdxQT_FVUP8dw_Zw1cUFoDS1zUq5JlcVEvVsylKfpPJBKPtJanuCWhE7GjMiVGCaQbgoKhNrVEv3crkOAt13KrQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/auto-amp-moto/" class="entry-category entry-category-item-7316">Auto &amp; Moto</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, <a href="https://magazinelib.com/sport/" class="entry-category entry-category-item-7874">Sport</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/motorsport-news-february-02-2023/" rel="bookmark">Motorsport News – February 02, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-02-05T04:40:00">05.02.2023, 04:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023.02.01 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15219208/2023-02-01-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15219208/2023-02-01-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.170Z</updated>
+        <updated>2023-02-05T11:23:35.141Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2023.02.01 Weekly Pack" href="/torrent/15219208/2023-02-01-Weekly-Pack"><b>2023.02.01 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023.01.25 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15206222/2023-01-25-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15206222/2023-01-25-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.170Z</updated>
+        <updated>2023-02-05T11:23:35.144Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2023.01.25 Weekly Pack" href="/torrent/15206222/2023-01-25-Weekly-Pack"><b>2023.01.25 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023.01.18 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15200860/2023-01-18-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15200860/2023-01-18-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.171Z</updated>
+        <updated>2023-02-05T11:23:35.144Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2023.01.18 Weekly Pack" href="/torrent/15200860/2023-01-18-Weekly-Pack"><b>2023.01.18 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023.01.11 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15187440/2023-01-11-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15187440/2023-01-11-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.171Z</updated>
+        <updated>2023-02-05T11:23:35.157Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2023.01.11 Weekly Pack" href="/torrent/15187440/2023-01-11-Weekly-Pack"><b>2023.01.11 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023.01.04 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15178092/2023-01-04-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15178092/2023-01-04-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.171Z</updated>
+        <updated>2023-02-05T11:23:35.157Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2023.01.04 Weekly Pack" href="/torrent/15178092/2023-01-04-Weekly-Pack"><b>2023.01.04 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.12.28 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15171022/2022-12-28-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15171022/2022-12-28-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.171Z</updated>
+        <updated>2023-02-05T11:23:35.157Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.12.28 Weekly Pack" href="/torrent/15171022/2022-12-28-Weekly-Pack"><b>2022.12.28 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.12.21 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15161472/2022-12-21-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15161472/2022-12-21-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.171Z</updated>
+        <updated>2023-02-05T11:23:35.168Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.12.21 Weekly Pack" href="/torrent/15161472/2022-12-21-Weekly-Pack"><b>2022.12.21 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.12.14 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15151568/2022-12-14-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15151568/2022-12-14-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.171Z</updated>
+        <updated>2023-02-05T11:23:35.168Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.12.14 Weekly Pack" href="/torrent/15151568/2022-12-14-Weekly-Pack"><b>2022.12.14 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.12.07 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15143955/2022-12-07-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15143955/2022-12-07-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.186Z</updated>
+        <updated>2023-02-05T11:23:35.168Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.12.07 Weekly Pack" href="/torrent/15143955/2022-12-07-Weekly-Pack"><b>2022.12.07 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.30 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15132820/2022-11-30-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15132820/2022-11-30-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.186Z</updated>
+        <updated>2023-02-05T11:23:35.168Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.11.30 Weekly Pack" href="/torrent/15132820/2022-11-30-Weekly-Pack"><b>2022.11.30 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.23 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15124243/2022-11-23-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15124243/2022-11-23-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.187Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.11.23 Weekly Pack" href="/torrent/15124243/2022-11-23-Weekly-Pack"><b>2022.11.23 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.16 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15112336/2022-11-16-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15112336/2022-11-16-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.187Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.11.16 Weekly Pack" href="/torrent/15112336/2022-11-16-Weekly-Pack"><b>2022.11.16 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.09 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15104677/2022-11-09-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15104677/2022-11-09-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.187Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.11.09 Weekly Pack" href="/torrent/15104677/2022-11-09-Weekly-Pack"><b>2022.11.09 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.11.02 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15094118/2022-11-02-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15094118/2022-11-02-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.187Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.11.02 Weekly Pack" href="/torrent/15094118/2022-11-02-Weekly-Pack"><b>2022.11.02 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.10.26 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15084634/2022-10-26-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15084634/2022-10-26-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.188Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.10.26 Weekly Pack" href="/torrent/15084634/2022-10-26-Weekly-Pack"><b>2022.10.26 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.10.19 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15084630/2022-10-19-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15084630/2022-10-19-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.188Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.10.19 Weekly Pack" href="/torrent/15084630/2022-10-19-Weekly-Pack"><b>2022.10.19 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.10.12 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15058477/2022-10-12-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15058477/2022-10-12-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.188Z</updated>
+        <updated>2023-02-05T11:23:35.170Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.10.12 Weekly Pack" href="/torrent/15058477/2022-10-12-Weekly-Pack"><b>2022.10.12 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.10.05 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15048599/2022-10-05-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15048599/2022-10-05-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.193Z</updated>
+        <updated>2023-02-05T11:23:35.171Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.10.05 Weekly Pack" href="/torrent/15048599/2022-10-05-Weekly-Pack"><b>2022.10.05 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Complete Spider-Man 616 Universe (Reading Order Collection) (1962-2017) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15047724/The-Complete-Spider-Man-616-Universe--Reading-Order-Collection---1962-2017-</id>
         <link href="https://torrentgalaxy.mx/torrent/15047724/The-Complete-Spider-Man-616-Universe--Reading-Order-Collection---1962-2017-"/>
-        <updated>2023-02-05T10:53:17.193Z</updated>
+        <updated>2023-02-05T11:23:35.173Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="The Complete Spider-Man 616 Universe (Reading Order Collection) (1962-2017)" href="/torrent/15047724/The-Complete-Spider-Man-616-Universe--Reading-Order-Collection---1962-2017-"><b>The Complete Spider-Man 616 Universe (Reading Order Collection) (1962-2017)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cracked Magazine Missing Issues (Complete) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15042007/Cracked-Magazine-Missing-Issues--Complete-</id>
         <link href="https://torrentgalaxy.mx/torrent/15042007/Cracked-Magazine-Missing-Issues--Complete-"/>
-        <updated>2023-02-05T10:53:17.194Z</updated>
+        <updated>2023-02-05T11:23:35.174Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="Cracked Magazine Missing Issues (Complete)" href="/torrent/15042007/Cracked-Magazine-Missing-Issues--Complete-"><b>Cracked Magazine Missing Issues (Complete)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warrior Nun (Collection + Extras) (1994-2020) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15040751/Warrior-Nun--Collection---Extras---1994-2020-</id>
         <link href="https://torrentgalaxy.mx/torrent/15040751/Warrior-Nun--Collection---Extras---1994-2020-"/>
-        <updated>2023-02-05T10:53:17.195Z</updated>
+        <updated>2023-02-05T11:23:35.175Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="Warrior Nun (Collection + Extras) (1994-2020)" href="/torrent/15040751/Warrior-Nun--Collection---Extras---1994-2020-"><b>Warrior Nun (Collection + Extras) (1994-2020)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.09.28 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15038261/2022-09-28-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15038261/2022-09-28-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.195Z</updated>
+        <updated>2023-02-05T11:23:35.177Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.09.28 Weekly Pack" href="/torrent/15038261/2022-09-28-Weekly-Pack"><b>2022.09.28 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wonder Woman Vol. 2 #0 - 226 + Extras (1987-2006) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15028801/Wonder-Woman-Vol--2--0---226---Extras--1987-2006-</id>
         <link href="https://torrentgalaxy.mx/torrent/15028801/Wonder-Woman-Vol--2--0---226---Extras--1987-2006-"/>
-        <updated>2023-02-05T10:53:17.197Z</updated>
+        <updated>2023-02-05T11:23:35.177Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="Wonder Woman Vol. 2 #0 - 226 + Extras (1987-2006)" href="/torrent/15028801/Wonder-Woman-Vol--2--0---226---Extras--1987-2006-"><b>Wonder Woman Vol. 2 #0 - 226 + Extras (1987-2006)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.09.21 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15028297/2022-09-21-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15028297/2022-09-21-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.198Z</updated>
+        <updated>2023-02-05T11:23:35.183Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.09.21 Weekly Pack" href="/torrent/15028297/2022-09-21-Weekly-Pack"><b>2022.09.21 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Detective Comics #1 - 881 (1937-2011) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15028174/Detective-Comics--1---881--1937-2011-</id>
         <link href="https://torrentgalaxy.mx/torrent/15028174/Detective-Comics--1---881--1937-2011-"/>
-        <updated>2023-02-05T10:53:17.199Z</updated>
+        <updated>2023-02-05T11:23:35.184Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="Detective Comics #1 - 881 (1937-2011)" href="/torrent/15028174/Detective-Comics--1---881--1937-2011-"><b>Detective Comics #1 - 881 (1937-2011)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.09.14 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15017282/2022-09-14-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15017282/2022-09-14-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.202Z</updated>
+        <updated>2023-02-05T11:23:35.187Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.09.14 Weekly Pack" href="/torrent/15017282/2022-09-14-Weekly-Pack"><b>2022.09.14 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.09.07 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/15008363/2022-09-07-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/15008363/2022-09-07-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.205Z</updated>
+        <updated>2023-02-05T11:23:35.187Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.09.07 Weekly Pack" href="/torrent/15008363/2022-09-07-Weekly-Pack"><b>2022.09.07 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.08.31 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14999266/2022-08-31-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14999266/2022-08-31-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.206Z</updated>
+        <updated>2023-02-05T11:23:35.187Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.08.31 Weekly Pack" href="/torrent/14999266/2022-08-31-Weekly-Pack"><b>2022.08.31 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.08.24 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14990825/2022-08-24-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14990825/2022-08-24-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.207Z</updated>
+        <updated>2023-02-05T11:23:35.188Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.08.24 Weekly Pack" href="/torrent/14990825/2022-08-24-Weekly-Pack"><b>2022.08.24 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Star Wars Fact File (Collection) (2001-2015) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14984351/Star-Wars-Fact-File--Collection---2001-2015-</id>
         <link href="https://torrentgalaxy.mx/torrent/14984351/Star-Wars-Fact-File--Collection---2001-2015-"/>
-        <updated>2023-02-05T10:53:17.207Z</updated>
+        <updated>2023-02-05T11:23:35.189Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="Star Wars Fact File (Collection) (2001-2015)" href="/torrent/14984351/Star-Wars-Fact-File--Collection---2001-2015-"><b>Star Wars Fact File (Collection) (2001-2015)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.08.17 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14981609/2022-08-17-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14981609/2022-08-17-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.208Z</updated>
+        <updated>2023-02-05T11:23:35.189Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.08.17 Weekly Pack" href="/torrent/14981609/2022-08-17-Weekly-Pack"><b>2022.08.17 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deadly Hands of Kung Fu Vol. 1 #1 - 33 (1974-1977) (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14974812/Deadly-Hands-of-Kung-Fu-Vol--1--1---33--1974-1977-</id>
         <link href="https://torrentgalaxy.mx/torrent/14974812/Deadly-Hands-of-Kung-Fu-Vol--1--1---33--1974-1977-"/>
-        <updated>2023-02-05T10:53:17.209Z</updated>
+        <updated>2023-02-05T11:23:35.190Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="Deadly Hands of Kung Fu Vol. 1 #1 - 33 (1974-1977)" href="/torrent/14974812/Deadly-Hands-of-Kung-Fu-Vol--1--1---33--1974-1977-"><b>Deadly Hands of Kung Fu Vol. 1 #1 - 33 (1974-1977)</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.08.10 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14972415/2022-08-10-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14972415/2022-08-10-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.210Z</updated>
+        <updated>2023-02-05T11:23:35.192Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.08.10 Weekly Pack" href="/torrent/14972415/2022-08-10-Weekly-Pack"><b>2022.08.10 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.08.03 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14964588/2022-08-03-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14964588/2022-08-03-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.211Z</updated>
+        <updated>2023-02-05T11:23:35.193Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.08.03 Weekly Pack" href="/torrent/14964588/2022-08-03-Weekly-Pack"><b>2022.08.03 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.07.27 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14955720/2022-07-27-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14955720/2022-07-27-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.211Z</updated>
+        <updated>2023-02-05T11:23:35.194Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.07.27 Weekly Pack" href="/torrent/14955720/2022-07-27-Weekly-Pack"><b>2022.07.27 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.07.20 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14947781/2022-07-20-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14947781/2022-07-20-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.212Z</updated>
+        <updated>2023-02-05T11:23:35.195Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.07.20 Weekly Pack" href="/torrent/14947781/2022-07-20-Weekly-Pack"><b>2022.07.20 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.07.13 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14939523/2022-07-13-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14939523/2022-07-13-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.212Z</updated>
+        <updated>2023-02-05T11:23:35.195Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.07.13 Weekly Pack" href="/torrent/14939523/2022-07-13-Weekly-Pack"><b>2022.07.13 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.07.06 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14937092/2022-07-06-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14937092/2022-07-06-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.213Z</updated>
+        <updated>2023-02-05T11:23:35.196Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.07.06 Weekly Pack" href="/torrent/14937092/2022-07-06-Weekly-Pack"><b>2022.07.06 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.06.29 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14919394/2022-06-29-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14919394/2022-06-29-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.213Z</updated>
+        <updated>2023-02-05T11:23:35.196Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.06.29 Weekly Pack" href="/torrent/14919394/2022-06-29-Weekly-Pack"><b>2022.06.29 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022.06.22 Weekly Pack (getcomics.info)]]></title>
         <id>https://torrentgalaxy.mx/torrent/14909344/2022-06-22-Weekly-Pack</id>
         <link href="https://torrentgalaxy.mx/torrent/14909344/2022-06-22-Weekly-Pack"/>
-        <updated>2023-02-05T10:53:17.214Z</updated>
+        <updated>2023-02-05T11:23:35.197Z</updated>
         <content type="html"><![CDATA[<div><a class="txlight" title="2022.06.22 Weekly Pack" href="/torrent/14909344/2022-06-22-Weekly-Pack"><b>2022.06.22 Weekly Pack</b></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Phoenix Omnibus v01 (2022) (Digital) (Kileko-Empire).cbz (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5541285/Phoenix-Omnibus-v01-2022-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5541285/Phoenix-Omnibus-v01-2022-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.204Z</updated>
+        <updated>2023-02-05T11:23:40.365Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5541285/Phoenix-Omnibus-v01-2022-Digital-Kileko-Empire-cbz-Nem/">Phoenix Omnibus v01 (2022) (Digital) (Kileko-Empire).cbz (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Star Wars - Doctor Aphra Omnibus v01 (2021) (Digital) (Kileko-Empire).cbz (- Nem... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5541272/Star-Wars-Doctor-Aphra-Omnibus-v01-2021-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5541272/Star-Wars-Doctor-Aphra-Omnibus-v01-2021-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.205Z</updated>
+        <updated>2023-02-05T11:23:40.367Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5541272/Star-Wars-Doctor-Aphra-Omnibus-v01-2021-Digital-Kileko-Empire-cbz-Nem/">Star Wars - Doctor Aphra Omnibus v01 (2021) (Digital) (Kileko-Empire).cbz (- Nem...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wolverine & The X-Men by Jason Aaron Omnibus (2014) (Digital) (Kileko-Empire).cb... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5541259/Wolverine-The-X-Men-by-Jason-Aaron-Omnibus-2014-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5541259/Wolverine-The-X-Men-by-Jason-Aaron-Omnibus-2014-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.205Z</updated>
+        <updated>2023-02-05T11:23:40.371Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5541259/Wolverine-The-X-Men-by-Jason-Aaron-Omnibus-2014-Digital-Kileko-Empire-cbz-Nem/">Wolverine &amp; The X-Men by Jason Aaron Omnibus (2014) (Digital) (Kileko-Empire).cb...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Luke Cage Omnibus (2022) (digital-Empire).cbr (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5541224/Luke-Cage-Omnibus-2022-digital-Empire-cbr-Nem/</id>
         <link href="https://1337x.to/torrent/5541224/Luke-Cage-Omnibus-2022-digital-Empire-cbr-Nem/"/>
-        <updated>2023-02-05T10:53:22.206Z</updated>
+        <updated>2023-02-05T11:23:40.372Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5541224/Luke-Cage-Omnibus-2022-digital-Empire-cbr-Nem/">Luke Cage Omnibus (2022) (digital-Empire).cbr (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moon Knight Omnibus (v01-v02) (2022) (digital) (danke-Empire) (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5541217/Moon-Knight-Omnibus-v01-v02-2022-digital-danke-Empire-Nem/</id>
         <link href="https://1337x.to/torrent/5541217/Moon-Knight-Omnibus-v01-v02-2022-digital-danke-Empire-Nem/"/>
-        <updated>2023-02-05T10:53:22.207Z</updated>
+        <updated>2023-02-05T11:23:40.376Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5541217/Moon-Knight-Omnibus-v01-v02-2022-digital-danke-Empire-Nem/">Moon Knight Omnibus (v01-v02) (2022) (digital) (danke-Empire) (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Star Wars Legends - The New Republic Omnibus v01 (2023) (Digital) (Kileko-Empire... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5541156/Star-Wars-Legends-The-New-Republic-Omnibus-v01-2023-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5541156/Star-Wars-Legends-The-New-Republic-Omnibus-v01-2023-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.207Z</updated>
+        <updated>2023-02-05T11:23:40.377Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5541156/Star-Wars-Legends-The-New-Republic-Omnibus-v01-2023-Digital-Kileko-Empire-cbz-Nem/">Star Wars Legends - The New Republic Omnibus v01 (2023) (Digital) (Kileko-Empire...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazing Spider-Man Epic Collection v24 - Invasion of the Spider-Slayers (2023) (... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5539912/Amazing-Spider-Man-Epic-Collection-v24-Invasion-of-the-Spider-Slayers-2023-digital-SD-Dakota-Scanning-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5539912/Amazing-Spider-Man-Epic-Collection-v24-Invasion-of-the-Spider-Slayers-2023-digital-SD-Dakota-Scanning-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.208Z</updated>
+        <updated>2023-02-05T11:23:40.381Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5539912/Amazing-Spider-Man-Epic-Collection-v24-Invasion-of-the-Spider-Slayers-2023-digital-SD-Dakota-Scanning-cbz-Nem/">Amazing Spider-Man Epic Collection v24 - Invasion of the Spider-Slayers (2023) (...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazing Spider-Man Epic Collection v23 - The Hero Killers (2023) (digital-SD) (D... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5539906/Amazing-Spider-Man-Epic-Collection-v23-The-Hero-Killers-2023-digital-SD-Dakota-Scanning-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5539906/Amazing-Spider-Man-Epic-Collection-v23-The-Hero-Killers-2023-digital-SD-Dakota-Scanning-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.208Z</updated>
+        <updated>2023-02-05T11:23:40.381Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5539906/Amazing-Spider-Man-Epic-Collection-v23-The-Hero-Killers-2023-digital-SD-Dakota-Scanning-cbz-Nem/">Amazing Spider-Man Epic Collection v23 - The Hero Killers (2023) (digital-SD) (D...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Black Panther - The Early Years Omnibus v01 (2022) (digital-Empire).cbr (- Nem -... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5539902/Black-Panther-The-Early-Years-Omnibus-v01-2022-digital-Empire-cbr-Nem/</id>
         <link href="https://1337x.to/torrent/5539902/Black-Panther-The-Early-Years-Omnibus-v01-2022-digital-Empire-cbr-Nem/"/>
-        <updated>2023-02-05T10:53:22.209Z</updated>
+        <updated>2023-02-05T11:23:40.381Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5539902/Black-Panther-The-Early-Years-Omnibus-v01-2022-digital-Empire-cbr-Nem/">Black Panther - The Early Years Omnibus v01 (2022) (digital-Empire).cbr (- Nem -...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kang - The Saga of the Once and Future Conqueror (2023) (digital-SD) (Dakota Sca... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5539884/Kang-The-Saga-of-the-Once-and-Future-Conqueror-2023-digital-SD-Dakota-Scanning-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5539884/Kang-The-Saga-of-the-Once-and-Future-Conqueror-2023-digital-SD-Dakota-Scanning-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.209Z</updated>
+        <updated>2023-02-05T11:23:40.383Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5539884/Kang-The-Saga-of-the-Once-and-Future-Conqueror-2023-digital-SD-Dakota-Scanning-cbz-Nem/">Kang - The Saga of the Once and Future Conqueror (2023) (digital-SD) (Dakota Sca...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[X-Men-Avengers - Onslaught Omnibus (2015) (Digital) (Kileko-Empire).cbz (- Nem -... (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5539879/X-Men-Avengers-Onslaught-Omnibus-2015-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5539879/X-Men-Avengers-Onslaught-Omnibus-2015-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.210Z</updated>
+        <updated>2023-02-05T11:23:40.384Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5539879/X-Men-Avengers-Onslaught-Omnibus-2015-Digital-Kileko-Empire-cbz-Nem/">X-Men-Avengers - Onslaught Omnibus (2015) (Digital) (Kileko-Empire).cbz (- Nem -...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[King In Black Omnibus (2023) (Digital) (Kileko-Empire).cbz (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5539869/King-In-Black-Omnibus-2023-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5539869/King-In-Black-Omnibus-2023-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.211Z</updated>
+        <updated>2023-02-05T11:23:40.385Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5539869/King-In-Black-Omnibus-2023-Digital-Kileko-Empire-cbz-Nem/">King In Black Omnibus (2023) (Digital) (Kileko-Empire).cbz (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rivers of London (v1-v6,TPBs v01-v10+) (2015-2022) (digital-Empire+) (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5538962/Rivers-of-London-v1-v6-TPBs-v01-v10-2015-2022-digital-Empire-Nem/</id>
         <link href="https://1337x.to/torrent/5538962/Rivers-of-London-v1-v6-TPBs-v01-v10-2015-2022-digital-Empire-Nem/"/>
-        <updated>2023-02-05T10:53:22.211Z</updated>
+        <updated>2023-02-05T11:23:40.387Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5538962/Rivers-of-London-v1-v6-TPBs-v01-v10-2015-2022-digital-Empire-Nem/">Rivers of London (v1-v6,TPBs v01-v10+) (2015-2022) (digital-Empire+) (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Venomnibus (v01-v03) (2018-2020) (digital) (Kileko-Empire) (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5538610/Venomnibus-v01-v03-2018-2020-digital-Kileko-Empire-Nem/</id>
         <link href="https://1337x.to/torrent/5538610/Venomnibus-v01-v03-2018-2020-digital-Kileko-Empire-Nem/"/>
-        <updated>2023-02-05T10:53:22.212Z</updated>
+        <updated>2023-02-05T11:23:40.388Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5538610/Venomnibus-v01-v03-2018-2020-digital-Kileko-Empire-Nem/">Venomnibus (v01-v03) (2018-2020) (digital) (Kileko-Empire) (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Image Week (02-01-2023) (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5538533/Image-Week-02-01-2023-Nem/</id>
         <link href="https://1337x.to/torrent/5538533/Image-Week-02-01-2023-Nem/"/>
-        <updated>2023-02-05T10:53:22.212Z</updated>
+        <updated>2023-02-05T11:23:40.390Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5538533/Image-Week-02-01-2023-Nem/">Image Week (02-01-2023) (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marvel Week+ (02-01-2023) (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5538520/Marvel-Week-02-01-2023-Nem/</id>
         <link href="https://1337x.to/torrent/5538520/Marvel-Week-02-01-2023-Nem/"/>
-        <updated>2023-02-05T10:53:22.213Z</updated>
+        <updated>2023-02-05T11:23:40.391Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5538520/Marvel-Week-02-01-2023-Nem/">Marvel Week+ (02-01-2023) (- Nem -)</a><span class="comments"><i class="flaticon-message"></i>2</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Batman - The Widening Gyre (2010) (digital) (Son of Ultron-Empire).cbr (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5538441/Batman-The-Widening-Gyre-2010-digital-Son-of-Ultron-Empire-cbr-Nem/</id>
         <link href="https://1337x.to/torrent/5538441/Batman-The-Widening-Gyre-2010-digital-Son-of-Ultron-Empire-cbr-Nem/"/>
-        <updated>2023-02-05T10:53:22.214Z</updated>
+        <updated>2023-02-05T11:23:40.392Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5538441/Batman-The-Widening-Gyre-2010-digital-Son-of-Ultron-Empire-cbr-Nem/">Batman - The Widening Gyre (2010) (digital) (Son of Ultron-Empire).cbr (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Absolute Carnage Omnibus (2020) (Digital) (Kileko-Empire).cbz (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5538438/Absolute-Carnage-Omnibus-2020-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5538438/Absolute-Carnage-Omnibus-2020-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.215Z</updated>
+        <updated>2023-02-05T11:23:40.394Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5538438/Absolute-Carnage-Omnibus-2020-Digital-Kileko-Empire-cbz-Nem/">Absolute Carnage Omnibus (2020) (Digital) (Kileko-Empire).cbz (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[House Of M Omnibus (2023) (Digital) (Kileko-Empire).cbz (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5537460/House-Of-M-Omnibus-2023-Digital-Kileko-Empire-cbz-Nem/</id>
         <link href="https://1337x.to/torrent/5537460/House-Of-M-Omnibus-2023-Digital-Kileko-Empire-cbz-Nem/"/>
-        <updated>2023-02-05T10:53:22.215Z</updated>
+        <updated>2023-02-05T11:23:40.396Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5537460/House-Of-M-Omnibus-2023-Digital-Kileko-Empire-cbz-Nem/">House Of M Omnibus (2023) (Digital) (Kileko-Empire).cbz (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wolverine Omnibus (v01-v03) (2020-2023) (digital) (Kileko-Empire) (- Nem -) (Nem43 on 1337)]]></title>
         <id>https://1337x.to/torrent/5537451/Wolverine-Omnibus-v01-v03-2020-2023-digital-Kileko-Empire-Nem/</id>
         <link href="https://1337x.to/torrent/5537451/Wolverine-Omnibus-v01-v03-2020-2023-digital-Kileko-Empire-Nem/"/>
-        <updated>2023-02-05T10:53:22.217Z</updated>
+        <updated>2023-02-05T11:23:40.396Z</updated>
         <content type="html"><![CDATA[<a href="/sub/39/0/" class="icon"><i class="flaticon-comics"></i></a><a href="/torrent/5537451/Wolverine-Omnibus-v01-v03-2020-2023-digital-Kileko-Empire-Nem/">Wolverine Omnibus (v01-v03) (2020-2023) (digital) (Kileko-Empire) (- Nem -)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask Morningstar: Looking for small-cap options (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72673/ask-morningstar-looking-for-small-cap-options.aspx</id>
         <link href="https://www.morningstar.in/posts/72673/ask-morningstar-looking-for-small-cap-options.aspx"/>
-        <updated>2023-02-05T10:53:30.377Z</updated>
+        <updated>2023-02-05T11:23:48.692Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72673/ask-morningstar-looking-for-small-cap-options.aspx" title="Ask Morningstar: Looking for small-cap options">Ask Morningstar: Looking for small-cap options</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Union Budget 2023: A quick overview for investors (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72659/union-budget-2023-a-quick-overview-for-investors.aspx</id>
         <link href="https://www.morningstar.in/posts/72659/union-budget-2023-a-quick-overview-for-investors.aspx"/>
-        <updated>2023-02-05T10:53:30.383Z</updated>
+        <updated>2023-02-05T11:23:48.694Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72659/union-budget-2023-a-quick-overview-for-investors.aspx" title="Union Budget 2023: A quick overview for investors">Union Budget 2023: A quick overview for investors</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Madoff Netflix Special: Lessons for Investors (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72652/the-madoff-netflix-special-lessons-for-investors.aspx</id>
         <link href="https://www.morningstar.in/posts/72652/the-madoff-netflix-special-lessons-for-investors.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.697Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72652/the-madoff-netflix-special-lessons-for-investors.aspx" title="The Madoff Netflix Special: Lessons for Investors">The Madoff Netflix Special: Lessons for Investors</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Madoff Netflix Special: Lessons for Investors (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72652/the-madoff-netflix-special-lessons-for-investors.aspx</id>
         <link href="https://www.morningstar.in/posts/72652/the-madoff-netflix-special-lessons-for-investors.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.698Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72652/the-madoff-netflix-special-lessons-for-investors.aspx" title="The Madoff Netflix Special: Lessons for Investors">The Madoff Netflix Special: Lessons for Investors</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mutual Funds with exposure to Adani group companies (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx</id>
         <link href="https://www.morningstar.in/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.699Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx" title="Mutual Funds with exposure to Adani group companies">Mutual Funds with exposure to Adani group companies</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mutual Funds with exposure to Adani group companies (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx</id>
         <link href="https://www.morningstar.in/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.714Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx" title="Mutual Funds with exposure to Adani group companies">Mutual Funds with exposure to Adani group companies</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mutual Funds with exposure to Adani group companies (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx</id>
         <link href="https://www.morningstar.in/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.715Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72642/mutual-funds-with-exposure-to-adani-group-companies.aspx" title="Mutual Funds with exposure to Adani group companies">Mutual Funds with exposure to Adani group companies</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Do NOT compare ELSS with PPF (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72618/do-not-compare-elss-with-ppf.aspx</id>
         <link href="https://www.morningstar.in/posts/72618/do-not-compare-elss-with-ppf.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.718Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72618/do-not-compare-elss-with-ppf.aspx" title="Do NOT compare ELSS with PPF">Do NOT compare ELSS with PPF</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Do NOT compare ELSS with PPF (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72618/do-not-compare-elss-with-ppf.aspx</id>
         <link href="https://www.morningstar.in/posts/72618/do-not-compare-elss-with-ppf.aspx"/>
-        <updated>2023-02-05T10:53:30.384Z</updated>
+        <updated>2023-02-05T11:23:48.719Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72618/do-not-compare-elss-with-ppf.aspx" title="Do NOT compare ELSS with PPF">Do NOT compare ELSS with PPF</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why every investor must understand Position Sizing (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72579/why-every-investor-must-understand-position-sizing.aspx</id>
         <link href="https://www.morningstar.in/posts/72579/why-every-investor-must-understand-position-sizing.aspx"/>
-        <updated>2023-02-05T10:53:30.385Z</updated>
+        <updated>2023-02-05T11:23:48.720Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72579/why-every-investor-must-understand-position-sizing.aspx" title="Why every investor must understand Position Sizing">Why every investor must understand Position Sizing</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Which funds have Adani Group stocks? (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72604/which-funds-have-adani-group-stocks.aspx</id>
         <link href="https://www.morningstar.in/posts/72604/which-funds-have-adani-group-stocks.aspx"/>
-        <updated>2023-02-05T10:53:30.386Z</updated>
+        <updated>2023-02-05T11:23:48.721Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72604/which-funds-have-adani-group-stocks.aspx" title="Which funds have Adani Group stocks?">Which funds have Adani Group stocks?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data: Adani Stocks held by funds (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72588/adani-stocks-held-by-funds-snapshot.aspx</id>
         <link href="https://www.morningstar.in/posts/72588/adani-stocks-held-by-funds-snapshot.aspx"/>
-        <updated>2023-02-05T10:53:30.387Z</updated>
+        <updated>2023-02-05T11:23:48.723Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72588/adani-stocks-held-by-funds-snapshot.aspx" title="Data: Adani Stocks held by funds">Data: Adani Stocks held by funds</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data: Adani Stocks held by funds (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72588/adani-stocks-held-by-funds-snapshot.aspx</id>
         <link href="https://www.morningstar.in/posts/72588/adani-stocks-held-by-funds-snapshot.aspx"/>
-        <updated>2023-02-05T10:53:30.388Z</updated>
+        <updated>2023-02-05T11:23:48.724Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72588/adani-stocks-held-by-funds-snapshot.aspx" title="Data: Adani Stocks held by funds">Data: Adani Stocks held by funds</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Read this if you want to be a trader (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72564/read-this-if-you-want-to-be-a-trader.aspx</id>
         <link href="https://www.morningstar.in/posts/72564/read-this-if-you-want-to-be-a-trader.aspx"/>
-        <updated>2023-02-05T10:53:30.389Z</updated>
+        <updated>2023-02-05T11:23:48.725Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72564/read-this-if-you-want-to-be-a-trader.aspx" title="Read this if you want to be a trader">Read this if you want to be a trader</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Read this if you want to be a trader (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72564/read-this-if-you-want-to-be-a-trader.aspx</id>
         <link href="https://www.morningstar.in/posts/72564/read-this-if-you-want-to-be-a-trader.aspx"/>
-        <updated>2023-02-05T10:53:30.391Z</updated>
+        <updated>2023-02-05T11:23:48.726Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72564/read-this-if-you-want-to-be-a-trader.aspx" title="Read this if you want to be a trader">Read this if you want to be a trader</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why senior citizens are not renewing their Mediclaim policies (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72554/why-senior-citizens-are-not-renewing-their-mediclaim-policies.aspx</id>
         <link href="https://www.morningstar.in/posts/72554/why-senior-citizens-are-not-renewing-their-mediclaim-policies.aspx"/>
-        <updated>2023-02-05T10:53:30.392Z</updated>
+        <updated>2023-02-05T11:23:48.728Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72554/why-senior-citizens-are-not-renewing-their-mediclaim-policies.aspx" title="Why senior citizens are not renewing their Mediclaim policies">Why senior citizens are not renewing their Mediclaim policies</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask Morningstar: Taking a risky bet (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72539/ask-morningstar-taking-a-risky-bet.aspx</id>
         <link href="https://www.morningstar.in/posts/72539/ask-morningstar-taking-a-risky-bet.aspx"/>
-        <updated>2023-02-05T10:53:30.393Z</updated>
+        <updated>2023-02-05T11:23:48.729Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72539/ask-morningstar-taking-a-risky-bet.aspx" title="Ask Morningstar: Taking a risky bet">Ask Morningstar: Taking a risky bet</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask Morningstar: What do you do when your savings get wiped out? (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72516/ask-morningstar-what-do-you-do-when-your-savings-get-wiped-out.aspx</id>
         <link href="https://www.morningstar.in/posts/72516/ask-morningstar-what-do-you-do-when-your-savings-get-wiped-out.aspx"/>
-        <updated>2023-02-05T10:53:30.394Z</updated>
+        <updated>2023-02-05T11:23:48.731Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72516/ask-morningstar-what-do-you-do-when-your-savings-get-wiped-out.aspx" title="Ask Morningstar: What do you do when your savings get wiped out?">Ask Morningstar: What do you do when your savings get wiped out?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4 suggestions for couples who argue over money (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72528/4-suggestions-for-couples-who-argue-over-money.aspx</id>
         <link href="https://www.morningstar.in/posts/72528/4-suggestions-for-couples-who-argue-over-money.aspx"/>
-        <updated>2023-02-05T10:53:30.395Z</updated>
+        <updated>2023-02-05T11:23:48.732Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72528/4-suggestions-for-couples-who-argue-over-money.aspx" title="4 suggestions for couples who argue over money">4 suggestions for couples who argue over money</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask Morningstar: Some good funds to add to a portfolio (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/72500/ask-morningstar-some-good-funds-to-add-to-a-portfolio.aspx</id>
         <link href="https://www.morningstar.in/posts/72500/ask-morningstar-some-good-funds-to-add-to-a-portfolio.aspx"/>
-        <updated>2023-02-05T10:53:30.397Z</updated>
+        <updated>2023-02-05T11:23:48.733Z</updated>
         <content type="html"><![CDATA[<a href="/posts/72500/ask-morningstar-some-good-funds-to-add-to-a-portfolio.aspx" title="Ask Morningstar: Some good funds to add to a portfolio">Ask Morningstar: Some good funds to add to a portfolio</a>]]></content>
     </entry>
 </feed>
