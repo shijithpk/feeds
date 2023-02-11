@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-02-11T19:23:43.964Z</updated>
+    <updated>2023-02-11T19:53:49.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Engineering in Miniature – March 2023]]></title>
+        <id>https://magazinelib.com/all/engineering-in-miniature-march-2023/</id>
+        <link href="https://magazinelib.com/all/engineering-in-miniature-march-2023/"/>
+        <updated>2023-02-11T22:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/engineering-in-miniature-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.56862745%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/zvv-n9NZso8dxP1vNC8cayj-8Y-Hy-tvrhDl7nynRzbEQdfx2ll38Dgr8217LN7MpZdf_kX1fLD3kXUQUPrGuqd0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="722"><noscript><img width="510" height="722" src="https://magazinelib.com/wp-content/uploads/2023/02/zvv-n9NZso8dxP1vNC8cayj-8Y-Hy-tvrhDl7nynRzbEQdfx2ll38Dgr8217LN7MpZdf_kX1fLD3kXUQUPrGuqd0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/technology/" class="entry-category entry-category-item-8413">Technology</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/engineering-in-miniature-march-2023/" rel="bookmark">Engineering in Miniature – March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-02-11T22:20:00">11.02.2023, 22:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Zealand Listener – February 11, 2023]]></title>
         <id>https://magazinelib.com/all/new-zealand-listener-february-11-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/grazia-uk-07-february-2023/</id>
         <link href="https://magazinelib.com/all/grazia-uk-07-february-2023/"/>
         <updated>2023-02-11T21:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/grazia-uk-07-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/GeNDE526WoaVL_qorVhSJ2xu3a3eV0BMeMMI5je5RSn_7sj-oOcprp0wiMIhzVoKNr1uQ92NSpkcSybwkBXO-I8M.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2023/02/GeNDE526WoaVL_qorVhSJ2xu3a3eV0BMeMMI5je5RSn_7sj-oOcprp0wiMIhzVoKNr1uQ92NSpkcSybwkBXO-I8M.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/grazia-uk-07-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20665'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/GeNDE526WoaVL_qorVhSJ2xu3a3eV0BMeMMI5je5RSn_7sj-oOcprp0wiMIhzVoKNr1uQ92NSpkcSybwkBXO-I8M.jpg" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2023/02/GeNDE526WoaVL_qorVhSJ2xu3a3eV0BMeMMI5je5RSn_7sj-oOcprp0wiMIhzVoKNr1uQ92NSpkcSybwkBXO-I8M.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-02-11T13:40:00">11.02.2023, 13:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Bia Magazine – 09 February 2023]]></title>
-        <id>https://magazinelib.com/all/disney-bia-magazine-09-february-2023/</id>
-        <link href="https://magazinelib.com/all/disney-bia-magazine-09-february-2023/"/>
-        <updated>2023-02-11T13:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/disney-bia-magazine-09-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.54901961%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20676'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/ydgFMabiDSzHKd3UCq3M0Hm7_UEMbyyeoBBSmtDmt9yVs5BU1svYapxLBuANmQ2_fZ2MpO16TpVmPyn_m9duiIJO.jpg" width="510" height="676"><noscript><img width="510" height="676" src="https://magazinelib.com/wp-content/uploads/2023/02/ydgFMabiDSzHKd3UCq3M0Hm7_UEMbyyeoBBSmtDmt9yVs5BU1svYapxLBuANmQ2_fZ2MpO16TpVmPyn_m9duiIJO.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/fashion/" class="entry-category entry-category-item-7890">Fashion</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/disney-bia-magazine-09-february-2023/" rel="bookmark">Disney Bia Magazine – 09 February 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-02-11T13:20:00">11.02.2023, 13:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
