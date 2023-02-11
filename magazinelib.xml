@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-02-11T14:27:21.566Z</updated>
+    <updated>2023-02-11T14:53:44.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BBC Wildlife – March 2023]]></title>
+        <id>https://magazinelib.com/all/bbc-wildlife-march-2023/</id>
+        <link href="https://magazinelib.com/all/bbc-wildlife-march-2023/"/>
+        <updated>2023-02-11T17:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bbc-wildlife-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.35294118%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/2vbrYDrEhhB8slYxYr50INuClsxLTede8y6BYpWL06PS48BjCybnKVYFVvcSX50Wp5vyIM8nLFl2HA2OYQ8_DrRc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="675"><noscript><img width="510" height="675" src="https://magazinelib.com/wp-content/uploads/2023/02/2vbrYDrEhhB8slYxYr50INuClsxLTede8y6BYpWL06PS48BjCybnKVYFVvcSX50Wp5vyIM8nLFl2HA2OYQ8_DrRc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/animals/" class="entry-category entry-category-item-7881">Animals</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bbc-wildlife-march-2023/" rel="bookmark">BBC Wildlife – March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-02-11T17:40:00">11.02.2023, 17:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Franchise – Volume 7 No.7 – February 2023]]></title>
         <id>https://magazinelib.com/all/global-franchise-volume-7-no-7-february-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/harper-s-bazaar-singapore-february-2023/</id>
         <link href="https://magazinelib.com/all/harper-s-bazaar-singapore-february-2023/"/>
         <updated>2023-02-11T17:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/harper-s-bazaar-singapore-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/ba3XmV_T54uqZ1YmatgATcR8g_-DbrrC22adXPFsUcv_t_3uAW96LWEvDdML_9hlg5M-Q_p4jDFrMvuXUKIeYmAa.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2023/02/ba3XmV_T54uqZ1YmatgATcR8g_-DbrrC22adXPFsUcv_t_3uAW96LWEvDdML_9hlg5M-Q_p4jDFrMvuXUKIeYmAa.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/harper-s-bazaar-singapore-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20665'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/ba3XmV_T54uqZ1YmatgATcR8g_-DbrrC22adXPFsUcv_t_3uAW96LWEvDdML_9hlg5M-Q_p4jDFrMvuXUKIeYmAa.jpg" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2023/02/ba3XmV_T54uqZ1YmatgATcR8g_-DbrrC22adXPFsUcv_t_3uAW96LWEvDdML_9hlg5M-Q_p4jDFrMvuXUKIeYmAa.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-02-11T09:00:00">11.02.2023, 09:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvard Business Review OnPoint – January 2023]]></title>
-        <id>https://magazinelib.com/all/harvard-business-review-onpoint-january-2023/</id>
-        <link href="https://magazinelib.com/all/harvard-business-review-onpoint-january-2023/"/>
-        <updated>2023-02-11T08:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/harvard-business-review-onpoint-january-2023/"><span class="g1-frame-inner" style="padding-bottom: 123.52941176%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20630'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/jBxow_yVL_AJe6bGR2fH3jWTr7tBh0LIdcRcfLWjDd2h0eIqDPEX7EczYsTq8qaL5UZo-FuVbFNKgbGFIRVIxlf0.jpg" width="510" height="630"><noscript><img width="510" height="630" src="https://magazinelib.com/wp-content/uploads/2023/02/jBxow_yVL_AJe6bGR2fH3jWTr7tBh0LIdcRcfLWjDd2h0eIqDPEX7EczYsTq8qaL5UZo-FuVbFNKgbGFIRVIxlf0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/business/" class="entry-category entry-category-item-7973">Business</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/harvard-business-review-onpoint-january-2023/" rel="bookmark">Harvard Business Review OnPoint – January 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-02-11T08:40:00">11.02.2023, 08:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
