@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-02-25T09:27:58.419Z</updated>
+    <updated>2023-02-25T09:54:06.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey Tricks and Tips – 21 February 2023]]></title>
+        <id>https://magazinelib.com/all/macos-monterey-tricks-and-tips-21-february-2023/</id>
+        <link href="https://magazinelib.com/all/macos-monterey-tricks-and-tips-21-february-2023/"/>
+        <updated>2023-02-25T12:25:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/macos-monterey-tricks-and-tips-21-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/wOM5af-PEHHKbGuA159awfKH0gZFcfM2pYtgmF5egi7BVdJOWL4DG_9xKVyriSLeqrs83oSYM3z5jt823dK5LOJo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/02/wOM5af-PEHHKbGuA159awfKH0gZFcfM2pYtgmF5egi7BVdJOWL4DG_9xKVyriSLeqrs83oSYM3z5jt823dK5LOJo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/apple/" class="entry-category entry-category-item-7525">Apple</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/macos-monterey-tricks-and-tips-21-february-2023/" rel="bookmark">macOS Monterey Tricks and Tips – 21 February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-02-25T12:25:00">25.02.2023, 12:25</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++ & Python Tricks and Tips – 18 February 2023]]></title>
         <id>https://magazinelib.com/all/c-python-tricks-and-tips-18-february-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/modern-rodding-march-2023/</id>
         <link href="https://magazinelib.com/all/modern-rodding-march-2023/"/>
         <updated>2023-02-25T11:35:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/modern-rodding-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 120.78431373%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/bl8K1J44497HFY68dnhG0ujcPjzr23fjcgqmm5eBzzdSssHHY_dv39LzUlnRSw2Uf3nAmRX4T2t1eaKZUeVoOR-5.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="616"><noscript><img width="510" height="616" src="https://magazinelib.com/wp-content/uploads/2023/02/bl8K1J44497HFY68dnhG0ujcPjzr23fjcgqmm5eBzzdSssHHY_dv39LzUlnRSw2Uf3nAmRX4T2t1eaKZUeVoOR-5.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/modern-rodding-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 120.78431373%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20616'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/bl8K1J44497HFY68dnhG0ujcPjzr23fjcgqmm5eBzzdSssHHY_dv39LzUlnRSw2Uf3nAmRX4T2t1eaKZUeVoOR-5.jpg" width="510" height="616"><noscript><img width="510" height="616" src="https://magazinelib.com/wp-content/uploads/2023/02/bl8K1J44497HFY68dnhG0ujcPjzr23fjcgqmm5eBzzdSssHHY_dv39LzUlnRSw2Uf3nAmRX4T2t1eaKZUeVoOR-5.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-02-25T01:35:00">25.02.2023, 01:35</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman’s Weekly UK – 14 February 2023]]></title>
-        <id>https://magazinelib.com/all/__trashed-1695/</id>
-        <link href="https://magazinelib.com/all/__trashed-1695/"/>
-        <updated>2023-02-25T01:10:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1695/"><span class="g1-frame-inner" style="padding-bottom: 130.19607843%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20664'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/PAdJZsz2HEgQPzF9D0HGvXbQ_2MUC-oOM133SJSMcy5WyVesV7sqHR0EIPt6wSZMaaWOroNguKA8YUeb3_sQ1gTy.jpg" width="510" height="664"><noscript><img width="510" height="664" src="https://magazinelib.com/wp-content/uploads/2023/02/PAdJZsz2HEgQPzF9D0HGvXbQ_2MUC-oOM133SJSMcy5WyVesV7sqHR0EIPt6wSZMaaWOroNguKA8YUeb3_sQ1gTy.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1695/" rel="bookmark">Woman’s Weekly UK – 14 February 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-02-25T01:10:00">25.02.2023, 01:10</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
