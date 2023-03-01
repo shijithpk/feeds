@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-03-01T10:34:31.097Z</updated>
+    <updated>2023-03-01T10:53:54.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Inside Out – March 2023]]></title>
+        <id>https://magazinelib.com/all/inside-out-march-2023/</id>
+        <link href="https://magazinelib.com/all/inside-out-march-2023/"/>
+        <updated>2023-03-01T13:45:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/inside-out-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 138.23529412%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/z3C5UoM3jTd-0ll8AhxFlSwNM9uOfKvJ-pOuD4HvaxGTJ6tWRXpXWROi4vO39CjtJq_PbT6YIJXuuy9iPQJgDkZQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="705"><noscript><img width="510" height="705" src="https://magazinelib.com/wp-content/uploads/2023/02/z3C5UoM3jTd-0ll8AhxFlSwNM9uOfKvJ-pOuD4HvaxGTJ6tWRXpXWROi4vO39CjtJq_PbT6YIJXuuy9iPQJgDkZQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/inside-out-march-2023/" rel="bookmark">Inside Out – March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-03-01T13:45:00">01.03.2023, 13:45</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chelsea Rhymes – March 2023]]></title>
         <id>https://magazinelib.com/all/chelsea-rhymes-march-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/sparkle-buds-march-2023/</id>
         <link href="https://magazinelib.com/all/sparkle-buds-march-2023/"/>
         <updated>2023-03-01T13:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/sparkle-buds-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/02/Kp_kokN75mXnQsqEl9VwkgEKpEGSHlIBq4b0RFHTTiBN6tDoUILHl1ZH7cyvYy8YSMhTh61k1qy16v4H_uKGddCF.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2023/02/Kp_kokN75mXnQsqEl9VwkgEKpEGSHlIBq4b0RFHTTiBN6tDoUILHl1ZH7cyvYy8YSMhTh61k1qy16v4H_uKGddCF.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/sparkle-buds-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20660'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/Kp_kokN75mXnQsqEl9VwkgEKpEGSHlIBq4b0RFHTTiBN6tDoUILHl1ZH7cyvYy8YSMhTh61k1qy16v4H_uKGddCF.jpg" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2023/02/Kp_kokN75mXnQsqEl9VwkgEKpEGSHlIBq4b0RFHTTiBN6tDoUILHl1ZH7cyvYy8YSMhTh61k1qy16v4H_uKGddCF.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-03-01T07:15:00">01.03.2023, 07:15</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Strad – Issue 1595 – March 2023]]></title>
-        <id>https://magazinelib.com/all/the-strad-issue-1595-march-2023/</id>
-        <link href="https://magazinelib.com/all/the-strad-issue-1595-march-2023/"/>
-        <updated>2023-03-01T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-strad-issue-1595-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.25490196%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20700'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/02/tVVzEUzg0ionrPyBfhFudts9uN6HmSwzNAuQbR8FkD8ZNdzJsyJiK147APFWPc_lH3Qa_wT6KIG_wYFoKUpjkUay.jpg" width="510" height="700"><noscript><img width="510" height="700" src="https://magazinelib.com/wp-content/uploads/2023/02/tVVzEUzg0ionrPyBfhFudts9uN6HmSwzNAuQbR8FkD8ZNdzJsyJiK147APFWPc_lH3Qa_wT6KIG_wYFoKUpjkUay.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/music/" class="entry-category entry-category-item-7877">Music</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-strad-issue-1595-march-2023/" rel="bookmark">The Strad – Issue 1595 – March 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-03-01T07:00:00">01.03.2023, 07:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
