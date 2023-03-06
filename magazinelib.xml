@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-03-06T21:26:04.817Z</updated>
+    <updated>2023-03-06T21:53:46.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Chat – 09 March 2023]]></title>
+        <id>https://magazinelib.com/all/chat-09-march-2023/</id>
+        <link href="https://magazinelib.com/all/chat-09-march-2023/"/>
+        <updated>2023-03-07T00:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/chat-09-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 138.03921569%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/OzN9zyNyPMhkH8oSP4oi9iQ6x3M0HE3dmkAFI6rGE3Q2y3-4Onf5Ha5CmvVE5uapoP7aDj_T2YTbauKPI66Ek6vy.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="704"><noscript><img width="510" height="704" src="https://magazinelib.com/wp-content/uploads/2023/03/OzN9zyNyPMhkH8oSP4oi9iQ6x3M0HE3dmkAFI6rGE3Q2y3-4Onf5Ha5CmvVE5uapoP7aDj_T2YTbauKPI66Ek6vy.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/chat-09-march-2023/" rel="bookmark">Chat – 09 March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-03-07T00:20:00">07.03.2023, 00:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shindig! – March 2023]]></title>
         <id>https://magazinelib.com/all/shindig-march-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/practical-motorhome-may-2023/</id>
         <link href="https://magazinelib.com/all/practical-motorhome-may-2023/"/>
         <updated>2023-03-06T23:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/practical-motorhome-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 146.27450980%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/h3j5jjB3Kmp0zda3TO0x9aR1Klpntj5lXG_ll4t8P-BjeGSkRSE36Kko5FTV6pZJiuQwXjdw_GCZ6tu238mckQcu.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="746"><noscript><img width="510" height="746" src="https://magazinelib.com/wp-content/uploads/2023/03/h3j5jjB3Kmp0zda3TO0x9aR1Klpntj5lXG_ll4t8P-BjeGSkRSE36Kko5FTV6pZJiuQwXjdw_GCZ6tu238mckQcu.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/practical-motorhome-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 146.27450980%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20746'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/h3j5jjB3Kmp0zda3TO0x9aR1Klpntj5lXG_ll4t8P-BjeGSkRSE36Kko5FTV6pZJiuQwXjdw_GCZ6tu238mckQcu.jpg" width="510" height="746"><noscript><img width="510" height="746" src="https://magazinelib.com/wp-content/uploads/2023/03/h3j5jjB3Kmp0zda3TO0x9aR1Klpntj5lXG_ll4t8P-BjeGSkRSE36Kko5FTV6pZJiuQwXjdw_GCZ6tu238mckQcu.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-03-06T15:40:00">06.03.2023, 15:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homebuilding & Renovating – April 2023]]></title>
-        <id>https://magazinelib.com/all/homebuilding-renovating-april-2023/</id>
-        <link href="https://magazinelib.com/all/homebuilding-renovating-april-2023/"/>
-        <updated>2023-03-06T15:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/homebuilding-renovating-april-2023/"><span class="g1-frame-inner" style="padding-bottom: 136.27450980%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20695'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/1QosCV_yVtBvjc0g2Qw4BRGezXtGh06Q2MCm2c25uhJWD8gFS5-Mm_vjQtkUMV6yWXL9mYdCIK7qMioAslnCR1OV.jpg" width="510" height="695"><noscript><img width="510" height="695" src="https://magazinelib.com/wp-content/uploads/2023/03/1QosCV_yVtBvjc0g2Qw4BRGezXtGh06Q2MCm2c25uhJWD8gFS5-Mm_vjQtkUMV6yWXL9mYdCIK7qMioAslnCR1OV.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/building/" class="entry-category entry-category-item-8340">Building</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/homebuilding-renovating-april-2023/" rel="bookmark">Homebuilding &amp; Renovating – April 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-03-06T15:20:00">06.03.2023, 15:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
