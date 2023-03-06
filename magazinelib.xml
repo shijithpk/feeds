@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-03-06T22:32:05.486Z</updated>
+    <updated>2023-03-06T22:53:30.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Fusion Annual – 02 March 2023]]></title>
+        <id>https://magazinelib.com/all/fusion-annual-02-march-2023/</id>
+        <link href="https://magazinelib.com/all/fusion-annual-02-march-2023/"/>
+        <updated>2023-03-07T01:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/fusion-annual-02-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/KD7z0o1lZVV5OlOwB0QW2SDtuZ2nKFtPSOe_gTKbp_05i244mX98apz4aD1epK3dQqd1iz3gl_r5G-xLyh6KgV9I.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="724"><noscript><img width="510" height="724" src="https://magazinelib.com/wp-content/uploads/2023/03/KD7z0o1lZVV5OlOwB0QW2SDtuZ2nKFtPSOe_gTKbp_05i244mX98apz4aD1epK3dQqd1iz3gl_r5G-xLyh6KgV9I.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/games/" class="entry-category entry-category-item-8390">Games</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/fusion-annual-02-march-2023/" rel="bookmark">Fusion Annual – 02 March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-03-07T01:20:00">07.03.2023, 01:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Auto Express – March 01, 2023]]></title>
         <id>https://magazinelib.com/all/auto-express-march-01-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/the-guardian-weekly-03-march-2023/</id>
         <link href="https://magazinelib.com/all/the-guardian-weekly-03-march-2023/"/>
         <updated>2023-03-07T00:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-guardian-weekly-03-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.80392157%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/iS86zm3UoVy7ms6A6HRSzT8i5NxF9LXxL_Yr8tiZnXQ0RjBpTD7tmXMjiX4JE3ffeFbag-Ctl6cjlFA7ferimoyg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="662"><noscript><img width="510" height="662" src="https://magazinelib.com/wp-content/uploads/2023/03/iS86zm3UoVy7ms6A6HRSzT8i5NxF9LXxL_Yr8tiZnXQ0RjBpTD7tmXMjiX4JE3ffeFbag-Ctl6cjlFA7ferimoyg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-guardian-weekly-03-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.80392157%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20662'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/iS86zm3UoVy7ms6A6HRSzT8i5NxF9LXxL_Yr8tiZnXQ0RjBpTD7tmXMjiX4JE3ffeFbag-Ctl6cjlFA7ferimoyg.jpg" width="510" height="662"><noscript><img width="510" height="662" src="https://magazinelib.com/wp-content/uploads/2023/03/iS86zm3UoVy7ms6A6HRSzT8i5NxF9LXxL_Yr8tiZnXQ0RjBpTD7tmXMjiX4JE3ffeFbag-Ctl6cjlFA7ferimoyg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-03-06T16:40:00">06.03.2023, 16:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red UK – April 2023]]></title>
-        <id>https://magazinelib.com/all/red-uk-april-2023/</id>
-        <link href="https://magazinelib.com/all/red-uk-april-2023/"/>
-        <updated>2023-03-06T16:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/red-uk-april-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.54901961%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20676'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/msSj1rmjs2tkLBRB5Je-g2V-ayRb9eHATUkoiJdy7vHYGhkfl9IFsp_tLm68sfTJOVOGYpOKS_YaQnOrhf8JgIPC.jpg" width="510" height="676"><noscript><img width="510" height="676" src="https://magazinelib.com/wp-content/uploads/2023/03/msSj1rmjs2tkLBRB5Je-g2V-ayRb9eHATUkoiJdy7vHYGhkfl9IFsp_tLm68sfTJOVOGYpOKS_YaQnOrhf8JgIPC.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/fashion/" class="entry-category entry-category-item-7890">Fashion</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/red-uk-april-2023/" rel="bookmark">Red UK – April 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-03-06T16:20:00">06.03.2023, 16:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
