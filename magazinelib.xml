@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-03-23T20:54:33.983Z</updated>
+    <updated>2023-03-23T21:23:54.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Control Design – February 2023]]></title>
+        <id>https://magazinelib.com/all/control-design-february-2023/</id>
+        <link href="https://magazinelib.com/all/control-design-february-2023/"/>
+        <updated>2023-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/control-design-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.75362319%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/L89j21yeUBA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="345" height="458"><noscript><img width="345" height="458" src="https://magazinelib.com/wp-content/uploads/2023/03/L89j21yeUBA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body" style="height: auto !important;">
+		<div style="width: 100%; height: auto; clear: both; text-align: center;" class="google-auto-placed"><ins style="display: block; margin: 10px auto; background-color: transparent; height: 200px;" data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-7792411719705884" data-adsbygoogle-status="done"><div id="aswift_9_host" style="border: medium none; height: 200px; width: 332px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;" tabindex="0" title="Advertisement" aria-label="Advertisement"><iframe id="aswift_9" name="aswift_9" style="left:0;position:absolute;top:0;border:0;width:332px;height:200px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7792411719705884&amp;output=html&amp;h=200&amp;adk=2957969507&amp;adf=4011899669&amp;pi=t.aa~a.108489206~rp.1&amp;daaos=1679574145323&amp;w=332&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1679605558&amp;rafmt=1&amp;to=qs&amp;pwprc=3947390319&amp;format=332x200&amp;url=https%3A%2F%2Fmagazinelib.com%2F&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=40&amp;dt=1679606607093&amp;bpp=3&amp;bdt=1829&amp;idt=3&amp;shv=r20230321&amp;mjsv=m202303210101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D5dd8d67474ca6c8a-2211d8d5cddb001c%3AT%3D1679606602%3ART%3D1679606602%3AS%3DALNI_MZ6nH82S1jW_jBLCvJLXWVBkNGQMg&amp;gpic=UID%3D00000965e2b414fd%3AT%3D1679606602%3ART%3D1679606602%3AS%3DALNI_MYxf2bbQOO5FPJ-Cr7RpgKVE5kofA&amp;prev_fmts=0x0%2C1152x280%2C332x434%2C300x600&amp;nras=2&amp;correlator=2174515135930&amp;frm=20&amp;pv=1&amp;ga_vid=681303085.1679606603&amp;ga_sid=1679606606&amp;ga_hid=48553695&amp;ga_fc=1&amp;u_tz=0&amp;u_his=1&amp;u_h=720&amp;u_w=1280&amp;u_ah=720&amp;u_aw=1280&amp;u_cd=24&amp;u_sd=1&amp;adx=80&amp;ady=996&amp;biw=1280&amp;bih=720&amp;scr_x=0&amp;scr_y=0&amp;eid=44759837%2C44759875%2C44759926%2C44777876%2C31073106%2C31073311%2C44785292%2C44786632%2C31073349&amp;oid=2&amp;psts=AHQMDFfCZOry1854NxdLdQAFiGQhyW8t5CPanH-WCfq04xxasoD47WAaIB2ln_EE9z94fAm0kWxWuwmlzyXHNbqcWBjJ3FU&amp;pvsid=327061643211219&amp;tmod=1877315681&amp;nvt=1&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1280%2C0%2C1280%2C720%2C1280%2C720&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=1152&amp;bc=31&amp;ifi=10&amp;uci=a!a&amp;btvi=2&amp;fsb=1&amp;xpc=2AIYpsvK8d&amp;p=https%3A//magazinelib.com&amp;dtd=25" data-google-container-id="a!a" width="332" height="200" frameborder="0"></iframe></div></ins></div><header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/design/" class="entry-category entry-category-item-8104">Design</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/control-design-february-2023/" rel="bookmark">Control Design – February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-03-24T00:00:00">24.03.2023, 00:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taste of Home – April 2023]]></title>
         <id>https://magazinelib.com/all/taste-of-home-april-2023/</id>
@@ -33,7 +56,7 @@
         <id>https://magazinelib.com/all/the-knitter-03-march-2023/</id>
         <link href="https://magazinelib.com/all/the-knitter-03-march-2023/"/>
         <updated>2023-03-23T23:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-knitter-03-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/pEhjxj3fV28.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/03/pEhjxj3fV28.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-knitter-03-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/pEhjxj3fV28.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/03/pEhjxj3fV28.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-03-23T15:20:00">23.03.2023, 15:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WNC Magazine – March 2023]]></title>
-        <id>https://magazinelib.com/all/wnc-magazine-march-2023/</id>
-        <link href="https://magazinelib.com/all/wnc-magazine-march-2023/"/>
-        <updated>2023-03-23T15:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wnc-magazine-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 120.78431373%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20616'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/oI_ROr3cv6g.jpg" width="510" height="616"><noscript><img width="510" height="616" src="https://magazinelib.com/wp-content/uploads/2023/03/oI_ROr3cv6g.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/travel/" class="entry-category entry-category-item-7974">Travel</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/wnc-magazine-march-2023/" rel="bookmark">WNC Magazine – March 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-03-23T15:00:00">23.03.2023, 15:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
