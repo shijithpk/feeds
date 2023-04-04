@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-04-04T07:54:00.234Z</updated>
+    <updated>2023-04-04T08:30:53.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Recoil – May 2023]]></title>
+        <id>https://magazinelib.com/all/__trashed-1791/</id>
+        <link href="https://magazinelib.com/all/__trashed-1791/"/>
+        <updated>2023-04-04T11:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1791/"><span class="g1-frame-inner" style="padding-bottom: 120.78431373%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/Kp1vgqrUmgc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="616"><noscript><img width="510" height="616" src="https://magazinelib.com/wp-content/uploads/2023/03/Kp1vgqrUmgc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/military/" class="entry-category entry-category-item-8466">Military</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1791/" rel="bookmark">Recoil – May 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-04-04T11:00:00">04.04.2023, 11:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The People’s Friend Pocket Novel – 30 March 2023]]></title>
         <id>https://magazinelib.com/all/__trashed-1809/</id>
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-04-03T13:20:00">03.04.2023, 13:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PuzzleLife Collection – 30 March 2023]]></title>
-        <id>https://magazinelib.com/all/__trashed-1802/</id>
-        <link href="https://magazinelib.com/all/__trashed-1802/"/>
-        <updated>2023-04-03T12:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1802/"><span class="g1-frame-inner" style="padding-bottom: 146.86274510%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20749'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/MQ8EICYj6-8.jpg" width="510" height="749"><noscript><img width="510" height="749" src="https://magazinelib.com/wp-content/uploads/2023/03/MQ8EICYj6-8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/games/" class="entry-category entry-category-item-8390">Games</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1802/" rel="bookmark">PuzzleLife Collection – 30 March 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-04-03T12:30:00">03.04.2023, 12:30</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
