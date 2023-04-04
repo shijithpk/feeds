@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-04-04T16:53:56.612Z</updated>
+    <updated>2023-04-04T17:25:47.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
     <entry>
@@ -56,7 +56,7 @@
         <id>https://magazinelib.com/all/__trashed-1781/</id>
         <link href="https://magazinelib.com/all/__trashed-1781/"/>
         <updated>2023-04-04T17:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1781/"><span class="g1-frame-inner" style="padding-bottom: 145.49019608%;"><img src="https://magazinelib.com/wp-content/uploads/2023/03/wyHfLOSoBZo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="742"><noscript><img width="510" height="742" src="https://magazinelib.com/wp-content/uploads/2023/03/wyHfLOSoBZo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1781/"><span class="g1-frame-inner" style="padding-bottom: 145.49019608%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20742'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/03/wyHfLOSoBZo.jpg" width="510" height="742"><noscript><img width="510" height="742" src="https://magazinelib.com/wp-content/uploads/2023/03/wyHfLOSoBZo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
