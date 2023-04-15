@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-04-15T11:23:34.975Z</updated>
+    <updated>2023-04-15T11:54:05.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Fortune USA – April 2023]]></title>
+        <id>https://magazinelib.com/all/fortune-usa-april-2023/</id>
+        <link href="https://magazinelib.com/all/fortune-usa-april-2023/"/>
+        <updated>2023-04-15T14:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/fortune-usa-april-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/04/wH3Gztg5Hko.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/04/wH3Gztg5Hko.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/fashion/" class="entry-category entry-category-item-7890">Fashion</a>, <a href="https://magazinelib.com/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/fortune-usa-april-2023/" rel="bookmark">Fortune USA – April 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-04-15T14:20:00">15.04.2023, 14:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golf Australia – May 2023]]></title>
         <id>https://magazinelib.com/all/golf-australia-may-2023/</id>
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-04-15T05:40:00">15.04.2023, 05:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortune Europe Edition – April-May 2023]]></title>
-        <id>https://magazinelib.com/all/fortune-europe-edition-april-may-2023/</id>
-        <link href="https://magazinelib.com/all/fortune-europe-edition-april-may-2023/"/>
-        <updated>2023-04-15T05:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/fortune-europe-edition-april-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.52941176%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20681'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/04/1gi23UUN7TI.jpg" width="510" height="681"><noscript><img width="510" height="681" src="https://magazinelib.com/wp-content/uploads/2023/04/1gi23UUN7TI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/europe/" class="entry-category entry-category-item-8405">Europe</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/fortune-europe-edition-april-may-2023/" rel="bookmark">Fortune Europe Edition – April-May 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-04-15T05:20:00">15.04.2023, 05:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
