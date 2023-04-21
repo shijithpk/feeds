@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-04-21T02:25:07.830Z</updated>
+    <updated>2023-04-21T02:54:37.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Harper’s Magazine – May 2023]]></title>
+        <id>https://magazinelib.com/all/harper-s-magazine-may-2023/</id>
+        <link href="https://magazinelib.com/all/harper-s-magazine-may-2023/"/>
+        <updated>2023-04-21T05:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/harper-s-magazine-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.88235294%;"><img src="https://magazinelib.com/wp-content/uploads/2023/04/BO69Eeoo7lk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" data-ll-status="loaded" width="510" height="693"><noscript><img width="510" height="693" src="https://magazinelib.com/wp-content/uploads/2023/04/BO69Eeoo7lk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/advertising/" class="entry-category entry-category-item-8407">Advertising</a>, <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/finance/marketing/" class="entry-category entry-category-item-8191">Marketing</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/harper-s-magazine-may-2023/" rel="bookmark">Harper’s Magazine – May 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-04-21T05:20:00">21.04.2023, 05:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chirp – May 2023]]></title>
         <id>https://magazinelib.com/all/chirp-may-2023/</id>
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-04-20T20:40:00">20.04.2023, 20:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac The Beginners’ Guide – April 2023]]></title>
-        <id>https://magazinelib.com/all/mac-the-beginners-guide-april-2023/</id>
-        <link href="https://magazinelib.com/all/mac-the-beginners-guide-april-2023/"/>
-        <updated>2023-04-20T20:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/mac-the-beginners-guide-april-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/04/5yDHZDr9E1w.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/04/5yDHZDr9E1w.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/apple/" class="entry-category entry-category-item-7525">Apple</a>, <a href="https://magazinelib.com/computers/mac/" class="entry-category entry-category-item-7594">Mac</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/mac-the-beginners-guide-april-2023/" rel="bookmark">Mac The Beginners’ Guide – April 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-04-20T20:20:00">20.04.2023, 20:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
