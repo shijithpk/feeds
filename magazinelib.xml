@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-07T20:25:37.774Z</updated>
+    <updated>2023-06-07T20:54:05.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://magazinelib.com/all/whisky-magazine-july-2023/</id>
         <link href="https://magazinelib.com/all/whisky-magazine-july-2023/"/>
         <updated>2023-06-07T11:37:33.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/whisky-magazine-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.54901961%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/Vbe8WtaqDJo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="676"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/whisky-magazine-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.54901961%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/Vbe8WtaqDJo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" decoding="async" data-ll-status="loaded" width="510" height="676"><noscript><img width="510" height="676" src="https://magazinelib.com/wp-content/uploads/2023/06/Vbe8WtaqDJo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -33,7 +33,7 @@
         <id>https://magazinelib.com/all/wheels-australia-june-2023/</id>
         <link href="https://magazinelib.com/all/wheels-australia-june-2023/"/>
         <updated>2023-06-07T11:37:02.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wheels-australia-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 127.84313725%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/pPjhAHNRdM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="652"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wheels-australia-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 127.84313725%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/pPjhAHNRdM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" decoding="async" data-ll-status="loaded" width="510" height="652"><noscript><img width="510" height="652" src="https://magazinelib.com/wp-content/uploads/2023/06/pPjhAHNRdM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -56,7 +56,7 @@
         <id>https://magazinelib.com/all/what-doctors-don-t-tell-you-australia-nz-june-2023/</id>
         <link href="https://magazinelib.com/all/what-doctors-don-t-tell-you-australia-nz-june-2023/"/>
         <updated>2023-06-07T11:36:31.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/what-doctors-don-t-tell-you-australia-nz-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.98039216%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/NuhLpjAy5Lk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="668"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/what-doctors-don-t-tell-you-australia-nz-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.98039216%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/NuhLpjAy5Lk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image lazyloaded" alt="" decoding="async" data-ll-status="loaded" width="510" height="668"><noscript><img width="510" height="668" src="https://magazinelib.com/wp-content/uploads/2023/06/NuhLpjAy5Lk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -79,7 +79,7 @@
         <id>https://magazinelib.com/all/weekly-world-car-info-03-june-2023/</id>
         <link href="https://magazinelib.com/all/weekly-world-car-info-03-june-2023/"/>
         <updated>2023-06-07T11:36:01.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/weekly-world-car-info-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/LCy-8be18Os.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/weekly-world-car-info-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/LCy-8be18Os.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/06/LCy-8be18Os.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -102,7 +102,7 @@
         <id>https://magazinelib.com/all/wargames-soldiers-strategy-may-2023/</id>
         <link href="https://magazinelib.com/all/wargames-soldiers-strategy-may-2023/"/>
         <updated>2023-06-07T11:35:29.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wargames-soldiers-strategy-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/wzRJh-ILVjc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wargames-soldiers-strategy-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/wzRJh-ILVjc.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/06/wzRJh-ILVjc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -125,7 +125,7 @@
         <id>https://magazinelib.com/all/wanted-in-rome-june-2023/</id>
         <link href="https://magazinelib.com/all/wanted-in-rome-june-2023/"/>
         <updated>2023-06-07T11:34:56.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wanted-in-rome-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 145.68627451%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/9Z2EkIsO-rU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="743"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wanted-in-rome-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 145.68627451%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20743'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/9Z2EkIsO-rU.jpg" width="510" height="743"><noscript><img width="510" height="743" src="https://magazinelib.com/wp-content/uploads/2023/06/9Z2EkIsO-rU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -148,7 +148,7 @@
         <id>https://magazinelib.com/all/vogue-australia-june-2023/</id>
         <link href="https://magazinelib.com/all/vogue-australia-june-2023/"/>
         <updated>2023-06-07T11:34:22.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vogue-australia-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.68627451%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/b4lWyhlo6N0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="692"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vogue-australia-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.68627451%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20692'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/b4lWyhlo6N0.jpg" width="510" height="692"><noscript><img width="510" height="692" src="https://magazinelib.com/wp-content/uploads/2023/06/b4lWyhlo6N0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -171,7 +171,7 @@
         <id>https://magazinelib.com/all/vip-codewords-04-june-2023/</id>
         <link href="https://magazinelib.com/all/vip-codewords-04-june-2023/"/>
         <updated>2023-06-07T11:33:50.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vip-codewords-04-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/7yg-P85xg_s.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="724"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vip-codewords-04-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.96078431%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20724'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/7yg-P85xg_s.jpg" width="510" height="724"><noscript><img width="510" height="724" src="https://magazinelib.com/wp-content/uploads/2023/06/7yg-P85xg_s.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -194,7 +194,7 @@
         <id>https://magazinelib.com/all/variety-june-05-2023/</id>
         <link href="https://magazinelib.com/all/variety-june-05-2023/"/>
         <updated>2023-06-07T11:33:19.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/variety-june-05-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/S8D6JuknKEI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="660"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/variety-june-05-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20660'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/S8D6JuknKEI.jpg" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2023/06/S8D6JuknKEI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -217,7 +217,7 @@
         <id>https://magazinelib.com/all/ultimate-fan-s-guide-to-harry-styles-03-june-2023/</id>
         <link href="https://magazinelib.com/all/ultimate-fan-s-guide-to-harry-styles-03-june-2023/"/>
         <updated>2023-06-07T11:32:45.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/ultimate-fan-s-guide-to-harry-styles-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/A8Gcd-3bjUk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/ultimate-fan-s-guide-to-harry-styles-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/A8Gcd-3bjUk.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/06/A8Gcd-3bjUk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -240,7 +240,7 @@
         <id>https://magazinelib.com/all/time-international-edition-june-12-2023/</id>
         <link href="https://magazinelib.com/all/time-international-edition-june-12-2023/"/>
         <updated>2023-06-07T11:32:12.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/time-international-edition-june-12-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/vs4O8V1vQg4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/time-international-edition-june-12-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20680'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/vs4O8V1vQg4.jpg" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/06/vs4O8V1vQg4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -263,7 +263,7 @@
         <id>https://magazinelib.com/all/the-week-usa-june-17-2023/</id>
         <link href="https://magazinelib.com/all/the-week-usa-june-17-2023/"/>
         <updated>2023-06-07T11:31:39.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-usa-june-17-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/AcclsAvKKx4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-usa-june-17-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20680'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/AcclsAvKKx4.jpg" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/06/AcclsAvKKx4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -286,7 +286,7 @@
         <id>https://magazinelib.com/all/the-week-uk-03-june-2023/</id>
         <link href="https://magazinelib.com/all/the-week-uk-03-june-2023/"/>
         <updated>2023-06-07T11:31:08.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-uk-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/JGbWN36dIX8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-uk-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/JGbWN36dIX8.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/06/JGbWN36dIX8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -309,7 +309,7 @@
         <id>https://magazinelib.com/all/the-week-junior-usa-09-june-2023/</id>
         <link href="https://magazinelib.com/all/the-week-junior-usa-09-june-2023/"/>
         <updated>2023-06-07T11:30:37.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-junior-usa-09-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/qRZtNV1xYuo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-junior-usa-09-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20680'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/qRZtNV1xYuo.jpg" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/06/qRZtNV1xYuo.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -332,7 +332,7 @@
         <id>https://magazinelib.com/all/the-week-junior-uk-03-june-2023/</id>
         <link href="https://magazinelib.com/all/the-week-junior-uk-03-june-2023/"/>
         <updated>2023-06-07T11:30:05.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-junior-uk-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/AKnQkmgFiFw.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="665"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-week-junior-uk-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20665'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/AKnQkmgFiFw.jpg" width="510" height="665"><noscript><img width="510" height="665" src="https://magazinelib.com/wp-content/uploads/2023/06/AKnQkmgFiFw.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -355,7 +355,7 @@
         <id>https://magazinelib.com/all/the-wall-street-journal-magazine-june-2023/</id>
         <link href="https://magazinelib.com/all/the-wall-street-journal-magazine-june-2023/"/>
         <updated>2023-06-07T11:29:32.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-wall-street-journal-magazine-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.47058824%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/OiJVtoWPl54.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="645"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-wall-street-journal-magazine-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.47058824%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20645'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/OiJVtoWPl54.jpg" width="510" height="645"><noscript><img width="510" height="645" src="https://magazinelib.com/wp-content/uploads/2023/06/OiJVtoWPl54.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -378,7 +378,7 @@
         <id>https://magazinelib.com/all/the-times-magazine-3-june-2023/</id>
         <link href="https://magazinelib.com/all/the-times-magazine-3-june-2023/"/>
         <updated>2023-06-07T11:28:59.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-times-magazine-3-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 117.64705882%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/yjWs1ZFZtJY.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="600"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-times-magazine-3-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 117.64705882%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20600'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/yjWs1ZFZtJY.jpg" width="510" height="600"><noscript><img width="510" height="600" src="https://magazinelib.com/wp-content/uploads/2023/06/yjWs1ZFZtJY.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -401,7 +401,7 @@
         <id>https://magazinelib.com/all/the-tablet-magazine-03-june-2023/</id>
         <link href="https://magazinelib.com/all/the-tablet-magazine-03-june-2023/"/>
         <updated>2023-06-07T11:28:27.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-tablet-magazine-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/21hY3ek2vW8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-tablet-magazine-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20721'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/21hY3ek2vW8.jpg" width="510" height="721"><noscript><img width="510" height="721" src="https://magazinelib.com/wp-content/uploads/2023/06/21hY3ek2vW8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -424,7 +424,7 @@
         <id>https://magazinelib.com/all/the-sunday-times-magazine-4-june-2023/</id>
         <link href="https://magazinelib.com/all/the-sunday-times-magazine-4-june-2023/"/>
         <updated>2023-06-07T11:27:55.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-sunday-times-magazine-4-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.70588235%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/VUUnUCMSyK8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="687"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-sunday-times-magazine-4-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.70588235%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20687'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/VUUnUCMSyK8.jpg" width="510" height="687"><noscript><img width="510" height="687" src="https://magazinelib.com/wp-content/uploads/2023/06/VUUnUCMSyK8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -447,7 +447,7 @@
         <id>https://magazinelib.com/all/the-saturday-guardian-3-june-2023/</id>
         <link href="https://magazinelib.com/all/the-saturday-guardian-3-june-2023/"/>
         <updated>2023-06-07T11:27:20.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-saturday-guardian-3-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.47058824%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/In6nsAzk864.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="645"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-saturday-guardian-3-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.47058824%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20645'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/In6nsAzk864.jpg" width="510" height="645"><noscript><img width="510" height="645" src="https://magazinelib.com/wp-content/uploads/2023/06/In6nsAzk864.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -470,7 +470,7 @@
         <id>https://magazinelib.com/all/philippine-tatler-june-2023/</id>
         <link href="https://magazinelib.com/all/philippine-tatler-june-2023/"/>
         <updated>2023-06-07T08:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/philippine-tatler-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/0roO1evIA1s.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/philippine-tatler-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20680'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/0roO1evIA1s.jpg" width="510" height="680"><noscript><img width="510" height="680" src="https://magazinelib.com/wp-content/uploads/2023/06/0roO1evIA1s.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -493,7 +493,7 @@
         <id>https://magazinelib.com/all/the-economist-usa-june-03-2023/</id>
         <link href="https://magazinelib.com/all/the-economist-usa-june-03-2023/"/>
         <updated>2023-06-07T08:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-economist-usa-june-03-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.56862745%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/Il2ew7Z9fig.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="671"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-economist-usa-june-03-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.56862745%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20671'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/Il2ew7Z9fig.jpg" width="510" height="671"><noscript><img width="510" height="671" src="https://magazinelib.com/wp-content/uploads/2023/06/Il2ew7Z9fig.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -516,7 +516,7 @@
         <id>https://magazinelib.com/all/the-hollywood-reporter-june-05-2023/</id>
         <link href="https://magazinelib.com/all/the-hollywood-reporter-june-05-2023/"/>
         <updated>2023-06-07T07:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-hollywood-reporter-june-05-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.00000000%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/ix6UmOXkbfc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="663"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-hollywood-reporter-june-05-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.00000000%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20663'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/ix6UmOXkbfc.jpg" width="510" height="663"><noscript><img width="510" height="663" src="https://magazinelib.com/wp-content/uploads/2023/06/ix6UmOXkbfc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -539,7 +539,7 @@
         <id>https://magazinelib.com/all/grand-designs-uk-13th-special-edition-2023-2/</id>
         <link href="https://magazinelib.com/all/grand-designs-uk-13th-special-edition-2023-2/"/>
         <updated>2023-06-07T07:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/grand-designs-uk-13th-special-edition-2023-2/"><span class="g1-frame-inner" style="padding-bottom: 135.68627451%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/8qyd6N-bgdY-1.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="692"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/grand-designs-uk-13th-special-edition-2023-2/"><span class="g1-frame-inner" style="padding-bottom: 135.68627451%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20692'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/8qyd6N-bgdY-1.jpg" width="510" height="692"><noscript><img width="510" height="692" src="https://magazinelib.com/wp-content/uploads/2023/06/8qyd6N-bgdY-1.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -562,7 +562,7 @@
         <id>https://magazinelib.com/all/the-new-york-times-magazine-04-june-2023/</id>
         <link href="https://magazinelib.com/all/the-new-york-times-magazine-04-june-2023/"/>
         <updated>2023-06-07T07:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-new-york-times-magazine-04-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 123.72549020%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/2-6AttDOoUk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="631"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-new-york-times-magazine-04-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 123.72549020%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20631'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/2-6AttDOoUk.jpg" width="510" height="631"><noscript><img width="510" height="631" src="https://magazinelib.com/wp-content/uploads/2023/06/2-6AttDOoUk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -585,7 +585,7 @@
         <id>https://magazinelib.com/all/amateur-photographer-06-june-2023/</id>
         <link href="https://magazinelib.com/all/amateur-photographer-06-june-2023/"/>
         <updated>2023-06-07T06:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/amateur-photographer-06-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/pFFpRB793SA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="701"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/amateur-photographer-06-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20701'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/pFFpRB793SA.jpg" width="510" height="701"><noscript><img width="510" height="701" src="https://magazinelib.com/wp-content/uploads/2023/06/pFFpRB793SA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -608,7 +608,7 @@
         <id>https://magazinelib.com/all/volksmania-03-june-2023/</id>
         <link href="https://magazinelib.com/all/volksmania-03-june-2023/"/>
         <updated>2023-06-07T06:30:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/volksmania-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/lVKcD0H9iBA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="660"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/volksmania-03-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20510%20660'%3E%3C/svg%3E" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" data-lazy-src="https://magazinelib.com/wp-content/uploads/2023/06/lVKcD0H9iBA.jpg" width="510" height="660"><noscript><img width="510" height="660" src="https://magazinelib.com/wp-content/uploads/2023/06/lVKcD0H9iBA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" /></noscript><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
