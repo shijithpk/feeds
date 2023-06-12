@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-12T20:25:43.060Z</updated>
+    <updated>2023-06-12T20:54:20.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Model Rail – July 2023]]></title>
+        <id>https://magazinelib.com/all/__trashed-1960/</id>
+        <link href="https://magazinelib.com/all/__trashed-1960/"/>
+        <updated>2023-06-12T23:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1960/"><span class="g1-frame-inner" style="padding-bottom: 138.43137255%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/2UWkQ1x6DF0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="706"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1960/" rel="bookmark">Model Rail – July 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-12T23:40:00">12.06.2023, 23:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outdoor Design & Living – May 2023]]></title>
         <id>https://magazinelib.com/all/__trashed-1972/</id>
         <link href="https://magazinelib.com/all/__trashed-1972/"/>
         <updated>2023-06-12T23:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1972/"><span class="g1-frame-inner" style="padding-bottom: 129.01960784%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/se3M45XxRs0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="658"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1972/"><span class="g1-frame-inner" style="padding-bottom: 129.01960784%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/se3M45XxRs0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="658"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-12T15:00:00">12.06.2023, 15:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outré Magazine – May 2023]]></title>
-        <id>https://magazinelib.com/all/__trashed-1973/</id>
-        <link href="https://magazinelib.com/all/__trashed-1973/"/>
-        <updated>2023-06-12T14:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-1973/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/EPVQA2R5Pn4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="660"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-1973/" rel="bookmark">Outré Magazine – May 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-12T14:40:00">12.06.2023, 14:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
