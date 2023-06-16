@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-16T22:27:56.832Z</updated>
+    <updated>2023-06-16T22:53:27.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Classic American – July 2023]]></title>
+        <id>https://magazinelib.com/all/classic-american-july-2023/</id>
+        <link href="https://magazinelib.com/all/classic-american-july-2023/"/>
+        <updated>2023-06-17T01:30:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/classic-american-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/UnPQfRxC6I8.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/classic-american-july-2023/" rel="bookmark">Classic American – July 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-17T01:30:00">17.06.2023, 01:30</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economic Times Wealth – June 12, 2023]]></title>
         <id>https://magazinelib.com/all/the-economic-times-wealth-june-12-2023/</id>
         <link href="https://magazinelib.com/all/the-economic-times-wealth-june-12-2023/"/>
         <updated>2023-06-17T01:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-economic-times-wealth-june-12-2023/"><span class="g1-frame-inner" style="padding-bottom: 128.03921569%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/mxqpRoD9W9Q.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="653"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-economic-times-wealth-june-12-2023/"><span class="g1-frame-inner" style="padding-bottom: 128.03921569%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/mxqpRoD9W9Q.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="653"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-16T11:20:00">16.06.2023, 11:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All About History History of NASA – June 2023]]></title>
-        <id>https://magazinelib.com/all/all-about-history-history-of-nasa-june-2023/</id>
-        <link href="https://magazinelib.com/all/all-about-history-history-of-nasa-june-2023/"/>
-        <updated>2023-06-16T11:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/all-about-history-history-of-nasa-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.01960784%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/EerQOfh0e4o.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="658"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/science/history/" class="entry-category entry-category-item-7871">History</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/all-about-history-history-of-nasa-june-2023/" rel="bookmark">All About History History of NASA – June 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-16T11:00:00">16.06.2023, 11:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
