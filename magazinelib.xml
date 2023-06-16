@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-16T06:31:47.830Z</updated>
+    <updated>2023-06-16T06:54:29.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Times Magazine – 11 June 2023]]></title>
+        <id>https://magazinelib.com/all/the-sunday-times-magazine-11-june-2023/</id>
+        <link href="https://magazinelib.com/all/the-sunday-times-magazine-11-june-2023/"/>
+        <updated>2023-06-16T09:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-sunday-times-magazine-11-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.70588235%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/wlO7Em1VuIQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="687"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-sunday-times-magazine-11-june-2023/" rel="bookmark">The Sunday Times Magazine – 11 June 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-16T09:40:00">16.06.2023, 09:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220 Triathlon UK – July 2023]]></title>
         <id>https://magazinelib.com/all/220-triathlon-uk-july-2023/</id>
         <link href="https://magazinelib.com/all/220-triathlon-uk-july-2023/"/>
         <updated>2023-06-16T09:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/220-triathlon-uk-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/ufcCuQliBX4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/220-triathlon-uk-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/ufcCuQliBX4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-16T01:00:00">16.06.2023, 01:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Magazine USA – June 19, 2023]]></title>
-        <id>https://magazinelib.com/all/star-magazine-usa-june-19-2023/</id>
-        <link href="https://magazinelib.com/all/star-magazine-usa-june-19-2023/"/>
-        <updated>2023-06-16T00:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/star-magazine-usa-june-19-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.49019608%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/QIRaj82FJXg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="691"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/usa2/" class="entry-category entry-category-item-7997">USA</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/star-magazine-usa-june-19-2023/" rel="bookmark">Star Magazine USA – June 19, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-16T00:40:00">16.06.2023, 00:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
