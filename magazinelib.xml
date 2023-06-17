@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-17T04:29:08.276Z</updated>
+    <updated>2023-06-17T04:53:33.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Times Style – 11 June 2023]]></title>
+        <id>https://magazinelib.com/all/the-sunday-times-style-11-june-2023/</id>
+        <link href="https://magazinelib.com/all/the-sunday-times-style-11-june-2023/"/>
+        <updated>2023-06-17T07:30:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-sunday-times-style-11-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.31372549%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/kHeK68c2SRI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="685"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-sunday-times-style-11-june-2023/" rel="bookmark">The Sunday Times Style – 11 June 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-17T07:30:00">17.06.2023, 07:30</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Woman’s Way – 10 April 2023]]></title>
         <id>https://magazinelib.com/all/woman-s-way-10-april-2023/</id>
         <link href="https://magazinelib.com/all/woman-s-way-10-april-2023/"/>
         <updated>2023-06-17T07:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/woman-s-way-10-april-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.29411765%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/xGrWzFvFQpM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="690"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/woman-s-way-10-april-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.29411765%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/xGrWzFvFQpM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="690"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-17T01:00:00">17.06.2023, 01:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Scientist International Edition – June 10, 2023]]></title>
-        <id>https://magazinelib.com/all/__trashed-2008/</id>
-        <link href="https://magazinelib.com/all/__trashed-2008/"/>
-        <updated>2023-06-17T00:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/__trashed-2008/"><span class="g1-frame-inner" style="padding-bottom: 131.56862745%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/46CIwFV4fJw.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="671"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/science/" class="entry-category entry-category-item-7864">Science</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/__trashed-2008/" rel="bookmark">New Scientist International Edition – June 10, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-17T00:45:00">17.06.2023, 00:45</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
