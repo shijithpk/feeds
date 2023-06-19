@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-19T17:26:55.008Z</updated>
+    <updated>2023-06-19T17:53:41.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BBC Music Magazine – March 2023]]></title>
+        <id>https://magazinelib.com/all/bbc-music-magazine-march-2023/</id>
+        <link href="https://magazinelib.com/all/bbc-music-magazine-march-2023/"/>
+        <updated>2023-06-19T20:35:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bbc-music-magazine-march-2023/"><span class="g1-frame-inner" style="padding-bottom: 128.23529412%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/MwvTFW15h5s.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="654"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/music/" class="entry-category entry-category-item-7877">Music</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bbc-music-magazine-march-2023/" rel="bookmark">BBC Music Magazine – March 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-19T20:35:00">19.06.2023, 20:35</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mopar Action – August 2023]]></title>
         <id>https://magazinelib.com/all/mopar-action-august-2023/</id>
         <link href="https://magazinelib.com/all/mopar-action-august-2023/"/>
         <updated>2023-06-19T20:10:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/mopar-action-august-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/i1YJDTYja38.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="670"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/mopar-action-august-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/i1YJDTYja38.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="670"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -598,29 +621,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-19T09:45:00">19.06.2023, 09:45</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McCall’s Quick Quilts – August 2023]]></title>
-        <id>https://magazinelib.com/all/mccall-s-quick-quilts-august-2023/</id>
-        <link href="https://magazinelib.com/all/mccall-s-quick-quilts-august-2023/"/>
-        <updated>2023-06-19T09:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/mccall-s-quick-quilts-august-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.49019608%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/arElaYF7zNA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="691"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/mccall-s-quick-quilts-august-2023/" rel="bookmark">McCall’s Quick Quilts – August 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-19T09:20:00">19.06.2023, 09:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
