@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-20T15:53:50.517Z</updated>
+    <updated>2023-06-20T16:33:42.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BBC Sky at Night Magazine – February 2023]]></title>
+        <id>https://magazinelib.com/all/bbc-sky-at-night-magazine-february-2023/</id>
+        <link href="https://magazinelib.com/all/bbc-sky-at-night-magazine-february-2023/"/>
+        <updated>2023-06-20T19:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bbc-sky-at-night-magazine-february-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/RHZrWCE_vpg.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bbc-sky-at-night-magazine-february-2023/" rel="bookmark">BBC Sky at Night Magazine – February 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-20T19:20:00">20.06.2023, 19:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[that’s life! – June 22, 2023]]></title>
         <id>https://magazinelib.com/all/that-s-life-june-22-2023/</id>
         <link href="https://magazinelib.com/all/that-s-life-june-22-2023/"/>
         <updated>2023-06-20T18:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/that-s-life-june-22-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/ifeMeOW6wMY.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="701"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/that-s-life-june-22-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/ifeMeOW6wMY.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="701"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-20T03:20:00">20.06.2023, 03:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women Fitness – May 2023]]></title>
-        <id>https://magazinelib.com/all/women-fitness-may-2023/</id>
-        <link href="https://magazinelib.com/all/women-fitness-may-2023/"/>
-        <updated>2023-06-20T03:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/women-fitness-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/iUVWphoSsoc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="660"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/sport/fitness/" class="entry-category entry-category-item-7889">Fitness</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/women-fitness-may-2023/" rel="bookmark">Women Fitness – May 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-20T03:15:00">20.06.2023, 03:15</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
