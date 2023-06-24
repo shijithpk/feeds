@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-24T22:31:08.832Z</updated>
+    <updated>2023-06-24T22:53:36.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Chap – Summer 2023]]></title>
+        <id>https://magazinelib.com/all/chap-summer-2023/</id>
+        <link href="https://magazinelib.com/all/chap-summer-2023/"/>
+        <updated>2023-06-25T01:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/chap-summer-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.17647059%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/zD1whQYtdOk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="720"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/chap-summer-2023/" rel="bookmark">Chap – Summer 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-25T01:40:00">25.06.2023, 01:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inspired Magazine – 22 June 2023]]></title>
         <id>https://magazinelib.com/all/inspired-magazine-22-june-2023/</id>
         <link href="https://magazinelib.com/all/inspired-magazine-22-june-2023/"/>
         <updated>2023-06-25T01:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/inspired-magazine-22-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/H7kNS_h2Tcw.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="660"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/inspired-magazine-22-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/H7kNS_h2Tcw.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="660"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-24T17:00:00">24.06.2023, 17:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About History Bookazine – 22 June 2023]]></title>
-        <id>https://magazinelib.com/all/about-history-bookazine-22-june-2023/</id>
-        <link href="https://magazinelib.com/all/about-history-bookazine-22-june-2023/"/>
-        <updated>2023-06-24T16:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/about-history-bookazine-22-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.01960784%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/KmYd0LDEBEs.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="658"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/science/history/" class="entry-category entry-category-item-7871">History</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/about-history-bookazine-22-june-2023/" rel="bookmark">About History Bookazine – 22 June 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-24T16:40:00">24.06.2023, 16:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
