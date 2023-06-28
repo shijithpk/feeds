@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-06-28T20:28:40.812Z</updated>
+    <updated>2023-06-28T20:54:36.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Equus – June 2023]]></title>
+        <id>https://magazinelib.com/all/equus-june-2023/</id>
+        <link href="https://magazinelib.com/all/equus-june-2023/"/>
+        <updated>2023-06-28T23:30:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/equus-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/Yass0YRABKU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/equus-june-2023/" rel="bookmark">Equus – June 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-06-28T23:30:00">28.06.2023, 23:30</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Men’s Fitness UK – July 2023]]></title>
         <id>https://magazinelib.com/all/men-s-fitness-uk-july-2023/</id>
         <link href="https://magazinelib.com/all/men-s-fitness-uk-july-2023/"/>
         <updated>2023-06-28T23:05:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/men-s-fitness-uk-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.76470588%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/arwZ2yP3ooI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="672"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/men-s-fitness-uk-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 131.76470588%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/arwZ2yP3ooI.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="672"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-06-28T12:40:00">28.06.2023, 12:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heritage Commercials – July 2023]]></title>
-        <id>https://magazinelib.com/all/heritage-commercials-july-2023/</id>
-        <link href="https://magazinelib.com/all/heritage-commercials-july-2023/"/>
-        <updated>2023-06-28T12:15:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/heritage-commercials-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/XE2N0Lfoj3U.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="701"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/heritage-commercials-july-2023/" rel="bookmark">Heritage Commercials – July 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-06-28T12:15:00">28.06.2023, 12:15</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
