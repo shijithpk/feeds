@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-03T03:05:43.642Z</updated>
+    <updated>2023-07-03T03:35:59.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Vintage Roadscene – July 2023]]></title>
+        <id>https://magazinelib.com/all/vintage-roadscene-july-2023/</id>
+        <link href="https://magazinelib.com/all/vintage-roadscene-july-2023/"/>
+        <updated>2023-07-03T06:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vintage-roadscene-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.45098039%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/7KblDTzCOcY.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="701"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/vintage-roadscene-july-2023/" rel="bookmark">Vintage Roadscene – July 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-07-03T06:20:00">03.07.2023, 06:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Women’s Fitness Guides – 12 May 2023]]></title>
         <id>https://magazinelib.com/all/women-s-fitness-guides-12-may-2023/</id>
         <link href="https://magazinelib.com/all/women-s-fitness-guides-12-may-2023/"/>
         <updated>2023-07-03T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/women-s-fitness-guides-12-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.78431373%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/CKZBjGE9f4k.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="667"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/women-s-fitness-guides-12-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.78431373%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/CKZBjGE9f4k.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="667"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-07-02T19:00:00">02.07.2023, 19:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhotoPlus The Canon Magazine – July 2023]]></title>
-        <id>https://magazinelib.com/all/photoplus-the-canon-magazine-july-2023/</id>
-        <link href="https://magazinelib.com/all/photoplus-the-canon-magazine-july-2023/"/>
-        <updated>2023-07-02T18:45:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/photoplus-the-canon-magazine-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.09803922%;"><img src="https://magazinelib.com/wp-content/uploads/2023/06/hE-jXgawp_g.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="689"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/photoplus-the-canon-magazine-july-2023/" rel="bookmark">PhotoPlus The Canon Magazine – July 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-07-02T18:45:00">02.07.2023, 18:45</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
