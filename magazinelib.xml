@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-03T22:32:32.768Z</updated>
+    <updated>2023-07-03T22:53:27.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Airbrush Step by Step English Edition – June 2023]]></title>
+        <id>https://magazinelib.com/all/airbrush-step-by-step-english-edition-june-2023/</id>
+        <link href="https://magazinelib.com/all/airbrush-step-by-step-english-edition-june-2023/"/>
+        <updated>2023-07-04T01:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/airbrush-step-by-step-english-edition-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/UN2vlBIDRzk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/airbrush-step-by-step-english-edition-june-2023/" rel="bookmark">Airbrush Step by Step English Edition – June 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-07-04T01:40:00">04.07.2023, 01:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World Soccer – May 2023]]></title>
         <id>https://magazinelib.com/all/world-soccer-may-2023/</id>
         <link href="https://magazinelib.com/all/world-soccer-may-2023/"/>
         <updated>2023-07-04T01:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/world-soccer-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.25490196%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/dL5UJb3SmHE.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="700"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/world-soccer-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.25490196%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/dL5UJb3SmHE.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="700"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-07-03T17:00:00">03.07.2023, 17:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women’s Golf – May 2023]]></title>
-        <id>https://magazinelib.com/all/women-s-golf-may-2023/</id>
-        <link href="https://magazinelib.com/all/women-s-golf-may-2023/"/>
-        <updated>2023-07-03T16:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/women-s-golf-may-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/VrgNPNKimoc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/sport/golf/" class="entry-category entry-category-item-7875">Golf</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/women-s-golf-may-2023/" rel="bookmark">Women’s Golf – May 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-07-03T16:40:00">03.07.2023, 16:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
