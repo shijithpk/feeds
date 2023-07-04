@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-04T03:08:27.214Z</updated>
+    <updated>2023-07-04T03:38:58.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[BBC Wildlife – July 2023]]></title>
+        <id>https://magazinelib.com/all/bbc-wildlife-july-2023/</id>
+        <link href="https://magazinelib.com/all/bbc-wildlife-july-2023/"/>
+        <updated>2023-07-04T06:20:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bbc-wildlife-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 132.35294118%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/zA3VysZMV3A.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="675"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bbc-wildlife-july-2023/" rel="bookmark">BBC Wildlife – July 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-07-04T06:20:00">04.07.2023, 06:20</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wired USA – July 2023]]></title>
         <id>https://magazinelib.com/all/wired-usa-july-2023/</id>
         <link href="https://magazinelib.com/all/wired-usa-july-2023/"/>
         <updated>2023-07-04T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wired-usa-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 136.07843137%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/LNd1YzX39vc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="694"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/wired-usa-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 136.07843137%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/LNd1YzX39vc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="694"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-07-03T21:40:00">03.07.2023, 21:40</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Womenz Straight Talk – Spring-Summer 2023]]></title>
-        <id>https://magazinelib.com/all/womenz-straight-talk-spring-summer-2023/</id>
-        <link href="https://magazinelib.com/all/womenz-straight-talk-spring-summer-2023/"/>
-        <updated>2023-07-03T21:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/womenz-straight-talk-spring-summer-2023/"><span class="g1-frame-inner" style="padding-bottom: 128.23529412%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/cLiP8z0CVB4.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="654"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/womenz-straight-talk-spring-summer-2023/" rel="bookmark">Womenz Straight Talk – Spring-Summer 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-07-03T21:20:00">03.07.2023, 21:20</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
