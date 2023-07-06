@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-06T08:35:43.108Z</updated>
+    <updated>2023-07-06T08:54:03.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Motorcycle Mojo – July 2023]]></title>
+        <id>https://magazinelib.com/all/motorcycle-mojo-july-2023/</id>
+        <link href="https://magazinelib.com/all/motorcycle-mojo-july-2023/"/>
+        <updated>2023-07-06T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/motorcycle-mojo-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.72549020%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/d5TuYwyHdXU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="682"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/auto-amp-moto/" class="entry-category entry-category-item-7316">Auto &amp; Moto</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/motorcycle-mojo-july-2023/" rel="bookmark">Motorcycle Mojo – July 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-07-06T11:40:00">06.07.2023, 11:40</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Railways Illustrated – August 2023]]></title>
         <id>https://magazinelib.com/all/railways-illustrated-august-2023/</id>
         <link href="https://magazinelib.com/all/railways-illustrated-august-2023/"/>
         <updated>2023-07-06T11:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/railways-illustrated-august-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/o_gdxKFCTSs.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/railways-illustrated-august-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/o_gdxKFCTSs.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-07-06T03:00:00">06.07.2023, 03:00</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publishers Weekly – July 03, 2023]]></title>
-        <id>https://magazinelib.com/all/publishers-weekly-july-03-2023/</id>
-        <link href="https://magazinelib.com/all/publishers-weekly-july-03-2023/"/>
-        <updated>2023-07-06T02:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/publishers-weekly-july-03-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/ba7CF7Rqzc.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/publishers-weekly-july-03-2023/" rel="bookmark">Publishers Weekly – July 03, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-07-06T02:40:00">06.07.2023, 02:40</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
