@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-11T21:53:32.420Z</updated>
+    <updated>2023-07-11T22:31:36.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bike India – July 2023]]></title>
+        <id>https://magazinelib.com/all/bike-india-july-2023/</id>
+        <link href="https://magazinelib.com/all/bike-india-july-2023/"/>
+        <updated>2023-07-12T01:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/bike-india-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 126.86274510%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/2QrxU64_nPY.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="647"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/india/" class="entry-category entry-category-item-8005">India</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/bike-india-july-2023/" rel="bookmark">Bike India – July 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-07-12T01:00:00">12.07.2023, 01:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Woman’s Own – 10 July 2023]]></title>
         <id>https://magazinelib.com/all/woman-s-own-10-july-2023/</id>
         <link href="https://magazinelib.com/all/woman-s-own-10-july-2023/"/>
         <updated>2023-07-12T00:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/woman-s-own-10-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.90196078%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/6Q4IuviJ7ek.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="688"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/woman-s-own-10-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 134.90196078%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/6Q4IuviJ7ek.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="688"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-07-11T10:20:00">11.07.2023, 10:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Nation – July 24, 2023]]></title>
-        <id>https://magazinelib.com/all/the-nation-july-24-2023/</id>
-        <link href="https://magazinelib.com/all/the-nation-july-24-2023/"/>
-        <updated>2023-07-11T10:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/the-nation-july-24-2023/"><span class="g1-frame-inner" style="padding-bottom: 133.33333333%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/OHVvTn-c54I.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="680"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-nation-july-24-2023/" rel="bookmark">The Nation – July 24, 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-07-11T10:00:00">11.07.2023, 10:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
