@@ -2,15 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-11T22:54:23.880Z</updated>
+    <updated>2023-07-11T23:27:12.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Woodworker’s Journal – August 2023]]></title>
+        <id>https://magazinelib.com/all/woodworker-s-journal-august-2023/</id>
+        <link href="https://magazinelib.com/all/woodworker-s-journal-august-2023/"/>
+        <updated>2023-07-12T02:00:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/woodworker-s-journal-august-2023/"><span class="g1-frame-inner" style="padding-bottom: 137.25490196%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/egPlJ-XBmSk.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="700"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+		
+	<div class="entry-body">
+		<header class="entry-header">
+			<div class="entry-before-title">
+				
+				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, </span></p>			</div>
+
+			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/woodworker-s-journal-august-2023/" rel="bookmark">Woodworker’s Journal – August 2023</a></h3>		</header>
+
+		
+					<footer>
+				<p class="entry-meta entry-meta-s entry-meta-byline">
+					
+					<time class="entry-date" datetime="2023-07-12T02:00:00">12.07.2023, 02:00</time>				</p>
+			</footer>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yachting Monthly – July 2023]]></title>
         <id>https://magazinelib.com/all/yachting-monthly-july-2023/</id>
         <link href="https://magazinelib.com/all/yachting-monthly-july-2023/"/>
         <updated>2023-07-12T01:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/yachting-monthly-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 139.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/OInDPgQPtTM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="711"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/yachting-monthly-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 139.41176471%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/OInDPgQPtTM.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="711"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 		
 	<div class="entry-body">
 		<header class="entry-header">
@@ -600,29 +623,6 @@
 				<p class="entry-meta entry-meta-s entry-meta-byline">
 					
 					<time class="entry-date" datetime="2023-07-11T11:20:00">11.07.2023, 11:20</time>				</p>
-			</footer>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harper’s Bazaar Singapore – July 2023]]></title>
-        <id>https://magazinelib.com/all/harper-s-bazaar-singapore-july-2023/</id>
-        <link href="https://magazinelib.com/all/harper-s-bazaar-singapore-july-2023/"/>
-        <updated>2023-07-11T11:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/harper-s-bazaar-singapore-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 130.39215686%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/NGoRYBrUSHw.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="665"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-		
-	<div class="entry-body">
-		<header class="entry-header">
-			<div class="entry-before-title">
-				
-				<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/singapore/" class="entry-category entry-category-item-8406">Singapore</a>, </span></p>			</div>
-
-			<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/harper-s-bazaar-singapore-july-2023/" rel="bookmark">Harper’s Bazaar Singapore – July 2023</a></h3>		</header>
-
-		
-					<footer>
-				<p class="entry-meta entry-meta-s entry-meta-byline">
-					
-					<time class="entry-date" datetime="2023-07-11T11:00:00">11.07.2023, 11:00</time>				</p>
 			</footer>
 			</div>]]></content>
     </entry>
