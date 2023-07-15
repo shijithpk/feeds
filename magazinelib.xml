@@ -2,15 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-15T10:32:11.110Z</updated>
+    <updated>2023-07-15T10:53:48.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp For Beginners – July 2023]]></title>
+        <id>https://magazinelib.com/all/whatsapp-for-beginners-july-2023-2/</id>
+        <link href="https://magazinelib.com/all/whatsapp-for-beginners-july-2023-2/"/>
+        <updated>2023-07-15T13:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/whatsapp-for-beginners-july-2023-2/"><span class="g1-frame-inner" style="padding-bottom: 135.49019608%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/JHVc6Ibyk8s.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="691"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/whatsapp-for-beginners-july-2023-2/" rel="bookmark">WhatsApp For Beginners – July 2023</a></h3> </header>
+<footer>
+<p class="entry-meta entry-meta-s entry-meta-byline">
+<time class="entry-date" datetime="2023-07-15T13:40:00">15.07.2023, 13:40</time> </p>
+</footer>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VegNews Magazine – June 2023]]></title>
         <id>https://magazinelib.com/all/vegnews-magazine-june-2023/</id>
         <link href="https://magazinelib.com/all/vegnews-magazine-june-2023/"/>
         <updated>2023-07-15T13:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vegnews-magazine-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.88235294%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/SY1GGSS4z5M.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="693"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/vegnews-magazine-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 135.88235294%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/SY1GGSS4z5M.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="693"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -444,23 +461,6 @@
 <footer>
 <p class="entry-meta entry-meta-s entry-meta-byline">
 <time class="entry-date" datetime="2023-07-15T05:00:00">15.07.2023, 05:00</time> </p>
-</footer>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Dog – June 2023]]></title>
-        <id>https://magazinelib.com/all/your-dog-june-2023/</id>
-        <link href="https://magazinelib.com/all/your-dog-june-2023/"/>
-        <updated>2023-07-15T04:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-dog-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/DRtj4x08SdU.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/animals/dogs/" class="entry-category entry-category-item-7882">Dogs</a>, </span></p> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/your-dog-june-2023/" rel="bookmark">Your Dog – June 2023</a></h3> </header>
-<footer>
-<p class="entry-meta entry-meta-s entry-meta-byline">
-<time class="entry-date" datetime="2023-07-15T04:40:00">15.07.2023, 04:40</time> </p>
 </footer>
 </div>]]></content>
     </entry>
