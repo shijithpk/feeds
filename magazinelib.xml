@@ -2,15 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-15T08:31:13.904Z</updated>
+    <updated>2023-07-15T08:53:36.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Women’s Health Spezial – 10. Juli 2023]]></title>
+        <id>https://magazinelib.com/all/women-s-health-spezial-10-juli-2023/</id>
+        <link href="https://magazinelib.com/all/women-s-health-spezial-10-juli-2023/"/>
+        <updated>2023-07-15T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/women-s-health-spezial-10-juli-2023/"><span class="g1-frame-inner" style="padding-bottom: 129.80392157%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/qmRuWh2CUy0.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="662"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/health/" class="entry-category entry-category-item-8200">Health</a>, <a href="https://magazinelib.com/womens/" class="entry-category entry-category-item-6144">Women's Magazines</a>, </span></p> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/women-s-health-spezial-10-juli-2023/" rel="bookmark">Women’s Health Spezial – 10. Juli 2023</a></h3> </header>
+<footer>
+<p class="entry-meta entry-meta-s entry-meta-byline">
+<time class="entry-date" datetime="2023-07-15T11:40:00">15.07.2023, 11:40</time> </p>
+</footer>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Surrey Wedding – June 2023]]></title>
         <id>https://magazinelib.com/all/your-surrey-wedding-june-2023/</id>
         <link href="https://magazinelib.com/all/your-surrey-wedding-june-2023/"/>
         <updated>2023-07-15T11:20:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-surrey-wedding-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/CcCqh_nQwPA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
+        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/your-surrey-wedding-june-2023/"><span class="g1-frame-inner" style="padding-bottom: 141.37254902%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/CcCqh_nQwPA.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="721"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -444,23 +461,6 @@
 <footer>
 <p class="entry-meta entry-meta-s entry-meta-byline">
 <time class="entry-date" datetime="2023-07-15T03:00:00">15.07.2023, 03:00</time> </p>
-</footer>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shooting Times & Country – 12 July 2023]]></title>
-        <id>https://magazinelib.com/all/shooting-times-country-12-july-2023/</id>
-        <link href="https://magazinelib.com/all/shooting-times-country-12-july-2023/"/>
-        <updated>2023-07-15T02:40:00.000Z</updated>
-        <content type="html"><![CDATA[<figure class="entry-featured-media "><a class="g1-frame" href="https://magazinelib.com/all/shooting-times-country-12-july-2023/"><span class="g1-frame-inner" style="padding-bottom: 146.07843137%;"><img src="https://magazinelib.com/wp-content/uploads/2023/07/s88L3GjlftQ.jpg" class="attachment-bimber-grid-l size-bimber-grid-l wp-post-image" alt="" decoding="async" loading="lazy" width="510" height="745"><span class="g1-frame-icon g1-frame-icon-"></span></span></a></figure>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, </span></p> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/shooting-times-country-12-july-2023/" rel="bookmark">Shooting Times &amp; Country – 12 July 2023</a></h3> </header>
-<footer>
-<p class="entry-meta entry-meta-s entry-meta-byline">
-<time class="entry-date" datetime="2023-07-15T02:40:00">15.07.2023, 02:40</time> </p>
 </footer>
 </div>]]></content>
     </entry>
