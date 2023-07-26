@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-26T05:27:06.214Z</updated>
+    <updated>2023-07-26T05:53:28.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
     <entry>
@@ -103,7 +103,7 @@
 <h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/tv-times-22-july-2023/" rel="bookmark">TV Times – 22 July 2023</a></h3> </header>
 <footer>
 <p class="entry-meta entry-meta-s entry-meta-byline">
- <time class="entry-date" datetime="2023-07-26T06:15:00">26.07.2023, 06:15</time> </p>
+<time class="entry-date" datetime="2023-07-26T06:15:00">26.07.2023, 06:15</time> </p>
 </footer>
 </div>]]></content>
     </entry>
@@ -371,6 +371,7 @@
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
+
 <p class="entry-categories "><span class="entry-categories-inner"><a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, </span></p> </div>
 <h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/python-c-for-beginners-19-july-2023/" rel="bookmark">Python &amp; C++ for Beginners – 19 July 2023</a></h3> </header>
 <footer>
