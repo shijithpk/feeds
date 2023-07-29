@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-29T13:53:41.402Z</updated>
+    <updated>2023-07-29T14:25:09.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Python for Beginners – 22 July 2023]]></title>
+        <id>https://magazinelib.com/all/python-for-beginners-22-july-2023/</id>
+        <link href="https://magazinelib.com/all/python-for-beginners-22-july-2023/"/>
+        <updated>2023-07-29T14:05:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Python for Beginners – 22 July 2023" class="g1-frame" href="https://magazinelib.com/all/python-for-beginners-22-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/D5yeu9M-aJQ-332x469.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/D5yeu9M-aJQ-332x469.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/D5yeu9M-aJQ-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/D5yeu9M-aJQ.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/D5yeu9M-aJQ-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/D5yeu9M-aJQ.jpg 510w" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/python-for-beginners-22-july-2023/" rel="bookmark">Python for Beginners – 22 July 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-07-29T17:05:00+03:00">29.07.2023, 17:05</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Saturday Guardian – 22 July 2023]]></title>
         <id>https://magazinelib.com/all/the-saturday-guardian-22-july-2023/</id>
@@ -34,7 +54,7 @@
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+ <span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
 <h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/narrow-gauge-world-issue-17-august-2023/" rel="bookmark">Narrow Gauge World – Issue 17 – August 2023</a></h3>
 </header>
 <footer>
@@ -50,7 +70,7 @@
         <id>https://magazinelib.com/all/n-photo-uk-issue-152-august-2023/</id>
         <link href="https://magazinelib.com/all/n-photo-uk-issue-152-august-2023/"/>
         <updated>2023-07-29T12:50:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="N-Photo UK – Issue 152 – August 2023" class="g1-frame" href="https://magazinelib.com/all/n-photo-uk-issue-152-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM-332x452.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM-332x452.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM.jpg 510w" width="332" height="452"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="N-Photo UK – Issue 152 – August 2023" class="g1-frame" href="https://magazinelib.com/all/n-photo-uk-issue-152-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 452'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM-332x452.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/GhHKkOHEUXM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="452"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -256,7 +276,7 @@
 <div class="entry-before-title">
 <span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
 <h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-people-s-friend-july-24-2023/" rel="bookmark">The People’s Friend – July 24, 2023</a></h3>
- </header>
+</header>
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-07-29T11:40:00+03:00">29.07.2023, 11:40</time> </p>
@@ -300,7 +320,7 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-07-29T10:50:00+03:00">29.07.2023, 10:50</time> </p>
- </footer>
+</footer>
 <div class="entry-todome g1-dropable snax">
 </div>
 </div>]]></content>
@@ -520,26 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-07-29T06:15:00+03:00">29.07.2023, 06:15</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anti-Anxiety Book – 21 July 2023]]></title>
-        <id>https://magazinelib.com/all/the-anti-anxiety-book-21-july-2023/</id>
-        <link href="https://magazinelib.com/all/the-anti-anxiety-book-21-july-2023/"/>
-        <updated>2023-07-29T02:50:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The Anti-Anxiety Book – 21 July 2023" class="g1-frame" href="https://magazinelib.com/all/the-anti-anxiety-book-21-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 428'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/Dpy7A1hvq3o-332x428.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/Dpy7A1hvq3o-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/Dpy7A1hvq3o.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="428"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-anti-anxiety-book-21-july-2023/" rel="bookmark">The Anti-Anxiety Book – 21 July 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-07-29T05:50:00+03:00">29.07.2023, 05:50</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
