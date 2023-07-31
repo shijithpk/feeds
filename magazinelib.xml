@@ -2,17 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-07-31T12:48:12.336Z</updated>
+    <updated>2023-07-31T13:31:59.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Complete Raspberry Pi Coding Manual – Issue 3 – July 2023]]></title>
+        <id>https://magazinelib.com/all/the-complete-raspberry-pi-coding-manual-issue-3-july-2023/</id>
+        <link href="https://magazinelib.com/all/the-complete-raspberry-pi-coding-manual-issue-3-july-2023/"/>
+        <updated>2023-07-31T13:15:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The Complete Raspberry Pi Coding Manual – Issue 3 – July 2023" class="g1-frame" href="https://magazinelib.com/all/the-complete-raspberry-pi-coding-manual-issue-3-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/wftSLOrKaPI-332x470.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/wftSLOrKaPI-332x470.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/wftSLOrKaPI-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/wftSLOrKaPI.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/wftSLOrKaPI-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/wftSLOrKaPI.jpg 510w" width="332" height="470"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body" style="height: auto !important;">
+<div style="width: 100%; height: auto; clear: both; text-align: center;" class="google-auto-placed"><ins style="display: block; margin: 10px auto; background-color: transparent; height: 250px;" data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-7792411719705884" data-adsbygoogle-status="done"><div id="aswift_11_host" style="border: medium none; height: 250px; width: 332px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;" tabindex="0" title="Advertisement" aria-label="Advertisement"><iframe id="aswift_11" name="aswift_11" style="left:0;position:absolute;top:0;border:0;width:332px;height:250px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7792411719705884&amp;output=html&amp;h=250&amp;adk=3614142251&amp;adf=422539226&amp;pi=t.aa~a.108489206~rp.1&amp;w=332&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1690810189&amp;rafmt=1&amp;to=qs&amp;pwprc=3947390319&amp;format=332x250&amp;url=https%3A%2F%2Fmagazinelib.com%2F&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=40&amp;dt=1690810295255&amp;bpp=4&amp;bdt=3078&amp;idt=4&amp;shv=r20230726&amp;mjsv=m202307270401&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D8928f377a7a36ed6-2234c51919e30097%3AT%3D1690810289%3ART%3D1690810289%3AS%3DALNI_MZtmLsbKvOUc3_EDCjOrKG06MhZVw&amp;gpic=UID%3D00000d349c83d669%3AT%3D1690810289%3ART%3D1690810289%3AS%3DALNI_Ma871l8vv8CABfFw50TuvFj0UYVoA&amp;prev_fmts=1152x280%2C332x250%2C300x600%2C0x0%2C0x0%2C1280x720%2C1005x124&amp;nras=5&amp;correlator=2084043728268&amp;frm=20&amp;pv=1&amp;ga_vid=330405435.1690810289&amp;ga_sid=1690810293&amp;ga_hid=2104636352&amp;ga_fc=1&amp;u_tz=0&amp;u_his=2&amp;u_h=720&amp;u_w=1280&amp;u_ah=720&amp;u_aw=1280&amp;u_cd=24&amp;u_sd=1&amp;adx=64&amp;ady=1020&amp;biw=1280&amp;bih=720&amp;scr_x=0&amp;scr_y=0&amp;eid=44759842%2C44759875%2C44759926%2C31076578%2C44788441%2C31076205&amp;oid=2&amp;psts=ABnkTfCHInoEWtJyoqmJLX4qPlZt8nDjZahUN4sBQWf51pfsP0kf4yT3mg-B9_aVFOoIwu6r4FnhlMtUc5gmygd3EQtmJEo%2CABnkTfBcUXsywOzHBG6M3pZRzHFMQ4CIrk45ZhsEI9KDDAhygVI3FDu2unaKslZclyL_6TJZtphAZ27LtGIhqriYjgeZS9gk%2CABnkTfCsZ1j7qqmFd7iKYLtgrR-gvgd_W85q4jhN9lb4b4WyO-RpldaOX3RRA1PSDUDNuEzPinp56IUTix6A9R1EuEEzkgyln4ldg5onYXJHHbPf1P53fg&amp;pvsid=388262847101680&amp;tmod=598200395&amp;nvt=1&amp;fc=896&amp;brdim=0%2C0%2C0%2C0%2C1280%2C0%2C1280%2C720%2C1280%2C720&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=1152&amp;bc=31&amp;ifi=12&amp;uci=a!c&amp;btvi=3&amp;fsb=1&amp;xpc=u18BoiAIZ9&amp;p=https%3A//magazinelib.com&amp;dtd=55" data-google-container-id="a!c" width="332" height="250" frameborder="0"></iframe></div></ins></div><header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/programming/" class="entry-category entry-category-item-8333">Programming</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-complete-raspberry-pi-coding-manual-issue-3-july-2023/" rel="bookmark">The Complete Raspberry Pi Coding Manual – Issue 3 – July 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-07-31T16:15:00+03:00">31.07.2023, 16:15</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Us Weekly – July 12, 2023]]></title>
+        <id>https://magazinelib.com/all/us-weekly-july-12-2023/</id>
+        <link href="https://magazinelib.com/all/us-weekly-july-12-2023/"/>
+        <updated>2023-07-31T13:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Us Weekly – July 12, 2023" class="g1-frame" href="https://magazinelib.com/all/us-weekly-july-12-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/6mZREm7EmfE-332x443.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/6mZREm7EmfE-332x443.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/6mZREm7EmfE-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/6mZREm7EmfE.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/6mZREm7EmfE-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/6mZREm7EmfE.jpg 510w" width="332" height="443"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/us-weekly-july-12-2023/" rel="bookmark">Us Weekly – July 12, 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-07-31T16:00:00+03:00">31.07.2023, 16:00</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 For Beginners – 22 July 2023]]></title>
+        <id>https://magazinelib.com/all/windows-10-for-beginners-22-july-2023/</id>
+        <link href="https://magazinelib.com/all/windows-10-for-beginners-22-july-2023/"/>
+        <updated>2023-07-31T12:45:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Windows 10 For Beginners – 22 July 2023" class="g1-frame" href="https://magazinelib.com/all/windows-10-for-beginners-22-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/g1ioVNxoQrE-332x428.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/g1ioVNxoQrE-332x428.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/g1ioVNxoQrE-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/g1ioVNxoQrE.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/g1ioVNxoQrE-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/g1ioVNxoQrE.jpg 510w" width="332" height="428"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/windows-10-for-beginners-22-july-2023/" rel="bookmark">Windows 10 For Beginners – 22 July 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-07-31T15:45:00+03:00">31.07.2023, 15:45</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Techlife News – Issue 612 – July 22, 2023]]></title>
         <id>https://magazinelib.com/all/techlife-news-issue-612-july-22-2023/</id>
         <link href="https://magazinelib.com/all/techlife-news-issue-612-july-22-2023/"/>
         <updated>2023-07-31T12:30:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Techlife News – Issue 612 – July 22, 2023" class="g1-frame" href="https://magazinelib.com/all/techlife-news-issue-612-july-22-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE-332x443.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE-332x443.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE.jpg 510w" width="332" height="443"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body" style="height: auto !important;">
-<div style="width: 100%; height: auto; clear: both; text-align: center;" class="google-auto-placed"><ins style="display: block; margin: 10px auto; background-color: transparent; height: 250px;" data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-7792411719705884" data-adsbygoogle-status="done" data-ad-status="filled"><div id="aswift_11_host" style="border: medium none; height: 250px; width: 332px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;" tabindex="0" title="Advertisement" aria-label="Advertisement"><iframe id="aswift_11" name="aswift_11" style="left:0;position:absolute;top:0;border:0;width:332px;height:250px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7792411719705884&amp;output=html&amp;h=250&amp;adk=3614142251&amp;adf=422539226&amp;pi=t.aa~a.108489206~rp.1&amp;w=332&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1690807565&amp;rafmt=1&amp;to=qs&amp;pwprc=3947390319&amp;format=332x250&amp;url=https%3A%2F%2Fmagazinelib.com%2F&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=40&amp;dt=1690807665431&amp;bpp=4&amp;bdt=2174&amp;idt=4&amp;shv=r20230726&amp;mjsv=m202307250101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Dfd79871fe8e340c8-221a2c361ee300e3%3AT%3D1690807661%3ART%3D1690807661%3AS%3DALNI_MaBZt1tZNkN_nT04FWC4UCsfpz0zQ&amp;gpic=UID%3D00000d3497efd19c%3AT%3D1690807661%3ART%3D1690807661%3AS%3DALNI_MZ2szpG8WtS9w3Enpmx5P8HMiBs3w&amp;prev_fmts=1152x280%2C0x0%2C332x250%2C300x600%2C0x0%2C1280x720%2C1005x124&amp;nras=5&amp;correlator=1038729153350&amp;frm=20&amp;pv=1&amp;ga_vid=1179267773.1690807661&amp;ga_sid=1690807664&amp;ga_hid=1647907352&amp;ga_fc=1&amp;u_tz=0&amp;u_his=1&amp;u_h=720&amp;u_w=1280&amp;u_ah=720&amp;u_aw=1280&amp;u_cd=24&amp;u_sd=1&amp;adx=64&amp;ady=993&amp;biw=1280&amp;bih=720&amp;scr_x=0&amp;scr_y=0&amp;eid=44759875%2C44759926%2C44759837%2C31076426%2C31076483%2C31076510%2C44788442%2C44796632&amp;oid=2&amp;psts=ABnkTfA658NXp3BGvWvPw8v4TBqpNuvn9VbW4Mln6knPNoVx9POWRxLNwDj7Du5iaYre4As1oJUJUzC-MGwgPK7CKHgLbRw%2CABnkTfBrsV9HTi5iui8ptkV9uXO9zSYwu68lfpGzbQDCTUR0uoyOu8M3tXdGp3aSLTHuNgxvo3b0alRlNYvspzU9FU1zryf5&amp;pvsid=1075172256918424&amp;tmod=1133174039&amp;nvt=1&amp;fc=896&amp;brdim=0%2C0%2C0%2C0%2C1280%2C0%2C1280%2C720%2C1280%2C720&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=1152&amp;bc=31&amp;ifi=12&amp;uci=a!c&amp;btvi=3&amp;fsb=1&amp;xpc=7UvZiGQHVj&amp;p=https%3A//magazinelib.com&amp;dtd=7" data-google-container-id="a!c" data-load-complete="true" data-google-query-id="COKApLL9uIADFXKPAAAdxIYNfg" width="332" height="250" frameborder="0"></iframe></div></ins></div><header class="entry-header">
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Techlife News – Issue 612 – July 22, 2023" class="g1-frame" href="https://magazinelib.com/all/techlife-news-issue-612-july-22-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 443'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE-332x443.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/3VWX4Q655YE.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="443"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
 <div class="entry-before-title">
 <span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a>, <a href="https://magazinelib.com/technology/" class="entry-category entry-category-item-8413">Technology</a></span></span> </div>
 <h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/techlife-news-issue-612-july-22-2023/" rel="bookmark">Techlife News – Issue 612 – July 22, 2023</a></h3>
@@ -30,7 +90,7 @@
         <id>https://magazinelib.com/all/classic-bike-guide-august-2023/</id>
         <link href="https://magazinelib.com/all/classic-bike-guide-august-2023/"/>
         <updated>2023-07-31T12:15:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Classic Bike Guide – August 2023" class="g1-frame" href="https://magazinelib.com/all/classic-bike-guide-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674-332x470.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674-332x470.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674.jpg 510w" width="332" height="470"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Classic Bike Guide – August 2023" class="g1-frame" href="https://magazinelib.com/all/classic-bike-guide-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 470'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674-332x470.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/k6MHLkEQ674.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="470"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -50,7 +110,7 @@
         <id>https://magazinelib.com/all/radio-control-car-action-september-2023/</id>
         <link href="https://magazinelib.com/all/radio-control-car-action-september-2023/"/>
         <updated>2023-07-31T12:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Radio Control Car Action – September 2023" class="g1-frame" href="https://magazinelib.com/all/radio-control-car-action-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM-332x451.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM-332x451.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM.jpg 510w" width="332" height="451"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Radio Control Car Action – September 2023" class="g1-frame" href="https://magazinelib.com/all/radio-control-car-action-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 451'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM-332x451.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/KbO0p7hzqIM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="451"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -202,7 +262,7 @@
 <time class="entry-date" datetime="2023-07-31T13:15:00+03:00">31.07.2023, 13:15</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
-</div>
+ </div>
 </div>]]></content>
     </entry>
     <entry>
@@ -378,7 +438,7 @@
 <h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/digital-camera-world-issue-271-august-2023/" rel="bookmark">Digital Camera World – Issue 271 – August 2023</a></h3>
 </header>
 <footer>
-<p class="g1-meta entry-meta entry-byline ">
+ <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-07-31T11:00:00+03:00">31.07.2023, 11:00</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
@@ -480,66 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-07-31T09:45:00+03:00">31.07.2023, 09:45</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Woodworker Magazine – 02 July 2023]]></title>
-        <id>https://magazinelib.com/all/the-woodworker-magazine-02-july-2023/</id>
-        <link href="https://magazinelib.com/all/the-woodworker-magazine-02-july-2023/"/>
-        <updated>2023-07-31T06:30:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The Woodworker Magazine – 02 July 2023" class="g1-frame" href="https://magazinelib.com/all/the-woodworker-magazine-02-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 469'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/F5eZdKtc4uA-332x469.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/F5eZdKtc4uA-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/F5eZdKtc4uA.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-woodworker-magazine-02-july-2023/" rel="bookmark">The Woodworker Magazine – 02 July 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-07-31T09:30:00+03:00">31.07.2023, 09:30</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RV Today – July-August 2023]]></title>
-        <id>https://magazinelib.com/all/rv-today-july-august-2023/</id>
-        <link href="https://magazinelib.com/all/rv-today-july-august-2023/"/>
-        <updated>2023-07-31T06:15:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="RV Today – July-August 2023" class="g1-frame" href="https://magazinelib.com/all/rv-today-july-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 436'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/GIiNxUCKSyg-332x436.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/GIiNxUCKSyg-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/GIiNxUCKSyg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="436"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/rv-today-july-august-2023/" rel="bookmark">RV Today – July-August 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-07-31T09:15:00+03:00">31.07.2023, 09:15</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
- </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your North East Wedding – July 2023]]></title>
-        <id>https://magazinelib.com/all/your-north-east-wedding-july-2023/</id>
-        <link href="https://magazinelib.com/all/your-north-east-wedding-july-2023/"/>
-        <updated>2023-07-31T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Your North East Wedding – July 2023" class="g1-frame" href="https://magazinelib.com/all/your-north-east-wedding-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 469'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/07/eAuwncBYNOo-332x469.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/07/eAuwncBYNOo-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/07/eAuwncBYNOo.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/womens/weddings/" class="entry-category entry-category-item-8079">Weddings</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/your-north-east-wedding-july-2023/" rel="bookmark">Your North East Wedding – July 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-07-31T09:00:00+03:00">31.07.2023, 09:00</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
