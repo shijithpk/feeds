@@ -2,15 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-08-05T15:23:17.541Z</updated>
+    <updated>2023-08-05T15:53:44.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[OK! Magazine UK – Issue 1402 – 7 August 2023]]></title>
+        <id>https://magazinelib.com/all/ok-magazine-uk-issue-1402-7-august-2023-2/</id>
+        <link href="https://magazinelib.com/all/ok-magazine-uk-issue-1402-7-august-2023-2/"/>
+        <updated>2023-08-05T15:40:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="OK! Magazine UK – Issue 1402 – 7 August 2023" class="g1-frame" href="https://magazinelib.com/all/ok-magazine-uk-issue-1402-7-august-2023-2/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/uSyL-xMzEV8-332x451.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/uSyL-xMzEV8-332x451.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/uSyL-xMzEV8-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/uSyL-xMzEV8.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/uSyL-xMzEV8-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/uSyL-xMzEV8.jpg 510w" width="332" height="451"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/ok-magazine-uk-issue-1402-7-august-2023-2/" rel="bookmark">OK! Magazine UK – Issue 1402 – 7 August 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-08-05T18:40:00+03:00">05.08.2023, 18:40</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New! Magazine – Issue 1043 – 7 August 2023]]></title>
+        <id>https://magazinelib.com/all/new-magazine-issue-1043-7-august-2023/</id>
+        <link href="https://magazinelib.com/all/new-magazine-issue-1043-7-august-2023/"/>
+        <updated>2023-08-05T15:20:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="New! Magazine – Issue 1043 – 7 August 2023" class="g1-frame" href="https://magazinelib.com/all/new-magazine-issue-1043-7-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/VwIj8Eax1jk-332x473.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/VwIj8Eax1jk-332x473.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/VwIj8Eax1jk-332x473.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/VwIj8Eax1jk.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/VwIj8Eax1jk-332x473.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/VwIj8Eax1jk.jpg 510w" width="332" height="473"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/new-magazine-issue-1043-7-august-2023/" rel="bookmark">New! Magazine – Issue 1043 – 7 August 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-08-05T18:20:00+03:00">05.08.2023, 18:20</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New! Magazine – Issue 1043 – 1 August 2023]]></title>
         <id>https://magazinelib.com/all/new-magazine-issue-1043-1-august-2023/</id>
         <link href="https://magazinelib.com/all/new-magazine-issue-1043-1-august-2023/"/>
         <updated>2023-08-05T15:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="New! Magazine – Issue 1043 – 1 August 2023" class="g1-frame" href="https://magazinelib.com/all/new-magazine-issue-1043-1-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s.jpg 510w" width="332" height="473"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="New! Magazine – Issue 1043 – 1 August 2023" class="g1-frame" href="https://magazinelib.com/all/new-magazine-issue-1043-1-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s-332x473.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/OMGPBdbdb0s.jpg 510w" width="332" height="473"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -50,7 +90,7 @@
         <id>https://magazinelib.com/all/inside-history-collection-the-black-death-2-august-2023/</id>
         <link href="https://magazinelib.com/all/inside-history-collection-the-black-death-2-august-2023/"/>
         <updated>2023-08-05T14:40:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Inside History Collection – The Black Death – 2 August 2023" class="g1-frame" href="https://magazinelib.com/all/inside-history-collection-the-black-death-2-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM-332x445.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM-332x445.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM-332x445.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM-332x445.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM.jpg 510w" width="332" height="445"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Inside History Collection – The Black Death – 2 August 2023" class="g1-frame" href="https://magazinelib.com/all/inside-history-collection-the-black-death-2-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 445'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM-332x445.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM-332x445.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/XhCELgLZjxM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="445"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -70,7 +110,7 @@
         <id>https://magazinelib.com/all/australian-traveller-august-october-2023/</id>
         <link href="https://magazinelib.com/all/australian-traveller-august-october-2023/"/>
         <updated>2023-08-05T14:20:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Australian Traveller – August-October 2023" class="g1-frame" href="https://magazinelib.com/all/australian-traveller-august-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk-332x415.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk-332x415.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk-332x415.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk-332x415.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk.jpg 510w" width="332" height="415"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Australian Traveller – August-October 2023" class="g1-frame" href="https://magazinelib.com/all/australian-traveller-august-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 415'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk-332x415.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk-332x415.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/nnyXr8vh0Rk.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="415"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -500,46 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-08-05T12:00:00+03:00">05.08.2023, 12:00</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motor Sport Magazine – September 2023]]></title>
-        <id>https://magazinelib.com/all/motor-sport-magazine-september-2023/</id>
-        <link href="https://magazinelib.com/all/motor-sport-magazine-september-2023/"/>
-        <updated>2023-08-05T09:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Motor Sport Magazine – September 2023" class="g1-frame" href="https://magazinelib.com/all/motor-sport-magazine-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 430'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/SOMUfN8hgPM-332x430.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/SOMUfN8hgPM-332x430.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/SOMUfN8hgPM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="430"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/auto-amp-moto/" class="entry-category entry-category-item-7316">Auto &amp; Moto</a>, <a href="https://magazinelib.com/sport/" class="entry-category entry-category-item-7874">Sport</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/motor-sport-magazine-september-2023/" rel="bookmark">Motor Sport Magazine – September 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-08-05T12:00:00+03:00">05.08.2023, 12:00</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Photoshop – August 2023]]></title>
-        <id>https://magazinelib.com/all/practical-photoshop-august-2023/</id>
-        <link href="https://magazinelib.com/all/practical-photoshop-august-2023/"/>
-        <updated>2023-08-05T08:40:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Practical Photoshop – August 2023" class="g1-frame" href="https://magazinelib.com/all/practical-photoshop-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 443'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/H9HkICkj44s-332x443.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/H9HkICkj44s-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/H9HkICkj44s.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="443"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/photoshop/" class="entry-category entry-category-item-8336">Photoshop</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/practical-photoshop-august-2023/" rel="bookmark">Practical Photoshop – August 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-08-05T11:40:00+03:00">05.08.2023, 11:40</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
