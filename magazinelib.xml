@@ -2,15 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-08-27T23:23:47.577Z</updated>
+    <updated>2023-08-27T23:53:41.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The MagPi – Issue 133 – September 2023]]></title>
+        <id>https://magazinelib.com/all/the-magpi-issue-133-september-2023/</id>
+        <link href="https://magazinelib.com/all/the-magpi-issue-133-september-2023/"/>
+        <updated>2023-08-27T23:40:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The MagPi – Issue 133 – September 2023" class="g1-frame" href="https://magazinelib.com/all/the-magpi-issue-133-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/PjDf365F8K0-332x436.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/PjDf365F8K0-332x436.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/PjDf365F8K0-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/PjDf365F8K0.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/PjDf365F8K0-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/PjDf365F8K0.jpg 510w" width="332" height="436"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-magpi-issue-133-september-2023/" rel="bookmark">The MagPi – Issue 133 – September 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-08-28T02:40:00+03:00">28.08.2023, 02:40</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peppermint Magazine – Issue 59 – Spring 2023]]></title>
+        <id>https://magazinelib.com/all/peppermint-magazine-issue-59-spring-2023/</id>
+        <link href="https://magazinelib.com/all/peppermint-magazine-issue-59-spring-2023/"/>
+        <updated>2023-08-27T23:20:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Peppermint Magazine – Issue 59 – Spring 2023" class="g1-frame" href="https://magazinelib.com/all/peppermint-magazine-issue-59-spring-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/RhwLmhRUdhk-332x452.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/RhwLmhRUdhk-332x452.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/RhwLmhRUdhk-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/RhwLmhRUdhk.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/RhwLmhRUdhk-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/RhwLmhRUdhk.jpg 510w" width="332" height="452"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/peppermint-magazine-issue-59-spring-2023/" rel="bookmark">Peppermint Magazine – Issue 59 – Spring 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-08-28T02:20:00+03:00">28.08.2023, 02:20</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackSpace – Issue 70 – September 2023]]></title>
         <id>https://magazinelib.com/all/hackspace-issue-70-september-2023/</id>
         <link href="https://magazinelib.com/all/hackspace-issue-70-september-2023/"/>
         <updated>2023-08-27T23:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="HackSpace – Issue 70 – September 2023" class="g1-frame" href="https://magazinelib.com/all/hackspace-issue-70-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI.jpg 510w" width="332" height="436"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="HackSpace – Issue 70 – September 2023" class="g1-frame" href="https://magazinelib.com/all/hackspace-issue-70-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/X_qUahy1nYI.jpg 510w" width="332" height="436"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -30,7 +70,7 @@
         <id>https://magazinelib.com/all/the-guardian-weekly-25-august-2023/</id>
         <link href="https://magazinelib.com/all/the-guardian-weekly-25-august-2023/"/>
         <updated>2023-08-27T22:40:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The Guardian Weekly – 25 August 2023" class="g1-frame" href="https://magazinelib.com/all/the-guardian-weekly-25-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA.jpg 510w" width="332" height="430"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The Guardian Weekly – 25 August 2023" class="g1-frame" href="https://magazinelib.com/all/the-guardian-weekly-25-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA-332x430.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/iOJCLnMw-gA.jpg 510w" width="332" height="430"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -50,7 +90,7 @@
         <id>https://magazinelib.com/all/the-new-yorker-august-28-2023/</id>
         <link href="https://magazinelib.com/all/the-new-yorker-august-28-2023/"/>
         <updated>2023-08-27T22:20:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The New Yorker – August 28, 2023" class="g1-frame" href="https://magazinelib.com/all/the-new-yorker-august-28-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM-332x454.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM-332x454.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM-332x454.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM-332x454.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM.jpg 510w" width="332" height="454"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The New Yorker – August 28, 2023" class="g1-frame" href="https://magazinelib.com/all/the-new-yorker-august-28-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 454'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM-332x454.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM-332x454.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/12vQTXbXqaM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="454"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -70,7 +110,7 @@
         <id>https://magazinelib.com/all/national-geographic-history-september-october-2023/</id>
         <link href="https://magazinelib.com/all/national-geographic-history-september-october-2023/"/>
         <updated>2023-08-27T22:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="National Geographic History – September-October 2023" class="g1-frame" href="https://magazinelib.com/all/national-geographic-history-september-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU-332x425.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU-332x425.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU-332x425.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU-332x425.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU.jpg 510w" width="332" height="425"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="National Geographic History – September-October 2023" class="g1-frame" href="https://magazinelib.com/all/national-geographic-history-september-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 425'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU-332x425.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU-332x425.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/Hgpubf1ANuU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="425"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -500,46 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-08-27T19:30:00+03:00">27.08.2023, 19:30</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psychology Now – Volume 6 – August 2023]]></title>
-        <id>https://magazinelib.com/all/psychology-now-volume-6-august-2023/</id>
-        <link href="https://magazinelib.com/all/psychology-now-volume-6-august-2023/"/>
-        <updated>2023-08-27T16:15:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Psychology Now – Volume 6 – August 2023" class="g1-frame" href="https://magazinelib.com/all/psychology-now-volume-6-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 428'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/7bRAXuE5aJM-332x428.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/7bRAXuE5aJM-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/7bRAXuE5aJM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="428"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/science/psychology/" class="entry-category entry-category-item-7893">Psychology</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/psychology-now-volume-6-august-2023/" rel="bookmark">Psychology Now – Volume 6 – August 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-08-27T19:15:00+03:00">27.08.2023, 19:15</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Canvas – Issue 96, February 2023]]></title>
-        <id>https://magazinelib.com/all/human-canvas-issue-96-february-2023/</id>
-        <link href="https://magazinelib.com/all/human-canvas-issue-96-february-2023/"/>
-        <updated>2023-08-27T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Human Canvas – Issue 96, February 2023" class="g1-frame" href="https://magazinelib.com/all/human-canvas-issue-96-february-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 435'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/B8FLBrtDyWA-332x435.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/B8FLBrtDyWA-332x435.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/B8FLBrtDyWA.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="435"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/human-canvas-issue-96-february-2023/" rel="bookmark">Human Canvas – Issue 96, February 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-08-27T19:00:00+03:00">27.08.2023, 19:00</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
