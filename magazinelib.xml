@@ -2,15 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-09-01T06:30:04.422Z</updated>
+    <updated>2023-09-01T06:54:11.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Vanity Fair UK – September 2023]]></title>
+        <id>https://magazinelib.com/all/vanity-fair-uk-september-2023/</id>
+        <link href="https://magazinelib.com/all/vanity-fair-uk-september-2023/"/>
+        <updated>2023-09-01T06:40:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Vanity Fair UK – September 2023" class="g1-frame" href="https://magazinelib.com/all/vanity-fair-uk-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/b4QLqZmJK4c-332x452.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/b4QLqZmJK4c-332x452.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/b4QLqZmJK4c-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/b4QLqZmJK4c.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/b4QLqZmJK4c-332x452.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/b4QLqZmJK4c.jpg 510w" width="332" height="452"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/vanity-fair-uk-september-2023/" rel="bookmark">Vanity Fair UK – September 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-09-01T09:40:00+03:00">01.09.2023, 09:40</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elle USA – September 2023]]></title>
+        <id>https://magazinelib.com/all/elle-usa-september-2023/</id>
+        <link href="https://magazinelib.com/all/elle-usa-september-2023/"/>
+        <updated>2023-09-01T06:20:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Elle USA – September 2023" class="g1-frame" href="https://magazinelib.com/all/elle-usa-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/0-96HqAxs4A-332x407.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/0-96HqAxs4A-332x407.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/0-96HqAxs4A-332x407.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/0-96HqAxs4A.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/0-96HqAxs4A-332x407.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/0-96HqAxs4A.jpg 510w" width="332" height="407"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/usa2/" class="entry-category entry-category-item-7997">USA</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/elle-usa-september-2023/" rel="bookmark">Elle USA – September 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-09-01T09:20:00+03:00">01.09.2023, 09:20</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Military Embedded Systems – July-August 2023]]></title>
         <id>https://magazinelib.com/all/military-embedded-systems-july-august-2023/</id>
         <link href="https://magazinelib.com/all/military-embedded-systems-july-august-2023/"/>
         <updated>2023-09-01T06:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Military Embedded Systems – July-August 2023" class="g1-frame" href="https://magazinelib.com/all/military-embedded-systems-july-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc.jpg 510w" width="332" height="450"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Military Embedded Systems – July-August 2023" class="g1-frame" href="https://magazinelib.com/all/military-embedded-systems-july-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc-332x450.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/DRwQvdeTVDc.jpg 510w" width="332" height="450"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -30,7 +70,7 @@
         <id>https://magazinelib.com/all/techlife-news-issue-617-august-26-2023/</id>
         <link href="https://magazinelib.com/all/techlife-news-issue-617-august-26-2023/"/>
         <updated>2023-09-01T05:40:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Techlife News – Issue 617 – August 26, 2023" class="g1-frame" href="https://magazinelib.com/all/techlife-news-issue-617-august-26-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw.jpg 510w" width="332" height="443"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Techlife News – Issue 617 – August 26, 2023" class="g1-frame" href="https://magazinelib.com/all/techlife-news-issue-617-august-26-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw-332x443.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/sCBHE6vW7Cw.jpg 510w" width="332" height="443"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -50,7 +90,7 @@
         <id>https://magazinelib.com/all/interiors-monthly-july-2023/</id>
         <link href="https://magazinelib.com/all/interiors-monthly-july-2023/"/>
         <updated>2023-09-01T05:20:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Interiors Monthly – July 2023" class="g1-frame" href="https://magazinelib.com/all/interiors-monthly-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8-332x469.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8-332x469.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8.jpg 510w" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Interiors Monthly – July 2023" class="g1-frame" href="https://magazinelib.com/all/interiors-monthly-july-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 469'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8-332x469.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/Z26y8NN6cg8.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -70,7 +110,7 @@
         <id>https://magazinelib.com/all/home-south-africa-september-2023/</id>
         <link href="https://magazinelib.com/all/home-south-africa-september-2023/"/>
         <updated>2023-09-01T05:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Home South Africa – September 2023" class="g1-frame" href="https://magazinelib.com/all/home-south-africa-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4-332x435.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4-332x435.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4-332x435.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4-332x435.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4.jpg 510w" width="332" height="435"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Home South Africa – September 2023" class="g1-frame" href="https://magazinelib.com/all/home-south-africa-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 435'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4-332x435.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4-332x435.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/eVuWfxlkoo4.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="435"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -500,46 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-09-01T01:00:00+03:00">01.09.2023, 01:00</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo Insights – September 2023]]></title>
-        <id>https://magazinelib.com/all/photo-insights-september-2023/</id>
-        <link href="https://magazinelib.com/all/photo-insights-september-2023/"/>
-        <updated>2023-08-31T21:40:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Photo Insights – September 2023" class="g1-frame" href="https://magazinelib.com/all/photo-insights-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 430'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/lcTnoo0MYN8-332x430.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/lcTnoo0MYN8-332x430.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/lcTnoo0MYN8.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="430"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/photo/" class="entry-category entry-category-item-7880">Photo</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/photo-insights-september-2023/" rel="bookmark">Photo Insights – September 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-09-01T00:40:00+03:00">01.09.2023, 00:40</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Su Casa Southwest Homes – Summer 2023]]></title>
-        <id>https://magazinelib.com/all/su-casa-southwest-homes-summer-2023/</id>
-        <link href="https://magazinelib.com/all/su-casa-southwest-homes-summer-2023/"/>
-        <updated>2023-08-31T21:20:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Su Casa Southwest Homes – Summer 2023" class="g1-frame" href="https://magazinelib.com/all/su-casa-southwest-homes-summer-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 401'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/KpVxHCvRwk0-332x401.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/KpVxHCvRwk0-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/KpVxHCvRwk0.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="401"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/su-casa-southwest-homes-summer-2023/" rel="bookmark">Su Casa Southwest Homes – Summer 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-09-01T00:20:00+03:00">01.09.2023, 00:20</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
