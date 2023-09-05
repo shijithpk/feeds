@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.morningstar.in/library/archives.aspx</id>
     <title>Morningstar India articles</title>
-    <updated>2023-09-05T09:24:45.608Z</updated>
+    <updated>2023-09-05T09:53:42.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.morningstar.in/library/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[China, the problem child in EM investing]]></title>
-        <id>https://www.morningstar.in/posts/75068/china-the-problem-child-in-em-investing.aspx</id>
-        <link href="https://www.morningstar.in/posts/75068/china-the-problem-child-in-em-investing.aspx"/>
-        <updated>2023-09-05T09:24:44.497Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/75068/china-the-problem-child-in-em-investing.aspx" title="China, the problem child in EM investing">
-										China, the problem child in EM investing
+        <title type="html"><![CDATA[The world is changing faster than indices can adjust]]></title>
+        <id>https://www.morningstar.in/posts/75073/the-world-is-changing-faster-than-indices-can-adjust.aspx</id>
+        <link href="https://www.morningstar.in/posts/75073/the-world-is-changing-faster-than-indices-can-adjust.aspx"/>
+        <updated>2023-09-05T09:53:41.475Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/75073/the-world-is-changing-faster-than-indices-can-adjust.aspx" title="The world is changing faster than indices can adjust">
+										The world is changing faster than indices can adjust
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ACROSS THE GLOBE]]></title>
         <id>https://www.morningstar.in/posts/collection/across-the-globe.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/across-the-globe.aspx"/>
-        <updated>2023-09-05T09:24:44.498Z</updated>
+        <updated>2023-09-05T09:53:41.479Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/across-the-globe.aspx" title="ACROSS THE GLOBE">
 										ACROSS THE GLOBE
@@ -28,7 +28,7 @@
         <title type="html"><![CDATA[Morningstar]]></title>
         <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
         <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.498Z</updated>
+        <updated>2023-09-05T09:53:41.481Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
 										Morningstar 
@@ -38,7 +38,44 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.977Z</updated>
+        <updated>2023-09-05T09:53:40.908Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Sep 05, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China, the problem child in EM investing]]></title>
+        <id>https://www.morningstar.in/posts/75068/china-the-problem-child-in-em-investing.aspx</id>
+        <link href="https://www.morningstar.in/posts/75068/china-the-problem-child-in-em-investing.aspx"/>
+        <updated>2023-09-05T09:53:41.483Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/75068/china-the-problem-child-in-em-investing.aspx" title="China, the problem child in EM investing">
+										China, the problem child in EM investing
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACROSS THE GLOBE]]></title>
+        <id>https://www.morningstar.in/posts/collection/across-the-globe.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/across-the-globe.aspx"/>
+        <updated>2023-09-05T09:53:41.485Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/across-the-globe.aspx" title="ACROSS THE GLOBE">
+										ACROSS THE GLOBE
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morningstar]]></title>
+        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
+        <updated>2023-09-05T09:53:41.488Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
+										Morningstar 
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.908Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
 									Sep 05, 2023]]></content>
     </entry>
@@ -46,7 +83,7 @@
         <title type="html"><![CDATA["Inherited" financial advice could be very misleading]]></title>
         <id>https://www.morningstar.in/posts/75048/inherited-financial-advice-could-be-very-misleading.aspx</id>
         <link href="https://www.morningstar.in/posts/75048/inherited-financial-advice-could-be-very-misleading.aspx"/>
-        <updated>2023-09-05T09:24:44.499Z</updated>
+        <updated>2023-09-05T09:53:41.488Z</updated>
         <content type="html"><![CDATA[<a href="/posts/75048/inherited-financial-advice-could-be-very-misleading.aspx" title="&quot;Inherited&quot; financial advice could be very misleading">
 										"Inherited" financial advice could be very misleading
 									</a>]]></content>
@@ -55,7 +92,7 @@
         <title type="html"><![CDATA[BEHAVIOURAL FINANCE]]></title>
         <id>https://www.morningstar.in/posts/collection/behavioural-finance.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/behavioural-finance.aspx"/>
-        <updated>2023-09-05T09:24:44.501Z</updated>
+        <updated>2023-09-05T09:53:41.493Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/behavioural-finance.aspx" title="BEHAVIOURAL FINANCE">
 										BEHAVIOURAL FINANCE
@@ -65,17 +102,17 @@
         <title type="html"><![CDATA[Christine Benz]]></title>
         <id>https://www.morningstar.in/posts/author/christine-benz.aspx</id>
         <link href="https://www.morningstar.in/posts/author/christine-benz.aspx"/>
-        <updated>2023-09-05T09:24:44.503Z</updated>
+        <updated>2023-09-05T09:53:41.494Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/christine-benz.aspx" title="Christine Benz">
 										Christine Benz
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[11]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.978Z</updated>
+        <updated>2023-09-05T09:53:40.911Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
 									Sep 04, 2023]]></content>
     </entry>
@@ -83,7 +120,7 @@
         <title type="html"><![CDATA[Devina Mehra on conventional wisdom and standing apart]]></title>
         <id>https://www.morningstar.in/posts/75033/devina-mehra-on-conventional-wisdom-and-standing-apart.aspx</id>
         <link href="https://www.morningstar.in/posts/75033/devina-mehra-on-conventional-wisdom-and-standing-apart.aspx"/>
-        <updated>2023-09-05T09:24:44.524Z</updated>
+        <updated>2023-09-05T09:53:41.498Z</updated>
         <content type="html"><![CDATA[<a href="/posts/75033/devina-mehra-on-conventional-wisdom-and-standing-apart.aspx" title="Devina Mehra on conventional wisdom and standing apart">
 										Devina Mehra on conventional wisdom and standing apart
 									</a>]]></content>
@@ -92,7 +129,7 @@
         <title type="html"><![CDATA[THE INVESTOR'S MIND WITH LARISSA FERNAND]]></title>
         <id>https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.527Z</updated>
+        <updated>2023-09-05T09:53:41.514Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/the-investors-mind-with-larissa-fernand.aspx" title="THE INVESTOR" s="" mind="" with="" larissa="" fernand'="">
 										THE INVESTOR'S MIND WITH LARISSA FERNAND
@@ -102,17 +139,17 @@
         <title type="html"><![CDATA[Larissa Fernand]]></title>
         <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
         <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.528Z</updated>
+        <updated>2023-09-05T09:53:41.514Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
 										Larissa Fernand
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
+        <title type="html"><![CDATA[15]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.991Z</updated>
+        <updated>2023-09-05T09:53:40.913Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
 									Sep 01, 2023]]></content>
     </entry>
@@ -120,7 +157,7 @@
         <title type="html"><![CDATA[Are you really a long-term investor?]]></title>
         <id>https://www.morningstar.in/posts/75026/are-you-really-a-long-term-investor.aspx</id>
         <link href="https://www.morningstar.in/posts/75026/are-you-really-a-long-term-investor.aspx"/>
-        <updated>2023-09-05T09:24:44.545Z</updated>
+        <updated>2023-09-05T09:53:41.515Z</updated>
         <content type="html"><![CDATA[<a href="/posts/75026/are-you-really-a-long-term-investor.aspx" title="Are you really a long-term investor?">
 										Are you really a long-term investor?
 									</a>]]></content>
@@ -129,7 +166,7 @@
         <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES]]></title>
         <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2023-09-05T09:24:44.547Z</updated>
+        <updated>2023-09-05T09:53:41.515Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
 										INSIGHTS AND PERSPECTIVES
@@ -139,44 +176,7 @@
         <title type="html"><![CDATA[Morningstar]]></title>
         <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
         <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.550Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
-										Morningstar 
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.992Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 31, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What helps a company survive and thrive]]></title>
-        <id>https://www.morningstar.in/posts/75019/what-helps-a-company-survive-and-thrive.aspx</id>
-        <link href="https://www.morningstar.in/posts/75019/what-helps-a-company-survive-and-thrive.aspx"/>
-        <updated>2023-09-05T09:24:44.551Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/75019/what-helps-a-company-survive-and-thrive.aspx" title="What helps a company survive and thrive">
-										What helps a company survive and thrive
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INVESTING - EQUITY]]></title>
-        <id>https://www.morningstar.in/posts/collection/investing---equity.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/investing---equity.aspx"/>
-        <updated>2023-09-05T09:24:44.552Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/investing---equity.aspx" title="INVESTING - EQUITY">
-										INVESTING - EQUITY
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morningstar]]></title>
-        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.553Z</updated>
+        <updated>2023-09-05T09:53:41.515Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
 										Morningstar 
@@ -186,34 +186,34 @@
         <title type="html"><![CDATA[19]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.994Z</updated>
+        <updated>2023-09-05T09:53:40.915Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 30, 2023]]></content>
+									Aug 31, 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Money advice for young individuals]]></title>
-        <id>https://www.morningstar.in/posts/75014/money-advice-for-young-individuals.aspx</id>
-        <link href="https://www.morningstar.in/posts/75014/money-advice-for-young-individuals.aspx"/>
-        <updated>2023-09-05T09:24:44.556Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/75014/money-advice-for-young-individuals.aspx" title="Money advice for young individuals">
-										Money advice for young individuals
+        <title type="html"><![CDATA[What helps a company survive and thrive]]></title>
+        <id>https://www.morningstar.in/posts/75019/what-helps-a-company-survive-and-thrive.aspx</id>
+        <link href="https://www.morningstar.in/posts/75019/what-helps-a-company-survive-and-thrive.aspx"/>
+        <updated>2023-09-05T09:53:41.518Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/75019/what-helps-a-company-survive-and-thrive.aspx" title="What helps a company survive and thrive">
+										What helps a company survive and thrive
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PERSONAL FINANCE]]></title>
-        <id>https://www.morningstar.in/posts/collection/personal-finance.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/personal-finance.aspx"/>
-        <updated>2023-09-05T09:24:44.558Z</updated>
+        <title type="html"><![CDATA[INVESTING - EQUITY]]></title>
+        <id>https://www.morningstar.in/posts/collection/investing---equity.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/investing---equity.aspx"/>
+        <updated>2023-09-05T09:53:41.518Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/personal-finance.aspx" title="PERSONAL FINANCE">
-										PERSONAL FINANCE
+									<a href="/posts/collection/investing---equity.aspx" title="INVESTING - EQUITY">
+										INVESTING - EQUITY
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Morningstar]]></title>
         <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
         <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.561Z</updated>
+        <updated>2023-09-05T09:53:41.521Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
 										Morningstar 
@@ -223,7 +223,44 @@
         <title type="html"><![CDATA[23]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.995Z</updated>
+        <updated>2023-09-05T09:53:40.918Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 30, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Money advice for young individuals]]></title>
+        <id>https://www.morningstar.in/posts/75014/money-advice-for-young-individuals.aspx</id>
+        <link href="https://www.morningstar.in/posts/75014/money-advice-for-young-individuals.aspx"/>
+        <updated>2023-09-05T09:53:41.523Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/75014/money-advice-for-young-individuals.aspx" title="Money advice for young individuals">
+										Money advice for young individuals
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PERSONAL FINANCE]]></title>
+        <id>https://www.morningstar.in/posts/collection/personal-finance.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/personal-finance.aspx"/>
+        <updated>2023-09-05T09:53:41.526Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/personal-finance.aspx" title="PERSONAL FINANCE">
+										PERSONAL FINANCE
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morningstar]]></title>
+        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
+        <updated>2023-09-05T09:53:41.529Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
+										Morningstar 
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.921Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
 									Aug 28, 2023]]></content>
     </entry>
@@ -231,7 +268,7 @@
         <title type="html"><![CDATA[Don't blindly take the advice of Influencers]]></title>
         <id>https://www.morningstar.in/posts/75007/dont-blindly-take-the-advice-of-influencers.aspx</id>
         <link href="https://www.morningstar.in/posts/75007/dont-blindly-take-the-advice-of-influencers.aspx"/>
-        <updated>2023-09-05T09:24:44.562Z</updated>
+        <updated>2023-09-05T09:53:41.532Z</updated>
         <content type="html"><![CDATA[<a href="/posts/75007/dont-blindly-take-the-advice-of-influencers.aspx" title="Don't blindly take the advice of Influencers">
 										Don't blindly take the advice of Influencers
 									</a>]]></content>
@@ -240,7 +277,7 @@
         <title type="html"><![CDATA[BACK TO BASICS]]></title>
         <id>https://www.morningstar.in/posts/collection/back-to-basics.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/back-to-basics.aspx"/>
-        <updated>2023-09-05T09:24:44.577Z</updated>
+        <updated>2023-09-05T09:53:41.535Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/back-to-basics.aspx" title="BACK TO BASICS">
 										BACK TO BASICS
@@ -250,44 +287,7 @@
         <title type="html"><![CDATA[Larissa Fernand]]></title>
         <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
         <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.578Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.996Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 27, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Approach Retirement with a different construct]]></title>
-        <id>https://www.morningstar.in/posts/74971/approach-retirement-with-a-different-construct.aspx</id>
-        <link href="https://www.morningstar.in/posts/74971/approach-retirement-with-a-different-construct.aspx"/>
-        <updated>2023-09-05T09:24:44.578Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74971/approach-retirement-with-a-different-construct.aspx" title="Approach Retirement with a different construct">
-										Approach Retirement with a different construct
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RETIREMENT]]></title>
-        <id>https://www.morningstar.in/posts/collection/retirement.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/retirement.aspx"/>
-        <updated>2023-09-05T09:24:44.579Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/retirement.aspx" title="RETIREMENT">
-										RETIREMENT
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.579Z</updated>
+        <updated>2023-09-05T09:53:41.538Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
 										Larissa Fernand
@@ -297,357 +297,24 @@
         <title type="html"><![CDATA[31]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.997Z</updated>
+        <updated>2023-09-05T09:53:40.921Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 25, 2023]]></content>
+									Aug 27, 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to create an environment conducive to investing]]></title>
-        <id>https://www.morningstar.in/posts/74994/how-to-create-an-environment-conducive-to-investing.aspx</id>
-        <link href="https://www.morningstar.in/posts/74994/how-to-create-an-environment-conducive-to-investing.aspx"/>
-        <updated>2023-09-05T09:24:44.580Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74994/how-to-create-an-environment-conducive-to-investing.aspx" title="How to create an environment conducive to investing">
-										How to create an environment conducive to investing
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEHAVIOURAL FINANCE]]></title>
-        <id>https://www.morningstar.in/posts/collection/behavioural-finance.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/behavioural-finance.aspx"/>
-        <updated>2023-09-05T09:24:44.582Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/behavioural-finance.aspx" title="BEHAVIOURAL FINANCE">
-										BEHAVIOURAL FINANCE
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.583Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.998Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 22, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anand Radhakrishnan makes a case for skepticism in investing]]></title>
-        <id>https://www.morningstar.in/posts/74963/anand-radhakrishnan-makes-a-case-for-skepticism-in-investing.aspx</id>
-        <link href="https://www.morningstar.in/posts/74963/anand-radhakrishnan-makes-a-case-for-skepticism-in-investing.aspx"/>
-        <updated>2023-09-05T09:24:44.584Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74963/anand-radhakrishnan-makes-a-case-for-skepticism-in-investing.aspx" title="Anand Radhakrishnan makes a case for skepticism in investing">
-										Anand Radhakrishnan makes a case for skepticism in investing
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE INVESTOR'S MIND WITH LARISSA FERNAND]]></title>
-        <id>https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.585Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/the-investors-mind-with-larissa-fernand.aspx" title="THE INVESTOR" s="" mind="" with="" larissa="" fernand'="">
-										THE INVESTOR'S MIND WITH LARISSA FERNAND
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.589Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[39]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:43.999Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 21, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does investing make you happy?]]></title>
-        <id>https://www.morningstar.in/posts/74951/does-investing-make-you-happy.aspx</id>
-        <link href="https://www.morningstar.in/posts/74951/does-investing-make-you-happy.aspx"/>
-        <updated>2023-09-05T09:24:44.590Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74951/does-investing-make-you-happy.aspx" title="Does investing make you happy?">
-										Does investing make you happy?
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEHAVIOURAL FINANCE]]></title>
-        <id>https://www.morningstar.in/posts/collection/behavioural-finance.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/behavioural-finance.aspx"/>
-        <updated>2023-09-05T09:24:44.592Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/behavioural-finance.aspx" title="BEHAVIOURAL FINANCE">
-										BEHAVIOURAL FINANCE
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.594Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[43]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.000Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 21, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Take: Equity investing demands a decadal perspective]]></title>
-        <id>https://www.morningstar.in/posts/74944/quick-take-equity-investing-demands-a-decadal-perspective.aspx</id>
-        <link href="https://www.morningstar.in/posts/74944/quick-take-equity-investing-demands-a-decadal-perspective.aspx"/>
-        <updated>2023-09-05T09:24:44.596Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74944/quick-take-equity-investing-demands-a-decadal-perspective.aspx" title="Quick Take: Equity investing demands a decadal perspective">
-										Quick Take: Equity investing demands a decadal perspective
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BACK TO BASICS]]></title>
-        <id>https://www.morningstar.in/posts/collection/back-to-basics.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/back-to-basics.aspx"/>
-        <updated>2023-09-05T09:24:44.598Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/back-to-basics.aspx" title="BACK TO BASICS">
-										BACK TO BASICS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.601Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[47]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.001Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 17, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vetri Subramaniam on the schizophrenic nature of investing]]></title>
-        <id>https://www.morningstar.in/posts/74859/vetri-subramaniam-on-the-schizophrenic-nature-of-investing.aspx</id>
-        <link href="https://www.morningstar.in/posts/74859/vetri-subramaniam-on-the-schizophrenic-nature-of-investing.aspx"/>
-        <updated>2023-09-05T09:24:44.603Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74859/vetri-subramaniam-on-the-schizophrenic-nature-of-investing.aspx" title="Vetri Subramaniam on the schizophrenic nature of investing">
-										Vetri Subramaniam on the schizophrenic nature of investing
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE INVESTOR'S MIND WITH LARISSA FERNAND]]></title>
-        <id>https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.605Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/the-investors-mind-with-larissa-fernand.aspx" title="THE INVESTOR" s="" mind="" with="" larissa="" fernand'="">
-										THE INVESTOR'S MIND WITH LARISSA FERNAND
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.607Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[51]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.002Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 16, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESG funds lose their sheen]]></title>
-        <id>https://www.morningstar.in/posts/74907/esg-funds-lose-their-sheen.aspx</id>
-        <link href="https://www.morningstar.in/posts/74907/esg-funds-lose-their-sheen.aspx"/>
-        <updated>2023-09-05T09:24:44.609Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74907/esg-funds-lose-their-sheen.aspx" title="ESG funds lose their sheen">
-										ESG funds lose their sheen
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INVESTING - MUTUAL FUNDS]]></title>
-        <id>https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx"/>
-        <updated>2023-09-05T09:24:44.611Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/investing---mutual-funds.aspx" title="INVESTING - MUTUAL FUNDS">
-										INVESTING - MUTUAL FUNDS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaustubh Belapurkar]]></title>
-        <id>https://www.morningstar.in/posts/author/kaustubh-belapurkar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/kaustubh-belapurkar.aspx"/>
-        <updated>2023-09-05T09:24:44.616Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/kaustubh-belapurkar.aspx" title="Kaustubh Belapurkar">
-										Kaustubh Belapurkar
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[55]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.003Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 16, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listing: Best performing small-cap funds over 10 years]]></title>
-        <id>https://www.morningstar.in/posts/74871/listing-best-performing-small-cap-funds-over-10-years.aspx</id>
-        <link href="https://www.morningstar.in/posts/74871/listing-best-performing-small-cap-funds-over-10-years.aspx"/>
-        <updated>2023-09-05T09:24:44.616Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74871/listing-best-performing-small-cap-funds-over-10-years.aspx" title="Listing: Best performing small-cap funds over 10 years">
-										Listing: Best performing small-cap funds over 10 years
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INVESTING - MUTUAL FUNDS]]></title>
-        <id>https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx"/>
-        <updated>2023-09-05T09:24:44.618Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/investing---mutual-funds.aspx" title="INVESTING - MUTUAL FUNDS">
-										INVESTING - MUTUAL FUNDS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morningstar]]></title>
-        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.620Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
-										Morningstar 
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[59]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.004Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 16, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 ways to build strong client relationships]]></title>
-        <id>https://www.morningstar.in/posts/74853/2-ways-to-build-strong-client-relationships.aspx</id>
-        <link href="https://www.morningstar.in/posts/74853/2-ways-to-build-strong-client-relationships.aspx"/>
-        <updated>2023-09-05T09:24:44.622Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74853/2-ways-to-build-strong-client-relationships.aspx" title="2 ways to build strong client relationships">
-										2 ways to build strong client relationships
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADVISER]]></title>
-        <id>https://www.morningstar.in/posts/collection/adviser.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/adviser.aspx"/>
-        <updated>2023-09-05T09:24:44.624Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/adviser.aspx" title="ADVISER">
-										ADVISER
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morningstar]]></title>
-        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.626Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
-										Morningstar 
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[63]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.007Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 14, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can an investor thrive in chaos and uncertainty?]]></title>
-        <id>https://www.morningstar.in/posts/74845/how-does-an-investor-thrive-in-chaos-and-uncertainty.aspx</id>
-        <link href="https://www.morningstar.in/posts/74845/how-does-an-investor-thrive-in-chaos-and-uncertainty.aspx"/>
-        <updated>2023-09-05T09:24:44.628Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74845/how-does-an-investor-thrive-in-chaos-and-uncertainty.aspx" title="How can an investor thrive in chaos and uncertainty?">
-										How can an investor thrive in chaos and uncertainty?
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BACK TO BASICS]]></title>
-        <id>https://www.morningstar.in/posts/collection/back-to-basics.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/back-to-basics.aspx"/>
-        <updated>2023-09-05T09:24:44.630Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/back-to-basics.aspx" title="BACK TO BASICS">
-										BACK TO BASICS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Larissa Fernand]]></title>
-        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.632Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
-										Larissa Fernand
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[67]]></title>
-        <id>https://www.morningstar.in/library/archives.aspx</id>
-        <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.014Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 14, 2023]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retirement: A smart approach to ensuring cash flows]]></title>
-        <id>https://www.morningstar.in/posts/74833/retirement-a-smart-approach-to-ensuring-cash-flows.aspx</id>
-        <link href="https://www.morningstar.in/posts/74833/retirement-a-smart-approach-to-ensuring-cash-flows.aspx"/>
-        <updated>2023-09-05T09:24:44.635Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74833/retirement-a-smart-approach-to-ensuring-cash-flows.aspx" title="Retirement: A smart approach to ensuring cash flows">
-										Retirement: A smart approach to ensuring cash flows
+        <title type="html"><![CDATA[Approach Retirement with a different construct]]></title>
+        <id>https://www.morningstar.in/posts/74971/approach-retirement-with-a-different-construct.aspx</id>
+        <link href="https://www.morningstar.in/posts/74971/approach-retirement-with-a-different-construct.aspx"/>
+        <updated>2023-09-05T09:53:41.540Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74971/approach-retirement-with-a-different-construct.aspx" title="Approach Retirement with a different construct">
+										Approach Retirement with a different construct
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RETIREMENT]]></title>
         <id>https://www.morningstar.in/posts/collection/retirement.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/retirement.aspx"/>
-        <updated>2023-09-05T09:24:44.640Z</updated>
+        <updated>2023-09-05T09:53:41.543Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/retirement.aspx" title="RETIREMENT">
 										RETIREMENT
@@ -657,34 +324,71 @@
         <title type="html"><![CDATA[Larissa Fernand]]></title>
         <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
         <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.642Z</updated>
+        <updated>2023-09-05T09:53:41.562Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
 										Larissa Fernand
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[71]]></title>
+        <title type="html"><![CDATA[35]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.014Z</updated>
+        <updated>2023-09-05T09:53:40.921Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 11, 2023]]></content>
+									Aug 25, 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nilesh Shah on Luck and Good Karma]]></title>
-        <id>https://www.morningstar.in/posts/74812/nilesh-shah-on-luck-and-good-karma.aspx</id>
-        <link href="https://www.morningstar.in/posts/74812/nilesh-shah-on-luck-and-good-karma.aspx"/>
-        <updated>2023-09-05T09:24:44.644Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74812/nilesh-shah-on-luck-and-good-karma.aspx" title="Nilesh Shah on Luck and Good Karma">
-										Nilesh Shah on Luck and Good Karma
+        <title type="html"><![CDATA[How to create an environment conducive to investing]]></title>
+        <id>https://www.morningstar.in/posts/74994/how-to-create-an-environment-conducive-to-investing.aspx</id>
+        <link href="https://www.morningstar.in/posts/74994/how-to-create-an-environment-conducive-to-investing.aspx"/>
+        <updated>2023-09-05T09:53:41.562Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74994/how-to-create-an-environment-conducive-to-investing.aspx" title="How to create an environment conducive to investing">
+										How to create an environment conducive to investing
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEHAVIOURAL FINANCE]]></title>
+        <id>https://www.morningstar.in/posts/collection/behavioural-finance.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/behavioural-finance.aspx"/>
+        <updated>2023-09-05T09:53:41.563Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/behavioural-finance.aspx" title="BEHAVIOURAL FINANCE">
+										BEHAVIOURAL FINANCE
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.565Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[39]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.931Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 22, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anand Radhakrishnan makes a case for skepticism in investing]]></title>
+        <id>https://www.morningstar.in/posts/74963/anand-radhakrishnan-makes-a-case-for-skepticism-in-investing.aspx</id>
+        <link href="https://www.morningstar.in/posts/74963/anand-radhakrishnan-makes-a-case-for-skepticism-in-investing.aspx"/>
+        <updated>2023-09-05T09:53:41.566Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74963/anand-radhakrishnan-makes-a-case-for-skepticism-in-investing.aspx" title="Anand Radhakrishnan makes a case for skepticism in investing">
+										Anand Radhakrishnan makes a case for skepticism in investing
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THE INVESTOR'S MIND WITH LARISSA FERNAND]]></title>
         <id>https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.646Z</updated>
+        <updated>2023-09-05T09:53:41.567Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/the-investors-mind-with-larissa-fernand.aspx" title="THE INVESTOR" s="" mind="" with="" larissa="" fernand'="">
 										THE INVESTOR'S MIND WITH LARISSA FERNAND
@@ -694,7 +398,303 @@
         <title type="html"><![CDATA[Larissa Fernand]]></title>
         <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
         <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
-        <updated>2023-09-05T09:24:44.648Z</updated>
+        <updated>2023-09-05T09:53:41.569Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.931Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 21, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does investing make you happy?]]></title>
+        <id>https://www.morningstar.in/posts/74951/does-investing-make-you-happy.aspx</id>
+        <link href="https://www.morningstar.in/posts/74951/does-investing-make-you-happy.aspx"/>
+        <updated>2023-09-05T09:53:41.571Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74951/does-investing-make-you-happy.aspx" title="Does investing make you happy?">
+										Does investing make you happy?
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEHAVIOURAL FINANCE]]></title>
+        <id>https://www.morningstar.in/posts/collection/behavioural-finance.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/behavioural-finance.aspx"/>
+        <updated>2023-09-05T09:53:41.573Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/behavioural-finance.aspx" title="BEHAVIOURAL FINANCE">
+										BEHAVIOURAL FINANCE
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.575Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[47]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.935Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 21, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Take: Equity investing demands a decadal perspective]]></title>
+        <id>https://www.morningstar.in/posts/74944/quick-take-equity-investing-demands-a-decadal-perspective.aspx</id>
+        <link href="https://www.morningstar.in/posts/74944/quick-take-equity-investing-demands-a-decadal-perspective.aspx"/>
+        <updated>2023-09-05T09:53:41.577Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74944/quick-take-equity-investing-demands-a-decadal-perspective.aspx" title="Quick Take: Equity investing demands a decadal perspective">
+										Quick Take: Equity investing demands a decadal perspective
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BACK TO BASICS]]></title>
+        <id>https://www.morningstar.in/posts/collection/back-to-basics.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/back-to-basics.aspx"/>
+        <updated>2023-09-05T09:53:41.578Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/back-to-basics.aspx" title="BACK TO BASICS">
+										BACK TO BASICS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.580Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[51]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.939Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 17, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vetri Subramaniam on the schizophrenic nature of investing]]></title>
+        <id>https://www.morningstar.in/posts/74859/vetri-subramaniam-on-the-schizophrenic-nature-of-investing.aspx</id>
+        <link href="https://www.morningstar.in/posts/74859/vetri-subramaniam-on-the-schizophrenic-nature-of-investing.aspx"/>
+        <updated>2023-09-05T09:53:41.582Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74859/vetri-subramaniam-on-the-schizophrenic-nature-of-investing.aspx" title="Vetri Subramaniam on the schizophrenic nature of investing">
+										Vetri Subramaniam on the schizophrenic nature of investing
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE INVESTOR'S MIND WITH LARISSA FERNAND]]></title>
+        <id>https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.584Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/the-investors-mind-with-larissa-fernand.aspx" title="THE INVESTOR" s="" mind="" with="" larissa="" fernand'="">
+										THE INVESTOR'S MIND WITH LARISSA FERNAND
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.586Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[55]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.940Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 16, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESG funds lose their sheen]]></title>
+        <id>https://www.morningstar.in/posts/74907/esg-funds-lose-their-sheen.aspx</id>
+        <link href="https://www.morningstar.in/posts/74907/esg-funds-lose-their-sheen.aspx"/>
+        <updated>2023-09-05T09:53:41.588Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74907/esg-funds-lose-their-sheen.aspx" title="ESG funds lose their sheen">
+										ESG funds lose their sheen
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INVESTING - MUTUAL FUNDS]]></title>
+        <id>https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx"/>
+        <updated>2023-09-05T09:53:41.590Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/investing---mutual-funds.aspx" title="INVESTING - MUTUAL FUNDS">
+										INVESTING - MUTUAL FUNDS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaustubh Belapurkar]]></title>
+        <id>https://www.morningstar.in/posts/author/kaustubh-belapurkar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/kaustubh-belapurkar.aspx"/>
+        <updated>2023-09-05T09:53:41.592Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/kaustubh-belapurkar.aspx" title="Kaustubh Belapurkar">
+										Kaustubh Belapurkar
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[59]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.948Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 16, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listing: Best performing small-cap funds over 10 years]]></title>
+        <id>https://www.morningstar.in/posts/74871/listing-best-performing-small-cap-funds-over-10-years.aspx</id>
+        <link href="https://www.morningstar.in/posts/74871/listing-best-performing-small-cap-funds-over-10-years.aspx"/>
+        <updated>2023-09-05T09:53:41.594Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74871/listing-best-performing-small-cap-funds-over-10-years.aspx" title="Listing: Best performing small-cap funds over 10 years">
+										Listing: Best performing small-cap funds over 10 years
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INVESTING - MUTUAL FUNDS]]></title>
+        <id>https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/investing---mutual-funds.aspx"/>
+        <updated>2023-09-05T09:53:41.596Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/investing---mutual-funds.aspx" title="INVESTING - MUTUAL FUNDS">
+										INVESTING - MUTUAL FUNDS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morningstar]]></title>
+        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
+        <updated>2023-09-05T09:53:41.598Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
+										Morningstar 
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[63]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.960Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 16, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 ways to build strong client relationships]]></title>
+        <id>https://www.morningstar.in/posts/74853/2-ways-to-build-strong-client-relationships.aspx</id>
+        <link href="https://www.morningstar.in/posts/74853/2-ways-to-build-strong-client-relationships.aspx"/>
+        <updated>2023-09-05T09:53:41.600Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74853/2-ways-to-build-strong-client-relationships.aspx" title="2 ways to build strong client relationships">
+										2 ways to build strong client relationships
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADVISER]]></title>
+        <id>https://www.morningstar.in/posts/collection/adviser.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/adviser.aspx"/>
+        <updated>2023-09-05T09:53:41.602Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/adviser.aspx" title="ADVISER">
+										ADVISER
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morningstar]]></title>
+        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
+        <updated>2023-09-05T09:53:41.604Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
+										Morningstar 
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[67]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.967Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 14, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can an investor thrive in chaos and uncertainty?]]></title>
+        <id>https://www.morningstar.in/posts/74845/how-does-an-investor-thrive-in-chaos-and-uncertainty.aspx</id>
+        <link href="https://www.morningstar.in/posts/74845/how-does-an-investor-thrive-in-chaos-and-uncertainty.aspx"/>
+        <updated>2023-09-05T09:53:41.606Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74845/how-does-an-investor-thrive-in-chaos-and-uncertainty.aspx" title="How can an investor thrive in chaos and uncertainty?">
+										How can an investor thrive in chaos and uncertainty?
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BACK TO BASICS]]></title>
+        <id>https://www.morningstar.in/posts/collection/back-to-basics.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/back-to-basics.aspx"/>
+        <updated>2023-09-05T09:53:41.608Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/back-to-basics.aspx" title="BACK TO BASICS">
+										BACK TO BASICS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.610Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[71]]></title>
+        <id>https://www.morningstar.in/library/archives.aspx</id>
+        <link href="https://www.morningstar.in/library/archives.aspx"/>
+        <updated>2023-09-05T09:53:40.967Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Aug 14, 2023]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retirement: A smart approach to ensuring cash flows]]></title>
+        <id>https://www.morningstar.in/posts/74833/retirement-a-smart-approach-to-ensuring-cash-flows.aspx</id>
+        <link href="https://www.morningstar.in/posts/74833/retirement-a-smart-approach-to-ensuring-cash-flows.aspx"/>
+        <updated>2023-09-05T09:53:41.612Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74833/retirement-a-smart-approach-to-ensuring-cash-flows.aspx" title="Retirement: A smart approach to ensuring cash flows">
+										Retirement: A smart approach to ensuring cash flows
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RETIREMENT]]></title>
+        <id>https://www.morningstar.in/posts/collection/retirement.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/retirement.aspx"/>
+        <updated>2023-09-05T09:53:41.614Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/retirement.aspx" title="RETIREMENT">
+										RETIREMENT
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.616Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
 										Larissa Fernand
@@ -704,45 +704,45 @@
         <title type="html"><![CDATA[75]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.014Z</updated>
+        <updated>2023-09-05T09:53:40.969Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 09, 2023]]></content>
+									Aug 11, 2023]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How will Artificial Intelligence affect investing?]]></title>
-        <id>https://www.morningstar.in/posts/74719/how-will-artificial-intelligence-affect-investing.aspx</id>
-        <link href="https://www.morningstar.in/posts/74719/how-will-artificial-intelligence-affect-investing.aspx"/>
-        <updated>2023-09-05T09:24:44.651Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/74719/how-will-artificial-intelligence-affect-investing.aspx" title="How will Artificial Intelligence affect investing?">
-										How will Artificial Intelligence affect investing?
+        <title type="html"><![CDATA[Nilesh Shah on Luck and Good Karma]]></title>
+        <id>https://www.morningstar.in/posts/74812/nilesh-shah-on-luck-and-good-karma.aspx</id>
+        <link href="https://www.morningstar.in/posts/74812/nilesh-shah-on-luck-and-good-karma.aspx"/>
+        <updated>2023-09-05T09:53:41.618Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/74812/nilesh-shah-on-luck-and-good-karma.aspx" title="Nilesh Shah on Luck and Good Karma">
+										Nilesh Shah on Luck and Good Karma
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2023-09-05T09:24:44.653Z</updated>
+        <title type="html"><![CDATA[THE INVESTOR'S MIND WITH LARISSA FERNAND]]></title>
+        <id>https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/the-investors-mind-with-larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.619Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
+									<a href="/posts/collection/the-investors-mind-with-larissa-fernand.aspx" title="THE INVESTOR" s="" mind="" with="" larissa="" fernand'="">
+										THE INVESTOR'S MIND WITH LARISSA FERNAND
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morningstar]]></title>
-        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2023-09-05T09:24:44.656Z</updated>
+        <title type="html"><![CDATA[Larissa Fernand]]></title>
+        <id>https://www.morningstar.in/posts/author/larissa-fernand.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/larissa-fernand.aspx"/>
+        <updated>2023-09-05T09:53:41.622Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
-										Morningstar 
+									<a href="/posts/author/larissa-fernand.aspx" title="Larissa Fernand">
+										Larissa Fernand
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[79]]></title>
         <id>https://www.morningstar.in/library/archives.aspx</id>
         <link href="https://www.morningstar.in/library/archives.aspx"/>
-        <updated>2023-09-05T09:24:44.014Z</updated>
+        <updated>2023-09-05T09:53:40.969Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Aug 08, 2023]]></content>
+									Aug 09, 2023]]></content>
     </entry>
 </feed>
