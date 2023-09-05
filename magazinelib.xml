@@ -2,15 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-09-05T10:30:00.831Z</updated>
+    <updated>2023-09-05T10:54:24.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Times Magazine – 27 August 2023]]></title>
+        <id>https://magazinelib.com/all/the-sunday-times-magazine-27-august-2023/</id>
+        <link href="https://magazinelib.com/all/the-sunday-times-magazine-27-august-2023/"/>
+        <updated>2023-09-05T10:45:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="The Sunday Times Magazine – 27 August 2023" class="g1-frame" href="https://magazinelib.com/all/the-sunday-times-magazine-27-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/dI0kcmtO3_0-332x446.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/dI0kcmtO3_0-332x446.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/dI0kcmtO3_0-332x446.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/dI0kcmtO3_0.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/dI0kcmtO3_0-332x446.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/dI0kcmtO3_0.jpg 510w" width="332" height="446"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/newspapers-2/" class="entry-category entry-category-item-7258">Newspapers</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/the-sunday-times-magazine-27-august-2023/" rel="bookmark">The Sunday Times Magazine – 27 August 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-09-05T13:45:00+03:00">05.09.2023, 13:45</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volks World – September 2023]]></title>
+        <id>https://magazinelib.com/all/volks-world-september-2023/</id>
+        <link href="https://magazinelib.com/all/volks-world-september-2023/"/>
+        <updated>2023-09-05T10:30:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Volks World – September 2023" class="g1-frame" href="https://magazinelib.com/all/volks-world-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/08/M7aFNkjK1Q-332x456.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/08/M7aFNkjK1Q-332x456.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/M7aFNkjK1Q-332x456.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/M7aFNkjK1Q.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/08/M7aFNkjK1Q-332x456.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/M7aFNkjK1Q.jpg 510w" width="332" height="456"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/volks-world-september-2023/" rel="bookmark">Volks World – September 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-09-05T13:30:00+03:00">05.09.2023, 13:30</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ring’s End At Home – Fall 2023]]></title>
         <id>https://magazinelib.com/all/ring-s-end-at-home-fall-2023/</id>
         <link href="https://magazinelib.com/all/ring-s-end-at-home-fall-2023/"/>
         <updated>2023-09-05T10:15:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Ring’s End At Home – Fall 2023" class="g1-frame" href="https://magazinelib.com/all/ring-s-end-at-home-fall-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA.jpg 510w" width="332" height="432"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Ring’s End At Home – Fall 2023" class="g1-frame" href="https://magazinelib.com/all/ring-s-end-at-home-fall-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA-332x432.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/5e_6_RUqtlA.jpg 510w" width="332" height="432"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -30,7 +70,7 @@
         <id>https://magazinelib.com/all/home-networking-tricks-and-tips-august-2023/</id>
         <link href="https://magazinelib.com/all/home-networking-tricks-and-tips-august-2023/"/>
         <updated>2023-09-05T10:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Home Networking Tricks and Tips – August 2023" class="g1-frame" href="https://magazinelib.com/all/home-networking-tricks-and-tips-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc.jpg 510w" width="332" height="428"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Home Networking Tricks and Tips – August 2023" class="g1-frame" href="https://magazinelib.com/all/home-networking-tricks-and-tips-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc-332x428.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/9BNSXcCptkc.jpg 510w" width="332" height="428"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -50,7 +90,7 @@
         <id>https://magazinelib.com/all/selling-travel-july-august-2023/</id>
         <link href="https://magazinelib.com/all/selling-travel-july-august-2023/"/>
         <updated>2023-09-05T09:45:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Selling Travel – July-August 2023" class="g1-frame" href="https://magazinelib.com/all/selling-travel-july-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU-332x470.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU-332x470.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU.jpg 510w" width="332" height="470"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Selling Travel – July-August 2023" class="g1-frame" href="https://magazinelib.com/all/selling-travel-july-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 470'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU-332x470.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU-332x470.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/CIm2CdXLcaU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="470"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -70,7 +110,7 @@
         <id>https://magazinelib.com/all/all-chevy-performance-volume-3-issue-34-october-2023/</id>
         <link href="https://magazinelib.com/all/all-chevy-performance-volume-3-issue-34-october-2023/"/>
         <updated>2023-09-05T09:30:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="All Chevy Performance – Volume 3, Issue 34 – October 2023" class="g1-frame" href="https://magazinelib.com/all/all-chevy-performance-volume-3-issue-34-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM-332x401.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM-332x401.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM.jpg 510w" width="332" height="401"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="All Chevy Performance – Volume 3, Issue 34 – October 2023" class="g1-frame" href="https://magazinelib.com/all/all-chevy-performance-volume-3-issue-34-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 401'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM-332x401.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/p0ETg_-p3dM.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="401"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -500,46 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-09-05T07:15:00+03:00">05.09.2023, 07:15</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kayak – Issue 85 – September 2023]]></title>
-        <id>https://magazinelib.com/all/kayak-issue-85-september-2023/</id>
-        <link href="https://magazinelib.com/all/kayak-issue-85-september-2023/"/>
-        <updated>2023-09-05T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Kayak – Issue 85 – September 2023" class="g1-frame" href="https://magazinelib.com/all/kayak-issue-85-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 514'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/wMTBo6oiLI8-332x514.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/wMTBo6oiLI8-332x514.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/wMTBo6oiLI8.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="514"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/kayak-issue-85-september-2023/" rel="bookmark">Kayak – Issue 85 – September 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-09-05T07:00:00+03:00">05.09.2023, 07:00</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premium Sudoku Puzzles – Issue 110 – August 2023]]></title>
-        <id>https://magazinelib.com/all/premium-sudoku-puzzles-issue-110-august-2023/</id>
-        <link href="https://magazinelib.com/all/premium-sudoku-puzzles-issue-110-august-2023/"/>
-        <updated>2023-09-05T03:45:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Premium Sudoku Puzzles – Issue 110 – August 2023" class="g1-frame" href="https://magazinelib.com/all/premium-sudoku-puzzles-issue-110-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 467'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/08/2GiTarOruZU-332x467.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/08/2GiTarOruZU-332x467.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/08/2GiTarOruZU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="467"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/premium-sudoku-puzzles-issue-110-august-2023/" rel="bookmark">Premium Sudoku Puzzles – Issue 110 – August 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-09-05T06:45:00+03:00">05.09.2023, 06:45</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
