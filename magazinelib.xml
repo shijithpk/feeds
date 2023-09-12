@@ -2,15 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://magazinelib.com</id>
     <title>MagazineLib.com</title>
-    <updated>2023-09-12T10:53:17.073Z</updated>
+    <updated>2023-09-12T11:23:42.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://magazinelib.com/wp-content/uploads/2016/09/cropped-favicon-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GoodHomes UK – October 2023]]></title>
+        <id>https://magazinelib.com/all/goodhomes-uk-october-2023-2/</id>
+        <link href="https://magazinelib.com/all/goodhomes-uk-october-2023-2/"/>
+        <updated>2023-09-12T11:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="GoodHomes UK – October 2023" class="g1-frame" href="https://magazinelib.com/all/goodhomes-uk-october-2023-2/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/1tdDGW7FyZU-332x451.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/1tdDGW7FyZU-332x451.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/1tdDGW7FyZU-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/1tdDGW7FyZU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/1tdDGW7FyZU-332x451.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/1tdDGW7FyZU.jpg 510w" width="332" height="451"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/goodhomes-uk-october-2023-2/" rel="bookmark">GoodHomes UK – October 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-09-12T14:00:00+03:00">12.09.2023, 14:00</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Zealand Listener – September 9, 2023]]></title>
+        <id>https://magazinelib.com/all/new-zealand-listener-september-9-2023/</id>
+        <link href="https://magazinelib.com/all/new-zealand-listener-september-9-2023/"/>
+        <updated>2023-09-12T10:45:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="New Zealand Listener – September 9, 2023" class="g1-frame" href="https://magazinelib.com/all/new-zealand-listener-september-9-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/4Q1gw1v7xro-332x456.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/4Q1gw1v7xro-332x456.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/4Q1gw1v7xro-332x456.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/4Q1gw1v7xro.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/4Q1gw1v7xro-332x456.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/4Q1gw1v7xro.jpg 510w" width="332" height="456"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+<div class="entry-body">
+<header class="entry-header">
+<div class="entry-before-title">
+<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a></span></span> </div>
+<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/new-zealand-listener-september-9-2023/" rel="bookmark">New Zealand Listener – September 9, 2023</a></h3>
+</header>
+<footer>
+<p class="g1-meta entry-meta entry-byline ">
+<time class="entry-date" datetime="2023-09-12T13:45:00+03:00">12.09.2023, 13:45</time> </p>
+</footer>
+<div class="entry-todome g1-dropable snax">
+</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knit Now – Issue 159 – September 2023]]></title>
         <id>https://magazinelib.com/all/knit-now-issue-159-september-2023/</id>
         <link href="https://magazinelib.com/all/knit-now-issue-159-september-2023/"/>
         <updated>2023-09-12T10:30:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Knit Now – Issue 159 – September 2023" class="g1-frame" href="https://magazinelib.com/all/knit-now-issue-159-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" fetchpriority="high" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg.jpg 510w" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Knit Now – Issue 159 – September 2023" class="g1-frame" href="https://magazinelib.com/all/knit-now-issue-159-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg-332x469.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/KyY8bi2VQRg.jpg 510w" width="332" height="469"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -30,7 +70,7 @@
         <id>https://magazinelib.com/all/optical-connections-magazine-spring-2023/</id>
         <link href="https://magazinelib.com/all/optical-connections-magazine-spring-2023/"/>
         <updated>2023-09-12T10:15:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Optical Connections Magazine – Spring 2023" class="g1-frame" href="https://magazinelib.com/all/optical-connections-magazine-spring-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ.jpg 398w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ.jpg 398w" width="332" height="401"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Optical Connections Magazine – Spring 2023" class="g1-frame" href="https://magazinelib.com/all/optical-connections-magazine-spring-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ.jpg 398w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ-332x401.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/UefOGe-MkvQ.jpg 398w" width="332" height="401"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -50,7 +90,7 @@
         <id>https://magazinelib.com/all/hunt-fish-august-2023/</id>
         <link href="https://magazinelib.com/all/hunt-fish-august-2023/"/>
         <updated>2023-09-12T10:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Hunt &amp; Fish – August 2023" class="g1-frame" href="https://magazinelib.com/all/hunt-fish-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg-332x436.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg-332x436.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg.jpg 510w" width="332" height="436"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Hunt &amp; Fish – August 2023" class="g1-frame" href="https://magazinelib.com/all/hunt-fish-august-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 436'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg-332x436.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg-332x436.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/86nZ_4k6sXg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="436"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -70,7 +110,7 @@
         <id>https://magazinelib.com/all/new-scientist-9-september-2023/</id>
         <link href="https://magazinelib.com/all/new-scientist-9-september-2023/"/>
         <updated>2023-09-12T09:45:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="New Scientist – 9 September 2023" class="g1-frame" href="https://magazinelib.com/all/new-scientist-9-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg-332x437.jpg" data-src="https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg-332x437.jpg" class="attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image ls-is-cached lazyloaded" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg-332x437.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" sizes="(max-width: 332px) 100vw, 332px" srcset="https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg-332x437.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg.jpg 510w" width="332" height="437"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
+        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="New Scientist – 9 September 2023" class="g1-frame" href="https://magazinelib.com/all/new-scientist-9-september-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 437'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg-332x437.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg-332x437.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/FqsrtLPAxrg.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="437"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -500,46 +540,6 @@
 <footer>
 <p class="g1-meta entry-meta entry-byline ">
 <time class="entry-date" datetime="2023-09-12T07:30:00+03:00">12.09.2023, 07:30</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoodHomes UK – October 2023]]></title>
-        <id>https://magazinelib.com/all/goodhomes-uk-october-2023/</id>
-        <link href="https://magazinelib.com/all/goodhomes-uk-october-2023/"/>
-        <updated>2023-09-12T04:15:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="GoodHomes UK – October 2023" class="g1-frame" href="https://magazinelib.com/all/goodhomes-uk-october-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 450'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/udJ4J7D17HU-332x450.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/udJ4J7D17HU-332x450.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/udJ4J7D17HU.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="450"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/uk/" class="entry-category entry-category-item-7999">UK</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/goodhomes-uk-october-2023/" rel="bookmark">GoodHomes UK – October 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-09-12T07:15:00+03:00">12.09.2023, 07:15</time> </p>
-</footer>
-<div class="entry-todome g1-dropable snax">
-</div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master Black & White Photography – First Edition 2023]]></title>
-        <id>https://magazinelib.com/all/master-black-white-photography-first-edition-2023/</id>
-        <link href="https://magazinelib.com/all/master-black-white-photography-first-edition-2023/"/>
-        <updated>2023-09-12T04:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-featured-media "><a title="Master Black &amp; White Photography – First Edition 2023" class="g1-frame" href="https://magazinelib.com/all/master-black-white-photography-first-edition-2023/"><div class="g1-frame-inner"><img data-expand="600" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 332 449'%2F%3E" data-src="https://magazinelib.com/wp-content/uploads/2023/09/D3q0xbB4wuQ-332x449.jpg" class="lazyload attachment-bimber-grid-standard size-bimber-grid-standard wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://magazinelib.com/wp-content/uploads/2023/09/D3q0xbB4wuQ-332x449.jpg 332w, https://magazinelib.com/wp-content/uploads/2023/09/D3q0xbB4wuQ.jpg 510w" data-sizes="(max-width: 332px) 100vw, 332px" width="332" height="449"><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<div class="entry-body">
-<header class="entry-header">
-<div class="entry-before-title">
-<span class="entry-categories "><span class="entry-categories-inner"><span class="entry-categories-label">in</span> <a href="https://magazinelib.com/all/" class="entry-category entry-category-item-1">All</a>, <a href="https://magazinelib.com/art/photo/" class="entry-category entry-category-item-7880">Photo</a></span></span> </div>
-<h3 class="g1-gamma g1-gamma-1st entry-title"><a href="https://magazinelib.com/all/master-black-white-photography-first-edition-2023/" rel="bookmark">Master Black &amp; White Photography – First Edition 2023</a></h3>
-</header>
-<footer>
-<p class="g1-meta entry-meta entry-byline ">
-<time class="entry-date" datetime="2023-09-12T07:00:00+03:00">12.09.2023, 07:00</time> </p>
 </footer>
 <div class="entry-todome g1-dropable snax">
 </div>
