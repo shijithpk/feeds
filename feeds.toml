@@ -44,3 +44,11 @@ entrySelector = "div[class*='episode-Item']"
 titleSelector = "h3[itemprop*='headline']"
 linkSelector = "a.title-link"
 waitUntil = "load"
+
+[rotd_uk]
+title = "Record Of The Day UK"
+url = "https://www.recordoftheday.com/track-archive"
+entrySelector = "div.super-box"
+titleSelector = ["h3.title", "p.artist"]
+linkSelector = ":has(> .super-box) > a.link-box"
+waitUntil = "load"
