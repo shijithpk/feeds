@@ -52,3 +52,11 @@ entrySelector = "div.super-box"
 titleSelector = ["h3.title", "p.artist"]
 linkSelector = ":has(> .super-box) > a.link-box"
 waitUntil = "load"
+
+[radiox_uk]
+title = "RadioX UK"
+url = "https://www.radiox.co.uk/radio/playlist/"
+entrySelector = "div.song__text-content"
+titleSelector = ["h3 span.track", "h3 span.artist"]
+linkSelector = "a.apple_music_badge"
+waitUntil = "load"
