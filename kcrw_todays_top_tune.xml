@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-04-10T06:57:27.495Z</updated>
+    <updated>2025-04-10T07:32:13.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Japanese Breakfast: ‘Picture Window’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/japanese-breakfast-picture-window</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/japanese-breakfast-picture-window"/>
+        <updated>2025-04-10T07:32:02.782Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/japanese-breakfast-picture-window" itemprop="url">
+                <div class="photo">
+                  <img alt="We always look forward to new music from best-selling author and singer-songwriter Michelle Zauner (aka Japanese Breakfast )." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/japanese-breakfast-picture-window/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Japanese Breakfast: ‘Picture Window’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">We always look forward to new music from best-selling author and singer-songwriter Michelle Zauner (aka Japanese Breakfast ).</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-04-10T07:00:00Z">Apr. 10</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/japanese-breakfast-picture-window/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tamino: ‘Willow’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tamino-willow</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tamino-willow"/>
-        <updated>2025-04-10T06:57:16.088Z</updated>
+        <updated>2025-04-10T07:32:02.783Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tamino-willow" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[When Saints Go Machine: ‘Co-Star’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/when-saints-go-machine-co-star</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/when-saints-go-machine-co-star"/>
-        <updated>2025-04-10T06:57:16.089Z</updated>
+        <updated>2025-04-10T07:32:02.792Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/when-saints-go-machine-co-star" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Lydia Clapperton: 'Espace de paix’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lydia-clapperton-espace-de-paix</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lydia-clapperton-espace-de-paix"/>
-        <updated>2025-04-10T06:57:16.094Z</updated>
+        <updated>2025-04-10T07:32:02.792Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lydia-clapperton-espace-de-paix" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[duendita: ‘baby teeth’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/duendita-baby-teeth</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/duendita-baby-teeth"/>
-        <updated>2025-04-10T06:57:16.095Z</updated>
+        <updated>2025-04-10T07:32:02.793Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/duendita-baby-teeth" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[El Michels Affair: ‘Kodak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/el-michels-affair-kodak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/el-michels-affair-kodak"/>
-        <updated>2025-04-10T06:57:16.096Z</updated>
+        <updated>2025-04-10T07:32:02.793Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/el-michels-affair-kodak" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Hannah Cohen: ‘Draggin’’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/hannah-cohen-draggin</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/hannah-cohen-draggin"/>
-        <updated>2025-04-10T06:57:16.099Z</updated>
+        <updated>2025-04-10T07:32:02.794Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/hannah-cohen-draggin" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Kendra Morris: ‘In My House’ (Radio Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/kendra-morris-in-my-house-radio-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/kendra-morris-in-my-house-radio-edit"/>
-        <updated>2025-04-10T06:57:16.101Z</updated>
+        <updated>2025-04-10T07:32:02.795Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/kendra-morris-in-my-house-radio-edit" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/kendra-morris-in-my-house-radio-edit/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jacob Alon: ‘Fairy In A Bottle’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/jacob-alon-fairy-in-a-bottle</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/jacob-alon-fairy-in-a-bottle"/>
-        <updated>2025-04-10T06:57:16.102Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jacob-alon-fairy-in-a-bottle" itemprop="url">
-                <div class="photo">
-                  <img alt="We were excited to meet up with Jacob Alon, a seemingly otherworldy Scottish folk artist, while at SXSW this year." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/jacob-alon-fairy-in-a-bottle/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Jacob Alon: ‘Fairy In A Bottle’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">We were excited to meet up with Jacob Alon, a seemingly otherworldy Scottish folk artist, while at SXSW this year.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-03-31T07:00:00Z">Mar. 31</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/jacob-alon-fairy-in-a-bottle/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">5 min</span>
                   </button>
                 </div>
               </div>]]></content>
