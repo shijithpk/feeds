@@ -1,13 +1,62 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[magazinelib]
+title = "MagazineLib.com"
+url = "https://magazinelib.com"
+entrySelector = "article[class*=type-post]"
+titleSelector = "div > header > h3 > a"
+linkSelector = "div > header > h3 > a"
+dateSelector = "div > footer > p > time"
+waitUntil = "load"
+# titleSelector = "div > header > h3 > a::text"
+# linkSelector = "div > header > h3 > a::attr(href)"
+# dateSelector = "div > footer > p > time::attr(datetime)"
+# dateFormat = "yyyy-MM-dd[T]HH:mm:ss"
+# onFail = "stale"
+# waitUntil = "networkidle"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[getcomics_packs]
+title = "getcomics.info"
+url = "https://torrentgalaxy.mx/profile/TheComicGuy"
+entrySelector = "div[data-href*=torrent]"
+titleSelector = "a:not([id]).txlight[href*=torrent]"
+linkSelector = "a:not([id]).txlight[href*=torrent]"
+waitUntil = "load"
+
+[nem43_on_1337]
+title = "Nem43 on 1337"
+url = "https://1337x.to/Nem43-torrents/1/"
+entrySelector = "td[class*=coll-1]"
+titleSelector = "a[href*=torrent]"
+linkSelector = "a[href*=torrent]"
+waitUntil = "load"
+
+[morningstar_india]
+title = "Morningstar India articles"
+url = "https://www.morningstar.in/library/archives.aspx"
+entrySelector = "div.td.col-xs-12"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "load"
+
+[kcrw_todays_top_tune]
+title = "KCRW Todays Top Tune"
+url = "https://www.kcrw.com/music/shows/todays-top-tune"
+entrySelector = "div[class*='episode-Item']"
+titleSelector = "h3[itemprop*='headline']"
+linkSelector = "a.title-link"
+waitUntil = "load"
+
+[rotd_uk]
+title = "Record Of The Day UK"
+url = "https://www.recordoftheday.com/track-archive"
+entrySelector = "div.super-box"
+titleSelector = ["h3.title", "p.artist"]
+linkSelector = ":has(> .super-box) > a.link-box"
+waitUntil = "load"
+
+[radiox_uk]
+title = "RadioX UK"
+url = "https://www.radiox.co.uk/radio/playlist/"
+entrySelector = "div.song__text-content"
+titleSelector = ["h3 span.track", "h3 span.artist"]
+linkSelector = "a.apple_music_badge"
+waitUntil = "load"
