@@ -1,67 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shijithpk.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2025-05-12T18:23:56.697Z</updated>
+    <id>https://en.wikivoyage.org/wiki/Main_Page</id>
+    <title>Wikivoyage recommendations</title>
+    <updated>2025-05-12T18:23:56.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikivoyage.org/static/favicon/wikivoyage.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Charles Smith (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Charles_Smith_(basketball_coach)</id>
-        <link href="https://en.wikipedia.org/wiki/Charles_Smith_(basketball_coach)"/>
-        <updated>2025-05-12T18:23:53.177Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Charles_Smith_(basketball_coach)" title="Charles Smith (basketball coach)">Charles Smith</a></b> <i>(pictured)</i> has worked as a basketball coach at the same high school for the past 50 years?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camellia (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Camellia_(musician)</id>
-        <link href="https://en.wikipedia.org/wiki/Camellia_(musician)"/>
-        <updated>2025-05-12T18:23:53.180Z</updated>
-        <content type="html"><![CDATA[... that Japanese electronic musician <b><a href="/wiki/Camellia_(musician)" title="Camellia (musician)">Camellia</a></b> began producing music at the age of ten using his mother's computer?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Abbot of Drimnagh (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/The_Abbot_of_Drimnagh</id>
-        <link href="https://en.wikipedia.org/wiki/The_Abbot_of_Drimnagh"/>
-        <updated>2025-05-12T18:23:53.181Z</updated>
-        <content type="html"><![CDATA[... that a man is transformed into a woman for seven years in the medieval tale of <b><a href="/wiki/The_Abbot_of_Drimnagh" title="The Abbot of Drimnagh">The Abbot of Drimnagh</a></b>, an uncommon example of gender-shifting in European folktales?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tyler Bilodeau (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Tyler_Bilodeau</id>
-        <link href="https://en.wikipedia.org/wiki/Tyler_Bilodeau"/>
-        <updated>2025-05-12T18:23:53.182Z</updated>
-        <content type="html"><![CDATA[... that <a href="/wiki/UCLA_Bruins_men%27s_basketball" title="UCLA Bruins men's basketball">UCLA Bruins</a> player <b><a href="/wiki/Tyler_Bilodeau" title="Tyler Bilodeau">Tyler Bilodeau</a></b> cited his mother, who played in the <a href="/wiki/Women%27s_National_Basketball_Association" title="Women's National Basketball Association">WNBA</a>, as "the reason I play basketball"?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marshall Islands National Olympic Committee (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Marshall_Islands_National_Olympic_Committee</id>
-        <link href="https://en.wikipedia.org/wiki/Marshall_Islands_National_Olympic_Committee"/>
-        <updated>2025-05-12T18:23:53.183Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">International Olympic Committee</a> rejected recognition of the <b><a href="/wiki/Marshall_Islands_National_Olympic_Committee" title="Marshall Islands National Olympic Committee">Marshall Islands National Olympic Committee</a></b> as the nation's citizens hold <a href="/wiki/Multiple_citizenship" title="Multiple citizenship">dual citizenship</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edna May Sperl (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Edna_May_Sperl</id>
-        <link href="https://en.wikipedia.org/wiki/Edna_May_Sperl"/>
-        <updated>2025-05-12T18:23:53.184Z</updated>
-        <content type="html"><![CDATA[... that actress <b><a href="/wiki/Edna_May_Sperl" title="Edna May Sperl">Edna May Sperl</a></b><span class="nowrap">'s</span> fiancé was arrested on the day of her wedding by a <a href="/wiki/United_States_Marshals_Service" title="United States Marshals Service">federal marshal</a> because her fiancé's father opposed the marriage?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agustín Remiro (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Agust%C3%ADn_Remiro</id>
-        <link href="https://en.wikipedia.org/wiki/Agust%C3%ADn_Remiro"/>
-        <updated>2025-05-12T18:23:53.185Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Anarchism_in_Spain" title="Anarchism in Spain">Spanish anarchist</a> <b><a href="/wiki/Agust%C3%ADn_Remiro" title="Agustín Remiro">Agustín Remiro</a></b> worked as a <a href="/wiki/Foreign_agent" title="Foreign agent">foreign agent</a> for <a href="/wiki/MI6" title="MI6">MI6</a>?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contradiction (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Contradiction:_Spot_the_Liar!</id>
-        <link href="https://en.wikipedia.org/wiki/Contradiction:_Spot_the_Liar!"/>
-        <updated>2025-05-12T18:23:53.186Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Full-motion_video" title="Full-motion video">FMV</a> game <i><b><a href="/wiki/Contradiction:_Spot_the_Liar!" title="Contradiction: Spot the Liar!">Contradiction</a></b></i> was made on such a low budget that its creator learned how to code instead of hiring a programmer?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraków (Wikivoyage recommendations)]]></title>
+        <title type="html"><![CDATA[Kraków]]></title>
         <id>https://en.wikivoyage.org/wiki/Krak%C3%B3w</id>
         <link href="https://en.wikivoyage.org/wiki/Krak%C3%B3w"/>
         <updated>2025-05-12T18:23:55.974Z</updated>
@@ -78,7 +23,7 @@
 </span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New England National Park (Wikivoyage recommendations)]]></title>
+        <title type="html"><![CDATA[New England National Park]]></title>
         <id>https://en.wikivoyage.org/wiki/New_England_National_Park</id>
         <link href="https://en.wikivoyage.org/wiki/New_England_National_Park"/>
         <updated>2025-05-12T18:23:55.978Z</updated>
@@ -95,7 +40,7 @@
 </span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vancouver International Airport (Wikivoyage recommendations)]]></title>
+        <title type="html"><![CDATA[Vancouver International Airport]]></title>
         <id>https://en.wikivoyage.org/wiki/Vancouver_International_Airport</id>
         <link href="https://en.wikivoyage.org/wiki/Vancouver_International_Airport"/>
         <updated>2025-05-12T18:23:55.980Z</updated>
