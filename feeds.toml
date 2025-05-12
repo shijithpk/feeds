@@ -13,22 +13,6 @@ waitUntil = "load"
 # onFail = "stale"
 # waitUntil = "networkidle"
 
-[getcomics_packs]
-title = "getcomics.info"
-url = "https://torrentgalaxy.mx/profile/TheComicGuy"
-entrySelector = "div[data-href*=torrent]"
-titleSelector = "a:not([id]).txlight[href*=torrent]"
-linkSelector = "a:not([id]).txlight[href*=torrent]"
-waitUntil = "load"
-
-[nem43_on_1337]
-title = "Nem43 on 1337"
-url = "https://1337x.to/Nem43-torrents/1/"
-entrySelector = "td[class*=coll-1]"
-titleSelector = "a[href*=torrent]"
-linkSelector = "a[href*=torrent]"
-waitUntil = "load"
-
 [morningstar_india]
 title = "Morningstar India articles"
 url = "https://www.morningstar.in/library/archives.aspx"
