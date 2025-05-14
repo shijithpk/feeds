@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-05-14T06:59:44.937Z</updated>
+    <updated>2025-05-14T07:31:51.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Gatlin: ‘If She Was A Boy’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy"/>
+        <updated>2025-05-14T07:31:42.138Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy" itemprop="url">
+                <div class="photo">
+                  <img alt="When the artist Gatlin was ready to write new material for her debut album, she knew that she needed to recruit some talented queer women to help. ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Gatlin: ‘If She Was A Boy’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">When the artist Gatlin was ready to write new material for her debut album, she knew that she needed to recruit some talented queer women to help. .</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-14T07:00:00Z">May 14</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Allison Russell ‘Superlover (Feat. Annie Lennox)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox"/>
-        <updated>2025-05-14T06:59:35.696Z</updated>
+        <updated>2025-05-14T07:31:42.141Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Cola Boyy ‘Walk Again’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/cola-boyy-walk-again</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/cola-boyy-walk-again"/>
-        <updated>2025-05-14T06:59:35.701Z</updated>
+        <updated>2025-05-14T07:31:42.144Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/cola-boyy-walk-again" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Brian Eno + Beatie Wolfe: ‘What We Are’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/brian-eno-beatie-wolfe-what-we-are</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/brian-eno-beatie-wolfe-what-we-are"/>
-        <updated>2025-05-14T06:59:35.704Z</updated>
+        <updated>2025-05-14T07:31:42.147Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/brian-eno-beatie-wolfe-what-we-are" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Chicarica: ‘Parará’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/chicarica-parara</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/chicarica-parara"/>
-        <updated>2025-05-14T06:59:35.705Z</updated>
+        <updated>2025-05-14T07:31:42.148Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/chicarica-parara" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Fitz & The Tantrums: ‘Ruin The Night’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/fitz-the-tantrums-ruin-the-night</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/fitz-the-tantrums-ruin-the-night"/>
-        <updated>2025-05-14T06:59:35.706Z</updated>
+        <updated>2025-05-14T07:31:42.149Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/fitz-the-tantrums-ruin-the-night" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[The Brudi Brothers: ‘Me More Cowboy Than You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you"/>
-        <updated>2025-05-14T06:59:35.708Z</updated>
+        <updated>2025-05-14T07:31:42.153Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Stereolab: ‘Melodie Is A Wound’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound"/>
-        <updated>2025-05-14T06:59:35.709Z</updated>
+        <updated>2025-05-14T07:31:42.155Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">5 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cass McCombs: ‘Priestess’ (Radio Edit)]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/cass-mccombs-priestess-radio-edit</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/cass-mccombs-priestess-radio-edit"/>
-        <updated>2025-05-14T06:59:35.713Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/cass-mccombs-priestess-radio-edit" itemprop="url">
-                <div class="photo">
-                  <img alt="NYC-based, indie-folk-rocking artist Cass McCombs shares “Priestess,” an economical requiem that cuts right to the chase and showcases his poignant songwriting." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/cass-mccombs-priestess-radio-edit/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Cass McCombs: ‘Priestess’ (Radio Edit)</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">NYC-based, indie-folk-rocking artist Cass McCombs shares “Priestess,” an economical requiem that cuts right to the chase and showcases his poignant songwriting.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-02T07:00:00Z">May 2</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/cass-mccombs-priestess-radio-edit/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">5 min</span>
                   </button>
