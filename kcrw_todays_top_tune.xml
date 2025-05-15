@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-05-15T06:59:30.743Z</updated>
+    <updated>2025-05-15T07:32:12.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Annahstasia: ‘Be Kind’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind"/>
+        <updated>2025-05-15T07:32:04.017Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind" itemprop="url">
+                <div class="photo">
+                  <img alt="Bewitching vocals ,luscious lyrics, classic jazz with a folk twist — all this and more is what you’ll hear in Annahstasia ’s “Be Kind.”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Annahstasia: ‘Be Kind’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Bewitching vocals ,luscious lyrics, classic jazz with a folk twist — all this and more is what you’ll hear in Annahstasia ’s “Be Kind.”</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-15T07:00:00Z">May 15</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">5 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gatlin: ‘If She Was A Boy’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy"/>
-        <updated>2025-05-15T06:59:16.106Z</updated>
+        <updated>2025-05-15T07:32:04.037Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Allison Russell ‘Superlover (Feat. Annie Lennox)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox"/>
-        <updated>2025-05-15T06:59:16.108Z</updated>
+        <updated>2025-05-15T07:32:04.039Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Cola Boyy ‘Walk Again’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/cola-boyy-walk-again</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/cola-boyy-walk-again"/>
-        <updated>2025-05-15T06:59:16.109Z</updated>
+        <updated>2025-05-15T07:32:04.040Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/cola-boyy-walk-again" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Brian Eno + Beatie Wolfe: ‘What We Are’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/brian-eno-beatie-wolfe-what-we-are</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/brian-eno-beatie-wolfe-what-we-are"/>
-        <updated>2025-05-15T06:59:16.111Z</updated>
+        <updated>2025-05-15T07:32:04.042Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/brian-eno-beatie-wolfe-what-we-are" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Chicarica: ‘Parará’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/chicarica-parara</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/chicarica-parara"/>
-        <updated>2025-05-15T06:59:16.112Z</updated>
+        <updated>2025-05-15T07:32:04.045Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/chicarica-parara" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Fitz & The Tantrums: ‘Ruin The Night’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/fitz-the-tantrums-ruin-the-night</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/fitz-the-tantrums-ruin-the-night"/>
-        <updated>2025-05-15T06:59:16.115Z</updated>
+        <updated>2025-05-15T07:32:04.047Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/fitz-the-tantrums-ruin-the-night" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[The Brudi Brothers: ‘Me More Cowboy Than You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you"/>
-        <updated>2025-05-15T06:59:16.116Z</updated>
+        <updated>2025-05-15T07:32:04.059Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/the-brudi-brothers-me-more-cowboy-than-you/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stereolab: ‘Melodie Is A Wound’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound"/>
-        <updated>2025-05-15T06:59:16.119Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound" itemprop="url">
-                <div class="photo">
-                  <img alt="“Melodie Is A Wound,” Stereolab’s second single ahead of their forthcoming LP Instant Holograms On Metal Film (their first in over 15 years!), is offering so much more than dulcet…" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Stereolab: ‘Melodie Is A Wound’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">“Melodie Is A Wound,” Stereolab’s second single ahead of their forthcoming LP Instant Holograms On Metal Film (their first in over 15 years!), is offering so much more than dulcet…</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-05T07:00:00Z">May 5</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/stereolab-melodie-is-a-wound/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">5 min</span>
                   </button>
                 </div>
               </div>]]></content>
