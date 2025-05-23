@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-05-23T06:58:35.611Z</updated>
+    <updated>2025-05-23T07:32:11.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Lamont Landers: ‘Lotta Love’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love"/>
+        <updated>2025-05-23T07:32:01.155Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love" itemprop="url">
+                <div class="photo">
+                  <img alt="Alabama-based Lamont Landers funnels himself into his songs, infusing each note with raw power and grit." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Lamont Landers: ‘Lotta Love’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Alabama-based Lamont Landers funnels himself into his songs, infusing each note with raw power and grit.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-23T07:00:00Z">May 23</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MRCY: ‘Wandering Attention’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention"/>
-        <updated>2025-05-23T06:58:25.482Z</updated>
+        <updated>2025-05-23T07:32:01.157Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Sharp Pins: ‘Sycophant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant"/>
-        <updated>2025-05-23T06:58:25.482Z</updated>
+        <updated>2025-05-23T07:32:01.159Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[The Doobie Brothers: ‘Learn To Let Go’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go"/>
-        <updated>2025-05-23T06:58:25.487Z</updated>
+        <updated>2025-05-23T07:32:01.160Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Galactic & Irma Thomas: ‘Where I Belong’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong"/>
-        <updated>2025-05-23T06:58:25.487Z</updated>
+        <updated>2025-05-23T07:32:01.163Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Bob Moses: ‘Time of Your Life’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/bob-moses-time-of-your-life</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/bob-moses-time-of-your-life"/>
-        <updated>2025-05-23T06:58:25.489Z</updated>
+        <updated>2025-05-23T07:32:01.165Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/bob-moses-time-of-your-life" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Annahstasia: ‘Be Kind’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind"/>
-        <updated>2025-05-23T06:58:25.492Z</updated>
+        <updated>2025-05-23T07:32:01.166Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Gatlin: ‘If She Was A Boy’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy"/>
-        <updated>2025-05-23T06:58:25.492Z</updated>
+        <updated>2025-05-23T07:32:01.169Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allison Russell ‘Superlover (Feat. Annie Lennox)’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox"/>
-        <updated>2025-05-23T06:58:25.493Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox" itemprop="url">
-                <div class="photo">
-                  <img alt="Singer, actor, and activist Allison Russell invited the legendary Annie Lennox to collaborate on a beautiful ballad that begs the question: How are you a “Superlover?”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Allison Russell ‘Superlover (Feat. Annie Lennox)’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Singer, actor, and activist Allison Russell invited the legendary Annie Lennox to collaborate on a beautiful ballad that begs the question: How are you a “Superlover?”</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-13T07:00:00Z">May 13</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/allison-russell-superlover-feat-annie-lennox/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">5 min</span>
                   </button>
                 </div>
               </div>]]></content>
