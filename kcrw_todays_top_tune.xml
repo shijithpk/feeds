@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-05-23T21:29:44.738Z</updated>
+    <updated>2025-05-23T21:54:11.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[Lamont Landers: ‘Lotta Love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love"/>
-        <updated>2025-05-23T21:29:34.854Z</updated>
+        <updated>2025-05-23T21:54:02.253Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="1">
               
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[MRCY: ‘Wandering Attention’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention"/>
-        <updated>2025-05-23T21:29:34.858Z</updated>
+        <updated>2025-05-23T21:54:02.256Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="2">
               
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[Sharp Pins: ‘Sycophant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant"/>
-        <updated>2025-05-23T21:29:34.860Z</updated>
+        <updated>2025-05-23T21:54:02.257Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="3">
               
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[The Doobie Brothers: ‘Learn To Let Go’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go"/>
-        <updated>2025-05-23T21:29:34.861Z</updated>
+        <updated>2025-05-23T21:54:02.259Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="4">
               
@@ -149,7 +149,7 @@
         <title type="html"><![CDATA[Galactic & Irma Thomas: ‘Where I Belong’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong"/>
-        <updated>2025-05-23T21:29:34.863Z</updated>
+        <updated>2025-05-23T21:54:02.261Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="5">
               
@@ -184,7 +184,7 @@
         <title type="html"><![CDATA[Bob Moses: ‘Time of Your Life’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/bob-moses-time-of-your-life</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/bob-moses-time-of-your-life"/>
-        <updated>2025-05-23T21:29:34.864Z</updated>
+        <updated>2025-05-23T21:54:02.263Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="6">
               
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[Annahstasia: ‘Be Kind’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/annahstasia-be-kind"/>
-        <updated>2025-05-23T21:29:34.873Z</updated>
+        <updated>2025-05-23T21:54:02.264Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="7">
               
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[Gatlin: ‘If She Was A Boy’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gatlin-if-she-was-a-boy"/>
-        <updated>2025-05-23T21:29:34.873Z</updated>
+        <updated>2025-05-23T21:54:02.268Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="8">
               
