@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-05-29T06:59:56.319Z</updated>
+    <updated>2025-05-29T07:32:45.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Nation of Language: ‘Inept Apollo’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo"/>
+        <updated>2025-05-29T07:32:35.549Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo" itemprop="url">
+                <div class="photo">
+                  <img alt="Brooklyn-based trio Nation of Language has an ardent-and-ever-expanding international audience for their danceable take on new wave, post-punk, and shoegaze." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Nation of Language: ‘Inept Apollo’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Brooklyn-based trio Nation of Language has an ardent-and-ever-expanding international audience for their danceable take on new wave, post-punk, and shoegaze.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-29T07:00:00Z">May 29</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ben Harper: ‘Before The Rain Dried’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried"/>
-        <updated>2025-05-29T06:59:45.057Z</updated>
+        <updated>2025-05-29T07:32:35.550Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Tatyana Richaud: ‘Dandelions’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions"/>
-        <updated>2025-05-29T06:59:45.063Z</updated>
+        <updated>2025-05-29T07:32:35.552Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Steve Stout: ‘Some Folks’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks"/>
-        <updated>2025-05-29T06:59:45.065Z</updated>
+        <updated>2025-05-29T07:32:35.554Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Lamont Landers: ‘Lotta Love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love"/>
-        <updated>2025-05-29T06:59:45.067Z</updated>
+        <updated>2025-05-29T07:32:35.555Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[MRCY: ‘Wandering Attention’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention"/>
-        <updated>2025-05-29T06:59:45.069Z</updated>
+        <updated>2025-05-29T07:32:35.557Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Sharp Pins: ‘Sycophant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant"/>
-        <updated>2025-05-29T06:59:45.074Z</updated>
+        <updated>2025-05-29T07:32:35.558Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[The Doobie Brothers: ‘Learn To Let Go’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go"/>
-        <updated>2025-05-29T06:59:45.075Z</updated>
+        <updated>2025-05-29T07:32:35.560Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/the-doobie-brothers-learn-to-let-go/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galactic & Irma Thomas: ‘Where I Belong’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong"/>
-        <updated>2025-05-29T06:59:45.078Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong" itemprop="url">
-                <div class="photo">
-                  <img alt="Eighty four year-old Irma Thomas is the “Soul Queen of New Orleans.” Galactic is a band that’s spent the last three decades generating uncompromising funk music." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Galactic &amp; Irma Thomas: ‘Where I Belong’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Eighty four year-old Irma Thomas is the “Soul Queen of New Orleans.” Galactic is a band that’s spent the last three decades generating uncompromising funk music.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-19T07:00:00Z">May 19</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/galactic-irma-thomas-where-i-belong/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
