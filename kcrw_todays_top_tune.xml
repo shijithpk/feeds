@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-02T06:49:08.572Z</updated>
+    <updated>2025-06-02T07:33:16.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Alison Krauss & Union Station: ‘Richmond On The James’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james"/>
+        <updated>2025-06-02T07:33:07.590Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james" itemprop="url">
+                <div class="photo">
+                  <img alt="Alison Krauss might be best known for rocking out with Robert Plant, but she’s plenty accomplished in her own right." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Alison Krauss &amp; Union Station: ‘Richmond On The James’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Alison Krauss might be best known for rocking out with Robert Plant, but she’s plenty accomplished in her own right.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-02T07:00:00Z">Jun. 2</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Natalie Bergman: ‘Gunslinger’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger"/>
-        <updated>2025-06-02T06:48:55.724Z</updated>
+        <updated>2025-06-02T07:33:07.592Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Nation of Language: ‘Inept Apollo’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo"/>
-        <updated>2025-06-02T06:48:55.726Z</updated>
+        <updated>2025-06-02T07:33:07.593Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Ben Harper: ‘Before The Rain Dried’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried"/>
-        <updated>2025-06-02T06:48:55.728Z</updated>
+        <updated>2025-06-02T07:33:07.596Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Tatyana Richaud: ‘Dandelions’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions"/>
-        <updated>2025-06-02T06:48:55.729Z</updated>
+        <updated>2025-06-02T07:33:07.603Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Steve Stout: ‘Some Folks’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks"/>
-        <updated>2025-06-02T06:48:55.731Z</updated>
+        <updated>2025-06-02T07:33:07.604Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Lamont Landers: ‘Lotta Love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love"/>
-        <updated>2025-06-02T06:48:55.734Z</updated>
+        <updated>2025-06-02T07:33:07.605Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[MRCY: ‘Wandering Attention’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention"/>
-        <updated>2025-06-02T06:48:55.734Z</updated>
+        <updated>2025-06-02T07:33:07.607Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/mrcy-wandering-attention/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">2 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharp Pins: ‘Sycophant’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant"/>
-        <updated>2025-06-02T06:48:55.741Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant" itemprop="url">
-                <div class="photo">
-                  <img alt="Chi-town indie artist Kai Slater records their quirky, nostalgic, lo-fi ditties under the moniker Sharp Pins. They also produce a rad ‘zine called HALLOGALLO ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Sharp Pins: ‘Sycophant’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Chi-town indie artist Kai Slater records their quirky, nostalgic, lo-fi ditties under the moniker Sharp Pins. They also produce a rad ‘zine called HALLOGALLO .</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-21T07:00:00Z">May 21</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/sharp-pins-sycophant/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
