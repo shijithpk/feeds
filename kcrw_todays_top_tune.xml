@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-04T06:46:29.214Z</updated>
+    <updated>2025-06-04T07:33:51.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Yuno: ‘Blest’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest"/>
+        <updated>2025-06-04T07:33:42.577Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest" itemprop="url">
+                <div class="photo">
+                  <img alt="Enjoy the ebullient title track from NYC-based producer Yuno’s debut album, Blest. Honing his skills in his Floridian childhood bedroom eventually led to broader platforms." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Yuno: ‘Blest’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Enjoy the ebullient title track from NYC-based producer Yuno’s debut album, Blest. Honing his skills in his Floridian childhood bedroom eventually led to broader platforms.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-04T07:00:00Z">Jun. 4</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOFI TUKKER: ‘Bread (butter version)’ Feat. Seu Jorge]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge"/>
-        <updated>2025-06-04T06:46:18.570Z</updated>
+        <updated>2025-06-04T07:33:42.577Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Alison Krauss & Union Station: ‘Richmond On The James’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james"/>
-        <updated>2025-06-04T06:46:18.570Z</updated>
+        <updated>2025-06-04T07:33:42.578Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Natalie Bergman: ‘Gunslinger’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger"/>
-        <updated>2025-06-04T06:46:18.572Z</updated>
+        <updated>2025-06-04T07:33:42.583Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Nation of Language: ‘Inept Apollo’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo"/>
-        <updated>2025-06-04T06:46:18.573Z</updated>
+        <updated>2025-06-04T07:33:42.584Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Ben Harper: ‘Before The Rain Dried’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried"/>
-        <updated>2025-06-04T06:46:18.575Z</updated>
+        <updated>2025-06-04T07:33:42.585Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Tatyana Richaud: ‘Dandelions’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions"/>
-        <updated>2025-06-04T06:46:18.578Z</updated>
+        <updated>2025-06-04T07:33:42.589Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Steve Stout: ‘Some Folks’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks"/>
-        <updated>2025-06-04T06:46:18.580Z</updated>
+        <updated>2025-06-04T07:33:42.591Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">2 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lamont Landers: ‘Lotta Love’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love"/>
-        <updated>2025-06-04T06:46:18.582Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love" itemprop="url">
-                <div class="photo">
-                  <img alt="Alabama-based Lamont Landers funnels himself into his songs, infusing each note with raw power and grit." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Lamont Landers: ‘Lotta Love’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Alabama-based Lamont Landers funnels himself into his songs, infusing each note with raw power and grit.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-23T07:00:00Z">May 23</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/lamont-landers-lotta-love/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
