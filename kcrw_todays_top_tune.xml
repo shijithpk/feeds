@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-05T06:47:58.886Z</updated>
+    <updated>2025-06-05T07:32:50.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tanika Charles: ‘How Long Will It Take’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take"/>
+        <updated>2025-06-05T07:32:38.217Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take" itemprop="url">
+                <div class="photo">
+                  <img alt="Canadian soul star Tanika Charles has done a lot of mending in her life." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Tanika Charles: ‘How Long Will It Take’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Canadian soul star Tanika Charles has done a lot of mending in her life.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-05T07:00:00Z">Jun. 5</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yuno: ‘Blest’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest"/>
-        <updated>2025-06-05T06:47:49.633Z</updated>
+        <updated>2025-06-05T07:32:38.219Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[SOFI TUKKER: ‘Bread (butter version)’ Feat. Seu Jorge]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge"/>
-        <updated>2025-06-05T06:47:49.635Z</updated>
+        <updated>2025-06-05T07:32:38.221Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Alison Krauss & Union Station: ‘Richmond On The James’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james"/>
-        <updated>2025-06-05T06:47:49.636Z</updated>
+        <updated>2025-06-05T07:32:38.222Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Natalie Bergman: ‘Gunslinger’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger"/>
-        <updated>2025-06-05T06:47:49.637Z</updated>
+        <updated>2025-06-05T07:32:38.224Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Nation of Language: ‘Inept Apollo’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo"/>
-        <updated>2025-06-05T06:47:49.639Z</updated>
+        <updated>2025-06-05T07:32:38.225Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Ben Harper: ‘Before The Rain Dried’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried"/>
-        <updated>2025-06-05T06:47:49.640Z</updated>
+        <updated>2025-06-05T07:32:38.227Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Tatyana Richaud: ‘Dandelions’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions"/>
-        <updated>2025-06-05T06:47:49.643Z</updated>
+        <updated>2025-06-05T07:32:38.229Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/tatyana-richaud-dandelions/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Stout: ‘Some Folks’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks"/>
-        <updated>2025-06-05T06:47:49.644Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks" itemprop="url">
-                <div class="photo">
-                  <img alt="Ex-rocker/new-folker Steve Stout recently updated his sound to lean a little less lo-fi, and a little more in line with artists like Fruit Bats and Kurt Vile." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Steve Stout: ‘Some Folks’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Ex-rocker/new-folker Steve Stout recently updated his sound to lean a little less lo-fi, and a little more in line with artists like Fruit Bats and Kurt Vile.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-26T07:00:00Z">May 26</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/steve-stout-some-folks/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">2 min</span>
                   </button>
                 </div>
               </div>]]></content>
