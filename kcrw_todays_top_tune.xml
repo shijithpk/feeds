@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-09T06:49:01.085Z</updated>
+    <updated>2025-06-09T07:34:33.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[L'Eclair: ‘Run’ (Feat. Gelli Haha)]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha"/>
+        <updated>2025-06-09T07:34:24.293Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha" itemprop="url">
+                <div class="photo">
+                  <img alt="Genre-hopping Swiss outfit L’Eclair are the sonic equivalent of the pastry they’re named after." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">L'Eclair: ‘Run’ (Feat. Gelli Haha)</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Genre-hopping Swiss outfit L’Eclair are the sonic equivalent of the pastry they’re named after.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-09T07:00:00Z">Jun. 9</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">2 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rochelle Jordan: ‘Crave’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-crave</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-crave"/>
-        <updated>2025-06-09T06:48:51.913Z</updated>
+        <updated>2025-06-09T07:34:24.295Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-crave" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Tanika Charles: ‘How Long Will It Take’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take"/>
-        <updated>2025-06-09T06:48:51.915Z</updated>
+        <updated>2025-06-09T07:34:24.301Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Yuno: ‘Blest’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest"/>
-        <updated>2025-06-09T06:48:51.916Z</updated>
+        <updated>2025-06-09T07:34:24.304Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[SOFI TUKKER: ‘Bread (butter version)’ Feat. Seu Jorge]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge"/>
-        <updated>2025-06-09T06:48:51.918Z</updated>
+        <updated>2025-06-09T07:34:24.306Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Alison Krauss & Union Station: ‘Richmond On The James’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james"/>
-        <updated>2025-06-09T06:48:51.931Z</updated>
+        <updated>2025-06-09T07:34:24.308Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Natalie Bergman: ‘Gunslinger’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger"/>
-        <updated>2025-06-09T06:48:51.932Z</updated>
+        <updated>2025-06-09T07:34:24.312Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Nation of Language: ‘Inept Apollo’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo"/>
-        <updated>2025-06-09T06:48:51.934Z</updated>
+        <updated>2025-06-09T07:34:24.313Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/nation-of-language-inept-apollo/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Harper: ‘Before The Rain Dried’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried"/>
-        <updated>2025-06-09T06:48:51.935Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried" itemprop="url">
-                <div class="photo">
-                  <img alt="Three-time Grammy-winner Ben Harper has amassed an international audience with his genre-defying work." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Ben Harper: ‘Before The Rain Dried’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Three-time Grammy-winner Ben Harper has amassed an international audience with his genre-defying work.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-28T07:00:00Z">May 28</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ben-harper-before-the-rain-dried/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
                   </button>
