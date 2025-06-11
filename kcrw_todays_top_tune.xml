@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-11T06:46:21.527Z</updated>
+    <updated>2025-06-11T07:33:36.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Pearl & The Oysters: ‘Sous la lune mandarine’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/pearl-the-oysters-sous-la-lune-mandarine</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/pearl-the-oysters-sous-la-lune-mandarine"/>
+        <updated>2025-06-11T07:33:27.086Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/pearl-the-oysters-sous-la-lune-mandarine" itemprop="url">
+                <div class="photo">
+                  <img alt="“Under The Mandarin Moon,” or as Pearl &amp; The Oysters say “Sous la lune mandarine,” is the latest example of the group’s musical superpower: exploring a difficult subject over a…" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/pearl-the-oysters-sous-la-lune-mandarine/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Pearl &amp; The Oysters: ‘Sous la lune mandarine’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">“Under The Mandarin Moon,” or as Pearl &amp; The Oysters say “Sous la lune mandarine,” is the latest example of the group’s musical superpower: exploring a difficult subject over a…</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-11T07:00:00Z">Jun. 11</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/pearl-the-oysters-sous-la-lune-mandarine/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NxWorries: ‘Everybody Gets Down’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/nxworries-everybody-gets-down</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/nxworries-everybody-gets-down"/>
-        <updated>2025-06-11T06:46:12.592Z</updated>
+        <updated>2025-06-11T07:33:27.088Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/nxworries-everybody-gets-down" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[L'Eclair: ‘Run’ (Feat. Gelli Haha)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha"/>
-        <updated>2025-06-11T06:46:12.595Z</updated>
+        <updated>2025-06-11T07:33:27.090Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/leclair-run-feat-gelli-haha" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Rochelle Jordan: ‘Crave’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-crave</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-crave"/>
-        <updated>2025-06-11T06:46:12.596Z</updated>
+        <updated>2025-06-11T07:33:27.091Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-crave" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Tanika Charles: ‘How Long Will It Take’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take"/>
-        <updated>2025-06-11T06:46:12.599Z</updated>
+        <updated>2025-06-11T07:33:27.093Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tanika-charles-how-long-will-it-take" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Yuno: ‘Blest’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest"/>
-        <updated>2025-06-11T06:46:12.600Z</updated>
+        <updated>2025-06-11T07:33:27.095Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yuno-blest" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[SOFI TUKKER: ‘Bread (butter version)’ Feat. Seu Jorge]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge"/>
-        <updated>2025-06-11T06:46:12.601Z</updated>
+        <updated>2025-06-11T07:33:27.096Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofi-tukker-bread-butter-version-feat-seu-jorge" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Alison Krauss & Union Station: ‘Richmond On The James’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james"/>
-        <updated>2025-06-11T06:46:12.603Z</updated>
+        <updated>2025-06-11T07:33:27.110Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/alison-krauss-union-station-richmond-on-the-james/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natalie Bergman: ‘Gunslinger’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger"/>
-        <updated>2025-06-11T06:46:12.604Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger" itemprop="url">
-                <div class="photo">
-                  <img alt="Soul-siren Natalie Bergman returns with her sophomore LP My Home Is Not In This World (due July 18 via Third Man Records)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Natalie Bergman: ‘Gunslinger’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Soul-siren Natalie Bergman returns with her sophomore LP My Home Is Not In This World (due July 18 via Third Man Records).</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-05-30T07:00:00Z">May 30</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/natalie-bergman-gunslinger/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
                   </button>
