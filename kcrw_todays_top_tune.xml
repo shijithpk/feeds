@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-25T06:47:26.142Z</updated>
+    <updated>2025-06-25T07:36:51.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
+        <updated>2025-06-25T07:36:41.618Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico" itemprop="url">
+                <div class="photo">
+                  <img alt="London’s Night Tapes are set to release their hotly-anticipated debut album, portals//polarities, on September 26." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Night Tapes: ‘Pacifico’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">London’s Night Tapes are set to release their hotly-anticipated debut album, portals//polarities, on September 26.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-25T07:00:00Z">Jun. 25</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon"/>
-        <updated>2025-06-25T06:47:13.555Z</updated>
+        <updated>2025-06-25T07:36:41.620Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Erick The Architect: ‘All That I Need’ (feat. Haile Supreme)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme"/>
-        <updated>2025-06-25T06:47:13.555Z</updated>
+        <updated>2025-06-25T07:36:41.622Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Silvana Estrada: ‘Como Un Pájaro’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro"/>
-        <updated>2025-06-25T06:47:13.557Z</updated>
+        <updated>2025-06-25T07:36:41.657Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Mocky: ‘Music Will Explain’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain"/>
-        <updated>2025-06-25T06:47:13.558Z</updated>
+        <updated>2025-06-25T07:36:41.659Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[url: ‘skin’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/url-skin</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/url-skin"/>
-        <updated>2025-06-25T06:47:13.560Z</updated>
+        <updated>2025-06-25T07:36:41.660Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/url-skin" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Yaya Bey: ‘raisins’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins"/>
-        <updated>2025-06-25T06:47:13.565Z</updated>
+        <updated>2025-06-25T07:36:41.662Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Sparks: ‘Running Up A Tab At The Hotel For The Fab’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab"/>
-        <updated>2025-06-25T06:47:13.566Z</updated>
+        <updated>2025-06-25T07:36:41.664Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miso Extra: ‘POP’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/miso-extra-pop</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/miso-extra-pop"/>
-        <updated>2025-06-25T06:47:13.568Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/miso-extra-pop" itemprop="url">
-                <div class="photo">
-                  <img alt="Earcandy, the debut album by Japanese-British singer and producer Miso Extra , is an infectious mix of K-Pop, UK Garage, tongue-in-cheek sensibility, and sultry, ear-catching textures." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/miso-extra-pop/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Miso Extra: ‘POP’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Earcandy, the debut album by Japanese-British singer and producer Miso Extra , is an infectious mix of K-Pop, UK Garage, tongue-in-cheek sensibility, and sultry, ear-catching textures.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-13T07:00:00Z">Jun. 13</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/miso-extra-pop/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
