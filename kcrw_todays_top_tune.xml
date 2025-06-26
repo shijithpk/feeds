@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-26T06:47:31.695Z</updated>
+    <updated>2025-06-26T07:33:43.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
+        <updated>2025-06-26T07:33:34.695Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle" itemprop="url">
+                <div class="photo">
+                  <img alt="Born and bred in Western Kentucky, S.G. Goodman is an old soul of a storyteller whose work points to ancient traditions and lost ways of life." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">S.G. Goodman: ‘Snapping Turtle’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Born and bred in Western Kentucky, S.G. Goodman is an old soul of a storyteller whose work points to ancient traditions and lost ways of life.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-26T07:00:00Z">Jun. 26</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">6 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
-        <updated>2025-06-26T06:47:13.296Z</updated>
+        <updated>2025-06-26T07:33:34.697Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon"/>
-        <updated>2025-06-26T06:47:13.298Z</updated>
+        <updated>2025-06-26T07:33:34.698Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Erick The Architect: ‘All That I Need’ (feat. Haile Supreme)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme"/>
-        <updated>2025-06-26T06:47:13.300Z</updated>
+        <updated>2025-06-26T07:33:34.700Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Silvana Estrada: ‘Como Un Pájaro’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro"/>
-        <updated>2025-06-26T06:47:13.301Z</updated>
+        <updated>2025-06-26T07:33:34.703Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Mocky: ‘Music Will Explain’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain"/>
-        <updated>2025-06-26T06:47:13.303Z</updated>
+        <updated>2025-06-26T07:33:34.705Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[url: ‘skin’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/url-skin</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/url-skin"/>
-        <updated>2025-06-26T06:47:13.305Z</updated>
+        <updated>2025-06-26T07:33:34.706Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/url-skin" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Yaya Bey: ‘raisins’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins"/>
-        <updated>2025-06-26T06:47:13.306Z</updated>
+        <updated>2025-06-26T07:33:34.718Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sparks: ‘Running Up A Tab At The Hotel For The Fab’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab"/>
-        <updated>2025-06-26T06:47:13.323Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab" itemprop="url">
-                <div class="photo">
-                  <img alt="LA band Sparks always delights us with their sophisticated-yet-playful songwriting." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Sparks: ‘Running Up A Tab At The Hotel For The Fab’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">LA band Sparks always delights us with their sophisticated-yet-playful songwriting.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-16T07:00:00Z">Jun. 16</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/sparks-running-up-a-tab-at-the-hotel-for-the-fab/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
