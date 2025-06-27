@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-27T06:47:39.358Z</updated>
+    <updated>2025-06-27T07:33:31.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Renée Elise Goldsberry: ‘Staring’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring"/>
+        <updated>2025-06-27T07:33:21.424Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring" itemprop="url">
+                <div class="photo">
+                  <img alt="You may recognize Tony and Grammy winner Renée Elise Goldsberry from her role as Angelica Schuyler in the filmed version of Hamilton." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Renée Elise Goldsberry: ‘Staring’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">You may recognize Tony and Grammy winner Renée Elise Goldsberry from her role as Angelica Schuyler in the filmed version of Hamilton.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-27T07:00:00Z">Jun. 27</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
-        <updated>2025-06-27T06:47:29.498Z</updated>
+        <updated>2025-06-27T07:33:21.427Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
-        <updated>2025-06-27T06:47:29.501Z</updated>
+        <updated>2025-06-27T07:33:21.429Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon"/>
-        <updated>2025-06-27T06:47:29.501Z</updated>
+        <updated>2025-06-27T07:33:21.431Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Erick The Architect: ‘All That I Need’ (feat. Haile Supreme)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme"/>
-        <updated>2025-06-27T06:47:29.503Z</updated>
+        <updated>2025-06-27T07:33:21.433Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Silvana Estrada: ‘Como Un Pájaro’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro"/>
-        <updated>2025-06-27T06:47:29.505Z</updated>
+        <updated>2025-06-27T07:33:21.435Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Mocky: ‘Music Will Explain’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain"/>
-        <updated>2025-06-27T06:47:29.507Z</updated>
+        <updated>2025-06-27T07:33:21.437Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[url: ‘skin’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/url-skin</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/url-skin"/>
-        <updated>2025-06-27T06:47:29.508Z</updated>
+        <updated>2025-06-27T07:33:21.441Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/url-skin" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/url-skin/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaya Bey: ‘raisins’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins"/>
-        <updated>2025-06-27T06:47:29.510Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins" itemprop="url">
-                <div class="photo">
-                  <img alt="Yaya Bey’s “raisins” is all about the bravery required to pursue a career as an artist; dreaming big and keeping the faith through the more sobering realities of the job." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Yaya Bey: ‘raisins’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Yaya Bey’s “raisins” is all about the bravery required to pursue a career as an artist; dreaming big and keeping the faith through the more sobering realities of the job.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-17T07:00:00Z">Jun. 17</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/yaya-bey-raisins/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
                   </button>
