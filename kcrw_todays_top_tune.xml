@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-06-30T10:42:42.937Z</updated>
+    <updated>2025-06-30T10:57:34.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[Drugdealer: ‘Real Thing’ (feat. Weyes Blood)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood"/>
-        <updated>2025-06-30T10:42:30.990Z</updated>
+        <updated>2025-06-30T10:57:25.191Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="1">
               
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Renée Elise Goldsberry: ‘Staring’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring"/>
-        <updated>2025-06-30T10:42:30.992Z</updated>
+        <updated>2025-06-30T10:57:25.193Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="2">
               
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
-        <updated>2025-06-30T10:42:30.993Z</updated>
+        <updated>2025-06-30T10:57:25.194Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="3">
               
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
-        <updated>2025-06-30T10:42:30.995Z</updated>
+        <updated>2025-06-30T10:57:25.196Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="4">
               
@@ -149,7 +149,7 @@
         <title type="html"><![CDATA[Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon"/>
-        <updated>2025-06-30T10:42:30.996Z</updated>
+        <updated>2025-06-30T10:57:25.208Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="5">
               
@@ -184,7 +184,7 @@
         <title type="html"><![CDATA[Erick The Architect: ‘All That I Need’ (feat. Haile Supreme)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme"/>
-        <updated>2025-06-30T10:42:31.003Z</updated>
+        <updated>2025-06-30T10:57:25.210Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="6">
               
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[Silvana Estrada: ‘Como Un Pájaro’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro"/>
-        <updated>2025-06-30T10:42:31.005Z</updated>
+        <updated>2025-06-30T10:57:25.213Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="7">
               
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[Mocky: ‘Music Will Explain’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mocky-music-will-explain"/>
-        <updated>2025-06-30T10:42:31.008Z</updated>
+        <updated>2025-06-30T10:57:25.214Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="8">
               
