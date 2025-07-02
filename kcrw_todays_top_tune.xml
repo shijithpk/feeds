@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-02T06:48:19.447Z</updated>
+    <updated>2025-07-02T07:34:22.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Raine: ‘To You’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you"/>
+        <updated>2025-07-02T07:33:24.927Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you" itemprop="url">
+                <div class="photo">
+                  <img alt="KCRW Young Creator’s Project alum Raine is back with Backseat, a new EP due in Sept of this year." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Raine: ‘To You’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">KCRW Young Creator’s Project alum Raine is back with Backseat, a new EP due in Sept of this year.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-02T07:00:00Z">Jul. 2</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac DeMarco: ‘Home’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home"/>
-        <updated>2025-07-02T06:48:08.254Z</updated>
+        <updated>2025-07-02T07:33:24.928Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Drugdealer: ‘Real Thing’ (feat. Weyes Blood)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood"/>
-        <updated>2025-07-02T06:48:08.256Z</updated>
+        <updated>2025-07-02T07:33:24.929Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Renée Elise Goldsberry: ‘Staring’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring"/>
-        <updated>2025-07-02T06:48:08.258Z</updated>
+        <updated>2025-07-02T07:33:24.931Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
-        <updated>2025-07-02T06:48:08.259Z</updated>
+        <updated>2025-07-02T07:33:24.934Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
-        <updated>2025-07-02T06:48:08.261Z</updated>
+        <updated>2025-07-02T07:33:24.936Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon"/>
-        <updated>2025-07-02T06:48:08.263Z</updated>
+        <updated>2025-07-02T07:33:24.938Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Erick The Architect: ‘All That I Need’ (feat. Haile Supreme)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme"/>
-        <updated>2025-07-02T06:48:08.266Z</updated>
+        <updated>2025-07-02T07:33:24.941Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/erick-the-architect-all-that-i-need-feat-haile-supreme/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silvana Estrada: ‘Como Un Pájaro’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro"/>
-        <updated>2025-07-02T06:48:08.269Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro" itemprop="url">
-                <div class="photo">
-                  <img alt="During the pandemic, Silvana Estrada found herself home alone and broken-hearted. She was also facing some serious insomnia so she picked up her guitar and went to work." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Silvana Estrada: ‘Como Un Pájaro’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">During the pandemic, Silvana Estrada found herself home alone and broken-hearted. She was also facing some serious insomnia so she picked up her guitar and went to work.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-20T07:00:00Z">Jun. 20</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/silvana-estrada-como-un-pajaro/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
                   </button>
