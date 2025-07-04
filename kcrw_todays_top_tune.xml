@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-04T06:48:53.199Z</updated>
+    <updated>2025-07-04T07:36:45.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Twirlies: ‘Think That I'm In Love’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love"/>
+        <updated>2025-07-04T07:36:34.597Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love" itemprop="url">
+                <div class="photo">
+                  <img alt="Taking their cues from ‘90s shamble-pop greats like Yo La Tengo and The Pastels, the Norwegian trio Twirlies makes a swoon-worthy debut with “Think That I’m In Love.”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Twirlies: ‘Think That I'm In Love’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Taking their cues from ‘90s shamble-pop greats like Yo La Tengo and The Pastels, the Norwegian trio Twirlies makes a swoon-worthy debut with “Think That I’m In Love.”</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-04T07:00:00Z">Jul. 4</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Favors: ‘The Little Mess You Made’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made"/>
-        <updated>2025-07-04T06:48:41.744Z</updated>
+        <updated>2025-07-04T07:36:34.602Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Raine: ‘To You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you"/>
-        <updated>2025-07-04T06:48:41.747Z</updated>
+        <updated>2025-07-04T07:36:34.604Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Mac DeMarco: ‘Home’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home"/>
-        <updated>2025-07-04T06:48:41.748Z</updated>
+        <updated>2025-07-04T07:36:34.607Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Drugdealer: ‘Real Thing’ (feat. Weyes Blood)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood"/>
-        <updated>2025-07-04T06:48:41.750Z</updated>
+        <updated>2025-07-04T07:36:34.608Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Renée Elise Goldsberry: ‘Staring’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring"/>
-        <updated>2025-07-04T06:48:41.752Z</updated>
+        <updated>2025-07-04T07:36:34.611Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
-        <updated>2025-07-04T06:48:41.753Z</updated>
+        <updated>2025-07-04T07:36:34.613Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
-        <updated>2025-07-04T06:48:41.755Z</updated>
+        <updated>2025-07-04T07:36:34.615Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon"/>
-        <updated>2025-07-04T06:48:41.757Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon" itemprop="url">
-                <div class="photo">
-                  <img alt="Colombian chanteuse Lido Pimienta broke out in 2020 with her third album, Miss Colombia." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Lido Pimienta: ‘¿Quién Tiene La Luz? (El Perdón)’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Colombian chanteuse Lido Pimienta broke out in 2020 with her third album, Miss Colombia.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-24T07:00:00Z">Jun. 24</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/lido-pimienta-quien-tiene-la-luz-el-perdon/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
                   </button>
