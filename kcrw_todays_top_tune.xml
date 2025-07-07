@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-07T06:48:55.929Z</updated>
+    <updated>2025-07-07T07:34:41.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Budos Band: ‘Lair of 1,000 Serpents’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents"/>
+        <updated>2025-07-07T07:34:28.706Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents" itemprop="url">
+                <div class="photo">
+                  <img alt="The Budos Band have returned with VII, their first new album since 2020’s Long In The Tooth." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">The Budos Band: ‘Lair of 1,000 Serpents’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">The Budos Band have returned with VII, their first new album since 2020’s Long In The Tooth.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-07T07:00:00Z">Jul. 7</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">2 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twirlies: ‘Think That I'm In Love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love"/>
-        <updated>2025-07-07T06:48:44.050Z</updated>
+        <updated>2025-07-07T07:34:28.707Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[The Favors: ‘The Little Mess You Made’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made"/>
-        <updated>2025-07-07T06:48:44.050Z</updated>
+        <updated>2025-07-07T07:34:28.709Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Raine: ‘To You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you"/>
-        <updated>2025-07-07T06:48:44.052Z</updated>
+        <updated>2025-07-07T07:34:28.713Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Mac DeMarco: ‘Home’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home"/>
-        <updated>2025-07-07T06:48:44.053Z</updated>
+        <updated>2025-07-07T07:34:28.716Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Drugdealer: ‘Real Thing’ (feat. Weyes Blood)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood"/>
-        <updated>2025-07-07T06:48:44.056Z</updated>
+        <updated>2025-07-07T07:34:28.718Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Renée Elise Goldsberry: ‘Staring’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring"/>
-        <updated>2025-07-07T06:48:44.057Z</updated>
+        <updated>2025-07-07T07:34:28.719Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
-        <updated>2025-07-07T06:48:44.058Z</updated>
+        <updated>2025-07-07T07:34:28.721Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">6 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night Tapes: ‘Pacifico’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico"/>
-        <updated>2025-07-07T06:48:44.060Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico" itemprop="url">
-                <div class="photo">
-                  <img alt="London’s Night Tapes are set to release their hotly-anticipated debut album, portals//polarities, on September 26." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Night Tapes: ‘Pacifico’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">London’s Night Tapes are set to release their hotly-anticipated debut album, portals//polarities, on September 26.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-25T07:00:00Z">Jun. 25</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/night-tapes-pacifico/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
