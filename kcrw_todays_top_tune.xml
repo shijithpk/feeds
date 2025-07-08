@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-08T06:48:29.898Z</updated>
+    <updated>2025-07-08T07:34:02.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Latroit: ‘Gabrielle’ (feat. Nick Clow)]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow"/>
+        <updated>2025-07-08T07:33:52.414Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow" itemprop="url">
+                <div class="photo">
+                  <img alt="Grammy-winner Latroit soulfully reimagines the Roy Davis Jr. classic “Gabrielle” … with a little help from Pet Shop Boys’ backing vocalist Nick Clow(!)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Latroit: ‘Gabrielle’ (feat. Nick Clow)</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Grammy-winner Latroit soulfully reimagines the Roy Davis Jr. classic “Gabrielle” … with a little help from Pet Shop Boys’ backing vocalist Nick Clow(!).</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-08T07:00:00Z">Jul. 8</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Budos Band: ‘Lair of 1,000 Serpents’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents"/>
-        <updated>2025-07-08T06:48:18.121Z</updated>
+        <updated>2025-07-08T07:33:52.416Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Twirlies: ‘Think That I'm In Love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love"/>
-        <updated>2025-07-08T06:48:18.122Z</updated>
+        <updated>2025-07-08T07:33:52.421Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[The Favors: ‘The Little Mess You Made’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made"/>
-        <updated>2025-07-08T06:48:18.124Z</updated>
+        <updated>2025-07-08T07:33:52.422Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Raine: ‘To You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you"/>
-        <updated>2025-07-08T06:48:18.132Z</updated>
+        <updated>2025-07-08T07:33:52.424Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/raine-to-you" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Mac DeMarco: ‘Home’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home"/>
-        <updated>2025-07-08T06:48:18.133Z</updated>
+        <updated>2025-07-08T07:33:52.425Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mac-demarco-home" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Drugdealer: ‘Real Thing’ (feat. Weyes Blood)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood"/>
-        <updated>2025-07-08T06:48:18.136Z</updated>
+        <updated>2025-07-08T07:33:52.427Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/drugdealer-real-thing-feat-weyes-blood" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Renée Elise Goldsberry: ‘Staring’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring"/>
-        <updated>2025-07-08T06:48:18.138Z</updated>
+        <updated>2025-07-08T07:33:52.429Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/renee-elise-goldsberry-staring/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S.G. Goodman: ‘Snapping Turtle’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle"/>
-        <updated>2025-07-08T06:48:18.139Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle" itemprop="url">
-                <div class="photo">
-                  <img alt="Born and bred in Western Kentucky, S.G. Goodman is an old soul of a storyteller whose work points to ancient traditions and lost ways of life." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">S.G. Goodman: ‘Snapping Turtle’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Born and bred in Western Kentucky, S.G. Goodman is an old soul of a storyteller whose work points to ancient traditions and lost ways of life.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-06-26T07:00:00Z">Jun. 26</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/s-g-goodman-snapping-turtle/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">6 min</span>
                   </button>
                 </div>
               </div>]]></content>
