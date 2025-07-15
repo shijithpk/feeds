@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-15T06:50:21.133Z</updated>
+    <updated>2025-07-15T07:37:52.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Other Lives: ‘Mystic’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic"/>
+        <updated>2025-07-15T07:37:43.033Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic" itemprop="url">
+                <div class="photo">
+                  <img alt="“Mystic” offers a cinematic sneak peak into Other Lives ’ forthcoming album Volume V (due Oct. 10 via Play It Again Sam)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Other Lives: ‘Mystic’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">“Mystic” offers a cinematic sneak peak into Other Lives ’ forthcoming album Volume V (due Oct. 10 via Play It Again Sam).</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-15T07:00:00Z">Jul. 15</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Juan Wauters: ‘Manejando Por Pando’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando"/>
-        <updated>2025-07-15T06:50:10.269Z</updated>
+        <updated>2025-07-15T07:37:43.035Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Wet Leg: ‘catch these fists’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists"/>
-        <updated>2025-07-15T06:50:10.274Z</updated>
+        <updated>2025-07-15T07:37:43.037Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Ty Segall: 'Possession’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession"/>
-        <updated>2025-07-15T06:50:10.278Z</updated>
+        <updated>2025-07-15T07:37:43.038Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Francis Bebey: ‘Le Grand Soleil De Dieu (Psychemagik Remix)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/francis-bebey-le-grand-soleil-de-dieu-psychemagik-remix</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/francis-bebey-le-grand-soleil-de-dieu-psychemagik-remix"/>
-        <updated>2025-07-15T06:50:10.279Z</updated>
+        <updated>2025-07-15T07:37:43.052Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/francis-bebey-le-grand-soleil-de-dieu-psychemagik-remix" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Latroit: ‘Gabrielle’ (feat. Nick Clow)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow"/>
-        <updated>2025-07-15T06:50:10.281Z</updated>
+        <updated>2025-07-15T07:37:43.053Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[The Budos Band: ‘Lair of 1,000 Serpents’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents"/>
-        <updated>2025-07-15T06:50:10.285Z</updated>
+        <updated>2025-07-15T07:37:43.054Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Twirlies: ‘Think That I'm In Love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love"/>
-        <updated>2025-07-15T06:50:10.300Z</updated>
+        <updated>2025-07-15T07:37:43.055Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/twirlies-think-that-im-in-love/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Favors: ‘The Little Mess You Made’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made"/>
-        <updated>2025-07-15T06:50:10.302Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made" itemprop="url">
-                <div class="photo">
-                  <img alt="Longtime friends FINNEAS and Ashe have a habit of casual collabs that create hits. Think: “ Moral of the Story ” (2019) and “ Till Forever Falls Apart ” (2021)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">The Favors: ‘The Little Mess You Made’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Longtime friends FINNEAS and Ashe have a habit of casual collabs that create hits. Think: “ Moral of the Story ” (2019) and “ Till Forever Falls Apart ” (2021).</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-03T07:00:00Z">Jul. 3</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/the-favors-the-little-mess-you-made/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
                   </button>
