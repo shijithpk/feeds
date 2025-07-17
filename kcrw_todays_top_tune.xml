@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-17T06:50:35.527Z</updated>
+    <updated>2025-07-17T07:36:12.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Marissa Nadler: ‘New Radiations’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations"/>
+        <updated>2025-07-17T07:36:02.181Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations" itemprop="url">
+                <div class="photo">
+                  <img alt="Consummate collaborator Marissa Nadler (Father John Misty, John Cale, Angel Olsen, etc.) will release her tenth studio album New Radiations on Aug. 15 via Sacred Bones Records." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Marissa Nadler: ‘New Radiations’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Consummate collaborator Marissa Nadler (Father John Misty, John Cale, Angel Olsen, etc.) will release her tenth studio album New Radiations on Aug. 15 via Sacred Bones Records.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-17T07:00:00Z">Jul. 17</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">5 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[54 Ultra: ‘No Tengo Valor’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor"/>
-        <updated>2025-07-17T06:50:23.136Z</updated>
+        <updated>2025-07-17T07:36:02.191Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Other Lives: ‘Mystic’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic"/>
-        <updated>2025-07-17T06:50:23.141Z</updated>
+        <updated>2025-07-17T07:36:02.193Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Juan Wauters: ‘Manejando Por Pando’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando"/>
-        <updated>2025-07-17T06:50:23.143Z</updated>
+        <updated>2025-07-17T07:36:02.195Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Wet Leg: ‘catch these fists’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists"/>
-        <updated>2025-07-17T06:50:23.144Z</updated>
+        <updated>2025-07-17T07:36:02.197Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Ty Segall: 'Possession’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession"/>
-        <updated>2025-07-17T06:50:23.145Z</updated>
+        <updated>2025-07-17T07:36:02.199Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Francis Bebey: ‘Le Grand Soleil De Dieu (Psychemagik Remix)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/francis-bebey-le-grand-soleil-de-dieu-psychemagik-remix</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/francis-bebey-le-grand-soleil-de-dieu-psychemagik-remix"/>
-        <updated>2025-07-17T06:50:23.149Z</updated>
+        <updated>2025-07-17T07:36:02.201Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/francis-bebey-le-grand-soleil-de-dieu-psychemagik-remix" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Latroit: ‘Gabrielle’ (feat. Nick Clow)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow"/>
-        <updated>2025-07-17T06:50:23.150Z</updated>
+        <updated>2025-07-17T07:36:02.204Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/latroit-gabrielle-feat-nick-clow/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Budos Band: ‘Lair of 1,000 Serpents’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents"/>
-        <updated>2025-07-17T06:50:23.153Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents" itemprop="url">
-                <div class="photo">
-                  <img alt="The Budos Band have returned with VII, their first new album since 2020’s Long In The Tooth." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">The Budos Band: ‘Lair of 1,000 Serpents’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">The Budos Band have returned with VII, their first new album since 2020’s Long In The Tooth.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-07T07:00:00Z">Jul. 7</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/the-budos-band-lair-of-1-000-serpents/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">2 min</span>
                   </button>
                 </div>
               </div>]]></content>
