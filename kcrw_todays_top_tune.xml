@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-22T06:50:55.885Z</updated>
+    <updated>2025-07-22T07:38:51.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Funkadelic: ‘I Bet You’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you"/>
+        <updated>2025-07-22T07:38:41.632Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you" itemprop="url">
+                <div class="photo">
+                  <img alt="Today we celebrate the long-awaited vinyl reissue of Funkadelic ’s 1970 debut." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Funkadelic: ‘I Bet You’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Today we celebrate the long-awaited vinyl reissue of Funkadelic ’s 1970 debut.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-22T07:00:00Z">Jul. 22</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">6 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disinblud: ‘Give-Upping’ (feat. Julianna Barwick)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick"/>
-        <updated>2025-07-22T06:50:45.085Z</updated>
+        <updated>2025-07-22T07:38:41.634Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Leroi Conroy: ‘Panthera Cry’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/leroi-conroy-panthera-cry</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/leroi-conroy-panthera-cry"/>
-        <updated>2025-07-22T06:50:45.092Z</updated>
+        <updated>2025-07-22T07:38:41.640Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/leroi-conroy-panthera-cry" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Marissa Nadler: ‘New Radiations’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations"/>
-        <updated>2025-07-22T06:50:45.093Z</updated>
+        <updated>2025-07-22T07:38:41.641Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[54 Ultra: ‘No Tengo Valor’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor"/>
-        <updated>2025-07-22T06:50:45.094Z</updated>
+        <updated>2025-07-22T07:38:41.643Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Other Lives: ‘Mystic’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic"/>
-        <updated>2025-07-22T06:50:45.096Z</updated>
+        <updated>2025-07-22T07:38:41.645Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/other-lives-mystic" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Juan Wauters: ‘Manejando Por Pando’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando"/>
-        <updated>2025-07-22T06:50:45.098Z</updated>
+        <updated>2025-07-22T07:38:41.659Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juan-wauters-manejando-por-pando" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Wet Leg: ‘catch these fists’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists"/>
-        <updated>2025-07-22T06:50:45.099Z</updated>
+        <updated>2025-07-22T07:38:41.661Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/wet-leg-catch-these-fists/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ty Segall: 'Possession’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession"/>
-        <updated>2025-07-22T06:50:45.101Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession" itemprop="url">
-                <div class="photo">
-                  <img alt="Ty Segall’s sixteenth(!) album Possession finds the LA-based artist highlighting American stories, and letting his guitar and voice lead the way." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Ty Segall: 'Possession’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Ty Segall’s sixteenth(!) album Possession finds the LA-based artist highlighting American stories, and letting his guitar and voice lead the way.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-10T07:00:00Z">Jul. 10</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ty-segall-possession/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
