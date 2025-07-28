@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-28T06:53:30.881Z</updated>
+    <updated>2025-07-28T07:41:24.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tom Vek: ‘C-C (You Set The Fire In Me) (Dave Glass Animals Remix)’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix"/>
+        <updated>2025-07-28T07:41:14.870Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix" itemprop="url">
+                <div class="photo">
+                  <img alt="Multi-instrumentalist Tom Vek celebrates the twentieth anniversary of his cult-classic, debut album We Have Sound with a ten track remix version." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Tom Vek: ‘C-C (You Set The Fire In Me) (Dave Glass Animals Remix)’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Multi-instrumentalist Tom Vek celebrates the twentieth anniversary of his cult-classic, debut album We Have Sound with a ten track remix version.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-28T07:00:00Z">Jul. 28</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sly & The Family Stone: ‘I Gotta Go Now (Up On The Floor) / Funky Broadway’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway"/>
-        <updated>2025-07-28T06:53:18.862Z</updated>
+        <updated>2025-07-28T07:41:14.873Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[The Beths: ‘Metal’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal"/>
-        <updated>2025-07-28T06:53:18.864Z</updated>
+        <updated>2025-07-28T07:41:14.878Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[ELESTELA: ‘Bounce Back’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back"/>
-        <updated>2025-07-28T06:53:18.866Z</updated>
+        <updated>2025-07-28T07:41:14.880Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Funkadelic: ‘I Bet You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you"/>
-        <updated>2025-07-28T06:53:18.867Z</updated>
+        <updated>2025-07-28T07:41:14.882Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Disinblud: ‘Give-Upping’ (feat. Julianna Barwick)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick"/>
-        <updated>2025-07-28T06:53:18.870Z</updated>
+        <updated>2025-07-28T07:41:14.884Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Leroi Conroy: ‘Panthera Cry’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/leroi-conroy-panthera-cry</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/leroi-conroy-panthera-cry"/>
-        <updated>2025-07-28T06:53:18.872Z</updated>
+        <updated>2025-07-28T07:41:14.888Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/leroi-conroy-panthera-cry" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Marissa Nadler: ‘New Radiations’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations"/>
-        <updated>2025-07-28T06:53:18.873Z</updated>
+        <updated>2025-07-28T07:41:14.889Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/marissa-nadler-new-radiations/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">5 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[54 Ultra: ‘No Tengo Valor’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor"/>
-        <updated>2025-07-28T06:53:18.875Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor" itemprop="url">
-                <div class="photo">
-                  <img alt="New Jersey-based synth-rock-soul purveyor 54 Ultra slays us with First Work, a six-track EP that contains the Spanglish single “No Tengo Valor.”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">54 Ultra: ‘No Tengo Valor’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">New Jersey-based synth-rock-soul purveyor 54 Ultra slays us with First Work, a six-track EP that contains the Spanglish single “No Tengo Valor.”</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-16T07:00:00Z">Jul. 16</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/54-ultra-no-tengo-valor/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
