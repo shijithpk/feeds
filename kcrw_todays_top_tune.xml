@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-07-31T06:52:33.564Z</updated>
+    <updated>2025-07-31T07:39:37.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Fruit Bats: ‘Stuck In My Head Again’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again"/>
+        <updated>2025-07-31T07:38:28.179Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again" itemprop="url">
+                <div class="photo">
+                  <img alt="We are so happy to report that 2000s indie rock darlings Fruit Bats have a new album on the horizon. Baby Man (due Sept. 12 via Merge) finds Fruit Bats’ main man Eric D." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Fruit Bats: ‘Stuck In My Head Again’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">We are so happy to report that 2000s indie rock darlings Fruit Bats have a new album on the horizon. Baby Man (due Sept. 12 via Merge) finds Fruit Bats’ main man Eric D.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-31T07:00:00Z">Jul. 31</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">2 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sofia Kourtesis: ‘Canela Pura’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura"/>
-        <updated>2025-07-31T06:52:21.614Z</updated>
+        <updated>2025-07-31T07:38:28.181Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Slightly Stoopid: ‘Step Into The Sun’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun"/>
-        <updated>2025-07-31T06:52:21.617Z</updated>
+        <updated>2025-07-31T07:38:28.183Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Tom Vek: ‘C-C (You Set The Fire In Me) (Dave Glass Animals Remix)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix"/>
-        <updated>2025-07-31T06:52:21.621Z</updated>
+        <updated>2025-07-31T07:38:28.185Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Sly & The Family Stone: ‘I Gotta Go Now (Up On The Floor) / Funky Broadway’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway"/>
-        <updated>2025-07-31T06:52:21.621Z</updated>
+        <updated>2025-07-31T07:38:28.189Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[The Beths: ‘Metal’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal"/>
-        <updated>2025-07-31T06:52:21.625Z</updated>
+        <updated>2025-07-31T07:38:28.191Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[ELESTELA: ‘Bounce Back’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back"/>
-        <updated>2025-07-31T06:52:21.626Z</updated>
+        <updated>2025-07-31T07:38:28.192Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Funkadelic: ‘I Bet You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you"/>
-        <updated>2025-07-31T06:52:21.628Z</updated>
+        <updated>2025-07-31T07:38:28.194Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">6 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disinblud: ‘Give-Upping’ (feat. Julianna Barwick)]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick"/>
-        <updated>2025-07-31T06:52:21.632Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick" itemprop="url">
-                <div class="photo">
-                  <img alt="Composers and multi-instrumentalists Rachika Nayar &amp; Nina Keith are combining their powers as Disinblud ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Disinblud: ‘Give-Upping’ (feat. Julianna Barwick)</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Composers and multi-instrumentalists Rachika Nayar &amp; Nina Keith are combining their powers as Disinblud .</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-21T07:00:00Z">Jul. 21</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/disinblud-give-upping-feat-julianna-barwick/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
