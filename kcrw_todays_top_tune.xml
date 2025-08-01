@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-01T05:04:39.799Z</updated>
+    <updated>2025-08-01T05:50:30.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[Fruit Bats: ‘Stuck In My Head Again’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again"/>
-        <updated>2025-08-01T05:04:30.197Z</updated>
+        <updated>2025-08-01T05:50:20.580Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="1">
               
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Sofia Kourtesis: ‘Canela Pura’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura"/>
-        <updated>2025-08-01T05:04:30.198Z</updated>
+        <updated>2025-08-01T05:50:20.581Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="2">
               
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[Slightly Stoopid: ‘Step Into The Sun’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun"/>
-        <updated>2025-08-01T05:04:30.202Z</updated>
+        <updated>2025-08-01T05:50:20.583Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="3">
               
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[Tom Vek: ‘C-C (You Set The Fire In Me) (Dave Glass Animals Remix)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix"/>
-        <updated>2025-08-01T05:04:30.204Z</updated>
+        <updated>2025-08-01T05:50:20.584Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="4">
               
@@ -149,7 +149,7 @@
         <title type="html"><![CDATA[Sly & The Family Stone: ‘I Gotta Go Now (Up On The Floor) / Funky Broadway’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway"/>
-        <updated>2025-08-01T05:04:30.205Z</updated>
+        <updated>2025-08-01T05:50:20.586Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="5">
               
@@ -184,7 +184,7 @@
         <title type="html"><![CDATA[The Beths: ‘Metal’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal"/>
-        <updated>2025-08-01T05:04:30.208Z</updated>
+        <updated>2025-08-01T05:50:20.588Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="6">
               
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[ELESTELA: ‘Bounce Back’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back"/>
-        <updated>2025-08-01T05:04:30.209Z</updated>
+        <updated>2025-08-01T05:50:20.589Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="7">
               
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[Funkadelic: ‘I Bet You’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/funkadelic-i-bet-you"/>
-        <updated>2025-08-01T05:04:30.211Z</updated>
+        <updated>2025-08-01T05:50:20.591Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="8">
               
