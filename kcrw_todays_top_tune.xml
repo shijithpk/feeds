@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-04T06:58:48.398Z</updated>
+    <updated>2025-08-04T07:44:34.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Rochelle Jordan: ‘Through The Wall’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall"/>
+        <updated>2025-08-04T07:44:25.002Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall" itemprop="url">
+                <div class="photo">
+                  <img alt="You likely know British-Canadian R&amp;B artist Rochelle Jordan from “ Spit It Out ,” her recent collaboration with her friend Kaytranada." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Rochelle Jordan: ‘Through The Wall’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">You likely know British-Canadian R&amp;B artist Rochelle Jordan from “ Spit It Out ,” her recent collaboration with her friend Kaytranada.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-04T07:00:00Z">Aug. 4</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neko Case: ‘Wreck’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck"/>
-        <updated>2025-08-04T06:58:37.599Z</updated>
+        <updated>2025-08-04T07:44:25.004Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Fruit Bats: ‘Stuck In My Head Again’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again"/>
-        <updated>2025-08-04T06:58:37.601Z</updated>
+        <updated>2025-08-04T07:44:25.015Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Sofia Kourtesis: ‘Canela Pura’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura"/>
-        <updated>2025-08-04T06:58:37.603Z</updated>
+        <updated>2025-08-04T07:44:25.016Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Slightly Stoopid: ‘Step Into The Sun’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun"/>
-        <updated>2025-08-04T06:58:37.604Z</updated>
+        <updated>2025-08-04T07:44:25.018Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/slightly-stoopid-step-into-the-sun" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Tom Vek: ‘C-C (You Set The Fire In Me) (Dave Glass Animals Remix)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix"/>
-        <updated>2025-08-04T06:58:37.605Z</updated>
+        <updated>2025-08-04T07:44:25.019Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/tom-vek-c-c-you-set-the-fire-in-me-dave-glass-animals-remix" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Sly & The Family Stone: ‘I Gotta Go Now (Up On The Floor) / Funky Broadway’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway"/>
-        <updated>2025-08-04T06:58:37.607Z</updated>
+        <updated>2025-08-04T07:44:25.021Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sly-the-family-stone-i-gotta-go-now-up-on-the-floor-funky-broadway" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[The Beths: ‘Metal’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal"/>
-        <updated>2025-08-04T06:58:37.608Z</updated>
+        <updated>2025-08-04T07:44:25.022Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/the-beths-metal/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">5 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELESTELA: ‘Bounce Back’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back"/>
-        <updated>2025-08-04T06:58:37.611Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back" itemprop="url">
-                <div class="photo">
-                  <img alt="Elvin Estela is a hero of the LA underground. Most notably as a co-founder of the taste-making club night Low End Theory, and producing boundary-expanding beats as Nobody." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">ELESTELA: ‘Bounce Back’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Elvin Estela is a hero of the LA underground. Most notably as a co-founder of the taste-making club night Low End Theory, and producing boundary-expanding beats as Nobody.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-23T07:00:00Z">Jul. 23</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/elestela-bounce-back/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
