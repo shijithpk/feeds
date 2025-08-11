@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-11T06:52:26.255Z</updated>
+    <updated>2025-08-11T07:40:09.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Yttling Jazz: ‘Illegal Hit” (feat. Joshua Idehen) (Edit)]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit"/>
+        <updated>2025-08-11T07:39:58.526Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit" itemprop="url">
+                <div class="photo">
+                  <img alt="Yttling Jazz is the heavy-hitting project of Swedish producer and songwriter Björn Yttling ( Peter Bjorn &amp; John )." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Yttling Jazz: ‘Illegal Hit” (feat. Joshua Idehen) (Edit)</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Yttling Jazz is the heavy-hitting project of Swedish producer and songwriter Björn Yttling ( Peter Bjorn &amp; John ).</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-11T07:00:00Z">Aug. 11</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RAKEL: ‘rescue remedy’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy"/>
-        <updated>2025-08-11T06:52:15.427Z</updated>
+        <updated>2025-08-11T07:39:58.528Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Desert Friends: ‘Sonora’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora"/>
-        <updated>2025-08-11T06:52:15.428Z</updated>
+        <updated>2025-08-11T07:39:58.529Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Arc De Soleil: ‘Bina Tifa’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa"/>
-        <updated>2025-08-11T06:52:15.430Z</updated>
+        <updated>2025-08-11T07:39:58.531Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Thee Marloes: ‘I’d Be Lost’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/thee-marloes-id-be-lost</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/thee-marloes-id-be-lost"/>
-        <updated>2025-08-11T06:52:15.431Z</updated>
+        <updated>2025-08-11T07:39:58.532Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/thee-marloes-id-be-lost" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Rochelle Jordan: ‘Through The Wall’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall"/>
-        <updated>2025-08-11T06:52:15.432Z</updated>
+        <updated>2025-08-11T07:39:58.535Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Neko Case: ‘Wreck’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck"/>
-        <updated>2025-08-11T06:52:15.434Z</updated>
+        <updated>2025-08-11T07:39:58.539Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Fruit Bats: ‘Stuck In My Head Again’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again"/>
-        <updated>2025-08-11T06:52:15.435Z</updated>
+        <updated>2025-08-11T07:39:58.540Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">2 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sofia Kourtesis: ‘Canela Pura’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura"/>
-        <updated>2025-08-11T06:52:15.437Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura" itemprop="url">
-                <div class="photo">
-                  <img alt="Peruvian producer Sofia Kourtesis hits us with a shot of sonic adrenaline (aka new single “Canela Pura”)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Sofia Kourtesis: ‘Canela Pura’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Peruvian producer Sofia Kourtesis hits us with a shot of sonic adrenaline (aka new single “Canela Pura”).</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-30T07:00:00Z">Jul. 30</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/sofia-kourtesis-canela-pura/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
