@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-12T06:48:15.506Z</updated>
+    <updated>2025-08-12T07:34:27.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[múm: ‘Mild At Heart’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart"/>
+        <updated>2025-08-12T07:34:16.619Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart" itemprop="url">
+                <div class="photo">
+                  <img alt="History of Silence (due Sept. 19) is the first new album from Icelandic outfit múm since 2013’s Smilewood." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">múm: ‘Mild At Heart’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">History of Silence (due Sept. 19) is the first new album from Icelandic outfit múm since 2013’s Smilewood.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-12T07:00:00Z">Aug. 12</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yttling Jazz: ‘Illegal Hit” (feat. Joshua Idehen) (Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit"/>
-        <updated>2025-08-12T06:48:05.151Z</updated>
+        <updated>2025-08-12T07:34:16.621Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[RAKEL: ‘rescue remedy’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy"/>
-        <updated>2025-08-12T06:48:05.153Z</updated>
+        <updated>2025-08-12T07:34:16.622Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Desert Friends: ‘Sonora’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora"/>
-        <updated>2025-08-12T06:48:05.155Z</updated>
+        <updated>2025-08-12T07:34:16.624Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Arc De Soleil: ‘Bina Tifa’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa"/>
-        <updated>2025-08-12T06:48:05.156Z</updated>
+        <updated>2025-08-12T07:34:16.626Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Thee Marloes: ‘I’d Be Lost’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/thee-marloes-id-be-lost</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/thee-marloes-id-be-lost"/>
-        <updated>2025-08-12T06:48:05.158Z</updated>
+        <updated>2025-08-12T07:34:16.627Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/thee-marloes-id-be-lost" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Rochelle Jordan: ‘Through The Wall’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall"/>
-        <updated>2025-08-12T06:48:05.162Z</updated>
+        <updated>2025-08-12T07:34:16.629Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rochelle-jordan-through-the-wall" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Neko Case: ‘Wreck’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck"/>
-        <updated>2025-08-12T06:48:05.163Z</updated>
+        <updated>2025-08-12T07:34:16.631Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/neko-case-wreck/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fruit Bats: ‘Stuck In My Head Again’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again"/>
-        <updated>2025-08-12T06:48:05.165Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again" itemprop="url">
-                <div class="photo">
-                  <img alt="We are so happy to report that 2000s indie rock darlings Fruit Bats have a new album on the horizon. Baby Man (due Sept. 12 via Merge) finds Fruit Bats’ main man Eric D." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Fruit Bats: ‘Stuck In My Head Again’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">We are so happy to report that 2000s indie rock darlings Fruit Bats have a new album on the horizon. Baby Man (due Sept. 12 via Merge) finds Fruit Bats’ main man Eric D.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-07-31T07:00:00Z">Jul. 31</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/fruit-bats-stuck-in-my-head-again/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">2 min</span>
                   </button>
                 </div>
               </div>]]></content>
