@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.radiox.co.uk/radio/playlist/</id>
     <title>RadioX UK</title>
-    <updated>2025-08-15T17:34:34.151Z</updated>
+    <updated>2025-08-15T17:55:06.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.radiox.co.uk/assets_v4r/xfm/img/favicon-16x16.png</icon>
     <entry>
         <title type="html"><![CDATA[A Little Love Biffy Clyro]]></title>
         <id>https://music.apple.com/gb/album/a-little-love/1816912283?i=1816912291&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/a-little-love/1816912283?i=1816912291&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.427Z</updated>
+        <updated>2025-08-15T17:55:05.355Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -43,10 +43,47 @@
             </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hunting Season Biffy Clyro]]></title>
+        <id>https://music.apple.com/gb/album/hunting-season/1822507753?i=1822507757&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/hunting-season/1822507753?i=1822507757&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.356Z</updated>
+        <content type="html"><![CDATA[<h3>
+                
+
+                
+                    <span itemprop="name" class="track">
+                
+
+                Hunting Season
+
+                
+                    </span>
+                
+
+                <span itemprop="byArtist" class="artist">
+                    
+    
+        <a class="first" href="/artists/biffy-clyro/">Biffy Clyro</a>
+    
+
+
+                </span>
+            </h3>
+
+            <div class="apple_music">
+                
+                
+                    <div class="apple_music_wrapper">
+                        <a href="https://music.apple.com/gb/album/hunting-season/1822507753?i=1822507757&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Hunting Season' on iTunes</a>
+                    </div>
+                
+            </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Honeymoon Blossoms]]></title>
         <id>https://music.apple.com/gb/album/the-honeymoon/1800718524?i=1800718529&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/the-honeymoon/1800718524?i=1800718529&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.430Z</updated>
+        <updated>2025-08-15T17:55:05.357Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -83,7 +120,7 @@
         <title type="html"><![CDATA[Poison Vine Cast]]></title>
         <id>https://music.apple.com/gb/album/poison-vine-feat-p-p-arnold/1822251567?i=1822251998&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/poison-vine-feat-p-p-arnold/1822251567?i=1822251998&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.432Z</updated>
+        <updated>2025-08-15T17:55:05.358Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -117,47 +154,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Today's Song Foo Fighters]]></title>
-        <id>https://music.apple.com/gb/album/todays-song/1823739977?i=1823739979&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/todays-song/1823739977?i=1823739979&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.435Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Today's Song
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-        <a class="first" href="/artists/foo-fighters/">Foo Fighters</a>
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/todays-song/1823739977?i=1823739979&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Today's Song' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build It Up Franz Ferdinand feat. Johnny Marr]]></title>
         <id>https://music.apple.com/gb/album/build-it-up-feat-johnny-marr/1819054145?i=1819054146&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/build-it-up-feat-johnny-marr/1819054145?i=1819054146&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.440Z</updated>
+        <updated>2025-08-15T17:55:05.365Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -191,10 +191,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caroline Mumford & Sons]]></title>
-        <id>https://music.apple.com/gb/album/caroline/1785246841?i=1785246844&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/caroline/1785246841?i=1785246844&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.441Z</updated>
+        <title type="html"><![CDATA[Never Said Goodbye Jake Bugg]]></title>
+        <id>https://music.apple.com/gb/album/never-said-goodbye/1746784296?i=1746784564&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/never-said-goodbye/1746784296?i=1746784564&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.367Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -202,7 +202,7 @@
                     <span itemprop="name" class="track">
                 
 
-                Caroline
+                Never Said Goodbye
 
                 
                     </span>
@@ -211,7 +211,7 @@
                 <span itemprop="byArtist" class="artist">
                     
     
-           Mumford &amp; Sons
+        <a class="first" href="/artists/jake-bugg/">Jake Bugg</a>
     
 
 
@@ -222,44 +222,7 @@
                 
                 
                     <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/caroline/1785246841?i=1785246844&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Caroline' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spike Island Pulp]]></title>
-        <id>https://music.apple.com/gb/album/spike-island/1801988655?i=1801988656&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/spike-island/1801988655?i=1801988656&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.442Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Spike Island
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-        <a class="first" href="/artists/pulp/">Pulp</a>
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/spike-island/1801988655?i=1801988656&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Spike Island' on iTunes</a>
+                        <a href="https://music.apple.com/gb/album/never-said-goodbye/1746784296?i=1746784564&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Never Said Goodbye' on iTunes</a>
                     </div>
                 
             </div>]]></content>
@@ -268,7 +231,7 @@
         <title type="html"><![CDATA[Got To Have Love Pulp]]></title>
         <id>https://music.apple.com/gb/album/got-to-have-love/1811977986?i=1811977988&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/got-to-have-love/1811977986?i=1811977988&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.445Z</updated>
+        <updated>2025-08-15T17:55:05.368Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -302,10 +265,47 @@
             </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Spike Island Pulp]]></title>
+        <id>https://music.apple.com/gb/album/spike-island/1801988655?i=1801988656&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/spike-island/1801988655?i=1801988656&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.370Z</updated>
+        <content type="html"><![CDATA[<h3>
+                
+
+                
+                    <span itemprop="name" class="track">
+                
+
+                Spike Island
+
+                
+                    </span>
+                
+
+                <span itemprop="byArtist" class="artist">
+                    
+    
+        <a class="first" href="/artists/pulp/">Pulp</a>
+    
+
+
+                </span>
+            </h3>
+
+            <div class="apple_music">
+                
+                
+                    <div class="apple_music_wrapper">
+                        <a href="https://music.apple.com/gb/album/spike-island/1801988655?i=1801988656&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Spike Island' on iTunes</a>
+                    </div>
+                
+            </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rein Me In Sam Fender & Olivia Dean]]></title>
         <id>https://music.apple.com/gb/album/rein-me-in/1820918843?i=1820918844&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/rein-me-in/1820918843?i=1820918844&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.457Z</updated>
+        <updated>2025-08-15T17:55:05.371Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -342,7 +342,7 @@
         <title type="html"><![CDATA[Undressed Sombr]]></title>
         <id>https://music.apple.com/gb/album/undressed/1802084937?i=1802084938&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/undressed/1802084937?i=1802084938&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.459Z</updated>
+        <updated>2025-08-15T17:55:05.372Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -379,7 +379,7 @@
         <title type="html"><![CDATA[Dancing With The Europeans Suede]]></title>
         <id>https://music.apple.com/gb/album/dancing-with-the-europeans/1824481168?i=1824481292&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/dancing-with-the-europeans/1824481168?i=1824481292&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.460Z</updated>
+        <updated>2025-08-15T17:55:05.376Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -416,7 +416,7 @@
         <title type="html"><![CDATA[Catch These Fists Wet Leg]]></title>
         <id>https://music.apple.com/gb/album/catch-these-fists/1802918329?i=1802918484&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/catch-these-fists/1802918329?i=1802918484&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.462Z</updated>
+        <updated>2025-08-15T17:55:05.377Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -453,7 +453,7 @@
         <title type="html"><![CDATA[The Sofa Wolf Alice]]></title>
         <id>https://music.apple.com/gb/album/the-sofa/1812904249?i=1812905184&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/the-sofa/1812904249?i=1812905184&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.463Z</updated>
+        <updated>2025-08-15T17:55:05.378Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -490,7 +490,7 @@
         <title type="html"><![CDATA[This Part Of Town Better Joy]]></title>
         <id>https://music.apple.com/gb/album/this-part-of-town/1821429915?i=1821429918&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/this-part-of-town/1821429915?i=1821429918&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.465Z</updated>
+        <updated>2025-08-15T17:55:05.380Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -524,10 +524,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Money Big Fear]]></title>
-        <id>https://music.apple.com/gb/album/money/1813233579?i=1813233581&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/money/1813233579?i=1813233581&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.466Z</updated>
+        <title type="html"><![CDATA[Harriet Chloe Slater]]></title>
+        <id>https://music.apple.com/gb/album/harriet/1826857878?i=1826857884&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/harriet/1826857878?i=1826857884&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.381Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -535,7 +535,7 @@
                     <span itemprop="name" class="track">
                 
 
-                Money
+                Harriet
 
                 
                     </span>
@@ -544,7 +544,7 @@
                 <span itemprop="byArtist" class="artist">
                     
     
-           Big Fear
+           Chloe Slater
     
 
 
@@ -555,81 +555,7 @@
                 
                 
                     <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/money/1813233579?i=1813233581&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Money' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shallow Black Honey]]></title>
-        <id>https://music.apple.com/gb/album/shallow/1807094034?i=1807094059&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/shallow/1807094034?i=1807094059&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.471Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Shallow
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-           Black Honey
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/shallow/1807094034?i=1807094059&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Shallow' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday Paper Club Brògeal]]></title>
-        <id>https://music.apple.com/gb/album/tuesday-paper-club/1822337446?i=1822337450&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/tuesday-paper-club/1822337446?i=1822337450&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.473Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Tuesday Paper Club
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-           Brògeal
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/tuesday-paper-club/1822337446?i=1822337450&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Tuesday Paper Club' on iTunes</a>
+                        <a href="https://music.apple.com/gb/album/harriet/1826857878?i=1826857884&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Harriet' on iTunes</a>
                     </div>
                 
             </div>]]></content>
@@ -638,7 +564,7 @@
         <title type="html"><![CDATA[Movies Crystal Tides]]></title>
         <id>https://music.apple.com/gb/album/movies/1822519763?i=1822519764&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/movies/1822519763?i=1822519764&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.474Z</updated>
+        <updated>2025-08-15T17:55:05.383Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -672,10 +598,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Mind Is A Mountain Deftones]]></title>
-        <id>https://music.apple.com/gb/album/my-mind-is-a-mountain/1825435148?i=1825435149&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/my-mind-is-a-mountain/1825435148?i=1825435149&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.476Z</updated>
+        <title type="html"><![CDATA[Forever Money Emily Breeze]]></title>
+        <id>https://music.apple.com/gb/album/forever-money/1833272065?i=1833272066&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/forever-money/1833272065?i=1833272066&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.384Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -683,7 +609,7 @@
                     <span itemprop="name" class="track">
                 
 
-                My Mind Is A Mountain
+                Forever Money
 
                 
                     </span>
@@ -692,7 +618,7 @@
                 <span itemprop="byArtist" class="artist">
                     
     
-           Deftones
+           Emily Breeze
     
 
 
@@ -703,7 +629,7 @@
                 
                 
                     <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/my-mind-is-a-mountain/1825435148?i=1825435149&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'My Mind Is A Mountain' on iTunes</a>
+                        <a href="https://music.apple.com/gb/album/forever-money/1833272065?i=1833272066&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Forever Money' on iTunes</a>
                     </div>
                 
             </div>]]></content>
@@ -712,7 +638,7 @@
         <title type="html"><![CDATA[Seascape Eugene McGuinness]]></title>
         <id>https://music.apple.com/gb/album/seascape/1822997214?i=1822997222&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/seascape/1822997214?i=1822997222&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.477Z</updated>
+        <updated>2025-08-15T17:55:05.385Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -749,7 +675,7 @@
         <title type="html"><![CDATA[Joy Floodlights]]></title>
         <id>https://music.apple.com/gb/album/joy/1776023343?i=1776023661&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/joy/1776023343?i=1776023661&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.479Z</updated>
+        <updated>2025-08-15T17:55:05.387Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -790,7 +716,7 @@
            ft Aimee Mann]]></title>
         <id>https://music.apple.com/gb/album/alabaster/1805932592?i=1805932595&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/alabaster/1805932592?i=1805932595&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.480Z</updated>
+        <updated>2025-08-15T17:55:05.389Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -828,10 +754,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devotion Hot Chip]]></title>
-        <id>https://music.apple.com/gb/album/devotion/1823651033?i=1823651041&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/devotion/1823651033?i=1823651041&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.482Z</updated>
+        <title type="html"><![CDATA[Morning Coffee Hungry]]></title>
+        <id>https://music.apple.com/gb/album/morning-coffee/1819050495?i=1819050501&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/morning-coffee/1819050495?i=1819050501&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.390Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -839,7 +765,7 @@
                     <span itemprop="name" class="track">
                 
 
-                Devotion
+                Morning Coffee
 
                 
                     </span>
@@ -848,7 +774,7 @@
                 <span itemprop="byArtist" class="artist">
                     
     
-           Hot Chip
+           Hungry
     
 
 
@@ -859,7 +785,118 @@
                 
                 
                     <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/devotion/1823651033?i=1823651041&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Devotion' on iTunes</a>
+                        <a href="https://music.apple.com/gb/album/morning-coffee/1819050495?i=1819050501&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Morning Coffee' on iTunes</a>
+                    </div>
+                
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Good For People Jehnny Beth]]></title>
+        <id>https://music.apple.com/gb/album/no-good-for-people/1811415211?i=1811415238&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/no-good-for-people/1811415211?i=1811415238&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.392Z</updated>
+        <content type="html"><![CDATA[<h3>
+                
+
+                
+                    <span itemprop="name" class="track">
+                
+
+                No Good For People
+
+                
+                    </span>
+                
+
+                <span itemprop="byArtist" class="artist">
+                    
+    
+           Jehnny Beth
+    
+
+
+                </span>
+            </h3>
+
+            <div class="apple_music">
+                
+                
+                    <div class="apple_music_wrapper">
+                        <a href="https://music.apple.com/gb/album/no-good-for-people/1811415211?i=1811415238&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'No Good For People' on iTunes</a>
+                    </div>
+                
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did You Hear About Charlie? Louis Dunford]]></title>
+        <id>https://music.apple.com/gb/album/did-you-hear-about-charlie/1831482783?i=1831482786&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/did-you-hear-about-charlie/1831482783?i=1831482786&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.393Z</updated>
+        <content type="html"><![CDATA[<h3>
+                
+
+                
+                    <span itemprop="name" class="track">
+                
+
+                Did You Hear About Charlie?
+
+                
+                    </span>
+                
+
+                <span itemprop="byArtist" class="artist">
+                    
+    
+           Louis Dunford
+    
+
+
+                </span>
+            </h3>
+
+            <div class="apple_music">
+                
+                
+                    <div class="apple_music_wrapper">
+                        <a href="https://music.apple.com/gb/album/did-you-hear-about-charlie/1831482783?i=1831482786&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Did You Hear About Charlie?' on iTunes</a>
+                    </div>
+                
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harley Master Peace]]></title>
+        <id>https://music.apple.com/gb/album/harley/1823235749?i=1823235895&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
+        <link href="https://music.apple.com/gb/album/harley/1823235749?i=1823235895&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
+        <updated>2025-08-15T17:55:05.394Z</updated>
+        <content type="html"><![CDATA[<h3>
+                
+
+                
+                    <span itemprop="name" class="track">
+                
+
+                Harley
+
+                
+                    </span>
+                
+
+                <span itemprop="byArtist" class="artist">
+                    
+    
+           Master Peace
+    
+
+
+                </span>
+            </h3>
+
+            <div class="apple_music">
+                
+                
+                    <div class="apple_music_wrapper">
+                        <a href="https://music.apple.com/gb/album/harley/1823235749?i=1823235895&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Harley' on iTunes</a>
                     </div>
                 
             </div>]]></content>
@@ -868,7 +905,7 @@
         <title type="html"><![CDATA[Talk About It Picture Parlour]]></title>
         <id>https://music.apple.com/gb/album/talk-about-it/1824576555?i=1824576557&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/talk-about-it/1824576555?i=1824576557&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.484Z</updated>
+        <updated>2025-08-15T17:55:05.396Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -905,7 +942,7 @@
         <title type="html"><![CDATA[Guilt Trip The Reytons]]></title>
         <id>https://music.apple.com/gb/album/guilt-trip/1826111055?i=1826111056&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/guilt-trip/1826111055?i=1826111056&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.485Z</updated>
+        <updated>2025-08-15T17:55:05.397Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -939,84 +976,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wide Awake Rocket]]></title>
-        <id>https://music.apple.com/gb/album/wide-awake/1817135193?i=1817135563&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/wide-awake/1817135193?i=1817135563&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.497Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Wide Awake
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-           Rocket
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/wide-awake/1817135193?i=1817135563&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Wide Awake' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Over Yourself Rosellas]]></title>
-        <id>https://music.apple.com/gb/album/get-over-yourself/1820832602?i=1820832603&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/get-over-yourself/1820832602?i=1820832603&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.504Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Get Over Yourself
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-           Rosellas
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/get-over-yourself/1820832602?i=1820832603&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Get Over Yourself' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exhale Skullcrusher]]></title>
         <id>https://music.apple.com/gb/album/exhale/1800019489?i=1800019985&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/exhale/1800019489?i=1800019985&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.505Z</updated>
+        <updated>2025-08-15T17:55:05.402Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1050,84 +1013,10 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Push Tuck Sleaze]]></title>
-        <id>https://music.apple.com/gb/album/push-tuck/1821849673?i=1821849676&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/push-tuck/1821849673?i=1821849676&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.507Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Push Tuck
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-           Sleaze
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/push-tuck/1821849673?i=1821849676&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Push Tuck' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over & Over Vona Vella]]></title>
-        <id>https://music.apple.com/gb/album/over-and-over/1821886331?i=1821886517&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
-        <link href="https://music.apple.com/gb/album/over-and-over/1821886331?i=1821886517&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.509Z</updated>
-        <content type="html"><![CDATA[<h3>
-                
-
-                
-                    <span itemprop="name" class="track">
-                
-
-                Over &amp; Over
-
-                
-                    </span>
-                
-
-                <span itemprop="byArtist" class="artist">
-                    
-    
-           Vona Vella
-    
-
-
-                </span>
-            </h3>
-
-            <div class="apple_music">
-                
-                
-                    <div class="apple_music_wrapper">
-                        <a href="https://music.apple.com/gb/album/over-and-over/1821886331?i=1821886517&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous" class="apple_music_badge" target="_blank">Download 'Over &amp; Over' on iTunes</a>
-                    </div>
-                
-            </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In The Middle White Lies]]></title>
         <id>https://music.apple.com/gb/album/in-the-middle/1823235309?i=1823235427&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/in-the-middle/1823235309?i=1823235427&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2025-08-15T17:34:33.514Z</updated>
+        <updated>2025-08-15T17:55:05.404Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
