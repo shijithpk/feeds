@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-18T06:52:12.577Z</updated>
+    <updated>2025-08-18T07:37:41.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Grant-Lee Phillips: ‘She Knows Me’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me"/>
+        <updated>2025-08-18T07:37:30.854Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me" itemprop="url">
+                <div class="photo">
+                  <img alt="Iconic troubadour Grant-Lee Phillips —best known for his songwriting achievements with 1990s band Grant Lee Buffalo—is just weeks away from dropping his 12th solo LP In The Hour of…" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Grant-Lee Phillips: ‘She Knows Me’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Iconic troubadour Grant-Lee Phillips —best known for his songwriting achievements with 1990s band Grant Lee Buffalo—is just weeks away from dropping his 12th solo LP In The Hour of…</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-18T07:00:00Z">Aug. 18</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hermanos Gutiérrez: ‘Elegantly Wasted (feat. Leon Bridges)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges"/>
-        <updated>2025-08-18T06:52:01.692Z</updated>
+        <updated>2025-08-18T07:37:30.854Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Rebounder + Sofie Royer: 'Tennis Bracelet’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet"/>
-        <updated>2025-08-18T06:52:01.695Z</updated>
+        <updated>2025-08-18T07:37:30.856Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Yola: ‘Amazing’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing"/>
-        <updated>2025-08-18T06:52:01.698Z</updated>
+        <updated>2025-08-18T07:37:30.858Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[múm: ‘Mild At Heart’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart"/>
-        <updated>2025-08-18T06:52:01.699Z</updated>
+        <updated>2025-08-18T07:37:30.859Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Yttling Jazz: ‘Illegal Hit” (feat. Joshua Idehen) (Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit"/>
-        <updated>2025-08-18T06:52:01.700Z</updated>
+        <updated>2025-08-18T07:37:30.860Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yttling-jazz-illegal-hit-feat-joshua-idehen-edit" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[RAKEL: ‘rescue remedy’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy"/>
-        <updated>2025-08-18T06:52:01.702Z</updated>
+        <updated>2025-08-18T07:37:30.863Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rakel-rescue-remedy" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Desert Friends: ‘Sonora’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora"/>
-        <updated>2025-08-18T06:52:01.703Z</updated>
+        <updated>2025-08-18T07:37:30.864Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/desert-friends-sonora/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arc De Soleil: ‘Bina Tifa’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa"/>
-        <updated>2025-08-18T06:52:01.705Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa" itemprop="url">
-                <div class="photo">
-                  <img alt="Arc De Soleil will put you in a trance with his swirling, cinematic sounds." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Arc De Soleil: ‘Bina Tifa’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Arc De Soleil will put you in a trance with his swirling, cinematic sounds.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-06T07:00:00Z">Aug. 6</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/arc-de-soleil-bina-tifa/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
                   </button>
