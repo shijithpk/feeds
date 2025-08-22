@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-22T06:46:54.859Z</updated>
+    <updated>2025-08-22T07:31:18.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ozomatli: ‘Red Line’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line"/>
+        <updated>2025-08-22T07:31:08.230Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line" itemprop="url">
+                <div class="photo">
+                  <img alt="Ozomatli is a band of activists who use music as a weapon for confronting inequity on their new song “Red Line.”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Ozomatli: ‘Red Line’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Ozomatli is a band of activists who use music as a weapon for confronting inequity on their new song “Red Line.”</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-22T07:00:00Z">Aug. 22</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marfa: ‘Little Miss Two Time’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time"/>
-        <updated>2025-08-22T06:46:44.245Z</updated>
+        <updated>2025-08-22T07:31:08.234Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Say She She: ‘Under The Sun’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun"/>
-        <updated>2025-08-22T06:46:44.247Z</updated>
+        <updated>2025-08-22T07:31:08.236Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[John Tejada: ‘Until The End of the World’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/john-tejada-until-the-end-of-the-world</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/john-tejada-until-the-end-of-the-world"/>
-        <updated>2025-08-22T06:46:44.249Z</updated>
+        <updated>2025-08-22T07:31:08.243Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/john-tejada-until-the-end-of-the-world" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Grant-Lee Phillips: ‘She Knows Me’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me"/>
-        <updated>2025-08-22T06:46:44.250Z</updated>
+        <updated>2025-08-22T07:31:08.244Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Hermanos Gutiérrez: ‘Elegantly Wasted (feat. Leon Bridges)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges"/>
-        <updated>2025-08-22T06:46:44.255Z</updated>
+        <updated>2025-08-22T07:31:08.246Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Rebounder + Sofie Royer: 'Tennis Bracelet’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet"/>
-        <updated>2025-08-22T06:46:44.259Z</updated>
+        <updated>2025-08-22T07:31:08.248Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Yola: ‘Amazing’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing"/>
-        <updated>2025-08-22T06:46:44.259Z</updated>
+        <updated>2025-08-22T07:31:08.249Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/yola-amazing/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[múm: ‘Mild At Heart’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart"/>
-        <updated>2025-08-22T06:46:44.261Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart" itemprop="url">
-                <div class="photo">
-                  <img alt="History of Silence (due Sept. 19) is the first new album from Icelandic outfit múm since 2013’s Smilewood." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">múm: ‘Mild At Heart’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">History of Silence (due Sept. 19) is the first new album from Icelandic outfit múm since 2013’s Smilewood.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-12T07:00:00Z">Aug. 12</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/mum-mild-at-heart/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
