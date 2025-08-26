@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-08-26T05:55:03.843Z</updated>
+    <updated>2025-08-26T07:32:52.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Big Wild: ‘Too Loud’ (feat. Phantogram)]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram"/>
+        <updated>2025-08-26T07:32:25.519Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram" itemprop="url">
+                <div class="photo">
+                  <img alt="In just a few days, Big Wild (aka Jackson Stell) will release the vibrant new album Wild Child (Aug. 29)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Big Wild: ‘Too Loud’ (feat. Phantogram)</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">In just a few days, Big Wild (aka Jackson Stell) will release the vibrant new album Wild Child (Aug. 29).</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-26T07:00:00Z">Aug. 26</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gelli Haha: ‘Pluto is not a planet it’s a restaurant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant"/>
-        <updated>2025-08-26T05:54:38.541Z</updated>
+        <updated>2025-08-26T07:32:25.520Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Ozomatli: ‘Red Line’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line"/>
-        <updated>2025-08-26T05:54:38.543Z</updated>
+        <updated>2025-08-26T07:32:25.522Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Marfa: ‘Little Miss Two Time’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time"/>
-        <updated>2025-08-26T05:54:38.544Z</updated>
+        <updated>2025-08-26T07:32:25.523Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Say She She: ‘Under The Sun’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun"/>
-        <updated>2025-08-26T05:54:38.547Z</updated>
+        <updated>2025-08-26T07:32:25.528Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[John Tejada: ‘Until The End of the World’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/john-tejada-until-the-end-of-the-world</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/john-tejada-until-the-end-of-the-world"/>
-        <updated>2025-08-26T05:54:38.548Z</updated>
+        <updated>2025-08-26T07:32:25.529Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/john-tejada-until-the-end-of-the-world" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Grant-Lee Phillips: ‘She Knows Me’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me"/>
-        <updated>2025-08-26T05:54:38.550Z</updated>
+        <updated>2025-08-26T07:32:25.534Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/grant-lee-phillips-she-knows-me" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Hermanos Gutiérrez: ‘Elegantly Wasted (feat. Leon Bridges)’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges"/>
-        <updated>2025-08-26T05:54:38.563Z</updated>
+        <updated>2025-08-26T07:32:25.539Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/hermanos-gutierrez-elegantly-wasted-feat-leon-bridges/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebounder + Sofie Royer: 'Tennis Bracelet’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet"/>
-        <updated>2025-08-26T05:54:38.565Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet" itemprop="url">
-                <div class="photo">
-                  <img alt="Sofie Royer spent a long time as the opening act for NYC multi-instrumentalists Rebounder . Naturally, they decided to join forces on the sexy new single “Tennis Bracelet.”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Rebounder + Sofie Royer: 'Tennis Bracelet’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Sofie Royer spent a long time as the opening act for NYC multi-instrumentalists Rebounder . Naturally, they decided to join forces on the sexy new single “Tennis Bracelet.”</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-14T07:00:00Z">Aug. 14</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/rebounder-sofie-royer-tennis-bracelet/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
