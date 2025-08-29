@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.recordoftheday.com/track-archive</id>
     <title>Record Of The Day UK</title>
-    <updated>2025-08-29T04:57:04.575Z</updated>
+    <updated>2025-08-29T05:34:13.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.recordoftheday.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[In Your Mind Talking Violet]]></title>
+        <title type="html"><![CDATA[Skin In The Game Conner Reeves]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.953Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">In Your Mind</h3>
-                            <p class="artist">Talking Violet</p>
-                            <p class="label">Flying Colours</p>
-                            <p class="date">Thu 28 August 2025</p>
+        <updated>2025-08-29T05:34:07.670Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Skin In The Game</h3>
+                            <p class="artist">Conner Reeves</p>
+                            <p class="label">Still Waters Recordings</p>
+                            <p class="date">Fri 29 August 2025</p>
                             <div class="controls"><div class="html5-player-box">
 
     <audio class="html5-player" controls="" style="width: 340px;" onclick="playaudio(event);" controlslist="nodownload" id="audioElementID">
-    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2025-08-28.mp3" type="audio/mpeg">
+    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2025-08-29.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
     
@@ -25,10 +25,23 @@
             </div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In Your Mind Talking Violet]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2025-08-29T05:34:07.671Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">In Your Mind</h3>
+                            <p class="artist">Talking Violet</p>
+                            <p class="label">Flying Colours</p>
+                            <p class="date">Thu 28 August 2025</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2025-08-28/in-your-mind2025">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[When You Know (Satl remix) Ebba Asman]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.962Z</updated>
+        <updated>2025-08-29T05:34:07.672Z</updated>
         <content type="html"><![CDATA[<h3 class="title">When You Know (Satl remix)</h3>
                             <p class="artist">Ebba Asman</p>
                             <p class="label">Dorado Records</p>
@@ -41,7 +54,7 @@
         <title type="html"><![CDATA[The Arsonist Cherry i]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.962Z</updated>
+        <updated>2025-08-29T05:34:07.673Z</updated>
         <content type="html"><![CDATA[<h3 class="title">The Arsonist</h3>
                             <p class="artist">Cherry i</p>
                             <p class="label">self-release</p>
@@ -54,7 +67,7 @@
         <title type="html"><![CDATA[Stay Between Us Teenage Dads]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.962Z</updated>
+        <updated>2025-08-29T05:34:07.674Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Stay Between Us</h3>
                             <p class="artist">Teenage Dads</p>
                             <p class="label">Chugg Music</p>
@@ -67,7 +80,7 @@
         <title type="html"><![CDATA[Hollywood Sounds Kramies]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.962Z</updated>
+        <updated>2025-08-29T05:34:07.675Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Hollywood Sounds</h3>
                             <p class="artist">Kramies </p>
                             <p class="label">VanGerrett Records</p>
@@ -80,7 +93,7 @@
         <title type="html"><![CDATA[Ramona The Jacques]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.963Z</updated>
+        <updated>2025-08-29T05:34:07.677Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Ramona</h3>
                             <p class="artist">The Jacques</p>
                             <p class="label">Sore</p>
@@ -93,7 +106,7 @@
         <title type="html"><![CDATA[o(type) Lemondaze]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.963Z</updated>
+        <updated>2025-08-29T05:34:07.678Z</updated>
         <content type="html"><![CDATA[<h3 class="title">o(type)</h3>
                             <p class="artist">Lemondaze </p>
                             <p class="label">Venn Records</p>
@@ -106,7 +119,7 @@
         <title type="html"><![CDATA[Start The Fire Sky White]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.964Z</updated>
+        <updated>2025-08-29T05:34:07.679Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Start The Fire</h3>
                             <p class="artist">Sky White</p>
                             <p class="label">Xibalo</p>
@@ -119,7 +132,7 @@
         <title type="html"><![CDATA[Wish I Didn’t Love You Love Spells]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.964Z</updated>
+        <updated>2025-08-29T05:34:07.681Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Wish I Didn’t Love You</h3>
                             <p class="artist">Love Spells</p>
                             <p class="label">Loveless/ADA</p>
@@ -132,7 +145,7 @@
         <title type="html"><![CDATA[Prized Possession CATTY]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.964Z</updated>
+        <updated>2025-08-29T05:34:07.682Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Prized Possession</h3>
                             <p class="artist">CATTY</p>
                             <p class="label">Label: self-release</p>
@@ -145,7 +158,7 @@
         <title type="html"><![CDATA[Houston Janet Devlin]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.964Z</updated>
+        <updated>2025-08-29T05:34:07.683Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Houston</h3>
                             <p class="artist">Janet Devlin</p>
                             <p class="label">OK!Good Records</p>
@@ -158,7 +171,7 @@
         <title type="html"><![CDATA[Swim Practice Mariel Buckley]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.964Z</updated>
+        <updated>2025-08-29T05:34:07.684Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Swim Practice</h3>
                             <p class="artist">Mariel Buckley</p>
                             <p class="label">Birthday Cake Records</p>
@@ -171,7 +184,7 @@
         <title type="html"><![CDATA[NO END Da Africa Deep]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.965Z</updated>
+        <updated>2025-08-29T05:34:07.686Z</updated>
         <content type="html"><![CDATA[<h3 class="title">NO END</h3>
                             <p class="artist">Da Africa Deep</p>
                             <p class="label">self-release</p>
@@ -184,7 +197,7 @@
         <title type="html"><![CDATA[DO IT Caolan Ryan feat Jafaris]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.965Z</updated>
+        <updated>2025-08-29T05:34:07.687Z</updated>
         <content type="html"><![CDATA[<h3 class="title">DO IT</h3>
                             <p class="artist">Caolan Ryan feat Jafaris</p>
                             <p class="label">Origins Inconclusive</p>
@@ -197,7 +210,7 @@
         <title type="html"><![CDATA[Real Life Acopia]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.965Z</updated>
+        <updated>2025-08-29T05:34:07.689Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Real Life</h3>
                             <p class="artist">Acopia</p>
                             <p class="label">Scenic Route Records</p>
@@ -210,7 +223,7 @@
         <title type="html"><![CDATA[Butterknife Moon Panda]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.965Z</updated>
+        <updated>2025-08-29T05:34:07.691Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Butterknife</h3>
                             <p class="artist">Moon Panda</p>
                             <p class="label">Moon Panda Records</p>
@@ -223,7 +236,7 @@
         <title type="html"><![CDATA[Jeremy Oliver Marson]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.968Z</updated>
+        <updated>2025-08-29T05:34:07.693Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Jeremy</h3>
                             <p class="artist">Oliver Marson</p>
                             <p class="label">High Road Records</p>
@@ -236,7 +249,7 @@
         <title type="html"><![CDATA[BRAINDEAD Papa Roach]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.970Z</updated>
+        <updated>2025-08-29T05:34:07.695Z</updated>
         <content type="html"><![CDATA[<h3 class="title">BRAINDEAD</h3>
                             <p class="artist">Papa Roach</p>
                             <p class="label">New Noize Records</p>
@@ -249,7 +262,7 @@
         <title type="html"><![CDATA[Crying In The Bathroom Luca George]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.971Z</updated>
+        <updated>2025-08-29T05:34:07.697Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Crying In The Bathroom</h3>
                             <p class="artist">Luca George </p>
                             <p class="label">Island Records Australia </p>
@@ -262,7 +275,7 @@
         <title type="html"><![CDATA[Hunter-Gatherer Poesie]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.971Z</updated>
+        <updated>2025-08-29T05:34:07.698Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Hunter-Gatherer</h3>
                             <p class="artist">Poesie</p>
                             <p class="label">self-release</p>
@@ -275,7 +288,7 @@
         <title type="html"><![CDATA[Falling The Same Way Dag Och Natt]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.971Z</updated>
+        <updated>2025-08-29T05:34:07.699Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Falling The Same Way</h3>
                             <p class="artist">Dag Och Natt</p>
                             <p class="label">Labrador</p>
@@ -288,7 +301,7 @@
         <title type="html"><![CDATA[Summer Of Love Kai Bosch]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.972Z</updated>
+        <updated>2025-08-29T05:34:07.700Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Summer Of Love</h3>
                             <p class="artist">Kai Bosch</p>
                             <p class="label">Cartoon Records</p>
@@ -301,7 +314,7 @@
         <title type="html"><![CDATA[Pretty Tough Quiet Man]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.974Z</updated>
+        <updated>2025-08-29T05:34:07.701Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Pretty Tough</h3>
                             <p class="artist">Quiet Man</p>
                             <p class="label">independent</p>
@@ -314,7 +327,7 @@
         <title type="html"><![CDATA[Kid Tanis]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.975Z</updated>
+        <updated>2025-08-29T05:34:07.703Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Kid</h3>
                             <p class="artist">Tanis</p>
                             <p class="label">TXC Music</p>
@@ -327,7 +340,7 @@
         <title type="html"><![CDATA[Insomnia Dance Lessons]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.976Z</updated>
+        <updated>2025-08-29T05:34:07.705Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Insomnia</h3>
                             <p class="artist">Dance Lessons</p>
                             <p class="label">self-release</p>
@@ -340,7 +353,7 @@
         <title type="html"><![CDATA[Rock Steady BVDHI]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.978Z</updated>
+        <updated>2025-08-29T05:34:07.707Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Rock Steady</h3>
                             <p class="artist">BVDHI</p>
                             <p class="label">independent</p>
@@ -353,7 +366,7 @@
         <title type="html"><![CDATA[MACHINE Chest]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.979Z</updated>
+        <updated>2025-08-29T05:34:07.708Z</updated>
         <content type="html"><![CDATA[<h3 class="title">MACHINE</h3>
                             <p class="artist">Chest</p>
                             <p class="label">self-released</p>
@@ -366,7 +379,7 @@
         <title type="html"><![CDATA[Miracle Fig Tape]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.981Z</updated>
+        <updated>2025-08-29T05:34:07.710Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Miracle</h3>
                             <p class="artist">Fig Tape</p>
                             <p class="label">independent</p>
@@ -379,7 +392,7 @@
         <title type="html"><![CDATA[Broken Promises Luke Marzec]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.983Z</updated>
+        <updated>2025-08-29T05:34:07.711Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Broken Promises</h3>
                             <p class="artist">Luke Marzec</p>
                             <p class="label">Swift Half Records </p>
@@ -387,18 +400,5 @@
                             <br>
                             <br>
                             <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2025-07-18/broken-promises2025">Listen and read more</a><p></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[War Machine LAWN CHAIR]]></title>
-        <id>https://www.recordoftheday.com/track-archive</id>
-        <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-08-29T04:56:59.985Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">War Machine</h3>
-                            <p class="artist">LAWN CHAIR</p>
-                            <p class="label">self release</p>
-                            <p class="date">Thu 17 July 2025</p>
-                            <br>
-                            <br>
-                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2025-07-17/war-machine2025">Listen and read more</a><p></p>]]></content>
     </entry>
 </feed>
