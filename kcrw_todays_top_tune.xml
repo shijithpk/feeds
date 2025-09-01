@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-01T06:47:59.513Z</updated>
+    <updated>2025-09-01T07:32:03.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
+        <updated>2025-09-01T07:31:52.933Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love" itemprop="url">
+                <div class="photo">
+                  <img alt="Indie rock hit maker Kurt Vile just dropped Classic Love, a new five-track EP made in collaboration with his Nashville-based pal Luke Roberts ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Kurt Vile &amp; Luke Roberts: ‘classic love’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Indie rock hit maker Kurt Vile just dropped Classic Love, a new five-track EP made in collaboration with his Nashville-based pal Luke Roberts .</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-01T07:00:00Z">Sep. 1</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sierra Ferrell: ‘A Lesson in Leavin'’ (feat. Nikki Lane)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane"/>
-        <updated>2025-09-01T06:47:49.524Z</updated>
+        <updated>2025-09-01T07:31:52.934Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Blake Mills & Pino Palladino: ‘Taka’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka"/>
-        <updated>2025-09-01T06:47:49.526Z</updated>
+        <updated>2025-09-01T07:31:52.935Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Men I Trust: ‘Come Back Down’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down"/>
-        <updated>2025-09-01T06:47:49.527Z</updated>
+        <updated>2025-09-01T07:31:52.938Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Big Wild: ‘Too Loud’ (feat. Phantogram)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram"/>
-        <updated>2025-09-01T06:47:49.529Z</updated>
+        <updated>2025-09-01T07:31:52.940Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Gelli Haha: ‘Pluto is not a planet it’s a restaurant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant"/>
-        <updated>2025-09-01T06:47:49.537Z</updated>
+        <updated>2025-09-01T07:31:52.942Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Ozomatli: ‘Red Line’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line"/>
-        <updated>2025-09-01T06:47:49.539Z</updated>
+        <updated>2025-09-01T07:31:52.944Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Marfa: ‘Little Miss Two Time’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time"/>
-        <updated>2025-09-01T06:47:49.540Z</updated>
+        <updated>2025-09-01T07:31:52.946Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say She She: ‘Under The Sun’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun"/>
-        <updated>2025-09-01T06:47:49.542Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun" itemprop="url">
-                <div class="photo">
-                  <img alt="Discodelic-funk-punk trio Say She She just dropped “Under The Sun,” a tasty treat from their forthcoming third album Cut &amp; Rewind (out Oct 3)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Say She She: ‘Under The Sun’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Discodelic-funk-punk trio Say She She just dropped “Under The Sun,” a tasty treat from their forthcoming third album Cut &amp; Rewind (out Oct 3).</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-20T07:00:00Z">Aug. 20</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/say-she-she-under-the-sun/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
