@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-02T06:47:16.832Z</updated>
+    <updated>2025-09-02T07:33:17.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HAAi: ‘Hey!’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/haai-hey</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey"/>
+        <updated>2025-09-02T07:33:04.964Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey" itemprop="url">
+                <div class="photo">
+                  <img alt="Producer, songwriter, and DJ HAAi is busy putting the finishing touches on her new album, HUMANiSE (due Oct. 10 via Mute)." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">HAAi: ‘Hey!’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Producer, songwriter, and DJ HAAi is busy putting the finishing touches on her new album, HUMANiSE (due Oct. 10 via Mute).</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-02T07:00:00Z">Sep. 2</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
-        <updated>2025-09-02T06:47:06.357Z</updated>
+        <updated>2025-09-02T07:33:04.970Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Sierra Ferrell: ‘A Lesson in Leavin'’ (feat. Nikki Lane)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane"/>
-        <updated>2025-09-02T06:47:06.376Z</updated>
+        <updated>2025-09-02T07:33:04.971Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Blake Mills & Pino Palladino: ‘Taka’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka"/>
-        <updated>2025-09-02T06:47:06.377Z</updated>
+        <updated>2025-09-02T07:33:04.973Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Men I Trust: ‘Come Back Down’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down"/>
-        <updated>2025-09-02T06:47:06.379Z</updated>
+        <updated>2025-09-02T07:33:04.977Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Big Wild: ‘Too Loud’ (feat. Phantogram)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram"/>
-        <updated>2025-09-02T06:47:06.381Z</updated>
+        <updated>2025-09-02T07:33:04.979Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Gelli Haha: ‘Pluto is not a planet it’s a restaurant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant"/>
-        <updated>2025-09-02T06:47:06.384Z</updated>
+        <updated>2025-09-02T07:33:04.980Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Ozomatli: ‘Red Line’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line"/>
-        <updated>2025-09-02T06:47:06.386Z</updated>
+        <updated>2025-09-02T07:33:04.982Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marfa: ‘Little Miss Two Time’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time"/>
-        <updated>2025-09-02T06:47:06.387Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time" itemprop="url">
-                <div class="photo">
-                  <img alt="Americana duo Marfa makes music that ties Laurel Canyon to West Texas. Their vibrant sound is a proverbial hay bale of beautiful harmonies and foot-stomping good times." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Marfa: ‘Little Miss Two Time’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Americana duo Marfa makes music that ties Laurel Canyon to West Texas. Their vibrant sound is a proverbial hay bale of beautiful harmonies and foot-stomping good times.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-21T07:00:00Z">Aug. 21</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/marfa-little-miss-two-time/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
                   </button>
