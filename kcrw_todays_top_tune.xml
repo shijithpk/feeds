@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-02T18:55:54.947Z</updated>
+    <updated>2025-09-02T19:26:33.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[HAAi: ‘Hey!’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/haai-hey</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey"/>
-        <updated>2025-09-02T18:55:42.445Z</updated>
+        <updated>2025-09-02T19:26:23.184Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="1">
               
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
-        <updated>2025-09-02T18:55:42.451Z</updated>
+        <updated>2025-09-02T19:26:23.195Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="2">
               
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[Sierra Ferrell: ‘A Lesson in Leavin'’ (feat. Nikki Lane)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane"/>
-        <updated>2025-09-02T18:55:42.453Z</updated>
+        <updated>2025-09-02T19:26:23.199Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="3">
               
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[Blake Mills & Pino Palladino: ‘Taka’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka"/>
-        <updated>2025-09-02T18:55:42.455Z</updated>
+        <updated>2025-09-02T19:26:23.200Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="4">
               
@@ -149,7 +149,7 @@
         <title type="html"><![CDATA[Men I Trust: ‘Come Back Down’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down"/>
-        <updated>2025-09-02T18:55:42.457Z</updated>
+        <updated>2025-09-02T19:26:23.202Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="5">
               
@@ -184,7 +184,7 @@
         <title type="html"><![CDATA[Big Wild: ‘Too Loud’ (feat. Phantogram)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram"/>
-        <updated>2025-09-02T18:55:42.458Z</updated>
+        <updated>2025-09-02T19:26:23.204Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="6">
               
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[Gelli Haha: ‘Pluto is not a planet it’s a restaurant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant"/>
-        <updated>2025-09-02T18:55:42.460Z</updated>
+        <updated>2025-09-02T19:26:23.205Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="7">
               
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[Ozomatli: ‘Red Line’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line"/>
-        <updated>2025-09-02T18:55:42.461Z</updated>
+        <updated>2025-09-02T19:26:23.207Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="8">
               
