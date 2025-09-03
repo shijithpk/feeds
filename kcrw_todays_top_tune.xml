@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-03T06:55:53.417Z</updated>
+    <updated>2025-09-03T07:54:56.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Jeb Loy Nichols: ‘Step In’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in"/>
+        <updated>2025-09-03T07:54:42.784Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in" itemprop="url">
+                <div class="photo">
+                  <img alt="Jeb Loy Nichols is on a lifelong journey through the roots of Americana, bringing his fresh perspective to the genre all along the way." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Jeb Loy Nichols: ‘Step In’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Jeb Loy Nichols is on a lifelong journey through the roots of Americana, bringing his fresh perspective to the genre all along the way.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-03T07:00:00Z">Sep. 3</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HAAi: ‘Hey!’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/haai-hey</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey"/>
-        <updated>2025-09-03T06:55:43.769Z</updated>
+        <updated>2025-09-03T07:54:42.786Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
-        <updated>2025-09-03T06:55:43.773Z</updated>
+        <updated>2025-09-03T07:54:42.787Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Sierra Ferrell: ‘A Lesson in Leavin'’ (feat. Nikki Lane)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane"/>
-        <updated>2025-09-03T06:55:43.775Z</updated>
+        <updated>2025-09-03T07:54:42.789Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Blake Mills & Pino Palladino: ‘Taka’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka"/>
-        <updated>2025-09-03T06:55:43.776Z</updated>
+        <updated>2025-09-03T07:54:42.791Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Men I Trust: ‘Come Back Down’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down"/>
-        <updated>2025-09-03T06:55:43.778Z</updated>
+        <updated>2025-09-03T07:54:42.792Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/men-i-trust-come-back-down" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Big Wild: ‘Too Loud’ (feat. Phantogram)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram"/>
-        <updated>2025-09-03T06:55:43.778Z</updated>
+        <updated>2025-09-03T07:54:42.794Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/big-wild-too-loud-feat-phantogram" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Gelli Haha: ‘Pluto is not a planet it’s a restaurant’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant"/>
-        <updated>2025-09-03T06:55:43.780Z</updated>
+        <updated>2025-09-03T07:54:42.796Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/gelli-haha-pluto-is-not-a-planet-its-a-restaurant/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">5 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ozomatli: ‘Red Line’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line"/>
-        <updated>2025-09-03T06:55:43.782Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line" itemprop="url">
-                <div class="photo">
-                  <img alt="Ozomatli is a band of activists who use music as a weapon for confronting inequity on their new song “Red Line.”" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Ozomatli: ‘Red Line’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Ozomatli is a band of activists who use music as a weapon for confronting inequity on their new song “Red Line.”</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-22T07:00:00Z">Aug. 22</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ozomatli-red-line/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
