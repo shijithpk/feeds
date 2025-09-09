@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-09T06:59:24.921Z</updated>
+    <updated>2025-09-09T07:30:58.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
+        <updated>2025-09-09T07:30:44.882Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot" itemprop="url">
+                <div class="photo">
+                  <img alt="If you are looking to stargaze, look no further than the all-female, Sydney-based shoegaze band JuliaWhy? ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">JuliaWhy?: ‘Pale Blue Dot’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">If you are looking to stargaze, look no further than the all-female, Sydney-based shoegaze band JuliaWhy? .</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-09T07:00:00Z">Sep. 9</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jay Som: ‘Cards On The Table’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table"/>
-        <updated>2025-09-09T06:59:14.729Z</updated>
+        <updated>2025-09-09T07:30:44.884Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Folk Bitch Trio: ‘God's A Different Sword’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword"/>
-        <updated>2025-09-09T06:59:14.733Z</updated>
+        <updated>2025-09-09T07:30:44.886Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Rachael Yamagata: ‘Birds’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds"/>
-        <updated>2025-09-09T06:59:14.735Z</updated>
+        <updated>2025-09-09T07:30:44.888Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Jeb Loy Nichols: ‘Step In’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in"/>
-        <updated>2025-09-09T06:59:14.739Z</updated>
+        <updated>2025-09-09T07:30:44.889Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[HAAi: ‘Hey!’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/haai-hey</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey"/>
-        <updated>2025-09-09T06:59:14.741Z</updated>
+        <updated>2025-09-09T07:30:44.890Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
-        <updated>2025-09-09T06:59:14.742Z</updated>
+        <updated>2025-09-09T07:30:44.891Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Sierra Ferrell: ‘A Lesson in Leavin'’ (feat. Nikki Lane)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane"/>
-        <updated>2025-09-09T06:59:14.744Z</updated>
+        <updated>2025-09-09T07:30:44.893Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/sierra-ferrell-a-lesson-in-leavin-feat-nikki-lane/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blake Mills & Pino Palladino: ‘Taka’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka"/>
-        <updated>2025-09-09T06:59:14.746Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka" itemprop="url">
-                <div class="photo">
-                  <img alt="What happens when you pair a great guitar player with a badass bassist?" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Blake Mills &amp; Pino Palladino: ‘Taka’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">What happens when you pair a great guitar player with a badass bassist?</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-08-28T07:00:00Z">Aug. 28</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/blake-mills-pino-palladino-taka/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
