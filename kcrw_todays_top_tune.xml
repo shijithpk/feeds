@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-10T20:33:33.084Z</updated>
+    <updated>2025-09-10T20:56:09.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[Ivy: ‘Heartbreak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak"/>
-        <updated>2025-09-10T20:33:21.504Z</updated>
+        <updated>2025-09-10T20:55:58.655Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="1">
               
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
-        <updated>2025-09-10T20:33:21.505Z</updated>
+        <updated>2025-09-10T20:55:58.657Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="2">
               
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[Jay Som: ‘Cards On The Table’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table"/>
-        <updated>2025-09-10T20:33:21.511Z</updated>
+        <updated>2025-09-10T20:55:58.658Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="3">
               
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[Folk Bitch Trio: ‘God's A Different Sword’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword"/>
-        <updated>2025-09-10T20:33:21.512Z</updated>
+        <updated>2025-09-10T20:55:58.661Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="4">
               
@@ -149,7 +149,7 @@
         <title type="html"><![CDATA[Rachael Yamagata: ‘Birds’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds"/>
-        <updated>2025-09-10T20:33:21.514Z</updated>
+        <updated>2025-09-10T20:55:58.663Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="5">
               
@@ -184,7 +184,7 @@
         <title type="html"><![CDATA[Jeb Loy Nichols: ‘Step In’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in"/>
-        <updated>2025-09-10T20:33:21.516Z</updated>
+        <updated>2025-09-10T20:55:58.665Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="6">
               
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[HAAi: ‘Hey!’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/haai-hey</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey"/>
-        <updated>2025-09-10T20:33:21.516Z</updated>
+        <updated>2025-09-10T20:55:58.666Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="7">
               
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
-        <updated>2025-09-10T20:33:21.518Z</updated>
+        <updated>2025-09-10T20:55:58.668Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="8">
               
