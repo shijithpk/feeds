@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-11T06:57:19.044Z</updated>
+    <updated>2025-09-11T07:31:28.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mae Powell: ‘Where Will Love Go?’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go"/>
+        <updated>2025-09-11T07:31:15.751Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go" itemprop="url">
+                <div class="photo">
+                  <img alt="Jazzy vocalist Mae Powell has experienced a major break-up." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Mae Powell: ‘Where Will Love Go?’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Jazzy vocalist Mae Powell has experienced a major break-up.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-11T07:00:00Z">Sep. 11</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ivy: ‘Heartbreak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak"/>
-        <updated>2025-09-11T06:57:06.743Z</updated>
+        <updated>2025-09-11T07:31:15.752Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
-        <updated>2025-09-11T06:57:06.745Z</updated>
+        <updated>2025-09-11T07:31:15.757Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Jay Som: ‘Cards On The Table’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table"/>
-        <updated>2025-09-11T06:57:06.746Z</updated>
+        <updated>2025-09-11T07:31:15.759Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Folk Bitch Trio: ‘God's A Different Sword’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword"/>
-        <updated>2025-09-11T06:57:06.748Z</updated>
+        <updated>2025-09-11T07:31:15.761Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Rachael Yamagata: ‘Birds’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds"/>
-        <updated>2025-09-11T06:57:06.752Z</updated>
+        <updated>2025-09-11T07:31:15.763Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Jeb Loy Nichols: ‘Step In’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in"/>
-        <updated>2025-09-11T06:57:06.753Z</updated>
+        <updated>2025-09-11T07:31:15.767Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[HAAi: ‘Hey!’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/haai-hey</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey"/>
-        <updated>2025-09-11T06:57:06.755Z</updated>
+        <updated>2025-09-11T07:31:15.769Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/haai-hey/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurt Vile & Luke Roberts: ‘classic love’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love"/>
-        <updated>2025-09-11T06:57:06.756Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love" itemprop="url">
-                <div class="photo">
-                  <img alt="Indie rock hit maker Kurt Vile just dropped Classic Love, a new five-track EP made in collaboration with his Nashville-based pal Luke Roberts ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Kurt Vile &amp; Luke Roberts: ‘classic love’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Indie rock hit maker Kurt Vile just dropped Classic Love, a new five-track EP made in collaboration with his Nashville-based pal Luke Roberts .</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-01T07:00:00Z">Sep. 1</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/kurt-vile-luke-roberts-classic-love/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
                   </button>
