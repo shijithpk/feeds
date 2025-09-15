@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-15T06:46:34.775Z</updated>
+    <updated>2025-09-15T07:33:24.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[iLe: ‘Un Amor De Calle’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle"/>
+        <updated>2025-09-15T07:33:12.725Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle" itemprop="url">
+                <div class="photo">
+                  <img alt="Latin Grammy-winning, Puerto Rican star iLe’s new LP Como Las Canto Yo (How I Sing Them) is due in late October. The album will feature her interpretations of a few favorite boleros." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">iLe: ‘Un Amor De Calle’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">Latin Grammy-winning, Puerto Rican star iLe’s new LP Como Las Canto Yo (How I Sing Them) is due in late October. The album will feature her interpretations of a few favorite boleros.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-15T07:00:00Z">Sep. 15</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">3 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jessie Baylin: ‘Wild Life’ (Radio Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit"/>
-        <updated>2025-09-15T06:46:25.100Z</updated>
+        <updated>2025-09-15T07:33:12.726Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Mae Powell: ‘Where Will Love Go?’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go"/>
-        <updated>2025-09-15T06:46:25.101Z</updated>
+        <updated>2025-09-15T07:33:12.728Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Ivy: ‘Heartbreak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak"/>
-        <updated>2025-09-15T06:46:25.104Z</updated>
+        <updated>2025-09-15T07:33:12.734Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
-        <updated>2025-09-15T06:46:25.106Z</updated>
+        <updated>2025-09-15T07:33:12.738Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Jay Som: ‘Cards On The Table’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table"/>
-        <updated>2025-09-15T06:46:25.107Z</updated>
+        <updated>2025-09-15T07:33:12.741Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Folk Bitch Trio: ‘God's A Different Sword’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword"/>
-        <updated>2025-09-15T06:46:25.108Z</updated>
+        <updated>2025-09-15T07:33:12.742Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Rachael Yamagata: ‘Birds’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds"/>
-        <updated>2025-09-15T06:46:25.110Z</updated>
+        <updated>2025-09-15T07:33:12.744Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeb Loy Nichols: ‘Step In’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in"/>
-        <updated>2025-09-15T06:46:25.111Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in" itemprop="url">
-                <div class="photo">
-                  <img alt="Jeb Loy Nichols is on a lifelong journey through the roots of Americana, bringing his fresh perspective to the genre all along the way." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Jeb Loy Nichols: ‘Step In’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">Jeb Loy Nichols is on a lifelong journey through the roots of Americana, bringing his fresh perspective to the genre all along the way.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-03T07:00:00Z">Sep. 3</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/jeb-loy-nichols-step-in/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">3 min</span>
                   </button>
                 </div>
               </div>]]></content>
