@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-16T06:57:27.247Z</updated>
+    <updated>2025-09-16T07:30:37.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Dijon: ‘Yamaha’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha"/>
+        <updated>2025-09-16T07:30:25.858Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha" itemprop="url">
+                <div class="photo">
+                  <img alt="It’s been a banner year for Dijon : Lending talents to Bon Iver’s SABLE, fABLE, contributing to Justin Bieber’s SWAG, and an upcoming role in Paul Thomas Anderson’s One Batter After…" itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Dijon: ‘Yamaha’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">It’s been a banner year for Dijon : Lending talents to Bon Iver’s SABLE, fABLE, contributing to Justin Bieber’s SWAG, and an upcoming role in Paul Thomas Anderson’s One Batter After…</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-16T07:00:00Z">Sep. 16</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">4 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iLe: ‘Un Amor De Calle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle"/>
-        <updated>2025-09-16T06:57:10.656Z</updated>
+        <updated>2025-09-16T07:30:25.859Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Jessie Baylin: ‘Wild Life’ (Radio Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit"/>
-        <updated>2025-09-16T06:57:10.660Z</updated>
+        <updated>2025-09-16T07:30:25.862Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Mae Powell: ‘Where Will Love Go?’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go"/>
-        <updated>2025-09-16T06:57:10.661Z</updated>
+        <updated>2025-09-16T07:30:25.863Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[Ivy: ‘Heartbreak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak"/>
-        <updated>2025-09-16T06:57:10.662Z</updated>
+        <updated>2025-09-16T07:30:25.864Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
-        <updated>2025-09-16T06:57:10.663Z</updated>
+        <updated>2025-09-16T07:30:25.865Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Jay Som: ‘Cards On The Table’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table"/>
-        <updated>2025-09-16T06:57:10.664Z</updated>
+        <updated>2025-09-16T07:30:25.867Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jay-som-cards-on-the-table" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Folk Bitch Trio: ‘God's A Different Sword’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword"/>
-        <updated>2025-09-16T06:57:10.666Z</updated>
+        <updated>2025-09-16T07:30:25.869Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword" itemprop="url">
                 <div class="photo">
@@ -246,41 +281,6 @@
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/folk-bitch-trio-gods-a-different-sword/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">3 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rachael Yamagata: ‘Birds’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds"/>
-        <updated>2025-09-16T06:57:10.667Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds" itemprop="url">
-                <div class="photo">
-                  <img alt="It’s been roughly ten years since independent artist Rachael Yamagata put out a new studio album(!). Trust us, Starlit Alchemy (due October 3 via Julian Records) is worth the wait." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">Rachael Yamagata: ‘Birds’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">It’s been roughly ten years since independent artist Rachael Yamagata put out a new studio album(!). Trust us, Starlit Alchemy (due October 3 via Julian Records) is worth the wait.</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-04T07:00:00Z">Sep. 4</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/rachael-yamagata-birds/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
                   </button>
                 </div>
               </div>]]></content>
