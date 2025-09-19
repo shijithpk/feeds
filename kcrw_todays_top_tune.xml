@@ -2,16 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-19T06:59:13.759Z</updated>
+    <updated>2025-09-19T07:32:32.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Buckingham Nicks: ‘Frozen Love’]]></title>
+        <id>https://www.kcrw.com/music/shows/todays-top-tune/buckingham-nicks-frozen-love</id>
+        <link href="https://www.kcrw.com/music/shows/todays-top-tune/buckingham-nicks-frozen-love"/>
+        <updated>2025-09-19T07:31:41.496Z</updated>
+        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
+              <meta itemprop="position" content="1">
+              
+              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/buckingham-nicks-frozen-love" itemprop="url">
+                <div class="photo">
+                  <img alt="The only studio album recorded by Lindsey Buckingham and Stevie Nicks as a duo is being re-issued for the very first time TODAY." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/buckingham-nicks-frozen-love/@@images/image/listing-rectangle">
+                </div>
+                <h3 itemprop="name headline">Buckingham Nicks: ‘Frozen Love’</h3>
+                
+              </a>
+              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
+                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
+              </span>
+              <div class="bottom-of-tile">
+                <p itemprop="description">The only studio album recorded by Lindsey Buckingham and Stevie Nicks as a duo is being re-issued for the very first time TODAY.</p>
+                
+                <div class="meta">
+                  <p class="from-show">
+                    
+                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-19T07:00:00Z">Sep. 19</time>
+                    
+                    
+                  </p>
+                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/buckingham-nicks-frozen-love/player.json">
+                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
+                    <span class="duration">7 min</span>
+                  </button>
+                </div>
+              </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Janet Devlin: ‘Houston’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/janet-devlin-houston</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/janet-devlin-houston"/>
-        <updated>2025-09-19T06:59:02.868Z</updated>
+        <updated>2025-09-19T07:31:41.499Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="1">
+              <meta itemprop="position" content="2">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/janet-devlin-houston" itemprop="url">
                 <div class="photo">
@@ -44,9 +79,9 @@
         <title type="html"><![CDATA[Antaeus: ‘Beautiful Dog’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/antaeus-beautiful-dog</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/antaeus-beautiful-dog"/>
-        <updated>2025-09-19T06:59:02.871Z</updated>
+        <updated>2025-09-19T07:31:41.501Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="2">
+              <meta itemprop="position" content="3">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/antaeus-beautiful-dog" itemprop="url">
                 <div class="photo">
@@ -79,9 +114,9 @@
         <title type="html"><![CDATA[Dijon: ‘Yamaha’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha"/>
-        <updated>2025-09-19T06:59:02.875Z</updated>
+        <updated>2025-09-19T07:31:41.503Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="3">
+              <meta itemprop="position" content="4">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha" itemprop="url">
                 <div class="photo">
@@ -114,9 +149,9 @@
         <title type="html"><![CDATA[iLe: ‘Un Amor De Calle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle"/>
-        <updated>2025-09-19T06:59:02.877Z</updated>
+        <updated>2025-09-19T07:31:41.504Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="4">
+              <meta itemprop="position" content="5">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle" itemprop="url">
                 <div class="photo">
@@ -149,9 +184,9 @@
         <title type="html"><![CDATA[Jessie Baylin: ‘Wild Life’ (Radio Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit"/>
-        <updated>2025-09-19T06:59:02.881Z</updated>
+        <updated>2025-09-19T07:31:41.506Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="5">
+              <meta itemprop="position" content="6">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit" itemprop="url">
                 <div class="photo">
@@ -184,9 +219,9 @@
         <title type="html"><![CDATA[Mae Powell: ‘Where Will Love Go?’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go"/>
-        <updated>2025-09-19T06:59:02.882Z</updated>
+        <updated>2025-09-19T07:31:41.507Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="6">
+              <meta itemprop="position" content="7">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go" itemprop="url">
                 <div class="photo">
@@ -219,9 +254,9 @@
         <title type="html"><![CDATA[Ivy: ‘Heartbreak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak"/>
-        <updated>2025-09-19T06:59:02.886Z</updated>
+        <updated>2025-09-19T07:31:41.516Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="7">
+              <meta itemprop="position" content="8">
               
               <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak" itemprop="url">
                 <div class="photo">
@@ -244,41 +279,6 @@
                     
                   </p>
                   <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak/player.json">
-                    <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
-                    <span class="duration">4 min</span>
-                  </button>
-                </div>
-              </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
-        <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
-        <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
-        <updated>2025-09-19T06:59:02.887Z</updated>
-        <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
-              <meta itemprop="position" content="8">
-              
-              <a class="title-link" href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot" itemprop="url">
-                <div class="photo">
-                  <img alt="If you are looking to stargaze, look no further than the all-female, Sydney-based shoegaze band JuliaWhy? ." itemprop="image" src="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot/@@images/image/listing-rectangle">
-                </div>
-                <h3 itemprop="name headline">JuliaWhy?: ‘Pale Blue Dot’</h3>
-                
-              </a>
-              <span class="item-category" itemprop="about" itemscope="" itemid="/#8dfe1a9d46184626ae9b278b6f43f02c">
-                <a class="source" itemprop="url" href="https://www.kcrw.com/categories/best-new-music"><span itemprop="name">Best New Music</span></a>
-              </span>
-              <div class="bottom-of-tile">
-                <p itemprop="description">If you are looking to stargaze, look no further than the all-female, Sydney-based shoegaze band JuliaWhy? .</p>
-                
-                <div class="meta">
-                  <p class="from-show">
-                    
-                    <time class="pubdate" itemprop="datePublished" datetime="2025-09-09T07:00:00Z">Sep. 9</time>
-                    
-                    
-                  </p>
-                  <button class="play-button audio custom-audio-button full time-only" aria-label="Play audio" data-player-json="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot/player.json">
                     <svg class="svg-icon"><use class="icon-use" xlink:href="https://www.kcrw.com/music/shows/todays-top-tune#icon-audio"></use></svg><span class="player-action">Listen</span>
                     <span class="duration">4 min</span>
                   </button>
