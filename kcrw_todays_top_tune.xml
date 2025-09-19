@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-09-19T04:38:09.745Z</updated>
+    <updated>2025-09-19T04:54:09.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kcrw.com/++theme++kcrw.theme/icons/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[Janet Devlin: ‘Houston’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/janet-devlin-houston</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/janet-devlin-houston"/>
-        <updated>2025-09-19T04:37:59.991Z</updated>
+        <updated>2025-09-19T04:53:57.901Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="1">
               
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[Antaeus: ‘Beautiful Dog’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/antaeus-beautiful-dog</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/antaeus-beautiful-dog"/>
-        <updated>2025-09-19T04:37:59.994Z</updated>
+        <updated>2025-09-19T04:53:57.903Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="2">
               
@@ -79,7 +79,7 @@
         <title type="html"><![CDATA[Dijon: ‘Yamaha’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/dijon-yamaha"/>
-        <updated>2025-09-19T04:38:00.008Z</updated>
+        <updated>2025-09-19T04:53:57.905Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="3">
               
@@ -114,7 +114,7 @@
         <title type="html"><![CDATA[iLe: ‘Un Amor De Calle’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ile-un-amor-de-calle"/>
-        <updated>2025-09-19T04:38:00.009Z</updated>
+        <updated>2025-09-19T04:53:57.907Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="4">
               
@@ -149,7 +149,7 @@
         <title type="html"><![CDATA[Jessie Baylin: ‘Wild Life’ (Radio Edit)]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/jessie-baylin-wild-life-radio-edit"/>
-        <updated>2025-09-19T04:38:00.011Z</updated>
+        <updated>2025-09-19T04:53:57.909Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="5">
               
@@ -184,7 +184,7 @@
         <title type="html"><![CDATA[Mae Powell: ‘Where Will Love Go?’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/mae-powell-where-will-love-go"/>
-        <updated>2025-09-19T04:38:00.013Z</updated>
+        <updated>2025-09-19T04:53:57.911Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="6">
               
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[Ivy: ‘Heartbreak’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/ivy-heartbreak"/>
-        <updated>2025-09-19T04:38:00.014Z</updated>
+        <updated>2025-09-19T04:53:57.913Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="7">
               
@@ -254,7 +254,7 @@
         <title type="html"><![CDATA[JuliaWhy?: ‘Pale Blue Dot’]]></title>
         <id>https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot</id>
         <link href="https://www.kcrw.com/music/shows/todays-top-tune/juliawhy-pale-blue-dot"/>
-        <updated>2025-09-19T04:38:00.016Z</updated>
+        <updated>2025-09-19T04:53:57.914Z</updated>
         <content type="html"><![CDATA[<link itemprop="additionalType" href="http://schema.org/NewsArticle">
               <meta itemprop="position" content="8">
               
