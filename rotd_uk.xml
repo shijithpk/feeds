@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.recordoftheday.com/track-archive</id>
     <title>Record Of The Day UK</title>
-    <updated>2025-10-17T05:27:25.303Z</updated>
+    <updated>2025-10-17T05:50:37.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.recordoftheday.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Feel It Kacia]]></title>
+        <title type="html"><![CDATA[Yuck WØLFFE]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.020Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">Feel It</h3>
-                            <p class="artist">Kacia</p>
-                            <p class="label">Salt House Records</p>
-                            <p class="date">Thu 16 October 2025</p>
+        <updated>2025-10-17T05:50:31.078Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Yuck</h3>
+                            <p class="artist">WØLFFE</p>
+                            <p class="label">CUB Records</p>
+                            <p class="date">Fri 17 October 2025</p>
                             <div class="controls"><div class="html5-player-box">
 
     <audio class="html5-player" controls="" style="width: 340px;" onclick="playaudio(event);" controlslist="nodownload" id="audioElementID">
-    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2025-10-16.mp3" type="audio/mpeg">
+    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2025-10-17.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
     
@@ -25,10 +25,23 @@
             </div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Feel It Kacia]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2025-10-17T05:50:31.078Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Feel It</h3>
+                            <p class="artist">Kacia</p>
+                            <p class="label">Salt House Records</p>
+                            <p class="date">Thu 16 October 2025</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2025-10-16/feel-it2025">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What The Hell Reem Mitten]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.021Z</updated>
+        <updated>2025-10-17T05:50:31.079Z</updated>
         <content type="html"><![CDATA[<h3 class="title">What The Hell</h3>
                             <p class="artist">Reem Mitten</p>
                             <p class="label">self release</p>
@@ -41,7 +54,7 @@
         <title type="html"><![CDATA[On The Run Black Dahlia]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.030Z</updated>
+        <updated>2025-10-17T05:50:31.080Z</updated>
         <content type="html"><![CDATA[<h3 class="title">On The Run</h3>
                             <p class="artist">Black Dahlia</p>
                             <p class="label">Independent</p>
@@ -54,7 +67,7 @@
         <title type="html"><![CDATA[God Gia Ford]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.031Z</updated>
+        <updated>2025-10-17T05:50:31.081Z</updated>
         <content type="html"><![CDATA[<h3 class="title">God</h3>
                             <p class="artist">Gia Ford</p>
                             <p class="label">Chrysalis Records</p>
@@ -67,7 +80,7 @@
         <title type="html"><![CDATA[The Feast Mary Middlefield]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.032Z</updated>
+        <updated>2025-10-17T05:50:31.082Z</updated>
         <content type="html"><![CDATA[<h3 class="title">The Feast</h3>
                             <p class="artist">Mary Middlefield </p>
                             <p class="label">independent</p>
@@ -80,7 +93,7 @@
         <title type="html"><![CDATA[All My Love to You Jaixia]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.033Z</updated>
+        <updated>2025-10-17T05:50:31.083Z</updated>
         <content type="html"><![CDATA[<h3 class="title">All My Love to You</h3>
                             <p class="artist">Jaixia</p>
                             <p class="label">self release</p>
@@ -93,7 +106,7 @@
         <title type="html"><![CDATA[Disintegrate Ellur]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.034Z</updated>
+        <updated>2025-10-17T05:50:31.087Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Disintegrate</h3>
                             <p class="artist">Ellur</p>
                             <p class="label">Dance to the Radio</p>
@@ -106,7 +119,7 @@
         <title type="html"><![CDATA[Depend On You Esmae // OMI]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.036Z</updated>
+        <updated>2025-10-17T05:50:31.088Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Depend On You</h3>
                             <p class="artist">Esmae // OMI</p>
                             <p class="label">EZO Music</p>
@@ -119,7 +132,7 @@
         <title type="html"><![CDATA[In My Corner Jem Wax]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.038Z</updated>
+        <updated>2025-10-17T05:50:31.089Z</updated>
         <content type="html"><![CDATA[<h3 class="title">In My Corner</h3>
                             <p class="artist">Jem Wax</p>
                             <p class="label">self-release</p>
@@ -132,7 +145,7 @@
         <title type="html"><![CDATA[Serpentine Iris Caltwait]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.039Z</updated>
+        <updated>2025-10-17T05:50:31.090Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Serpentine</h3>
                             <p class="artist">Iris Caltwait </p>
                             <p class="label">777 Music</p>
@@ -145,7 +158,7 @@
         <title type="html"><![CDATA[Walk Away Foreign Affairs]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.040Z</updated>
+        <updated>2025-10-17T05:50:31.091Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Walk Away</h3>
                             <p class="artist">Foreign Affairs</p>
                             <p class="label">Foreign Affairs Music </p>
@@ -158,7 +171,7 @@
         <title type="html"><![CDATA[Honest Man Fountain]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.041Z</updated>
+        <updated>2025-10-17T05:50:31.093Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Honest Man</h3>
                             <p class="artist">Fountain</p>
                             <p class="label">self release</p>
@@ -171,7 +184,7 @@
         <title type="html"><![CDATA[Peeking Over the Top The Other End]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.043Z</updated>
+        <updated>2025-10-17T05:50:31.094Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Peeking Over the Top</h3>
                             <p class="artist">The Other End</p>
                             <p class="label">Self-released (The Other Label)</p>
@@ -184,7 +197,7 @@
         <title type="html"><![CDATA[Four Letter Words Laura-Mary Carter]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.044Z</updated>
+        <updated>2025-10-17T05:50:31.096Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Four Letter Words</h3>
                             <p class="artist">Laura-Mary Carter</p>
                             <p class="label">self-release</p>
@@ -197,7 +210,7 @@
         <title type="html"><![CDATA[Last Night, A Decade Ago Daire Patel]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.045Z</updated>
+        <updated>2025-10-17T05:50:31.097Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Last Night, A Decade Ago</h3>
                             <p class="artist">Daire Patel</p>
                             <p class="label">Pretty Sweet</p>
@@ -210,7 +223,7 @@
         <title type="html"><![CDATA[I Want You Debbii Dawson]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.047Z</updated>
+        <updated>2025-10-17T05:50:31.098Z</updated>
         <content type="html"><![CDATA[<h3 class="title">I Want You</h3>
                             <p class="artist">Debbii Dawson</p>
                             <p class="label">RCA</p>
@@ -223,7 +236,7 @@
         <title type="html"><![CDATA[Something Wild Amelia Coburn]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.048Z</updated>
+        <updated>2025-10-17T05:50:31.100Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Something Wild</h3>
                             <p class="artist">Amelia Coburn</p>
                             <p class="label">self-release</p>
@@ -236,7 +249,7 @@
         <title type="html"><![CDATA[Do u relate? Natalie Shay]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.049Z</updated>
+        <updated>2025-10-17T05:50:31.101Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Do u relate?</h3>
                             <p class="artist">Natalie Shay</p>
                             <p class="label">Natalie Shay via Melody Mover</p>
@@ -249,7 +262,7 @@
         <title type="html"><![CDATA[Cowboy Juno James]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.050Z</updated>
+        <updated>2025-10-17T05:50:31.102Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Cowboy</h3>
                             <p class="artist">Juno James</p>
                             <p class="label">self release</p>
@@ -262,7 +275,7 @@
         <title type="html"><![CDATA[Summer Rain Life Aquatic Band]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.052Z</updated>
+        <updated>2025-10-17T05:50:31.104Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Summer Rain</h3>
                             <p class="artist">Life Aquatic Band</p>
                             <p class="label">self release</p>
@@ -275,7 +288,7 @@
         <title type="html"><![CDATA[nothing crossed. The Drive.]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.054Z</updated>
+        <updated>2025-10-17T05:50:31.107Z</updated>
         <content type="html"><![CDATA[<h3 class="title">nothing crossed.</h3>
                             <p class="artist">The Drive.</p>
                             <p class="label">A Baker's Dozen</p>
@@ -288,7 +301,7 @@
         <title type="html"><![CDATA[This Is The Place Henry Grace]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.055Z</updated>
+        <updated>2025-10-17T05:50:31.108Z</updated>
         <content type="html"><![CDATA[<h3 class="title">This Is The Place</h3>
                             <p class="artist">Henry Grace</p>
                             <p class="label">At Last </p>
@@ -301,7 +314,7 @@
         <title type="html"><![CDATA[Country Girl Stella Lain]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.056Z</updated>
+        <updated>2025-10-17T05:50:31.109Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Country Girl</h3>
                             <p class="artist">Stella Lain</p>
                             <p class="label">Independent</p>
@@ -314,7 +327,7 @@
         <title type="html"><![CDATA[Gonna Break Honeybadger]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.058Z</updated>
+        <updated>2025-10-17T05:50:31.111Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Gonna Break</h3>
                             <p class="artist">Honeybadger</p>
                             <p class="label">self release</p>
@@ -327,7 +340,7 @@
         <title type="html"><![CDATA[Own Me Cameron Hayes]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.059Z</updated>
+        <updated>2025-10-17T05:50:31.112Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Own Me</h3>
                             <p class="artist">Cameron Hayes</p>
                             <p class="label">self release</p>
@@ -340,7 +353,7 @@
         <title type="html"><![CDATA[Resistance Kety Fusco]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.060Z</updated>
+        <updated>2025-10-17T05:50:31.114Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Resistance</h3>
                             <p class="artist">Kety Fusco</p>
                             <p class="label">A Tree In A Field Records</p>
@@ -353,7 +366,7 @@
         <title type="html"><![CDATA[Shine Madeleine Rose Witney]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.062Z</updated>
+        <updated>2025-10-17T05:50:31.116Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Shine</h3>
                             <p class="artist">Madeleine Rose Witney </p>
                             <p class="label">5dB Records</p>
@@ -366,7 +379,7 @@
         <title type="html"><![CDATA[Better Without Me Nelly Moar]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.063Z</updated>
+        <updated>2025-10-17T05:50:31.117Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Better Without Me</h3>
                             <p class="artist">Nelly Moar </p>
                             <p class="label">Moar Sounds</p>
@@ -379,7 +392,7 @@
         <title type="html"><![CDATA[In My Eyes Ula]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.064Z</updated>
+        <updated>2025-10-17T05:50:31.119Z</updated>
         <content type="html"><![CDATA[<h3 class="title">In My Eyes</h3>
                             <p class="artist">Ula</p>
                             <p class="label">self-release</p>
@@ -387,18 +400,5 @@
                             <br>
                             <br>
                             <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2025-09-08/in-my-eyes2025">Listen and read more</a><p></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Leave Me Hangin’ NECKBREAKERS]]></title>
-        <id>https://www.recordoftheday.com/track-archive</id>
-        <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2025-10-17T05:27:18.065Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">Don’t Leave Me Hangin’</h3>
-                            <p class="artist">NECKBREAKERS</p>
-                            <p class="label">self-released</p>
-                            <p class="date">Fri 05 September 2025</p>
-                            <br>
-                            <br>
-                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2025-09-05/dont-leave-me-hangin2025">Listen and read more</a><p></p>]]></content>
     </entry>
 </feed>
