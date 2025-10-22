@@ -45,9 +45,3 @@ titleSelector = ["h3 span.track", "h3 span.artist"]
 linkSelector = "a.apple_music_badge"
 waitUntil = "load"
 
-[radio2_playlist]
-title = "BBC Radio 2 Playlists A+B+C Combined"
-url = "https://www.bbc.co.uk/programmes/articles/2qNJsnjYFvbLrK9CZ0CfYfM/radio-2-new-music-playlist"
-entrySelector = "div.component__body > div.text--prose > p, div.component__body > div.text--prose > p > strong, div.component__body > div.text--prose > p > em"
-titleSelector = "*"
-waitUntil = "load"
