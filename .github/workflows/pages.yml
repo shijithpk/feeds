@@ -25,7 +25,8 @@ jobs:
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
     #- run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
-    - run: npx git+https://gitlab.com/vincenttunru/feed-me-up-scotty.git#main
+    #- run: npx git+https://gitlab.com/vincenttunru/feed-me-up-scotty.git#main
+    - run: npx --package="git+https://gitlab.com/vincenttunru/feed-me-up-scotty.git#main" feed-me-up-scotty
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
