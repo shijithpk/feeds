@@ -21,17 +21,17 @@ titleSelector = "a"
 linkSelector = "a"
 waitUntil = "load"
 
-[kcrw_todays_top_tune]
-title = "KCRW Todays Top Tune"
-#url = "https://www.kcrw.com/music/shows/todays-top-tune"
-#entrySelector = "div[class*='episode-Item']"
-#titleSelector = "h3[itemprop*='headline']"
-#linkSelector = "a.title-link"
-url = "https://www.kcrw.com/shows/todays-top-tune/all-episodes"
-entrySelector = "article"
-titleSelector = "h3[class*='header']"
-linkSelector = "a[class*='episodeCard']"
-waitUntil = "load"
+# [kcrw_todays_top_tune]
+# title = "KCRW Todays Top Tune"
+# #url = "https://www.kcrw.com/music/shows/todays-top-tune"
+# #entrySelector = "div[class*='episode-Item']"
+# #titleSelector = "h3[itemprop*='headline']"
+# #linkSelector = "a.title-link"
+# url = "https://www.kcrw.com/shows/todays-top-tune/all-episodes"
+# entrySelector = "article"
+# titleSelector = "h3[class*='header']"
+# linkSelector = "a[class*='episodeCard']"
+# waitUntil = "load"
 
 [rotd_uk]
 title = "Record Of The Day UK"
