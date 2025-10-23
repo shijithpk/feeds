@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.kcrw.com/music/shows/todays-top-tune</id>
+    <id>https://www.kcrw.com/shows/todays-top-tune/all-episodes</id>
     <title>KCRW Todays Top Tune</title>
-    <updated>2025-10-23T21:25:42.499Z</updated>
+    <updated>2025-10-23T21:34:06.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.kcrw.com/music/shows/favicon.ico</icon>
+    <icon>https://www.kcrw.com/shows/todays-top-tune/favicon.ico</icon>
 </feed>
