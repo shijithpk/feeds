@@ -2,7 +2,403 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.recordoftheday.com/track-archive</id>
     <title>Record Of The Day UK</title>
-    <updated>2026-02-23T17:18:39.648Z</updated>
+    <updated>2026-02-23T17:40:48.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.recordoftheday.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Something I Said HIGHDRIVE]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.750Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Something I Said</h3>
+                            <p class="artist">HIGHDRIVE</p>
+                            <p class="label">Venn Records</p>
+                            <p class="date">Mon 23 February 2026</p>
+                            <div class="controls"><div class="html5-player-box">
+
+    <audio class="html5-player" controls="" style="width: 340px;" onclick="playaudio(event);" controlslist="nodownload" id="audioElementID">
+    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2026-02-23.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+    
+     
+            </div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buck Rila's Edge]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.751Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Buck</h3>
+                            <p class="artist">Rila's Edge</p>
+                            <p class="label">self release</p>
+                            <p class="date">Fri 20 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-20/buck2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Arizona Didn’t Exist The Deadmans]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.752Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">If Arizona Didn’t Exist</h3>
+                            <p class="artist">The Deadmans</p>
+                            <p class="label">self release</p>
+                            <p class="date">Thu 19 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-19/if-arizona-didnt-exist2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Frequencies Mixed Signals]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.752Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Different Frequencies</h3>
+                            <p class="artist">Mixed Signals </p>
+                            <p class="label">Wild &amp; Free </p>
+                            <p class="date">Wed 18 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-18/different-frequencies2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Friend Big Sleep]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.753Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Old Friend</h3>
+                            <p class="artist">Big Sleep</p>
+                            <p class="label">LAB Records</p>
+                            <p class="date">Tue 17 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-17/old-friend2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covet Pollyanna Cowgirl]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.756Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Covet</h3>
+                            <p class="artist">Pollyanna Cowgirl</p>
+                            <p class="label">self release</p>
+                            <p class="date">Mon 16 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-16/covet2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Won’t Let Go Stefan Lalchev]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.756Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Won’t Let Go</h3>
+                            <p class="artist">Stefan Lalchev</p>
+                            <p class="label">self release</p>
+                            <p class="date">Fri 13 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-13/wont-let-go2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[you but different favourite daughter]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.757Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">you but different</h3>
+                            <p class="artist">favourite daughter </p>
+                            <p class="label">self release</p>
+                            <p class="date">Thu 12 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-12/you-but-different2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Bad Blood Mauro Brenner]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.758Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">No Bad Blood</h3>
+                            <p class="artist">Mauro Brenner</p>
+                            <p class="label">self release</p>
+                            <p class="date">Wed 11 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-11/no-bad-blood2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foxglove Andervel]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.761Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Foxglove</h3>
+                            <p class="artist">Andervel</p>
+                            <p class="label">self release</p>
+                            <p class="date">Tue 10 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-10/foxglove2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PLM Lala Hayden]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.762Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">PLM</h3>
+                            <p class="artist">Lala Hayden</p>
+                            <p class="label">Goldun Egg</p>
+                            <p class="date">Mon 09 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-09/plm2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tell me what you want Sasha Keable]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.765Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">tell me what you want</h3>
+                            <p class="artist">Sasha Keable</p>
+                            <p class="label">Flight Club/RCA UK </p>
+                            <p class="date">Fri 06 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-06/tell-me-what-you-want2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Your Heart Alive Onelight feat. Tristan Price]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.767Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Keep Your Heart Alive</h3>
+                            <p class="artist">Onelight feat. Tristan Price</p>
+                            <p class="label">Independent</p>
+                            <p class="date">Thu 05 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-05/keep-your-heart-alive2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sing For Me Liv Bloore]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.767Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Sing For Me</h3>
+                            <p class="artist">Liv Bloore</p>
+                            <p class="label">self release</p>
+                            <p class="date">Wed 04 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-04/sing-for-me2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love In The Dark Lisa Rogers]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.768Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Love In The Dark</h3>
+                            <p class="artist">Lisa Rogers</p>
+                            <p class="label">self release</p>
+                            <p class="date">Tue 03 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-03/love-in-the-dark2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complicity Ascension]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.769Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Complicity</h3>
+                            <p class="artist">Ascension</p>
+                            <p class="label">self release</p>
+                            <p class="date">Mon 02 February 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-02-02/complicity2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High IVY]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.771Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">High</h3>
+                            <p class="artist">IVY</p>
+                            <p class="label">self release</p>
+                            <p class="date">Fri 30 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-30/high2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So Better Now Chest]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.772Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">So Better Now</h3>
+                            <p class="artist">Chest</p>
+                            <p class="label">self release</p>
+                            <p class="date">Thu 29 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-29/so-better-now">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leap Jasmine Power]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.773Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Leap</h3>
+                            <p class="artist">Jasmine Power</p>
+                            <p class="label">Jasmine Power Music</p>
+                            <p class="date">Wed 28 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-28/leap2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell Me Louis Oliver]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.775Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Tell Me</h3>
+                            <p class="artist">Louis Oliver</p>
+                            <p class="label">self release</p>
+                            <p class="date">Tue 27 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-27/tell-me2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boy And The Swan Bird]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.776Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">The Boy And The Swan</h3>
+                            <p class="artist">Bird</p>
+                            <p class="label">Pop Fiction/AWAL</p>
+                            <p class="date">Mon 26 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-26/the-boy-and-the-swan2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sugar On My Lips Iris Gold]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.777Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Sugar On My Lips</h3>
+                            <p class="artist">Iris Gold</p>
+                            <p class="label">GL Music Entertainment A/S</p>
+                            <p class="date">Fri 23 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-23/sugar-on-my-lips2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Still Miss You Sarah Nimmo]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.778Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">I Still Miss You</h3>
+                            <p class="artist">Sarah Nimmo </p>
+                            <p class="label">self release</p>
+                            <p class="date">Thu 22 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-22/i-still-miss-you2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problems In My Head WHO SHOT SCOTT]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.779Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Problems In My Head</h3>
+                            <p class="artist">WHO SHOT SCOTT</p>
+                            <p class="label">self release</p>
+                            <p class="date">Wed 21 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-21/problems-in-my-head2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Infected mind RIVER]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.780Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Infected mind</h3>
+                            <p class="artist">RIVER</p>
+                            <p class="label">Wife</p>
+                            <p class="date">Tue 20 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-20/infected-mind2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrations Reem Mitten]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.782Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Celebrations</h3>
+                            <p class="artist">Reem Mitten</p>
+                            <p class="label">self release</p>
+                            <p class="date">Mon 19 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-19/celebrations2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You & I Les Imprimés]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.783Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">You &amp; I</h3>
+                            <p class="artist">Les Imprimés</p>
+                            <p class="label">Big Crown</p>
+                            <p class="date">Fri 16 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-16/you-i2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficiency Konradsen]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.784Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Efficiency</h3>
+                            <p class="artist">Konradsen</p>
+                            <p class="label">777 Music</p>
+                            <p class="date">Thu 15 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-15/efficiency2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nice Kid The Deadmans]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.785Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Nice Kid</h3>
+                            <p class="artist">The Deadmans</p>
+                            <p class="label">self release</p>
+                            <p class="date">Wed 14 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-14/nice-kid2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everythinglessness Alexander Wolfe]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-02-23T17:40:43.786Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Everythinglessness</h3>
+                            <p class="artist">Alexander Wolfe</p>
+                            <p class="label">Dharma Records</p>
+                            <p class="date">Tue 13 January 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-01-13/everythinglessness2026">Listen and read more</a><p></p>]]></content>
+    </entry>
 </feed>
