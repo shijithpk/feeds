@@ -2,281 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shijithpk.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-30T10:57:20.421Z</updated>
+    <updated>2026-04-30T11:53:06.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Investors Buy the Dip as Equity Mutual Fund Flows Jump in March (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76837/investors-buy-the-dip-as-equity-mutual-fund-flows-jump-in-march.aspx</id>
-        <link href="https://www.morningstar.in/posts/76837/investors-buy-the-dip-as-equity-mutual-fund-flows-jump-in-march.aspx"/>
-        <updated>2026-04-30T10:57:07.538Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76837/investors-buy-the-dip-as-equity-mutual-fund-flows-jump-in-march.aspx" title="Investors Buy the Dip as Equity Mutual Fund Flows Jump in March">
-										Investors Buy the Dip as Equity Mutual Fund Flows Jump in March
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MUTUAL FUNDS (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/mutual-funds.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/mutual-funds.aspx"/>
-        <updated>2026-04-30T10:57:07.544Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/mutual-funds.aspx" title="MUTUAL FUNDS">
-										MUTUAL FUNDS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
-        <updated>2026-04-30T10:57:07.545Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
-										Himanshu Srivastava
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.348Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Apr 14, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best of Breed—India: Morningstar's Highest-Conviction Equity Fund Picks (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76833/best-of-breed-india-morningstars-highest-conviction-equity-fund-picks.aspx</id>
-        <link href="https://www.morningstar.in/posts/76833/best-of-breed-india-morningstars-highest-conviction-equity-fund-picks.aspx"/>
-        <updated>2026-04-30T10:57:07.545Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76833/best-of-breed-india-morningstars-highest-conviction-equity-fund-picks.aspx" title="Best of Breed—India: Morningstar's Highest-Conviction Equity Fund Picks">
-										Best of Breed—India: Morningstar's Highest-Conviction Equity Fund Picks
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.545Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
-        <updated>2026-04-30T10:57:07.547Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
-										Nehal Meshram
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Apr 07, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resilient Equity Flows & Pick-up in Debt Flows: What AMFI Data Reveals (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76823/resilient-equity-flows-pick-up-in-debt-flows-what-amfi-data-reveals.aspx</id>
-        <link href="https://www.morningstar.in/posts/76823/resilient-equity-flows-pick-up-in-debt-flows-what-amfi-data-reveals.aspx"/>
-        <updated>2026-04-30T10:57:07.547Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76823/resilient-equity-flows-pick-up-in-debt-flows-what-amfi-data-reveals.aspx" title="Resilient Equity Flows &amp; Pick-up in Debt Flows: What AMFI Data Reveals">
-										Resilient Equity Flows &amp; Pick-up in Debt Flows: What AMFI Data Reveals
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.547Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
-        <updated>2026-04-30T10:57:07.547Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
-										Himanshu Srivastava
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Apr 02, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India ETF Flows Hit Record Highs in 2025 as Precious Metals Lead the Surge (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76817/india-etf-flows-hit-record-highs-in-2025-as-precious-metals-lead-the-surge.aspx</id>
-        <link href="https://www.morningstar.in/posts/76817/india-etf-flows-hit-record-highs-in-2025-as-precious-metals-lead-the-surge.aspx"/>
-        <updated>2026-04-30T10:57:07.547Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76817/india-etf-flows-hit-record-highs-in-2025-as-precious-metals-lead-the-surge.aspx" title="India ETF Flows Hit Record Highs in 2025 as Precious Metals Lead the Surge">
-										India ETF Flows Hit Record Highs in 2025 as Precious Metals Lead the Surge
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.547Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
-        <updated>2026-04-30T10:57:07.548Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
-										Nehal Meshram
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Apr 01, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting 2026 on the Right Foot - How Indian Fund Managers Are Positioned for the Year Ahead (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76812/starting-2026-on-the-right-foot-how-indian-fund-managers-are-positioned-for-the-year-ahead.aspx</id>
-        <link href="https://www.morningstar.in/posts/76812/starting-2026-on-the-right-foot-how-indian-fund-managers-are-positioned-for-the-year-ahead.aspx"/>
-        <updated>2026-04-30T10:57:07.549Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76812/starting-2026-on-the-right-foot-how-indian-fund-managers-are-positioned-for-the-year-ahead.aspx" title="Starting 2026 on the Right Foot - How Indian Fund Managers Are Positioned for the Year Ahead">
-										Starting 2026 on the Right Foot - How Indian Fund Managers Are Positioned for the Year Ahead
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.550Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
-        <updated>2026-04-30T10:57:07.552Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
-										Himanshu Srivastava
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Mar 31, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India-Focused Offshore Funds: Volatility, Outflows, and Tactical Repositioning (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76808/india-focused-offshore-funds-volatility-outflows-and-tactical-repositioning.aspx</id>
-        <link href="https://www.morningstar.in/posts/76808/india-focused-offshore-funds-volatility-outflows-and-tactical-repositioning.aspx"/>
-        <updated>2026-04-30T10:57:07.553Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76808/india-focused-offshore-funds-volatility-outflows-and-tactical-repositioning.aspx" title="India-Focused Offshore Funds: Volatility, Outflows, and Tactical Repositioning">
-										India-Focused Offshore Funds: Volatility, Outflows, and Tactical Repositioning
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.554Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
-        <updated>2026-04-30T10:57:07.556Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
-										Himanshu Srivastava
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Mar 31, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winners of 2026 Morningstar Awards for Investing Excellence (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76804/winners-of-2026-morningstar-awards-for-investing-excellence.aspx</id>
-        <link href="https://www.morningstar.in/posts/76804/winners-of-2026-morningstar-awards-for-investing-excellence.aspx"/>
-        <updated>2026-04-30T10:57:07.561Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76804/winners-of-2026-morningstar-awards-for-investing-excellence.aspx" title="Winners of 2026 Morningstar Awards for Investing Excellence">
-										Winners of 2026 Morningstar Awards for Investing Excellence
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUND AWARDS (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/fund-awards.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/fund-awards.aspx"/>
-        <updated>2026-04-30T10:57:07.561Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/fund-awards.aspx" title="FUND AWARDS">
-										FUND AWARDS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandana Ratwani (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/vandana-ratwani.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/vandana-ratwani.aspx"/>
-        <updated>2026-04-30T10:57:07.561Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/vandana-ratwani.aspx" title="Vandana Ratwani">
-										Vandana Ratwani
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Mar 17, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing New Server Instance (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76798/testing-new-server-instance.aspx</id>
-        <link href="https://www.morningstar.in/posts/76798/testing-new-server-instance.aspx"/>
-        <updated>2026-04-30T10:57:07.563Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76798/testing-new-server-instance.aspx" title="Testing New Server Instance">
-										Testing New Server Instance
+        <title type="html"><![CDATA[Test Article after MySQL version upgrade (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76845/test-article-after-mysql-version-upgrade.aspx</id>
+        <link href="https://www.morningstar.in/posts/76845/test-article-after-mysql-version-upgrade.aspx"/>
+        <updated>2026-04-30T11:52:52.692Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76845/test-article-after-mysql-version-upgrade.aspx" title="Test Article after MySQL version upgrade">
+										Test Article after MySQL version upgrade
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TestCategoryForNewInstance (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/collection/testcategoryfornewinstance.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/testcategoryfornewinstance.aspx"/>
-        <updated>2026-04-30T10:57:07.564Z</updated>
+        <updated>2026-04-30T11:52:52.692Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/testcategoryfornewinstance.aspx" title="TestCategoryForNewInstance">
 										TestCategoryForNewInstance
@@ -286,7 +27,7 @@
         <title type="html"><![CDATA[ (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/author/.aspx</id>
         <link href="https://www.morningstar.in/posts/author/.aspx"/>
-        <updated>2026-04-30T10:57:07.566Z</updated>
+        <updated>2026-04-30T11:52:52.693Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/.aspx" title="">
 										
@@ -296,219 +37,34 @@
         <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
+        <updated>2026-04-30T11:52:52.487Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Mar 15, 2026]]></content>
+									Apr 30, 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Asian Equities: Risks Are Rising as Iran War Disruptions Widen (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76788/asian-equities-risks-are-rising-as-iran-war-disruptions-widen.aspx</id>
-        <link href="https://www.morningstar.in/posts/76788/asian-equities-risks-are-rising-as-iran-war-disruptions-widen.aspx"/>
-        <updated>2026-04-30T10:57:07.567Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76788/asian-equities-risks-are-rising-as-iran-war-disruptions-widen.aspx" title="Asian Equities: Risks Are Rising as Iran War Disruptions Widen">
-										Asian Equities: Risks Are Rising as Iran War Disruptions Widen
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.569Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morningstar (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2026-04-30T10:57:07.570Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
-										Morningstar 
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Mar 11, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prominent Women Investors in India's Competitive Fund Industry (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76777/prominent-women-investors-in-indias-competitive-fund-industry.aspx</id>
-        <link href="https://www.morningstar.in/posts/76777/prominent-women-investors-in-indias-competitive-fund-industry.aspx"/>
-        <updated>2026-04-30T10:57:07.571Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76777/prominent-women-investors-in-indias-competitive-fund-industry.aspx" title="Prominent Women Investors in India's Competitive Fund Industry">
-										Prominent Women Investors in India's Competitive Fund Industry
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
-        <updated>2026-04-30T10:57:07.573Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
-										INSIGHTS AND PERSPECTIVES
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
-        <updated>2026-04-30T10:57:07.574Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
-										Nehal Meshram
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Mar 06, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nominees for Morningstar Fund Awards 2026 (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76774/nominees-for-morningstar-fund-awards-2026.aspx</id>
-        <link href="https://www.morningstar.in/posts/76774/nominees-for-morningstar-fund-awards-2026.aspx"/>
-        <updated>2026-04-30T10:57:07.575Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76774/nominees-for-morningstar-fund-awards-2026.aspx" title="Nominees for Morningstar Fund Awards 2026">
-										Nominees for Morningstar Fund Awards 2026
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUND AWARDS (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/fund-awards.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/fund-awards.aspx"/>
-        <updated>2026-04-30T10:57:07.577Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/fund-awards.aspx" title="FUND AWARDS">
-										FUND AWARDS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandana Ratwani (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/vandana-ratwani.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/vandana-ratwani.aspx"/>
-        <updated>2026-04-30T10:57:07.578Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/vandana-ratwani.aspx" title="Vandana Ratwani">
-										Vandana Ratwani
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Feb 26, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 18th Edition of Morningstar Fund Awards is here! (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76770/the-18th-edition-of-morningstar-fund-awards-is-here.aspx</id>
-        <link href="https://www.morningstar.in/posts/76770/the-18th-edition-of-morningstar-fund-awards-is-here.aspx"/>
-        <updated>2026-04-30T10:57:07.579Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76770/the-18th-edition-of-morningstar-fund-awards-is-here.aspx" title="The 18th Edition of Morningstar Fund Awards is here!">
-										The 18th Edition of Morningstar Fund Awards is here!
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FUND AWARDS (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/fund-awards.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/fund-awards.aspx"/>
-        <updated>2026-04-30T10:57:07.584Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/fund-awards.aspx" title="FUND AWARDS">
-										FUND AWARDS
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vandana Ratwani (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/vandana-ratwani.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/vandana-ratwani.aspx"/>
-        <updated>2026-04-30T10:57:07.585Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/vandana-ratwani.aspx" title="Vandana Ratwani">
-										Vandana Ratwani
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Feb 18, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asia ex-Japan Sustainable Fund Flows: Q4 2025 in Review (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76756/asia-ex-japan-sustainable-fund-flows-q4-2025-in-review.aspx</id>
-        <link href="https://www.morningstar.in/posts/76756/asia-ex-japan-sustainable-fund-flows-q4-2025-in-review.aspx"/>
-        <updated>2026-04-30T10:57:07.586Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76756/asia-ex-japan-sustainable-fund-flows-q4-2025-in-review.aspx" title="Asia ex-Japan Sustainable Fund Flows: Q4 2025 in Review">
-										Asia ex-Japan Sustainable Fund Flows: Q4 2025 in Review
+        <title type="html"><![CDATA[Investors Buy the Dip as Equity Mutual Fund Flows Jump in March (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76837/investors-buy-the-dip-as-equity-mutual-fund-flows-jump-in-march.aspx</id>
+        <link href="https://www.morningstar.in/posts/76837/investors-buy-the-dip-as-equity-mutual-fund-flows-jump-in-march.aspx"/>
+        <updated>2026-04-30T11:52:52.704Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76837/investors-buy-the-dip-as-equity-mutual-fund-flows-jump-in-march.aspx" title="Investors Buy the Dip as Equity Mutual Fund Flows Jump in March">
+										Investors Buy the Dip as Equity Mutual Fund Flows Jump in March
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MUTUAL FUNDS (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/collection/mutual-funds.aspx</id>
         <link href="https://www.morningstar.in/posts/collection/mutual-funds.aspx"/>
-        <updated>2026-04-30T10:57:07.588Z</updated>
+        <updated>2026-04-30T11:52:52.704Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
 									<a href="/posts/collection/mutual-funds.aspx" title="MUTUAL FUNDS">
 										MUTUAL FUNDS
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morningstar (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
-        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
-        <updated>2026-04-30T10:57:07.589Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
-									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
-										Morningstar 
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
-        <id>https://shijithpk.github.io/feeds/all.xml</id>
-        <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.349Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Feb 09, 2026]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New at this Year's MIC (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76752/whats-new-at-this-years-mic.aspx</id>
-        <link href="https://www.morningstar.in/posts/76752/whats-new-at-this-years-mic.aspx"/>
-        <updated>2026-04-30T10:57:07.590Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76752/whats-new-at-this-years-mic.aspx" title="What's New at this Year's MIC">
-										What's New at this Year's MIC
-									</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONFERENCES AND FORUMS (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/conferences-and-forums.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/conferences-and-forums.aspx"/>
-        <updated>2026-04-30T10:57:07.593Z</updated>
-        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/conferences-and-forums.aspx" title="CONFERENCES AND FORUMS">
-										CONFERENCES AND FORUMS
-									</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
         <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
-        <updated>2026-04-30T10:57:07.593Z</updated>
+        <updated>2026-04-30T11:52:52.704Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
 										Himanshu Srivastava
@@ -518,34 +74,34 @@
         <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.353Z</updated>
+        <updated>2026-04-30T11:52:52.488Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
-									Oct 24, 2025]]></content>
+									Apr 14, 2026]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's in store at the Morningstar Investment Conference 2025 (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/76748/whats-in-store-at-the-morningstar-investment-conference-2025.aspx</id>
-        <link href="https://www.morningstar.in/posts/76748/whats-in-store-at-the-morningstar-investment-conference-2025.aspx"/>
-        <updated>2026-04-30T10:57:07.596Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/76748/whats-in-store-at-the-morningstar-investment-conference-2025.aspx" title="What's in store at the Morningstar Investment Conference 2025">
-										What's in store at the Morningstar Investment Conference 2025
+        <title type="html"><![CDATA[Best of Breed—India: Morningstar's Highest-Conviction Equity Fund Picks (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76833/best-of-breed-india-morningstars-highest-conviction-equity-fund-picks.aspx</id>
+        <link href="https://www.morningstar.in/posts/76833/best-of-breed-india-morningstars-highest-conviction-equity-fund-picks.aspx"/>
+        <updated>2026-04-30T11:52:52.704Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76833/best-of-breed-india-morningstars-highest-conviction-equity-fund-picks.aspx" title="Best of Breed—India: Morningstar's Highest-Conviction Equity Fund Picks">
+										Best of Breed—India: Morningstar's Highest-Conviction Equity Fund Picks
 									</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CONFERENCES AND FORUMS (Morningstar India articles)]]></title>
-        <id>https://www.morningstar.in/posts/collection/conferences-and-forums.aspx</id>
-        <link href="https://www.morningstar.in/posts/collection/conferences-and-forums.aspx"/>
-        <updated>2026-04-30T10:57:07.597Z</updated>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.704Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
-									<a href="/posts/collection/conferences-and-forums.aspx" title="CONFERENCES AND FORUMS">
-										CONFERENCES AND FORUMS
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
 									</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
         <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
         <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
-        <updated>2026-04-30T10:57:07.599Z</updated>
+        <updated>2026-04-30T11:52:52.704Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
 									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
 										Nehal Meshram
@@ -555,7 +111,488 @@
         <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:07.353Z</updated>
+        <updated>2026-04-30T11:52:52.488Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Apr 07, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resilient Equity Flows & Pick-up in Debt Flows: What AMFI Data Reveals (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76823/resilient-equity-flows-pick-up-in-debt-flows-what-amfi-data-reveals.aspx</id>
+        <link href="https://www.morningstar.in/posts/76823/resilient-equity-flows-pick-up-in-debt-flows-what-amfi-data-reveals.aspx"/>
+        <updated>2026-04-30T11:52:52.707Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76823/resilient-equity-flows-pick-up-in-debt-flows-what-amfi-data-reveals.aspx" title="Resilient Equity Flows &amp; Pick-up in Debt Flows: What AMFI Data Reveals">
+										Resilient Equity Flows &amp; Pick-up in Debt Flows: What AMFI Data Reveals
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.707Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
+        <updated>2026-04-30T11:52:52.707Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
+										Himanshu Srivastava
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.488Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Apr 02, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India ETF Flows Hit Record Highs in 2025 as Precious Metals Lead the Surge (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76817/india-etf-flows-hit-record-highs-in-2025-as-precious-metals-lead-the-surge.aspx</id>
+        <link href="https://www.morningstar.in/posts/76817/india-etf-flows-hit-record-highs-in-2025-as-precious-metals-lead-the-surge.aspx"/>
+        <updated>2026-04-30T11:52:52.707Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76817/india-etf-flows-hit-record-highs-in-2025-as-precious-metals-lead-the-surge.aspx" title="India ETF Flows Hit Record Highs in 2025 as Precious Metals Lead the Surge">
+										India ETF Flows Hit Record Highs in 2025 as Precious Metals Lead the Surge
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.710Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
+        <updated>2026-04-30T11:52:52.711Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
+										Nehal Meshram
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.488Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Apr 01, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting 2026 on the Right Foot - How Indian Fund Managers Are Positioned for the Year Ahead (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76812/starting-2026-on-the-right-foot-how-indian-fund-managers-are-positioned-for-the-year-ahead.aspx</id>
+        <link href="https://www.morningstar.in/posts/76812/starting-2026-on-the-right-foot-how-indian-fund-managers-are-positioned-for-the-year-ahead.aspx"/>
+        <updated>2026-04-30T11:52:52.711Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76812/starting-2026-on-the-right-foot-how-indian-fund-managers-are-positioned-for-the-year-ahead.aspx" title="Starting 2026 on the Right Foot - How Indian Fund Managers Are Positioned for the Year Ahead">
+										Starting 2026 on the Right Foot - How Indian Fund Managers Are Positioned for the Year Ahead
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.711Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
+        <updated>2026-04-30T11:52:52.711Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
+										Himanshu Srivastava
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.488Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Mar 31, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India-Focused Offshore Funds: Volatility, Outflows, and Tactical Repositioning (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76808/india-focused-offshore-funds-volatility-outflows-and-tactical-repositioning.aspx</id>
+        <link href="https://www.morningstar.in/posts/76808/india-focused-offshore-funds-volatility-outflows-and-tactical-repositioning.aspx"/>
+        <updated>2026-04-30T11:52:52.716Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76808/india-focused-offshore-funds-volatility-outflows-and-tactical-repositioning.aspx" title="India-Focused Offshore Funds: Volatility, Outflows, and Tactical Repositioning">
+										India-Focused Offshore Funds: Volatility, Outflows, and Tactical Repositioning
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.717Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
+        <updated>2026-04-30T11:52:52.717Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
+										Himanshu Srivastava
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.488Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Mar 31, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winners of 2026 Morningstar Awards for Investing Excellence (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76804/winners-of-2026-morningstar-awards-for-investing-excellence.aspx</id>
+        <link href="https://www.morningstar.in/posts/76804/winners-of-2026-morningstar-awards-for-investing-excellence.aspx"/>
+        <updated>2026-04-30T11:52:52.717Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76804/winners-of-2026-morningstar-awards-for-investing-excellence.aspx" title="Winners of 2026 Morningstar Awards for Investing Excellence">
+										Winners of 2026 Morningstar Awards for Investing Excellence
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUND AWARDS (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/fund-awards.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/fund-awards.aspx"/>
+        <updated>2026-04-30T11:52:52.717Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/fund-awards.aspx" title="FUND AWARDS">
+										FUND AWARDS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandana Ratwani (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/vandana-ratwani.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/vandana-ratwani.aspx"/>
+        <updated>2026-04-30T11:52:52.718Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/vandana-ratwani.aspx" title="Vandana Ratwani">
+										Vandana Ratwani
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.489Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Mar 17, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing New Server Instance (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76798/testing-new-server-instance.aspx</id>
+        <link href="https://www.morningstar.in/posts/76798/testing-new-server-instance.aspx"/>
+        <updated>2026-04-30T11:52:52.719Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76798/testing-new-server-instance.aspx" title="Testing New Server Instance">
+										Testing New Server Instance
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TestCategoryForNewInstance (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/testcategoryfornewinstance.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/testcategoryfornewinstance.aspx"/>
+        <updated>2026-04-30T11:52:52.720Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/testcategoryfornewinstance.aspx" title="TestCategoryForNewInstance">
+										TestCategoryForNewInstance
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/.aspx"/>
+        <updated>2026-04-30T11:52:52.721Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/.aspx" title="">
+										
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.490Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Mar 15, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asian Equities: Risks Are Rising as Iran War Disruptions Widen (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76788/asian-equities-risks-are-rising-as-iran-war-disruptions-widen.aspx</id>
+        <link href="https://www.morningstar.in/posts/76788/asian-equities-risks-are-rising-as-iran-war-disruptions-widen.aspx"/>
+        <updated>2026-04-30T11:52:52.723Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76788/asian-equities-risks-are-rising-as-iran-war-disruptions-widen.aspx" title="Asian Equities: Risks Are Rising as Iran War Disruptions Widen">
+										Asian Equities: Risks Are Rising as Iran War Disruptions Widen
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.724Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morningstar (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
+        <updated>2026-04-30T11:52:52.725Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
+										Morningstar 
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.490Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Mar 11, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prominent Women Investors in India's Competitive Fund Industry (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76777/prominent-women-investors-in-indias-competitive-fund-industry.aspx</id>
+        <link href="https://www.morningstar.in/posts/76777/prominent-women-investors-in-indias-competitive-fund-industry.aspx"/>
+        <updated>2026-04-30T11:52:52.727Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76777/prominent-women-investors-in-indias-competitive-fund-industry.aspx" title="Prominent Women Investors in India's Competitive Fund Industry">
+										Prominent Women Investors in India's Competitive Fund Industry
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[INSIGHTS AND PERSPECTIVES (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/insights-and-perspectives.aspx"/>
+        <updated>2026-04-30T11:52:52.728Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/insights-and-perspectives.aspx" title="INSIGHTS AND PERSPECTIVES">
+										INSIGHTS AND PERSPECTIVES
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
+        <updated>2026-04-30T11:52:52.731Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
+										Nehal Meshram
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.490Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Mar 06, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nominees for Morningstar Fund Awards 2026 (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76774/nominees-for-morningstar-fund-awards-2026.aspx</id>
+        <link href="https://www.morningstar.in/posts/76774/nominees-for-morningstar-fund-awards-2026.aspx"/>
+        <updated>2026-04-30T11:52:52.731Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76774/nominees-for-morningstar-fund-awards-2026.aspx" title="Nominees for Morningstar Fund Awards 2026">
+										Nominees for Morningstar Fund Awards 2026
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUND AWARDS (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/fund-awards.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/fund-awards.aspx"/>
+        <updated>2026-04-30T11:52:52.733Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/fund-awards.aspx" title="FUND AWARDS">
+										FUND AWARDS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandana Ratwani (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/vandana-ratwani.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/vandana-ratwani.aspx"/>
+        <updated>2026-04-30T11:52:52.738Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/vandana-ratwani.aspx" title="Vandana Ratwani">
+										Vandana Ratwani
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.493Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Feb 26, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 18th Edition of Morningstar Fund Awards is here! (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76770/the-18th-edition-of-morningstar-fund-awards-is-here.aspx</id>
+        <link href="https://www.morningstar.in/posts/76770/the-18th-edition-of-morningstar-fund-awards-is-here.aspx"/>
+        <updated>2026-04-30T11:52:52.739Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76770/the-18th-edition-of-morningstar-fund-awards-is-here.aspx" title="The 18th Edition of Morningstar Fund Awards is here!">
+										The 18th Edition of Morningstar Fund Awards is here!
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUND AWARDS (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/fund-awards.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/fund-awards.aspx"/>
+        <updated>2026-04-30T11:52:52.739Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/fund-awards.aspx" title="FUND AWARDS">
+										FUND AWARDS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vandana Ratwani (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/vandana-ratwani.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/vandana-ratwani.aspx"/>
+        <updated>2026-04-30T11:52:52.739Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/vandana-ratwani.aspx" title="Vandana Ratwani">
+										Vandana Ratwani
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.493Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Feb 18, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia ex-Japan Sustainable Fund Flows: Q4 2025 in Review (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76756/asia-ex-japan-sustainable-fund-flows-q4-2025-in-review.aspx</id>
+        <link href="https://www.morningstar.in/posts/76756/asia-ex-japan-sustainable-fund-flows-q4-2025-in-review.aspx"/>
+        <updated>2026-04-30T11:52:52.739Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76756/asia-ex-japan-sustainable-fund-flows-q4-2025-in-review.aspx" title="Asia ex-Japan Sustainable Fund Flows: Q4 2025 in Review">
+										Asia ex-Japan Sustainable Fund Flows: Q4 2025 in Review
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MUTUAL FUNDS (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/mutual-funds.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/mutual-funds.aspx"/>
+        <updated>2026-04-30T11:52:52.740Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/mutual-funds.aspx" title="MUTUAL FUNDS">
+										MUTUAL FUNDS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morningstar (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/morningstar.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/morningstar.aspx"/>
+        <updated>2026-04-30T11:52:52.741Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/morningstar.aspx" title="Morningstar ">
+										Morningstar 
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.493Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Feb 09, 2026]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New at this Year's MIC (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76752/whats-new-at-this-years-mic.aspx</id>
+        <link href="https://www.morningstar.in/posts/76752/whats-new-at-this-years-mic.aspx"/>
+        <updated>2026-04-30T11:52:52.743Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76752/whats-new-at-this-years-mic.aspx" title="What's New at this Year's MIC">
+										What's New at this Year's MIC
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFERENCES AND FORUMS (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/conferences-and-forums.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/conferences-and-forums.aspx"/>
+        <updated>2026-04-30T11:52:52.744Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/conferences-and-forums.aspx" title="CONFERENCES AND FORUMS">
+										CONFERENCES AND FORUMS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Himanshu Srivastava (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/himanshu-srivastava.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/himanshu-srivastava.aspx"/>
+        <updated>2026-04-30T11:52:52.746Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/himanshu-srivastava.aspx" title="Himanshu Srivastava">
+										Himanshu Srivastava
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.493Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
+									Oct 24, 2025]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's in store at the Morningstar Investment Conference 2025 (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/76748/whats-in-store-at-the-morningstar-investment-conference-2025.aspx</id>
+        <link href="https://www.morningstar.in/posts/76748/whats-in-store-at-the-morningstar-investment-conference-2025.aspx"/>
+        <updated>2026-04-30T11:52:52.747Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/76748/whats-in-store-at-the-morningstar-investment-conference-2025.aspx" title="What's in store at the Morningstar Investment Conference 2025">
+										What's in store at the Morningstar Investment Conference 2025
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONFERENCES AND FORUMS (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/collection/conferences-and-forums.aspx</id>
+        <link href="https://www.morningstar.in/posts/collection/conferences-and-forums.aspx"/>
+        <updated>2026-04-30T11:52:52.748Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Collection : </span>
+									<a href="/posts/collection/conferences-and-forums.aspx" title="CONFERENCES AND FORUMS">
+										CONFERENCES AND FORUMS
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nehal Meshram (Morningstar India articles)]]></title>
+        <id>https://www.morningstar.in/posts/author/nehal-meshram.aspx</id>
+        <link href="https://www.morningstar.in/posts/author/nehal-meshram.aspx"/>
+        <updated>2026-04-30T11:52:52.749Z</updated>
+        <content type="html"><![CDATA[<span class="tiles-label">Author : </span>
+									<a href="/posts/author/nehal-meshram.aspx" title="Nehal Meshram">
+										Nehal Meshram
+									</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Morningstar India articles)]]></title>
+        <id>https://shijithpk.github.io/feeds/all.xml</id>
+        <link href="https://shijithpk.github.io/feeds/all.xml"/>
+        <updated>2026-04-30T11:52:52.493Z</updated>
         <content type="html"><![CDATA[<span class="tiles-label">Date : </span>
 									Oct 15, 2025]]></content>
     </entry>
@@ -563,7 +600,7 @@
         <title type="html"><![CDATA[Clase Kybba (WML) and Lion Fiah, Rafa Pabon, Kensel feat. Citriem (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.881Z</updated>
+        <updated>2026-04-30T11:53:00.841Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Clase</h3>
                             <p class="artist">Kybba (WML) and Lion Fiah, Rafa Pabon, Kensel feat. Citriem</p>
                             <p class="label">Warner Music Latina </p>
@@ -582,7 +619,7 @@
         <title type="html"><![CDATA[Nothing Safe Is Technicolour Night Swimming (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.881Z</updated>
+        <updated>2026-04-30T11:53:00.841Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Nothing Safe Is Technicolour</h3>
                             <p class="artist">Night Swimming</p>
                             <p class="label">Venn Records</p>
@@ -595,7 +632,7 @@
         <title type="html"><![CDATA[Where It Ends Stil Life (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.881Z</updated>
+        <updated>2026-04-30T11:53:00.842Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Where It Ends</h3>
                             <p class="artist">Stil Life</p>
                             <p class="label">SOAP Music</p>
@@ -608,7 +645,7 @@
         <title type="html"><![CDATA[Haunted Johnny Depp & Imelda May (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.881Z</updated>
+        <updated>2026-04-30T11:53:00.842Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Haunted</h3>
                             <p class="artist">Johnny Depp &amp; Imelda May</p>
                             <p class="label">Rubyworks</p>
@@ -621,7 +658,7 @@
         <title type="html"><![CDATA[Automatic Darcy Rose (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.882Z</updated>
+        <updated>2026-04-30T11:53:00.842Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Automatic</h3>
                             <p class="artist">Darcy Rose</p>
                             <p class="label">Red Sun Records</p>
@@ -634,7 +671,7 @@
         <title type="html"><![CDATA[Limoncello River Baby Smith (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.882Z</updated>
+        <updated>2026-04-30T11:53:00.843Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Limoncello River</h3>
                             <p class="artist">Baby Smith</p>
                             <p class="label">Baby Smith</p>
@@ -647,7 +684,7 @@
         <title type="html"><![CDATA[Don’t Lose Yourself MADELEINE (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.882Z</updated>
+        <updated>2026-04-30T11:53:00.844Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Don’t Lose Yourself</h3>
                             <p class="artist">MADELEINE</p>
                             <p class="label">Bridge The Gap</p>
@@ -660,7 +697,7 @@
         <title type="html"><![CDATA[Written On Me Bea Elmy Martin (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.884Z</updated>
+        <updated>2026-04-30T11:53:00.846Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Written On Me</h3>
                             <p class="artist">Bea Elmy Martin</p>
                             <p class="label">Indigo Kin</p>
@@ -673,7 +710,7 @@
         <title type="html"><![CDATA[Meet On The Moon Alex Amor (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.885Z</updated>
+        <updated>2026-04-30T11:53:00.847Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Meet On The Moon</h3>
                             <p class="artist">Alex Amor</p>
                             <p class="label">VERO Music</p>
@@ -686,7 +723,7 @@
         <title type="html"><![CDATA[Rational Fiona-Lee (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.887Z</updated>
+        <updated>2026-04-30T11:53:00.848Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Rational</h3>
                             <p class="artist">Fiona-Lee</p>
                             <p class="label">Gravity Records/Capitol Records UK</p>
@@ -699,7 +736,7 @@
         <title type="html"><![CDATA[Coalminer’s Granddaughter CHROMA (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.889Z</updated>
+        <updated>2026-04-30T11:53:00.850Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Coalminer’s Granddaughter</h3>
                             <p class="artist">CHROMA</p>
                             <p class="label">Alcopop! Records</p>
@@ -712,7 +749,7 @@
         <title type="html"><![CDATA[Ballerina Silent Addy, Rema, Skillibeng, Disco Neil (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.890Z</updated>
+        <updated>2026-04-30T11:53:00.851Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Ballerina</h3>
                             <p class="artist">Silent Addy, Rema, Skillibeng, Disco Neil</p>
                             <p class="label">Bashment</p>
@@ -725,7 +762,7 @@
         <title type="html"><![CDATA[Choosin' Texas Ella Langley (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.893Z</updated>
+        <updated>2026-04-30T11:53:00.854Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Choosin' Texas</h3>
                             <p class="artist">Ella Langley</p>
                             <p class="label">Columbia Records UK</p>
@@ -738,7 +775,7 @@
         <title type="html"><![CDATA[Wonderluv IZCO (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.893Z</updated>
+        <updated>2026-04-30T11:53:00.855Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Wonderluv</h3>
                             <p class="artist">IZCO</p>
                             <p class="label">Brownswood</p>
@@ -751,7 +788,7 @@
         <title type="html"><![CDATA[Brother Jem Wax (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.895Z</updated>
+        <updated>2026-04-30T11:53:00.856Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Brother</h3>
                             <p class="artist">Jem Wax</p>
                             <p class="label">self-release</p>
@@ -764,7 +801,7 @@
         <title type="html"><![CDATA[Blind Eye Divorce Attorney (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.897Z</updated>
+        <updated>2026-04-30T11:53:00.858Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Blind Eye</h3>
                             <p class="artist">Divorce Attorney</p>
                             <p class="label">self release</p>
@@ -777,7 +814,7 @@
         <title type="html"><![CDATA[Death and The Maiden Frankie Archer (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.898Z</updated>
+        <updated>2026-04-30T11:53:00.859Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Death and The Maiden</h3>
                             <p class="artist">Frankie Archer</p>
                             <p class="label">prrr of the bear</p>
@@ -790,7 +827,7 @@
         <title type="html"><![CDATA[Take Samfire (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.899Z</updated>
+        <updated>2026-04-30T11:53:00.861Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Take</h3>
                             <p class="artist">Samfire</p>
                             <p class="label">self-release</p>
@@ -803,7 +840,7 @@
         <title type="html"><![CDATA[All I Ever Wanted Naima Adams (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.901Z</updated>
+        <updated>2026-04-30T11:53:00.863Z</updated>
         <content type="html"><![CDATA[<h3 class="title">All I Ever Wanted</h3>
                             <p class="artist">Naima Adams </p>
                             <p class="label">self release</p>
@@ -816,7 +853,7 @@
         <title type="html"><![CDATA[Magnetic The Bausa (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.903Z</updated>
+        <updated>2026-04-30T11:53:00.866Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Magnetic</h3>
                             <p class="artist">The Bausa</p>
                             <p class="label">B1 Recordings</p>
@@ -829,7 +866,7 @@
         <title type="html"><![CDATA[Withering Rose ARY (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.904Z</updated>
+        <updated>2026-04-30T11:53:00.866Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Withering Rose</h3>
                             <p class="artist">ARY</p>
                             <p class="label">Ary AS</p>
@@ -842,7 +879,7 @@
         <title type="html"><![CDATA[Lost Amine Edge, Daecolm (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.906Z</updated>
+        <updated>2026-04-30T11:53:00.868Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Lost</h3>
                             <p class="artist">Amine Edge, Daecolm</p>
                             <p class="label">B1 Recordings</p>
@@ -855,7 +892,7 @@
         <title type="html"><![CDATA[SFX Tom A. Smith (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.907Z</updated>
+        <updated>2026-04-30T11:53:00.869Z</updated>
         <content type="html"><![CDATA[<h3 class="title">SFX</h3>
                             <p class="artist">Tom A. Smith </p>
                             <p class="label">Fiction Records</p>
@@ -868,7 +905,7 @@
         <title type="html"><![CDATA[Knee High feat. Afterlove Lo Rays (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.909Z</updated>
+        <updated>2026-04-30T11:53:00.870Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Knee High feat. Afterlove</h3>
                             <p class="artist">Lo Rays</p>
                             <p class="label">Prime Collective</p>
@@ -881,7 +918,7 @@
         <title type="html"><![CDATA[X-Ray Casablanca Drivers (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.911Z</updated>
+        <updated>2026-04-30T11:53:00.871Z</updated>
         <content type="html"><![CDATA[<h3 class="title">X-Ray</h3>
                             <p class="artist">Casablanca Drivers</p>
                             <p class="label">Arts &amp; Crafts México/Mattan Records</p>
@@ -894,7 +931,7 @@
         <title type="html"><![CDATA[Blue Body Alba Akvama (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.912Z</updated>
+        <updated>2026-04-30T11:53:00.872Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Blue Body</h3>
                             <p class="artist">Alba Akvama </p>
                             <p class="label">independent</p>
@@ -907,7 +944,7 @@
         <title type="html"><![CDATA[The Unquiet Grave Frankie Archer (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.914Z</updated>
+        <updated>2026-04-30T11:53:00.873Z</updated>
         <content type="html"><![CDATA[<h3 class="title">The Unquiet Grave</h3>
                             <p class="artist">Frankie Archer</p>
                             <p class="label">prrr of the bear</p>
@@ -920,7 +957,7 @@
         <title type="html"><![CDATA[My Baby’s Place DMA’S (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.915Z</updated>
+        <updated>2026-04-30T11:53:00.874Z</updated>
         <content type="html"><![CDATA[<h3 class="title">My Baby’s Place</h3>
                             <p class="artist">DMA’S</p>
                             <p class="label">Wonderlick Recording Company/RCA</p>
@@ -933,7 +970,7 @@
         <title type="html"><![CDATA[Holiday From My Mind WØLFFE (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.917Z</updated>
+        <updated>2026-04-30T11:53:00.876Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Holiday From My Mind</h3>
                             <p class="artist">WØLFFE </p>
                             <p class="label">Cub Records</p>
@@ -946,7 +983,7 @@
         <title type="html"><![CDATA[Wine Boy I See Orange (Record Of The Day UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:14.922Z</updated>
+        <updated>2026-04-30T11:53:00.878Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Wine Boy</h3>
                             <p class="artist">I See Orange</p>
                             <p class="label">Lemon Sun Records</p>
@@ -959,7 +996,7 @@
         <title type="html"><![CDATA[Joke About Divorce Blossoms (RadioX UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:19.550Z</updated>
+        <updated>2026-04-30T11:53:05.488Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -992,7 +1029,7 @@
         <title type="html"><![CDATA[The Luckiest Man Alive Courteeners (RadioX UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:19.552Z</updated>
+        <updated>2026-04-30T11:53:05.488Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1025,7 +1062,7 @@
         <title type="html"><![CDATA[Heatin Park DMA's (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/heatin-park/1895085045?i=6762935758&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/heatin-park/1895085045?i=6762935758&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.614Z</updated>
+        <updated>2026-04-30T11:53:05.549Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1062,7 +1099,7 @@
         <title type="html"><![CDATA[End Of Beginning Djo (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/end-of-beginning/1632447652?i=1632448108&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/end-of-beginning/1632447652?i=1632448108&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.614Z</updated>
+        <updated>2026-04-30T11:53:05.549Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1099,7 +1136,7 @@
         <title type="html"><![CDATA[Caught In The Echo Foo Fighters (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/caught-in-the-echo/1877913489?i=1877913491&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/caught-in-the-echo/1877913489?i=1877913491&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.614Z</updated>
+        <updated>2026-04-30T11:53:05.550Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1136,7 +1173,7 @@
         <title type="html"><![CDATA[Orange County Gorillaz (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/orange-county-feat-bizarrap-kara-jackson-anoushka-shankar/1837237742?i=1837237867&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/orange-county-feat-bizarrap-kara-jackson-anoushka-shankar/1837237742?i=1837237867&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.615Z</updated>
+        <updated>2026-04-30T11:53:05.550Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1173,7 +1210,7 @@
         <title type="html"><![CDATA[Billy Says Graham Coxon (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/billy-says/1887819961?i=1887819962&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/billy-says/1887819961?i=1887819962&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.615Z</updated>
+        <updated>2026-04-30T11:53:05.550Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1210,7 +1247,7 @@
         <title type="html"><![CDATA[Looking For Fun Hard-Fi (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/looking-for-fun/1878620165?i=1878620171&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/looking-for-fun/1878620165?i=1878620171&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.617Z</updated>
+        <updated>2026-04-30T11:53:05.550Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1247,7 +1284,7 @@
         <title type="html"><![CDATA[Great Pretender Kasabian (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/great-pretender/1887548705?i=1887548814&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/great-pretender/1887548705?i=1887548814&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.618Z</updated>
+        <updated>2026-04-30T11:53:05.550Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1284,7 +1321,7 @@
         <title type="html"><![CDATA[Be With You Muse (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/be-with-you/1885607338?i=1885607727&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/be-with-you/1885607338?i=1885607727&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.619Z</updated>
+        <updated>2026-04-30T11:53:05.550Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1321,7 +1358,7 @@
         <title type="html"><![CDATA[The Great Divide Noah Kahan (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/the-great-divide/1872241079?i=1872241462&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/the-great-divide/1872241079?i=1872241462&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.624Z</updated>
+        <updated>2026-04-30T11:53:05.554Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1358,7 +1395,7 @@
         <title type="html"><![CDATA[Going Shopping The Strokes (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/going-shopping/1891161441?i=1891161450&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/going-shopping/1891161441?i=1891161450&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.626Z</updated>
+        <updated>2026-04-30T11:53:05.555Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1395,7 +1432,7 @@
         <title type="html"><![CDATA[Mata Zyklek Angine de Poitrine (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/mata-zyklek/1851482292?i=1851482294&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/mata-zyklek/1851482292?i=1851482294&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.627Z</updated>
+        <updated>2026-04-30T11:53:05.560Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1432,7 +1469,7 @@
         <title type="html"><![CDATA[I Can Take The Sun Out Of The Sky Brigitte Calls Me Baby (RadioX UK)]]></title>
         <id>https://music.apple.com/cv/song/i-can-take-the-sun-out-of-the-sky/1859083067?app=music&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/cv/song/i-can-take-the-sun-out-of-the-sky/1859083067?app=music&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.628Z</updated>
+        <updated>2026-04-30T11:53:05.560Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1469,7 +1506,7 @@
         <title type="html"><![CDATA[She Makes Me Real Cardinals (RadioX UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:19.572Z</updated>
+        <updated>2026-04-30T11:53:05.497Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1502,7 +1539,7 @@
         <title type="html"><![CDATA[One Thing At A Time Courtney Barnett (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/one-thing-at-a-time/1859898141?i=1859898147&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/one-thing-at-a-time/1859898141?i=1859898147&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.632Z</updated>
+        <updated>2026-04-30T11:53:05.560Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1539,7 +1576,7 @@
         <title type="html"><![CDATA[Hate That I Care Dea Matrona (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/hate-that-i-care/1879892167?i=1879892170&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/hate-that-i-care/1879892167?i=1879892170&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.636Z</updated>
+        <updated>2026-04-30T11:53:05.560Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1576,7 +1613,7 @@
         <title type="html"><![CDATA[No Kings Dead Pioneers (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/now-that-youre-dead/1435992092?i=1435992286&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/now-that-youre-dead/1435992092?i=1435992286&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.637Z</updated>
+        <updated>2026-04-30T11:53:05.562Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1613,7 +1650,7 @@
         <title type="html"><![CDATA[The Radiator Getdown Services (RadioX UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:19.593Z</updated>
+        <updated>2026-04-30T11:53:05.500Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1646,7 +1683,7 @@
         <title type="html"><![CDATA[Snow White Ghinzu (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/snow-white/1868442045?i=1868442064&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/snow-white/1868442045?i=1868442064&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.639Z</updated>
+        <updated>2026-04-30T11:53:05.563Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1683,7 +1720,7 @@
         <title type="html"><![CDATA[Dog Grandmas House (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/dog/1884359946?i=1884359953&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/dog/1884359946?i=1884359953&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.640Z</updated>
+        <updated>2026-04-30T11:53:05.564Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1720,7 +1757,7 @@
         <title type="html"><![CDATA[Chaplins HighSchool (RadioX UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:19.593Z</updated>
+        <updated>2026-04-30T11:53:05.502Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1753,7 +1790,7 @@
         <title type="html"><![CDATA[Cult Of Celebrity Lambrini Girls (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/cult-of-celebrity/1880086351?i=1880086354&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/cult-of-celebrity/1880086351?i=1880086354&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.643Z</updated>
+        <updated>2026-04-30T11:53:05.566Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1790,7 +1827,7 @@
         <title type="html"><![CDATA[Before The Fire Martial Arts (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/before-the-fire/1891495782?i=1891495786&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/before-the-fire/1891495782?i=1891495786&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.643Z</updated>
+        <updated>2026-04-30T11:53:05.567Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1827,7 +1864,7 @@
         <title type="html"><![CDATA[Black James Dean PIGEON (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/black-james-dean/1860907931?i=1860907938&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/black-james-dean/1860907931?i=1860907938&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.645Z</updated>
+        <updated>2026-04-30T11:53:05.570Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1864,7 +1901,7 @@
         <title type="html"><![CDATA[How To Cry Ratbag (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/how-to-cry/1878349553?i=1878349811&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/how-to-cry/1878349553?i=1878349811&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.646Z</updated>
+        <updated>2026-04-30T11:53:05.572Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1901,7 +1938,7 @@
         <title type="html"><![CDATA[Marco Polo Stornoway (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/marco-polo/1886734543?i=1886734548&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/marco-polo/1886734543?i=1886734548&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.647Z</updated>
+        <updated>2026-04-30T11:53:05.573Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1938,7 +1975,7 @@
         <title type="html"><![CDATA[Past Life Tessa Rose Jackson (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/past-life-midnight-version/1882134485?i=1882134486&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/past-life-midnight-version/1882134485?i=1882134486&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.649Z</updated>
+        <updated>2026-04-30T11:53:05.574Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -1975,7 +2012,7 @@
         <title type="html"><![CDATA[2515 Wasia Project (RadioX UK)]]></title>
         <id>https://music.apple.com/gb/album/2515/1882835714?i=1882835715&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous</id>
         <link href="https://music.apple.com/gb/album/2515/1882835714?i=1882835715&amp;app=music&amp;uo=4&amp;at=10lwHC&amp;ct=Xfm_Miscellaneous"/>
-        <updated>2026-04-30T10:57:19.650Z</updated>
+        <updated>2026-04-30T11:53:05.576Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
@@ -2012,7 +2049,7 @@
         <title type="html"><![CDATA[When To Stop Will White (RadioX UK)]]></title>
         <id>https://shijithpk.github.io/feeds/all.xml</id>
         <link href="https://shijithpk.github.io/feeds/all.xml"/>
-        <updated>2026-04-30T10:57:19.595Z</updated>
+        <updated>2026-04-30T11:53:05.516Z</updated>
         <content type="html"><![CDATA[<h3>
                 
 
