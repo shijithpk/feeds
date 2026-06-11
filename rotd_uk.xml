@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.recordoftheday.com/track-archive</id>
     <title>Record Of The Day UK</title>
-    <updated>2026-06-11T04:16:43.360Z</updated>
+    <updated>2026-06-11T06:22:41.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.recordoftheday.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[The Herd Iben]]></title>
+        <title type="html"><![CDATA[Headrush SKORTS]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.057Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">The Herd</h3>
-                            <p class="artist">Iben </p>
-                            <p class="label">Independent</p>
-                            <p class="date">Wed 10 June 2026</p>
+        <updated>2026-06-11T06:22:36.494Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Headrush</h3>
+                            <p class="artist">SKORTS</p>
+                            <p class="label">InKind Music</p>
+                            <p class="date">Thu 11 June 2026</p>
                             <div class="controls"><div class="html5-player-box">
 
     <audio class="html5-player" controls="" style="width: 340px;" onclick="playaudio(event);" controlslist="nodownload" id="audioElementID">
-    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2026-06-10.mp3" type="audio/mpeg">
+    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2026-06-11.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
     
@@ -25,10 +25,23 @@
             </div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Herd Iben]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-06-11T06:22:36.501Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">The Herd</h3>
+                            <p class="artist">Iben </p>
+                            <p class="label">Independent</p>
+                            <p class="date">Wed 10 June 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-06-10/the-herd2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Daisy For You, John Oedipus and the Mama’s Boys]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.059Z</updated>
+        <updated>2026-06-11T06:22:36.503Z</updated>
         <content type="html"><![CDATA[<h3 class="title">A Daisy For You, John</h3>
                             <p class="artist">Oedipus and the Mama’s Boys</p>
                             <p class="label">self release</p>
@@ -41,7 +54,7 @@
         <title type="html"><![CDATA[History Fragile Animals]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.059Z</updated>
+        <updated>2026-06-11T06:22:36.506Z</updated>
         <content type="html"><![CDATA[<h3 class="title">History</h3>
                             <p class="artist">Fragile Animals</p>
                             <p class="label">self release</p>
@@ -54,7 +67,7 @@
         <title type="html"><![CDATA[Dead To Me Cally Rhodes]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.060Z</updated>
+        <updated>2026-06-11T06:22:36.509Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Dead To Me</h3>
                             <p class="artist">Cally Rhodes</p>
                             <p class="label">Self-release via Symphonic</p>
@@ -67,7 +80,7 @@
         <title type="html"><![CDATA[1 Journey Away Marie Dahlstrom]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.060Z</updated>
+        <updated>2026-06-11T06:22:36.510Z</updated>
         <content type="html"><![CDATA[<h3 class="title">1 Journey Away</h3>
                             <p class="artist">Marie Dahlstrom</p>
                             <p class="label">JFH Records</p>
@@ -80,7 +93,7 @@
         <title type="html"><![CDATA[No Sleep Sonedo ft Malachai.]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.060Z</updated>
+        <updated>2026-06-11T06:22:36.512Z</updated>
         <content type="html"><![CDATA[<h3 class="title">No Sleep</h3>
                             <p class="artist">Sonedo ft Malachai.</p>
                             <p class="label">Rebecca’s Records</p>
@@ -93,7 +106,7 @@
         <title type="html"><![CDATA[Everybody Loves Italian Girls BERENICE]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.060Z</updated>
+        <updated>2026-06-11T06:22:36.514Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Everybody Loves Italian Girls</h3>
                             <p class="artist">BERENICE</p>
                             <p class="label">Liboni Records</p>
@@ -106,7 +119,7 @@
         <title type="html"><![CDATA[In Too Deep Charlotte Gott]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.061Z</updated>
+        <updated>2026-06-11T06:22:36.516Z</updated>
         <content type="html"><![CDATA[<h3 class="title">In Too Deep</h3>
                             <p class="artist">Charlotte Gott </p>
                             <p class="label">Billion Streams Entertainment</p>
@@ -119,7 +132,7 @@
         <title type="html"><![CDATA[Get It Right ONEFIFTEEN]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.063Z</updated>
+        <updated>2026-06-11T06:22:36.519Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Get It Right</h3>
                             <p class="artist">ONEFIFTEEN</p>
                             <p class="label">self-release</p>
@@ -132,7 +145,7 @@
         <title type="html"><![CDATA[Nightfall Blood Lotus]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.064Z</updated>
+        <updated>2026-06-11T06:22:36.519Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Nightfall</h3>
                             <p class="artist">Blood Lotus</p>
                             <p class="label">Independent</p>
@@ -145,7 +158,7 @@
         <title type="html"><![CDATA[Are You Feeling Fine? Ratoon]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.065Z</updated>
+        <updated>2026-06-11T06:22:36.522Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Are You Feeling Fine?</h3>
                             <p class="artist">Ratoon</p>
                             <p class="label">Independent</p>
@@ -158,7 +171,7 @@
         <title type="html"><![CDATA[FIO Fia Moon]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.067Z</updated>
+        <updated>2026-06-11T06:22:36.523Z</updated>
         <content type="html"><![CDATA[<h3 class="title">FIO</h3>
                             <p class="artist">Fia Moon</p>
                             <p class="label">self release</p>
@@ -171,7 +184,7 @@
         <title type="html"><![CDATA[Small Town Party Girl Lois]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.069Z</updated>
+        <updated>2026-06-11T06:22:36.523Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Small Town Party Girl</h3>
                             <p class="artist">Lois</p>
                             <p class="label">self release</p>
@@ -184,7 +197,7 @@
         <title type="html"><![CDATA[Saint Loreto Christian Sean]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.073Z</updated>
+        <updated>2026-06-11T06:22:36.527Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Saint Loreto</h3>
                             <p class="artist">Christian Sean</p>
                             <p class="label">Bonsound</p>
@@ -197,7 +210,7 @@
         <title type="html"><![CDATA[Icarus Moyka]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.073Z</updated>
+        <updated>2026-06-11T06:22:36.527Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Icarus</h3>
                             <p class="artist">Moyka </p>
                             <p class="label">Moyka Label</p>
@@ -210,7 +223,7 @@
         <title type="html"><![CDATA[Pavlov's Dog CATTY]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.073Z</updated>
+        <updated>2026-06-11T06:22:36.529Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Pavlov's Dog</h3>
                             <p class="artist">CATTY</p>
                             <p class="label">self release</p>
@@ -223,7 +236,7 @@
         <title type="html"><![CDATA[Tennessee On My Mind Maren Davidsen]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.074Z</updated>
+        <updated>2026-06-11T06:22:36.531Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Tennessee On My Mind</h3>
                             <p class="artist">Maren Davidsen</p>
                             <p class="label">Heartland Records</p>
@@ -236,7 +249,7 @@
         <title type="html"><![CDATA[Behind The Door Heidi Curtis]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.077Z</updated>
+        <updated>2026-06-11T06:22:36.534Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Behind The Door</h3>
                             <p class="artist">Heidi Curtis</p>
                             <p class="label">AWAL</p>
@@ -249,7 +262,7 @@
         <title type="html"><![CDATA[Peaked In High School Who Shot Scott]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.078Z</updated>
+        <updated>2026-06-11T06:22:36.536Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Peaked In High School</h3>
                             <p class="artist">Who Shot Scott</p>
                             <p class="label">self release</p>
@@ -262,7 +275,7 @@
         <title type="html"><![CDATA[Streetlight, Save Me Lynnie Snow]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.079Z</updated>
+        <updated>2026-06-11T06:22:36.538Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Streetlight, Save Me</h3>
                             <p class="artist">Lynnie Snow</p>
                             <p class="label">Republic of Music</p>
@@ -275,7 +288,7 @@
         <title type="html"><![CDATA[Existential Iona Luke]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.080Z</updated>
+        <updated>2026-06-11T06:22:36.540Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Existential</h3>
                             <p class="artist">Iona Luke</p>
                             <p class="label">Vorpal Records</p>
@@ -288,7 +301,7 @@
         <title type="html"><![CDATA[Pulse, Pose, Position Tanzana]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.082Z</updated>
+        <updated>2026-06-11T06:22:36.541Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Pulse, Pose, Position</h3>
                             <p class="artist">Tanzana</p>
                             <p class="label">SO Recordings</p>
@@ -301,7 +314,7 @@
         <title type="html"><![CDATA[He's A Genius Jos Rivers]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.084Z</updated>
+        <updated>2026-06-11T06:22:36.543Z</updated>
         <content type="html"><![CDATA[<h3 class="title">He's A Genius</h3>
                             <p class="artist">Jos Rivers </p>
                             <p class="label">RCA Records </p>
@@ -314,7 +327,7 @@
         <title type="html"><![CDATA[Turn Up The Radio (把收音机开大点) Chinese American Bear]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.085Z</updated>
+        <updated>2026-06-11T06:22:36.545Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Turn Up The Radio (把收音机开大点)</h3>
                             <p class="artist">Chinese American Bear</p>
                             <p class="label">Moshi Moshi Records</p>
@@ -327,7 +340,7 @@
         <title type="html"><![CDATA[Grown BombayMami]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.089Z</updated>
+        <updated>2026-06-11T06:22:36.547Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Grown</h3>
                             <p class="artist">BombayMami</p>
                             <p class="label">MNRK Music Group</p>
@@ -340,7 +353,7 @@
         <title type="html"><![CDATA[Old Habits Internet Cafe]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.089Z</updated>
+        <updated>2026-06-11T06:22:36.549Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Old Habits</h3>
                             <p class="artist">Internet Cafe</p>
                             <p class="label">self released</p>
@@ -353,7 +366,7 @@
         <title type="html"><![CDATA[Moniqué Freya Everest]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.093Z</updated>
+        <updated>2026-06-11T06:22:36.552Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Moniqué</h3>
                             <p class="artist">Freya Everest</p>
                             <p class="label">self release</p>
@@ -366,7 +379,7 @@
         <title type="html"><![CDATA[Clase Kybba (WML) and Lion Fiah, Rafa Pabon, Kensel feat. Citriem]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.097Z</updated>
+        <updated>2026-06-11T06:22:36.554Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Clase</h3>
                             <p class="artist">Kybba (WML) and Lion Fiah, Rafa Pabon, Kensel feat. Citriem</p>
                             <p class="label">Warner Music Latina </p>
@@ -379,7 +392,7 @@
         <title type="html"><![CDATA[Nothing Safe Is Technicolour Night Swimming]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.148Z</updated>
+        <updated>2026-06-11T06:22:36.556Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Nothing Safe Is Technicolour</h3>
                             <p class="artist">Night Swimming</p>
                             <p class="label">Venn Records</p>
@@ -387,18 +400,5 @@
                             <br>
                             <br>
                             <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-04-29/nothing-safe-is-technicolour2026">Listen and read more</a><p></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where It Ends Stil Life]]></title>
-        <id>https://www.recordoftheday.com/track-archive</id>
-        <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-06-11T04:16:38.149Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">Where It Ends</h3>
-                            <p class="artist">Stil Life</p>
-                            <p class="label">SOAP Music</p>
-                            <p class="date">Tue 28 April 2026</p>
-                            <br>
-                            <br>
-                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-04-28/where-it-ends2026">Listen and read more</a><p></p>]]></content>
     </entry>
 </feed>
