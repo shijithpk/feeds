@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.recordoftheday.com/track-archive</id>
     <title>Record Of The Day UK</title>
-    <updated>2026-10-16T00:49:14.447Z</updated>
+    <updated>2026-10-16T05:54:22.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.recordoftheday.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Perfect Shobsy]]></title>
+        <title type="html"><![CDATA[Turn You On (If I Could Still) James Brute]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.567Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">Perfect</h3>
-                            <p class="artist">Shobsy</p>
-                            <p class="label">SO Recordings</p>
-                            <p class="date">Thu 15 October 2026</p>
+        <updated>2026-10-16T05:54:17.822Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Turn You On (If I Could Still)</h3>
+                            <p class="artist">James Brute</p>
+                            <p class="label">Hello Trouble Records</p>
+                            <p class="date">Fri 16 October 2026</p>
                             <div class="controls"><div class="html5-player-box">
 
     <audio class="html5-player" controls="" style="width: 340px;" onclick="playaudio(event);" controlslist="nodownload" id="audioElementID">
-    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2026-10-15.mp3" type="audio/mpeg">
+    <source src="https://www.recordoftheday.com/mediaLibrary/mp3/2026-10-16.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
     
@@ -25,10 +25,23 @@
             </div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Perfect Shobsy]]></title>
+        <id>https://www.recordoftheday.com/track-archive</id>
+        <link href="https://www.recordoftheday.com/track-archive"/>
+        <updated>2026-10-16T05:54:17.822Z</updated>
+        <content type="html"><![CDATA[<h3 class="title">Perfect</h3>
+                            <p class="artist">Shobsy</p>
+                            <p class="label">SO Recordings</p>
+                            <p class="date">Thu 15 October 2026</p>
+                            <br>
+                            <br>
+                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-10-15/perfect2026">Listen and read more</a><p></p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Orange Mel D]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.569Z</updated>
+        <updated>2026-10-16T05:54:17.822Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Orange</h3>
                             <p class="artist">Mel D</p>
                             <p class="label">Two Gentlemen </p>
@@ -41,7 +54,7 @@
         <title type="html"><![CDATA[Streets of Sorrow/Birmingham Six LYRA, Shane MacGowan]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.569Z</updated>
+        <updated>2026-10-16T05:54:17.856Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Streets of Sorrow/Birmingham Six</h3>
                             <p class="artist">LYRA, Shane MacGowan</p>
                             <p class="label">Rubyworks</p>
@@ -54,7 +67,7 @@
         <title type="html"><![CDATA[Absolution The Hawkstone Farmers Choir]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.574Z</updated>
+        <updated>2026-10-16T05:54:17.857Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Absolution</h3>
                             <p class="artist">The Hawkstone Farmers Choir</p>
                             <p class="label">The Orchard</p>
@@ -67,7 +80,7 @@
         <title type="html"><![CDATA[Mona Pink Mario and The Planetoids]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.574Z</updated>
+        <updated>2026-10-16T05:54:17.858Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Mona</h3>
                             <p class="artist">Pink Mario and The Planetoids</p>
                             <p class="label">Public Air/Pink Mario Music</p>
@@ -80,7 +93,7 @@
         <title type="html"><![CDATA[SICKER THAN SICK MESSIE]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.575Z</updated>
+        <updated>2026-10-16T05:54:17.859Z</updated>
         <content type="html"><![CDATA[<h3 class="title">SICKER THAN SICK</h3>
                             <p class="artist">MESSIE</p>
                             <p class="label">HARD RECS </p>
@@ -93,7 +106,7 @@
         <title type="html"><![CDATA[Another Life Leela Rosa]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.575Z</updated>
+        <updated>2026-10-16T05:54:17.860Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Another Life</h3>
                             <p class="artist">Leela Rosa</p>
                             <p class="label">Backboard Music</p>
@@ -106,7 +119,7 @@
         <title type="html"><![CDATA[Rollercoaster Ewan McVicar & DART]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.576Z</updated>
+        <updated>2026-10-16T05:54:17.861Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Rollercoaster</h3>
                             <p class="artist">Ewan McVicar &amp; DART</p>
                             <p class="label">Robots and Humans Recordings</p>
@@ -119,7 +132,7 @@
         <title type="html"><![CDATA[Martha, I'm Sorry May Payne]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.578Z</updated>
+        <updated>2026-10-16T05:54:17.862Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Martha, I'm Sorry</h3>
                             <p class="artist">May Payne</p>
                             <p class="label">May Payne</p>
@@ -132,7 +145,7 @@
         <title type="html"><![CDATA[Energy Giver MURPHY]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.579Z</updated>
+        <updated>2026-10-16T05:54:17.863Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Energy Giver</h3>
                             <p class="artist">MURPHY</p>
                             <p class="label">D.A.P.</p>
@@ -145,7 +158,7 @@
         <title type="html"><![CDATA[Main Ingredient SUNTRAP]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.581Z</updated>
+        <updated>2026-10-16T05:54:17.864Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Main Ingredient</h3>
                             <p class="artist">SUNTRAP</p>
                             <p class="label">Good Clean Fun Recordings</p>
@@ -158,7 +171,7 @@
         <title type="html"><![CDATA[MURDER BERTY]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.583Z</updated>
+        <updated>2026-10-16T05:54:17.865Z</updated>
         <content type="html"><![CDATA[<h3 class="title">MURDER</h3>
                             <p class="artist">BERTY</p>
                             <p class="label">Independent</p>
@@ -171,7 +184,7 @@
         <title type="html"><![CDATA[Cool Girl Fia Moon]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.585Z</updated>
+        <updated>2026-10-16T05:54:17.866Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Cool Girl</h3>
                             <p class="artist">Fia Moon</p>
                             <p class="label">Independent</p>
@@ -184,7 +197,7 @@
         <title type="html"><![CDATA[Standing Still Resa Saffa Park]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.586Z</updated>
+        <updated>2026-10-16T05:54:17.867Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Standing Still</h3>
                             <p class="artist">Resa Saffa Park</p>
                             <p class="label">self release</p>
@@ -197,7 +210,7 @@
         <title type="html"><![CDATA[Things That Break (Feat. PORTIA) Hana Amaya]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.588Z</updated>
+        <updated>2026-10-16T05:54:17.868Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Things That Break (Feat. PORTIA) </h3>
                             <p class="artist">Hana Amaya</p>
                             <p class="label">The Earth-Seed Project</p>
@@ -210,7 +223,7 @@
         <title type="html"><![CDATA[just good friends Harry Lyon]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.589Z</updated>
+        <updated>2026-10-16T05:54:17.869Z</updated>
         <content type="html"><![CDATA[<h3 class="title">just good friends</h3>
                             <p class="artist">Harry Lyon</p>
                             <p class="label">Brickfields Records</p>
@@ -223,7 +236,7 @@
         <title type="html"><![CDATA[Make A Living Bluai]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.590Z</updated>
+        <updated>2026-10-16T05:54:17.870Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Make A Living</h3>
                             <p class="artist">Bluai</p>
                             <p class="label">Unday Records/N.E.W.S</p>
@@ -236,7 +249,7 @@
         <title type="html"><![CDATA[The Beaches That Lead To Your Door Samfire]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.591Z</updated>
+        <updated>2026-10-16T05:54:17.871Z</updated>
         <content type="html"><![CDATA[<h3 class="title">The Beaches That Lead To Your Door</h3>
                             <p class="artist">Samfire</p>
                             <p class="label">self-release</p>
@@ -249,7 +262,7 @@
         <title type="html"><![CDATA[Should Have Seen It Coming Jonny Morgan & The Moral Support]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.592Z</updated>
+        <updated>2026-10-16T05:54:17.872Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Should Have Seen It Coming</h3>
                             <p class="artist">Jonny Morgan &amp; The Moral Support</p>
                             <p class="label">Lookout Mountain Records</p>
@@ -262,7 +275,7 @@
         <title type="html"><![CDATA[Raincloud Mollie Coddled]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.593Z</updated>
+        <updated>2026-10-16T05:54:17.873Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Raincloud</h3>
                             <p class="artist">Mollie Coddled</p>
                             <p class="label">self release</p>
@@ -275,7 +288,7 @@
         <title type="html"><![CDATA[Can We Stay Here Please Quinn Oulton]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.594Z</updated>
+        <updated>2026-10-16T05:54:17.874Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Can We Stay Here Please</h3>
                             <p class="artist">Quinn Oulton</p>
                             <p class="label">Frequency</p>
@@ -288,7 +301,7 @@
         <title type="html"><![CDATA[anymore other mother]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.597Z</updated>
+        <updated>2026-10-16T05:54:17.875Z</updated>
         <content type="html"><![CDATA[<h3 class="title">anymore</h3>
                             <p class="artist">other mother</p>
                             <p class="label">self-released</p>
@@ -301,7 +314,7 @@
         <title type="html"><![CDATA[Villain of Your Story Moyka]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.597Z</updated>
+        <updated>2026-10-16T05:54:17.876Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Villain of Your Story</h3>
                             <p class="artist">Moyka</p>
                             <p class="label">Moyka Label</p>
@@ -314,7 +327,7 @@
         <title type="html"><![CDATA[Going Out Out Raylee]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.598Z</updated>
+        <updated>2026-10-16T05:54:17.877Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Going Out Out</h3>
                             <p class="artist">Raylee</p>
                             <p class="label">Lemonade Music</p>
@@ -327,7 +340,7 @@
         <title type="html"><![CDATA[Heydays Mia Grace]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.601Z</updated>
+        <updated>2026-10-16T05:54:17.878Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Heydays</h3>
                             <p class="artist">Mia Grace</p>
                             <p class="label">self release</p>
@@ -340,7 +353,7 @@
         <title type="html"><![CDATA[shadowhands silt.]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.601Z</updated>
+        <updated>2026-10-16T05:54:17.879Z</updated>
         <content type="html"><![CDATA[<h3 class="title">shadowhands</h3>
                             <p class="artist">silt.</p>
                             <p class="label">Forge:Music</p>
@@ -353,7 +366,7 @@
         <title type="html"><![CDATA[Don’t Get On The Plane Kid Francescoli]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.602Z</updated>
+        <updated>2026-10-16T05:54:17.880Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Don’t Get On The Plane</h3>
                             <p class="artist">Kid Francescoli</p>
                             <p class="label">All Night Long</p>
@@ -366,7 +379,7 @@
         <title type="html"><![CDATA[OMG I’m In Love Marta Vega]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.603Z</updated>
+        <updated>2026-10-16T05:54:17.881Z</updated>
         <content type="html"><![CDATA[<h3 class="title">OMG I’m In Love</h3>
                             <p class="artist">Marta Vega</p>
                             <p class="label">self-released</p>
@@ -379,7 +392,7 @@
         <title type="html"><![CDATA[Fall Guy Wolfgang Zero Fux]]></title>
         <id>https://www.recordoftheday.com/track-archive</id>
         <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.606Z</updated>
+        <updated>2026-10-16T05:54:17.883Z</updated>
         <content type="html"><![CDATA[<h3 class="title">Fall Guy</h3>
                             <p class="artist">Wolfgang Zero Fux</p>
                             <p class="label">Independent</p>
@@ -387,18 +400,5 @@
                             <br>
                             <br>
                             <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-09-07/fall-guy2026">Listen and read more</a><p></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Can Tell Jake Bugg]]></title>
-        <id>https://www.recordoftheday.com/track-archive</id>
-        <link href="https://www.recordoftheday.com/track-archive"/>
-        <updated>2026-10-16T00:49:09.607Z</updated>
-        <content type="html"><![CDATA[<h3 class="title">Never Can Tell</h3>
-                            <p class="artist">Jake Bugg</p>
-                            <p class="label">Thirty Tigers</p>
-                            <p class="date">Fri 04 September 2026</p>
-                            <br>
-                            <br>
-                            <a class="more" href="https://www.recordoftheday.com/record-of-the-day/2026-09-04/never-can-tell2026">Listen and read more</a><p></p>]]></content>
     </entry>
 </feed>
