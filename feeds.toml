@@ -33,13 +33,15 @@ waitUntil = "load"
 # linkSelector = "a[class*='episodeCard']"
 # waitUntil = "load"
 
-[rotd_uk]
-title = "Record Of The Day UK"
-url = "https://www.recordoftheday.com/track-archive"
-entrySelector = "div.super-box"
-titleSelector = ["h3.title", "p.artist"]
-linkSelector = ":has(> .super-box) > a.link-box"
-waitUntil = "load"
+# rotd_uk is built by scripts/rotd_feed.py instead: the site blocks the second
+# request scotty makes for the same page, which left the feed empty.
+# [rotd_uk]
+# title = "Record Of The Day UK"
+# url = "https://www.recordoftheday.com/track-archive"
+# entrySelector = "div.super-box"
+# titleSelector = ["h3.title", "p.artist"]
+# linkSelector = ":has(> .super-box) > a.link-box"
+# waitUntil = "load"
 
 [radiox_uk]
 title = "RadioX UK"

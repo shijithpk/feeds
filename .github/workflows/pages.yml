@@ -28,6 +28,19 @@ jobs:
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
     - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
+
+    # Record of the Day blocks scotty's second request for the page, so fetch it once here.
+    # If this fails, the previously published rotd_uk.xml is kept and the job fails at the end.
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Build Record of the Day feed
+      id: rotd
+      continue-on-error: true
+      run: |
+        pip install --quiet beautifulsoup4
+        python3 scripts/rotd_feed.py
     
     - name: Deploy to GitHub Pages
       run: |
@@ -37,6 +50,7 @@ jobs:
         git fetch --no-recurse-submodules
         git worktree add ./gh-pages gh-pages
         cd gh-pages
+        [ -f ../public/rotd_uk.xml ] || cp rotd_uk.xml ../public/rotd_uk.xml
         git rm -r .
         cp -r ../public/. .
         git add .
@@ -45,3 +59,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
+
+    - name: Fail if the Record of the Day feed could not be built
+      if: steps.rotd.outcome == 'failure'
+      run: |
+        echo "::error::Record of the Day feed could not be built; the previous rotd_uk.xml was kept."
+        exit 1
